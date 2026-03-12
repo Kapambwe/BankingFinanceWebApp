@@ -1,0 +1,68 @@
+[
+  {
+    "instrumentId": "LOAN-001",
+    "instrumentReference": "Chanda \u2014 NAPSA",
+    "instrumentType": "Loan",
+    "outstandingBalance": 135800000.0,
+    "nominalRate": 0.095,
+    "effectiveInterestRate": 0.095,
+    "accruedAmount": 35345.21,
+    "accrualDate": "2026-02-28T00:00:00Z",
+    "journalEntryId": null
+  },
+  {
+    "instrumentId": "LOAN-002",
+    "instrumentReference": "SME Loan \u2014 Mukwasa Trading Ltd",
+    "instrumentType": "Loan",
+    "outstandingBalance": 543000000.0,
+    "nominalRate": 0.085,
+    "effectiveInterestRate": 0.085,
+    "accruedAmount": 126452.05,
+    "accrualDate": "2026-02-28T00:00:00Z",
+    "journalEntryId": null
+  },
+  {
+    "instrumentId": "DEP-001",
+    "instrumentReference": "Fixed Deposit \u2014 Mutale Savings Group",
+    "instrumentType": "Deposit",
+    "outstandingBalance": 1357500000.0,
+    "nominalRate": 0.07,
+    "effectiveInterestRate": 0.07,
+    "accruedAmount": 260342.47,
+    "accrualDate": "2026-02-28T00:00:00Z",
+    "journalEntryId": null
+  },
+  {
+    "instrumentId": "LOAN-003",
+    "instrumentReference": "Mortgage \u2014 Mutale",
+    "instrumentType": "Loan",
+    "outstandingBalance": 217200000.0,
+    "nominalRate": 0.09,
+    "effectiveInterestRate": 0.09,
+    "accruedAmount": 53556.16,
+    "accrualDate": "2026-02-28T00:00:00Z",
+    "journalEntryId": null
+  },
+  {
+    "instrumentId": "DEP-002",
+    "instrumentReference": "Call Deposit \u2014 NAPSA Fund",
+    "instrumentType": "Deposit",
+    "outstandingBalance": 407200000.0,
+    "nominalRate": 0.065,
+    "effectiveInterestRate": 0.065,
+    "accruedAmount": 72515.07,
+    "accrualDate": "2026-02-28T00:00:00Z",
+    "journalEntryId": null
+  },
+  {
+    "instrumentId": "LOAN-004",
+    "instrumentReference": "Corporate Bond \u2014 NAPSA",
+    "instrumentType": "Loan",
+    "outstandingBalance": 814500000.0,
+    "nominalRate": 0.1,
+    "effectiveInterestRate": 0.1,
+    "accruedAmount": 223150.68,
+    "accrualDate": "2026-02-28T00:00:00Z",
+    "journalEntryId": null
+  }
+]

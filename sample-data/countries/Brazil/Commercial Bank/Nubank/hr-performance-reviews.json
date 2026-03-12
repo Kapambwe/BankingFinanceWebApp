@@ -1,0 +1,38 @@
+[
+  {
+    "reviewId": "pr000001-0001-0001-0001-000000000001",
+    "employeeId": "a1b2c3d4-0001-0001-0001-000000000001",
+    "employeeName": "Carlos Silva",
+    "reviewPeriod": "2025 Annual",
+    "reviewDate": "2026-01-15T00:00:00",
+    "overallRating": 4.5,
+    "ratingLabel": "Exceeds Expectations",
+    "reviewedBy": "Marcos Vinicius",
+    "status": "Completed",
+    "comments": "Carlos demonstrou excelência técnica e impacto de alto valor. Candidato a promoção em 2026."
+  },
+  {
+    "reviewId": "pr000001-0001-0001-0001-000000000002",
+    "employeeId": "a1b2c3d4-0001-0001-0001-000000000002",
+    "employeeName": "Ana Santos",
+    "reviewPeriod": "2025 Annual",
+    "reviewDate": "2026-01-18T00:00:00",
+    "overallRating": 4.2,
+    "ratingLabel": "Meets High Expectations",
+    "reviewedBy": "Cristina Junqueira",
+    "status": "Completed",
+    "comments": "Ana entregou produtos de alto impacto. Desenvolvimento de skills de liderança necessário para próximo nível."
+  },
+  {
+    "reviewId": "pr000001-0001-0001-0001-000000000003",
+    "employeeId": "a1b2c3d4-0001-0001-0001-000000000004",
+    "employeeName": "Maria Souza",
+    "reviewPeriod": "2025 Annual",
+    "reviewDate": "2026-01-20T00:00:00",
+    "overallRating": 3.8,
+    "ratingLabel": "Meets Expectations",
+    "reviewedBy": "Guilherme Lago",
+    "status": "Completed",
+    "comments": "Maria apresenta bom desempenho técnico. Comunicação e proatividade são áreas de desenvolvimento."
+  }
+]

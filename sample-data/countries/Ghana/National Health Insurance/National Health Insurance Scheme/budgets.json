@@ -1,0 +1,28 @@
+[
+  {
+    "budgetId": "bg200000-0001",
+    "budgetName": "FY2026 Operating Budget",
+    "budgetType": "Operating",
+    "fiscalYear": 2026,
+    "totalRevenue": 72.0,
+    "totalExpenses": 65.0,
+    "netSurplus": 7.0,
+    "currency": "GHS",
+    "status": "Approved",
+    "approvedBy": "Kwame Mensah",
+    "createdAt": "2025-09-30T00:00:00Z"
+  },
+  {
+    "budgetId": "bg200000-0002",
+    "budgetName": "FY2026 Capital Budget",
+    "budgetType": "Capital",
+    "fiscalYear": 2026,
+    "totalRevenue": 0,
+    "totalExpenses": 6.0,
+    "netSurplus": -6.0,
+    "currency": "GHS",
+    "status": "Approved",
+    "approvedBy": "Kwame Mensah",
+    "createdAt": "2025-09-30T00:00:00Z"
+  }
+]

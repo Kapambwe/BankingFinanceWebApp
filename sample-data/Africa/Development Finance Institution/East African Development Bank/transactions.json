@@ -1,0 +1,9 @@
+[
+  {"transactionType":"Disbursement","currency":"USD","status":"Completed","transactionId":"ea-tx-001","amount":25000000.00,"description":"Agricultural Modernization Program","balance":85000000.00,"transactionDate":"2025-09-10T10:00:00Z","accountId":"ea01-a001-4579-a281-6d898272fbc5"},
+  {"transactionType":"Disbursement","currency":"USD","status":"Completed","transactionId":"ea-tx-002","amount":18000000.00,"description":"ICT Infrastructure - Kigali Smart City","balance":65000000.00,"transactionDate":"2025-10-15T10:00:00Z","accountId":"ea01-a002-4579-a281-6d898272fbc6"},
+  {"transactionType":"Disbursement","currency":"USD","status":"Completed","transactionId":"ea-tx-003","amount":1500000.00,"description":"Agro-Processing Equipment Finance","balance":2500000.00,"transactionDate":"2025-11-01T10:00:00Z","accountId":"ea01-a003-4579-a281-6d898272fbc7"},
+  {"transactionType":"Disbursement","currency":"USD","status":"Completed","transactionId":"ea-tx-004","amount":800000.00,"description":"Tech Incubator Expansion Loan","balance":1800000.00,"transactionDate":"2025-11-20T10:00:00Z","accountId":"ea01-a004-4579-a281-6d898272fbc8"},
+  {"transactionType":"Repayment","currency":"USD","status":"Completed","transactionId":"ea-tx-005","amount":5000000.00,"description":"Annual Sovereign Loan Repayment","balance":80000000.00,"transactionDate":"2025-12-15T10:00:00Z","accountId":"ea01-a001-4579-a281-6d898272fbc5"},
+  {"transactionType":"Fee","currency":"USD","status":"Completed","transactionId":"ea-tx-006","amount":125000.00,"description":"SME Loan Processing Fee","balance":2500000.00,"transactionDate":"2025-11-01T10:00:00Z","accountId":"ea01-a003-4579-a281-6d898272fbc7"},
+  {"transactionType":"Grant","currency":"USD","status":"Completed","transactionId":"ea-tx-007","amount":2000000.00,"description":"Climate Smart Agriculture TA Grant","balance":2000000.00,"transactionDate":"2025-12-01T10:00:00Z","accountId":"ea01-a001-4579-a281-6d898272fbc5"}
+]

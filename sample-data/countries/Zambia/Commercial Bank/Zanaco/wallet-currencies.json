@@ -1,0 +1,12 @@
+[
+  { "currencyCode": "GBP", "currencyName": "British Pound",   "balance": 2450.00,  "equivalentGBP": 2450.00, "exchangeRate": 1.0000,  "flag": "🇬🇧", "isActive": true  },
+  { "currencyCode": "EUR", "currencyName": "Euro",            "balance": 1800.00,  "equivalentGBP": 1541.10, "exchangeRate": 1.1680,  "flag": "🇪🇺", "isActive": true  },
+  { "currencyCode": "USD", "currencyName": "US Dollar",       "balance": 3200.00,  "equivalentGBP": 2539.68, "exchangeRate": 1.2599,  "flag": "🇺🇸", "isActive": true  },
+  { "currencyCode": "CHF", "currencyName": "Swiss Franc",     "balance": 500.00,   "equivalentGBP": 444.25,  "exchangeRate": 1.1255,  "flag": "🇨🇭", "isActive": true  },
+  { "currencyCode": "JPY", "currencyName": "Japanese Yen",    "balance": 85000.00, "equivalentGBP": 451.23,  "exchangeRate": 188.38,  "flag": "🇯🇵", "isActive": true  },
+  { "currencyCode": "PLN", "currencyName": "Polish Złoty",    "balance": 2200.00,  "equivalentGBP": 417.84,  "exchangeRate": 5.2645,  "flag": "🇵🇱", "isActive": true  },
+  { "currencyCode": "RON", "currencyName": "Romanian Leu",    "balance": 1500.00,  "equivalentGBP": 255.28,  "exchangeRate": 5.8762,  "flag": "🇷🇴", "isActive": true  },
+  { "currencyCode": "NOK", "currencyName": "Norwegian Krone", "balance": 3000.00,  "equivalentGBP": 214.80,  "exchangeRate": 13.966,  "flag": "🇳🇴", "isActive": false },
+  { "currencyCode": "SEK", "currencyName": "Swedish Krona",   "balance": 4500.00,  "equivalentGBP": 323.28,  "exchangeRate": 13.918,  "flag": "🇸🇪", "isActive": true  },
+  { "currencyCode": "DKK", "currencyName": "Danish Krone",    "balance": 1200.00,  "equivalentGBP": 130.54,  "exchangeRate": 9.1917,  "flag": "🇩🇰", "isActive": false }
+]

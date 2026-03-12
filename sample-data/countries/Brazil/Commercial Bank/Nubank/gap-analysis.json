@@ -1,0 +1,62 @@
+[
+  {
+    "analysisId": "a1b2c3d4-e5f6-4a7b-8c9d-0e1f2a3b4c51",
+    "analysisDate": "2025-01-15",
+    "timeBucket": "0-30 dias",
+    "totalAssets": 28500000000,
+    "totalLiabilities": 26800000000,
+    "netGap": 1700000000,
+    "cumulativeGap": 1700000000,
+    "gapRatio": 1.063,
+    "currency": "BRL",
+    "createdAt": "2025-01-15T08:30:00Z"
+  },
+  {
+    "analysisId": "a1b2c3d4-e5f6-4a7b-8c9d-0e1f2a3b4c52",
+    "analysisDate": "2025-01-15",
+    "timeBucket": "31-90 dias",
+    "totalAssets": 18200000000,
+    "totalLiabilities": 17500000000,
+    "netGap": 700000000,
+    "cumulativeGap": 2400000000,
+    "gapRatio": 1.04,
+    "currency": "BRL",
+    "createdAt": "2025-01-15T08:30:00Z"
+  },
+  {
+    "analysisId": "a1b2c3d4-e5f6-4a7b-8c9d-0e1f2a3b4c53",
+    "analysisDate": "2025-01-15",
+    "timeBucket": "91-180 dias",
+    "totalAssets": 12500000000,
+    "totalLiabilities": 13200000000,
+    "netGap": -700000000,
+    "cumulativeGap": 1700000000,
+    "gapRatio": 0.947,
+    "currency": "BRL",
+    "createdAt": "2025-01-15T08:30:00Z"
+  },
+  {
+    "analysisId": "a1b2c3d4-e5f6-4a7b-8c9d-0e1f2a3b4c54",
+    "analysisDate": "2025-01-15",
+    "timeBucket": "181-365 dias",
+    "totalAssets": 9800000000,
+    "totalLiabilities": 11500000000,
+    "netGap": -1700000000,
+    "cumulativeGap": 0,
+    "gapRatio": 0.852,
+    "currency": "BRL",
+    "createdAt": "2025-01-15T08:30:00Z"
+  },
+  {
+    "analysisId": "a1b2c3d4-e5f6-4a7b-8c9d-0e1f2a3b4c55",
+    "analysisDate": "2025-01-15",
+    "timeBucket": "Mais de 1 ano",
+    "totalAssets": 22000000000,
+    "totalLiabilities": 18500000000,
+    "netGap": 3500000000,
+    "cumulativeGap": 3500000000,
+    "gapRatio": 1.189,
+    "currency": "BRL",
+    "createdAt": "2025-01-15T08:30:00Z"
+  }
+]

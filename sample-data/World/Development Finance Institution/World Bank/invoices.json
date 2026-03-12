@@ -1,0 +1,6 @@
+[
+  {"invoiceId":"WB-INV-001","customerId":"wb-c001-1234-5678-abcd-ef1234567890","amount":1500000000.00,"currency":"USD","status":"Paid","description":"Human Capital Development Program Disbursement","issuedDate":"2025-09-01T00:00:00Z","paidDate":"2025-09-15T00:00:00Z"},
+  {"invoiceId":"WB-INV-002","customerId":"wb-c002-2345-6789-bcde-f12345678901","amount":800000000.00,"currency":"USD","status":"Paid","description":"Productive Safety Net Program","issuedDate":"2025-10-10T00:00:00Z","paidDate":"2025-10-20T00:00:00Z"},
+  {"invoiceId":"WB-INV-003","customerId":"wb-c005-5678-9012-efab-345678901234","amount":1200000000.00,"currency":"USD","status":"Paid","description":"Health and Education Emergency","issuedDate":"2025-08-15T00:00:00Z","paidDate":"2025-08-25T00:00:00Z"},
+  {"invoiceId":"WB-INV-004","customerId":"wb-c006-6789-0123-fabc-456789012345","amount":450000000.00,"currency":"USD","status":"Paid","description":"Economic Transformation Program","issuedDate":"2025-12-05T00:00:00Z","paidDate":"2025-12-15T00:00:00Z"}
+]

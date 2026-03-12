@@ -1,0 +1,125 @@
+[
+  {
+    "partnerId": "RP-BOT-001",
+    "businessName": "Choppies Botswana Botswana Ltd",
+    "brandName": "Choppies Botswana",
+    "partnerType": "SmallShop",
+    "country": "Botswana",
+    "currency": "BWP",
+    "contactPerson": "Partner Manager 1",
+    "email": "banking@choppiesbots.bo",
+    "phoneNumber": "+694-315-377356",
+    "servicesOffered": [
+      "BillPayment",
+      "AccountOpening",
+      "CashDeposit"
+    ],
+    "acceptedPaymentMethods": [
+      "PhoneNumber",
+      "CardTap",
+      "USSD",
+      "AccountNumber",
+      "QRCode",
+      "Cash"
+    ],
+    "totalStores": 79,
+    "activeStores": 72,
+    "storeLocations": [
+      "Kasane",
+      "Gaborone",
+      "Francistown",
+      "Maun"
+    ],
+    "monthlyTransactionVolume": 6784209.54,
+    "monthlyTransactionCount": 19852,
+    "averageTransactionSize": 148.56,
+    "commissionRate": 1.06,
+    "monthlyRevenue": 84453.15,
+    "partnershipStartDate": "2022-04-02T18:10:28Z",
+    "status": "Active",
+    "brandColor": "#99c243",
+    "isIntegrated": true,
+    "lastSyncDate": "2026-03-02T18:10:28Z"
+  },
+  {
+    "partnerId": "RP-BOT-002",
+    "businessName": "Pick n Pay BW Botswana Ltd",
+    "brandName": "Pick n Pay BW",
+    "partnerType": "Pharmacy",
+    "country": "Botswana",
+    "currency": "BWP",
+    "contactPerson": "Partner Manager 2",
+    "email": "banking@picknpaybw.bo",
+    "phoneNumber": "+889-401-261943",
+    "servicesOffered": [
+      "CashWithdrawal",
+      "MoneyTransfer",
+      "BillPayment",
+      "AirtimePurchase"
+    ],
+    "acceptedPaymentMethods": [
+      "AccountNumber",
+      "USSD",
+      "QRCode"
+    ],
+    "totalStores": 154,
+    "activeStores": 146,
+    "storeLocations": [
+      "Francistown",
+      "Gaborone",
+      "Maun",
+      "Kasane"
+    ],
+    "monthlyTransactionVolume": 2487968.71,
+    "monthlyTransactionCount": 10223,
+    "averageTransactionSize": 64.14,
+    "commissionRate": 0.32,
+    "monthlyRevenue": 18336.18,
+    "partnershipStartDate": "2023-04-28T18:10:28Z",
+    "status": "PendingApproval",
+    "brandColor": "#7efa98",
+    "isIntegrated": false,
+    "lastSyncDate": "2026-03-03T18:10:28Z"
+  },
+  {
+    "partnerId": "RP-BOT-003",
+    "businessName": "Spar Botswana Botswana Ltd",
+    "brandName": "Spar Botswana",
+    "partnerType": "ConvenienceStore",
+    "country": "Botswana",
+    "currency": "BWP",
+    "contactPerson": "Partner Manager 3",
+    "email": "banking@sparbotswana.bo",
+    "phoneNumber": "+430-416-316456",
+    "servicesOffered": [
+      "CashWithdrawal",
+      "BillPayment",
+      "MoneyTransfer",
+      "CashDeposit"
+    ],
+    "acceptedPaymentMethods": [
+      "CardTap",
+      "QRCode",
+      "AccountNumber",
+      "PhoneNumber",
+      "USSD"
+    ],
+    "totalStores": 91,
+    "activeStores": 88,
+    "storeLocations": [
+      "Kasane",
+      "Francistown",
+      "Gaborone"
+    ],
+    "monthlyTransactionVolume": 6972718.97,
+    "monthlyTransactionCount": 49406,
+    "averageTransactionSize": 200.09,
+    "commissionRate": 1.83,
+    "monthlyRevenue": 82951.19,
+    "partnershipStartDate": "2024-02-19T18:10:28Z",
+    "status": "Active",
+    "brandColor": "#615188",
+    "isIntegrated": false,
+    "lastSyncDate": "2026-03-04T18:10:28Z"
+  }
+]

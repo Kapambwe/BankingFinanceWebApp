@@ -1,0 +1,7 @@
+[
+  {"entryId":"NDB-JE-001","date":"2025-07-20T00:00:00Z","description":"Sovereign Loan Disbursement - South Africa Renewable Energy","debitAccount":"1100","creditAccount":"1000","amount":300000000.00,"currency":"USD","status":"Posted"},
+  {"entryId":"NDB-JE-002","date":"2025-08-15T00:00:00Z","description":"Infrastructure Loan Disbursement - Egypt Transport","debitAccount":"1300","creditAccount":"1000","amount":250000000.00,"currency":"USD","status":"Posted"},
+  {"entryId":"NDB-JE-003","date":"2025-09-10T00:00:00Z","description":"Emergency Facility Disbursement - Ethiopia Stabilization","debitAccount":"1400","creditAccount":"1000","amount":150000000.00,"currency":"USD","status":"Posted"},
+  {"entryId":"NDB-JE-004","date":"2025-10-31T00:00:00Z","description":"Sovereign Loan Repayment Received - South Africa","debitAccount":"1000","creditAccount":"1100","amount":75000000.00,"currency":"USD","status":"Posted"},
+  {"entryId":"NDB-JE-005","date":"2025-12-31T00:00:00Z","description":"Interest Income Accrual - Q4 2025","debitAccount":"1500","creditAccount":"4000","amount":300000000.00,"currency":"USD","status":"Posted"}
+]

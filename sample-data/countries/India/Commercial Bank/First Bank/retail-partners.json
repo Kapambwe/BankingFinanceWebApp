@@ -1,0 +1,161 @@
+[
+  {
+    "partnerId": "RP-IND-001",
+    "businessName": "Reliance Fresh India Ltd",
+    "brandName": "Reliance Fresh",
+    "partnerType": "SmallShop",
+    "country": "India",
+    "currency": "INR",
+    "contactPerson": "Partner Manager 1",
+    "email": "banking@reliancefres.in",
+    "phoneNumber": "+952-626-225151",
+    "servicesOffered": [
+      "CashDeposit",
+      "AirtimePurchase",
+      "BillPayment",
+      "MoneyTransfer",
+      "LoanPayment",
+      "AccountOpening"
+    ],
+    "acceptedPaymentMethods": [
+      "Cash",
+      "PhoneNumber",
+      "CardTap"
+    ],
+    "totalStores": 104,
+    "activeStores": 95,
+    "storeLocations": [
+      "Mumbai",
+      "Delhi",
+      "Bangalore"
+    ],
+    "monthlyTransactionVolume": 2388712.89,
+    "monthlyTransactionCount": 47010,
+    "averageTransactionSize": 224.4,
+    "commissionRate": 0.37,
+    "monthlyRevenue": 33784.85,
+    "partnershipStartDate": "2022-10-29T18:10:28Z",
+    "status": "Active",
+    "brandColor": "#cad4c8",
+    "isIntegrated": true,
+    "lastSyncDate": "2026-03-03T18:10:28Z"
+  },
+  {
+    "partnerId": "RP-IND-002",
+    "businessName": "D-Mart India Ltd",
+    "brandName": "D-Mart",
+    "partnerType": "Pharmacy",
+    "country": "India",
+    "currency": "INR",
+    "contactPerson": "Partner Manager 2",
+    "email": "banking@d-mart.in",
+    "phoneNumber": "+756-649-523013",
+    "servicesOffered": [
+      "BillPayment",
+      "CashWithdrawal",
+      "AccountOpening"
+    ],
+    "acceptedPaymentMethods": [
+      "AccountNumber",
+      "PhoneNumber",
+      "CardTap"
+    ],
+    "totalStores": 274,
+    "activeStores": 253,
+    "storeLocations": [
+      "Bangalore",
+      "Delhi",
+      "Chennai"
+    ],
+    "monthlyTransactionVolume": 1798698.02,
+    "monthlyTransactionCount": 14816,
+    "averageTransactionSize": 36.1,
+    "commissionRate": 1.35,
+    "monthlyRevenue": 15645.59,
+    "partnershipStartDate": "2023-01-10T18:10:28Z",
+    "status": "Active",
+    "brandColor": "#153ae3",
+    "isIntegrated": true,
+    "lastSyncDate": "2026-03-03T18:10:28Z"
+  },
+  {
+    "partnerId": "RP-IND-003",
+    "businessName": "BigBazaar India Ltd",
+    "brandName": "BigBazaar",
+    "partnerType": "ConvenienceStore",
+    "country": "India",
+    "currency": "INR",
+    "contactPerson": "Partner Manager 3",
+    "email": "banking@bigbazaar.in",
+    "phoneNumber": "+225-629-962043",
+    "servicesOffered": [
+      "MoneyTransfer",
+      "LoanPayment",
+      "AirtimePurchase",
+      "AccountOpening",
+      "CashDeposit"
+    ],
+    "acceptedPaymentMethods": [
+      "QRCode",
+      "USSD"
+    ],
+    "totalStores": 200,
+    "activeStores": 191,
+    "storeLocations": [
+      "Delhi",
+      "Chennai",
+      "Mumbai",
+      "Bangalore"
+    ],
+    "monthlyTransactionVolume": 7331662.82,
+    "monthlyTransactionCount": 11470,
+    "averageTransactionSize": 205.05,
+    "commissionRate": 1.21,
+    "monthlyRevenue": 77152.53,
+    "partnershipStartDate": "2024-12-28T18:10:28Z",
+    "status": "Active",
+    "brandColor": "#d618bf",
+    "isIntegrated": true,
+    "lastSyncDate": "2026-03-04T18:10:28Z"
+  },
+  {
+    "partnerId": "RP-IND-004",
+    "businessName": "Spencer's India Ltd",
+    "brandName": "Spencer's",
+    "partnerType": "SmallShop",
+    "country": "India",
+    "currency": "INR",
+    "contactPerson": "Partner Manager 4",
+    "email": "banking@spencer's.in",
+    "phoneNumber": "+457-671-173863",
+    "servicesOffered": [
+      "BillPayment",
+      "AirtimePurchase",
+      "AccountOpening",
+      "MoneyTransfer"
+    ],
+    "acceptedPaymentMethods": [
+      "PhoneNumber",
+      "Cash",
+      "AccountNumber",
+      "QRCode"
+    ],
+    "totalStores": 83,
+    "activeStores": 77,
+    "storeLocations": [
+      "Bangalore",
+      "Mumbai",
+      "Delhi"
+    ],
+    "monthlyTransactionVolume": 238835.92,
+    "monthlyTransactionCount": 44625,
+    "averageTransactionSize": 28.94,
+    "commissionRate": 1.21,
+    "monthlyRevenue": 2554.85,
+    "partnershipStartDate": "2022-09-15T18:10:28Z",
+    "status": "Active",
+    "brandColor": "#c9b1e1",
+    "isIntegrated": false,
+    "lastSyncDate": "2026-03-04T18:10:28Z"
+  }
+]

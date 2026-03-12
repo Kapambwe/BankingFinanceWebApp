@@ -1,0 +1,62 @@
+[
+  {
+    "reviewId": "rv500000-0001-0000-0000-0000000005001",
+    "employeeId": "e5000000-0001-0000-0000-0000000005001",
+    "employeeName": "Wanjiku Ndegwa",
+    "reviewPeriod": "2025",
+    "reviewType": "Annual",
+    "overallRating": "ExceedsExpectations",
+    "reviewerName": "Otieno Otieno",
+    "completionDate": "2025-12-15",
+    "comments": "Performance review for Wanjiku Ndegwa for the year 2025.",
+    "createdAt": "2025-12-15T00:00:00Z"
+  },
+  {
+    "reviewId": "rv500000-0002-0000-0000-0000000005002",
+    "employeeId": "e5000000-0002-0000-0000-0000000005002",
+    "employeeName": "Kamau Wanjiku",
+    "reviewPeriod": "2025",
+    "reviewType": "Annual",
+    "overallRating": "MeetsExpectations",
+    "reviewerName": "Otieno Otieno",
+    "completionDate": "2025-12-15",
+    "comments": "Performance review for Kamau Wanjiku for the year 2025.",
+    "createdAt": "2025-12-15T00:00:00Z"
+  },
+  {
+    "reviewId": "rv500000-0003-0000-0000-0000000005003",
+    "employeeId": "e5000000-0003-0000-0000-0000000005003",
+    "employeeName": "Otieno Kipchoge",
+    "reviewPeriod": "2025",
+    "reviewType": "Annual",
+    "overallRating": "MeetsExpectations",
+    "reviewerName": "Otieno Otieno",
+    "completionDate": "2025-12-15",
+    "comments": "Performance review for Otieno Kipchoge for the year 2025.",
+    "createdAt": "2025-12-15T00:00:00Z"
+  },
+  {
+    "reviewId": "rv500000-0004-0000-0000-0000000005004",
+    "employeeId": "e5000000-0004-0000-0000-0000000005004",
+    "employeeName": "Achieng Ochieng",
+    "reviewPeriod": "2025",
+    "reviewType": "Annual",
+    "overallRating": "BelowExpectations",
+    "reviewerName": "Otieno Otieno",
+    "completionDate": "2025-12-15",
+    "comments": "Performance review for Achieng Ochieng for the year 2025.",
+    "createdAt": "2025-12-15T00:00:00Z"
+  },
+  {
+    "reviewId": "rv500000-0005-0000-0000-0000000005005",
+    "employeeId": "e5000000-0005-0000-0000-0000000005005",
+    "employeeName": "Mwangi Mutua",
+    "reviewPeriod": "2025",
+    "reviewType": "Annual",
+    "overallRating": "ExceedsExpectations",
+    "reviewerName": "Otieno Otieno",
+    "completionDate": "2025-12-15",
+    "comments": "Performance review for Mwangi Mutua for the year 2025.",
+    "createdAt": "2025-12-15T00:00:00Z"
+  }
+]

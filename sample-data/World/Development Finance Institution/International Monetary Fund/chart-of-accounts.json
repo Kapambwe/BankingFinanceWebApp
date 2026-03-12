@@ -1,0 +1,16 @@
+[
+  {"accountCode":"1000","accountName":"SDR Holdings","accountType":"Asset","balance":285000000000.00,"currency":"SDR"},
+  {"accountCode":"1100","accountName":"General Resources Account - Credit Outstanding","accountType":"Asset","balance":110000000000.00,"currency":"SDR"},
+  {"accountCode":"1200","accountName":"PRGT Credit Outstanding","accountType":"Asset","balance":22000000000.00,"currency":"SDR"},
+  {"accountCode":"1300","accountName":"Gold Holdings","accountType":"Asset","balance":180000000000.00,"currency":"SDR"},
+  {"accountCode":"1400","accountName":"Reserve Tranche Positions","accountType":"Asset","balance":65000000000.00,"currency":"SDR"},
+  {"accountCode":"2000","accountName":"SDR Allocations to Members","accountType":"Liability","balance":660000000000.00,"currency":"SDR"},
+  {"accountCode":"2100","accountName":"Borrowing Agreements","accountType":"Liability","balance":45000000000.00,"currency":"SDR"},
+  {"accountCode":"3000","accountName":"Member Quotas","accountType":"Equity","balance":477000000000.00,"currency":"SDR"},
+  {"accountCode":"3100","accountName":"General Reserve","accountType":"Equity","balance":8500000000.00,"currency":"SDR"},
+  {"accountCode":"3200","accountName":"Special Contingent Account","accountType":"Equity","balance":1900000000.00,"currency":"SDR"},
+  {"accountCode":"4000","accountName":"Charges on Credit Outstanding","accountType":"Revenue","balance":4800000000.00,"currency":"SDR"},
+  {"accountCode":"4100","accountName":"Commitment Fees and Service Charges","accountType":"Revenue","balance":1200000000.00,"currency":"SDR"},
+  {"accountCode":"5000","accountName":"Interest on SDR Allocations","accountType":"Expense","balance":3200000000.00,"currency":"SDR"},
+  {"accountCode":"5100","accountName":"Administrative Budget","accountType":"Expense","balance":1350000000.00,"currency":"SDR"}
+]

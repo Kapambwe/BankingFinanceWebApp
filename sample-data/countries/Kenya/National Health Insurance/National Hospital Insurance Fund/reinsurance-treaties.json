@@ -1,0 +1,32 @@
+[
+  {
+    "treatyId": "rt500000-0001",
+    "treatyName": "NHIF Stop-Loss Treaty 2025",
+    "treatyType": "Stop-Loss",
+    "reinsurer": "Munich Re",
+    "cessionPercentage": 0.4,
+    "retentionLimit": 73.0,
+    "maxCover": 294.0,
+    "annualPremium": 7.0,
+    "currency": "KES",
+    "effectiveDate": "2025-01-01",
+    "expiryDate": "2025-12-31",
+    "status": "Active",
+    "createdAt": "2025-01-01T00:00:00Z"
+  },
+  {
+    "treatyId": "rt500000-0002",
+    "treatyName": "NHIF Quota Share Treaty 2025",
+    "treatyType": "Quota Share",
+    "reinsurer": "Kenya Reinsurance Corporation",
+    "cessionPercentage": 0.2,
+    "retentionLimit": null,
+    "maxCover": 147.0,
+    "annualPremium": 4.0,
+    "currency": "KES",
+    "effectiveDate": "2025-01-01",
+    "expiryDate": "2025-12-31",
+    "status": "Active",
+    "createdAt": "2025-01-01T00:00:00Z"
+  }
+]

@@ -1,0 +1,17 @@
+{
+  "registrationNumber": "REG-47955",
+  "contactEmail": "visionfundZimbabwe@example.zm",
+  "createdAt": "2023-02-09T00:00:00Z",
+  "branches": 43,
+  "institutionType": "Microfinance",
+  "institutionName": "Vision Fund Zimbabwe",
+  "country": "Zimbabwe",
+  "established": 1984,
+  "employees": 3396,
+  "contactPhone": "+260-319-651744",
+  "headquarters": "Gweru",
+  "institutionId": "332e22d5-63a1-4b5a-a47c-6f3d5823d612",
+  "currency": "ZWL",
+  "status": "Active",
+  "website": "https://www.visionfundZimbabwe.co.zm"
+}

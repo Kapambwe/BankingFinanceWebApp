@@ -1,0 +1,50 @@
+[
+  {
+    "description": "Opening balance",
+    "type": "ReserveTransfer",
+    "shareCapitalImpact": 50000000.00,
+    "retainedEarningsImpact": 12500000.00,
+    "otherEquityImpact": 2000000.00,
+    "date": "2026-01-01T00:00:00Z"
+  },
+  {
+    "description": "Net income for the period — January 2026",
+    "type": "NetIncome",
+    "shareCapitalImpact": 0.00,
+    "retainedEarningsImpact": 8750000.00,
+    "otherEquityImpact": 0.00,
+    "date": "2026-01-31T00:00:00Z"
+  },
+  {
+    "description": "Other comprehensive income — FX translation gains",
+    "type": "OCI",
+    "shareCapitalImpact": 0.00,
+    "retainedEarningsImpact": 0.00,
+    "otherEquityImpact": 350000.00,
+    "date": "2026-01-31T00:00:00Z"
+  },
+  {
+    "description": "Interim dividend declared — January 2026",
+    "type": "Dividend",
+    "shareCapitalImpact": 0.00,
+    "retainedEarningsImpact": -3000000.00,
+    "otherEquityImpact": 0.00,
+    "date": "2026-01-25T00:00:00Z"
+  },
+  {
+    "description": "Net income for the period — February 2026",
+    "type": "NetIncome",
+    "shareCapitalImpact": 0.00,
+    "retainedEarningsImpact": 9200000.00,
+    "otherEquityImpact": 0.00,
+    "date": "2026-02-28T00:00:00Z"
+  },
+  {
+    "description": "Other comprehensive income — unrealised bond revaluation",
+    "type": "OCI",
+    "shareCapitalImpact": 0.00,
+    "retainedEarningsImpact": 0.00,
+    "otherEquityImpact": 180000.00,
+    "date": "2026-02-28T00:00:00Z"
+  }
+]

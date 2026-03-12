@@ -1,0 +1,6 @@
+[
+  {"billId":"AX-BILL-001","customerId":"ax-c001-e5f6-7890-abcd-ef1234567890","amount":18000000.00,"currency":"USD","dueDate":"2026-03-31T00:00:00Z","status":"Pending","description":"Interest - Trade Finance Facility Q1 2026","issuedDate":"2026-01-01T00:00:00Z"},
+  {"billId":"AX-BILL-002","customerId":"ax-c004-b8c9-0123-defa-234567890123","amount":7500000.00,"currency":"USD","dueDate":"2026-04-15T00:00:00Z","status":"Pending","description":"Correspondent Line Interest Payment","issuedDate":"2026-01-15T00:00:00Z"},
+  {"billId":"AX-BILL-003","customerId":"ax-c006-d0e1-2345-fabc-456789012345","amount":4200000.00,"currency":"USD","dueDate":"2026-02-28T00:00:00Z","status":"Pending","description":"Export Finance Interest + Principal","issuedDate":"2025-12-28T00:00:00Z"},
+  {"billId":"AX-BILL-004","customerId":"ax-c002-f6a7-8901-bcde-f12345678901","amount":6800000.00,"currency":"USD","dueDate":"2026-06-30T00:00:00Z","status":"Pending","description":"Export Credit Line Semi-Annual Payment","issuedDate":"2026-01-30T00:00:00Z"}
+]

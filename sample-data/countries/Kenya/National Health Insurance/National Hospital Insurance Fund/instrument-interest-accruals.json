@@ -1,0 +1,41 @@
+[
+  {
+    "accrualId": "ia500000-0001",
+    "instrumentType": "Treasury Bill",
+    "instrumentRef": "TB-KE-2025-001",
+    "faceValue": 147.0,
+    "interestRate": 0.085,
+    "accrualPeriod": "Q4 2025",
+    "accruedInterest": 3.0,
+    "currency": "KES",
+    "maturityDate": "2026-03-31",
+    "status": "Accrued",
+    "createdAt": "2025-10-01T00:00:00Z"
+  },
+  {
+    "accrualId": "ia500000-0002",
+    "instrumentType": "Government Bond",
+    "instrumentRef": "GB-KE-2024-005",
+    "faceValue": 294.0,
+    "interestRate": 0.11,
+    "accrualPeriod": "Q4 2025",
+    "accruedInterest": 8.0,
+    "currency": "KES",
+    "maturityDate": "2027-06-30",
+    "status": "Accrued",
+    "createdAt": "2025-10-01T00:00:00Z"
+  },
+  {
+    "accrualId": "ia500000-0003",
+    "instrumentType": "Fixed Deposit",
+    "instrumentRef": "FD-KCB-2025-010",
+    "faceValue": 73.0,
+    "interestRate": 0.095,
+    "accrualPeriod": "Q4 2025",
+    "accruedInterest": 2.0,
+    "currency": "KES",
+    "maturityDate": "2026-01-31",
+    "status": "Accrued",
+    "createdAt": "2025-10-01T00:00:00Z"
+  }
+]

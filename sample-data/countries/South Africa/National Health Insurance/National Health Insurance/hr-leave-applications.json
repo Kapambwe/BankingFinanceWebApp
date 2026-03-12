@@ -1,0 +1,67 @@
+[
+  {
+    "leaveApplicationId": "la300000-0001-0000-0000-0000000003001",
+    "employeeId": "e3000000-0001-0000-0000-0000000003001",
+    "employeeName": "Thabo Ndlovu",
+    "leaveType": "Annual",
+    "startDate": "2025-02-10",
+    "endDate": "2025-02-15",
+    "daysRequested": 3,
+    "status": "Approved",
+    "approvedBy": "Nomvula van der Merwe",
+    "reason": "Annual leave request",
+    "createdAt": "2025-01-05T00:00:00Z"
+  },
+  {
+    "leaveApplicationId": "la300000-0002-0000-0000-0000000003002",
+    "employeeId": "e3000000-0002-0000-0000-0000000003002",
+    "employeeName": "Nomvula Mthembu",
+    "leaveType": "Sick",
+    "startDate": "2025-03-10",
+    "endDate": "2025-03-16",
+    "daysRequested": 4,
+    "status": "Approved",
+    "approvedBy": "Nomvula van der Merwe",
+    "reason": "Sick leave request",
+    "createdAt": "2025-02-05T00:00:00Z"
+  },
+  {
+    "leaveApplicationId": "la300000-0003-0000-0000-0000000003003",
+    "employeeId": "e3000000-0003-0000-0000-0000000003003",
+    "employeeName": "Sipho Zulu",
+    "leaveType": "Maternity",
+    "startDate": "2025-04-10",
+    "endDate": "2025-04-17",
+    "daysRequested": 5,
+    "status": "Pending",
+    "approvedBy": "Nomvula van der Merwe",
+    "reason": "Maternity leave request",
+    "createdAt": "2025-03-05T00:00:00Z"
+  },
+  {
+    "leaveApplicationId": "la300000-0004-0000-0000-0000000003004",
+    "employeeId": "e3000000-0004-0000-0000-0000000003004",
+    "employeeName": "Lerato Mokoena",
+    "leaveType": "Paternity",
+    "startDate": "2025-05-10",
+    "endDate": "2025-05-18",
+    "daysRequested": 6,
+    "status": "Approved",
+    "approvedBy": "Nomvula van der Merwe",
+    "reason": "Paternity leave request",
+    "createdAt": "2025-04-05T00:00:00Z"
+  },
+  {
+    "leaveApplicationId": "la300000-0005-0000-0000-0000000003005",
+    "employeeId": "e3000000-0005-0000-0000-0000000003005",
+    "employeeName": "Nkosi Sithole",
+    "leaveType": "Study",
+    "startDate": "2025-06-10",
+    "endDate": "2025-06-19",
+    "daysRequested": 7,
+    "status": "Pending",
+    "approvedBy": "Nomvula van der Merwe",
+    "reason": "Study leave request",
+    "createdAt": "2025-05-05T00:00:00Z"
+  }
+]

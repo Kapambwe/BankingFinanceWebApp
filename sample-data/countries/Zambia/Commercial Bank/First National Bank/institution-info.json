@@ -1,0 +1,17 @@
+{
+  "registrationNumber": "REG-90922",
+  "contactEmail": "firstnationalbank@example.zm",
+  "createdAt": "2025-06-10T00:00:00Z",
+  "branches": 35,
+  "institutionType": "Commercial Bank",
+  "institutionName": "First National Bank",
+  "country": "Zambia",
+  "established": 2005,
+  "employees": 3262,
+  "contactPhone": "+260-515-500600",
+  "headquarters": "Livingstone",
+  "institutionId": "63123e07-b5d7-4d1a-b5b8-dbf6da2ae71e",
+  "currency": "ZMW",
+  "status": "Active",
+  "website": "https://www.firstnationalbank.co.zm"
+}

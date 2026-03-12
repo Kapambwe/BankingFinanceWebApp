@@ -1,0 +1,68 @@
+[
+  {
+    "instrumentId": "LOAN-001",
+    "instrumentReference": "Thabo \u2014 Retirement Fund",
+    "instrumentType": "Loan",
+    "outstandingBalance": 92500000.0,
+    "nominalRate": 0.095,
+    "effectiveInterestRate": 0.095,
+    "accruedAmount": 24075.34,
+    "accrualDate": "2026-02-28T00:00:00Z",
+    "journalEntryId": null
+  },
+  {
+    "instrumentId": "LOAN-002",
+    "instrumentReference": "SME Loan \u2014 Lehlohonolo Trading Ltd",
+    "instrumentType": "Loan",
+    "outstandingBalance": 370000000.0,
+    "nominalRate": 0.085,
+    "effectiveInterestRate": 0.085,
+    "accruedAmount": 86164.38,
+    "accrualDate": "2026-02-28T00:00:00Z",
+    "journalEntryId": null
+  },
+  {
+    "instrumentId": "DEP-001",
+    "instrumentReference": "Fixed Deposit \u2014 Malehloa Savings Group",
+    "instrumentType": "Deposit",
+    "outstandingBalance": 925000000.0,
+    "nominalRate": 0.07,
+    "effectiveInterestRate": 0.07,
+    "accruedAmount": 177397.26,
+    "accrualDate": "2026-02-28T00:00:00Z",
+    "journalEntryId": null
+  },
+  {
+    "instrumentId": "LOAN-003",
+    "instrumentReference": "Mortgage \u2014 Malehloa",
+    "instrumentType": "Loan",
+    "outstandingBalance": 148000000.0,
+    "nominalRate": 0.09,
+    "effectiveInterestRate": 0.09,
+    "accruedAmount": 36493.15,
+    "accrualDate": "2026-02-28T00:00:00Z",
+    "journalEntryId": null
+  },
+  {
+    "instrumentId": "DEP-002",
+    "instrumentReference": "Call Deposit \u2014 Retirement Fund Fund",
+    "instrumentType": "Deposit",
+    "outstandingBalance": 277500000.0,
+    "nominalRate": 0.065,
+    "effectiveInterestRate": 0.065,
+    "accruedAmount": 49417.81,
+    "accrualDate": "2026-02-28T00:00:00Z",
+    "journalEntryId": null
+  },
+  {
+    "instrumentId": "LOAN-004",
+    "instrumentReference": "Corporate Bond \u2014 Retirement Fund",
+    "instrumentType": "Loan",
+    "outstandingBalance": 555000000.0,
+    "nominalRate": 0.1,
+    "effectiveInterestRate": 0.1,
+    "accruedAmount": 152054.79,
+    "accrualDate": "2026-02-28T00:00:00Z",
+    "journalEntryId": null
+  }
+]

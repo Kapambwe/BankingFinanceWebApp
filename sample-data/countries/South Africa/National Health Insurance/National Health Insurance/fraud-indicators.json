@@ -1,0 +1,62 @@
+[
+  {
+    "indicatorId": "fi300000-0001",
+    "indicatorName": "Duplicate Claim Submission",
+    "description": "Multiple claims for same service date and member",
+    "riskLevel": "High",
+    "detectionMethod": "System Automated",
+    "flaggedCases": 12,
+    "resolvedCases": 10,
+    "currency": "ZAR",
+    "financialExposure": 41000000,
+    "createdAt": "2025-01-01T00:00:00Z"
+  },
+  {
+    "indicatorId": "fi300000-0002",
+    "indicatorName": "Ghost Member Registration",
+    "description": "Fraudulent member registrations with fake identities",
+    "riskLevel": "Critical",
+    "detectionMethod": "Audit Review",
+    "flaggedCases": 5,
+    "resolvedCases": 3,
+    "currency": "ZAR",
+    "financialExposure": 102500000,
+    "createdAt": "2025-01-01T00:00:00Z"
+  },
+  {
+    "indicatorId": "fi300000-0003",
+    "indicatorName": "Provider Overbilling",
+    "description": "Healthcare providers billing for services not rendered",
+    "riskLevel": "High",
+    "detectionMethod": "Claims Analysis",
+    "flaggedCases": 8,
+    "resolvedCases": 6,
+    "currency": "ZAR",
+    "financialExposure": 71750000,
+    "createdAt": "2025-01-01T00:00:00Z"
+  },
+  {
+    "indicatorId": "fi300000-0004",
+    "indicatorName": "Contribution Diversion",
+    "description": "Employer diverting employee contributions",
+    "riskLevel": "Critical",
+    "detectionMethod": "Reconciliation",
+    "flaggedCases": 3,
+    "resolvedCases": 2,
+    "currency": "ZAR",
+    "financialExposure": 164000000,
+    "createdAt": "2025-01-01T00:00:00Z"
+  },
+  {
+    "indicatorId": "fi300000-0005",
+    "indicatorName": "Identity Fraud in Claims",
+    "description": "Claims submitted using stolen member identities",
+    "riskLevel": "High",
+    "detectionMethod": "Biometric Verification",
+    "flaggedCases": 7,
+    "resolvedCases": 5,
+    "currency": "ZAR",
+    "financialExposure": 51250000,
+    "createdAt": "2025-01-01T00:00:00Z"
+  }
+]

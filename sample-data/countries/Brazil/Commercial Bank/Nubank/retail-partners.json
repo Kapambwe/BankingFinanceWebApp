@@ -1,0 +1,164 @@
+[
+  {
+    "partnerId": "RP-BRA-001",
+    "businessName": "Extra Supermercados Brazil Ltd",
+    "brandName": "Extra Supermercados",
+    "partnerType": "SmallShop",
+    "country": "Brazil",
+    "currency": "BRL",
+    "contactPerson": "Partner Manager 1",
+    "email": "banking@extrasuperme.br",
+    "phoneNumber": "+379-176-484880",
+    "servicesOffered": [
+      "MoneyTransfer",
+      "BillPayment",
+      "CashDeposit",
+      "AirtimePurchase"
+    ],
+    "acceptedPaymentMethods": [
+      "Cash",
+      "AccountNumber",
+      "PhoneNumber",
+      "USSD",
+      "CardTap",
+      "QRCode"
+    ],
+    "totalStores": 181,
+    "activeStores": 166,
+    "storeLocations": [
+      "Rio de Janeiro",
+      "Salvador",
+      "S\u00e3o Paulo"
+    ],
+    "monthlyTransactionVolume": 1991598.66,
+    "monthlyTransactionCount": 22648,
+    "averageTransactionSize": 44.25,
+    "commissionRate": 0.72,
+    "monthlyRevenue": 18859.31,
+    "partnershipStartDate": "2021-11-16T18:10:28Z",
+    "status": "Active",
+    "brandColor": "#4740a6",
+    "isIntegrated": true,
+    "lastSyncDate": "2026-03-02T18:10:28Z"
+  },
+  {
+    "partnerId": "RP-BRA-002",
+    "businessName": "Carrefour Brasil Brazil Ltd",
+    "brandName": "Carrefour Brasil",
+    "partnerType": "Pharmacy",
+    "country": "Brazil",
+    "currency": "BRL",
+    "contactPerson": "Partner Manager 2",
+    "email": "banking@carrefourbra.br",
+    "phoneNumber": "+258-464-106177",
+    "servicesOffered": [
+      "BillPayment",
+      "LoanPayment",
+      "AccountOpening",
+      "CashDeposit",
+      "AirtimePurchase",
+      "CashWithdrawal"
+    ],
+    "acceptedPaymentMethods": [
+      "QRCode",
+      "AccountNumber"
+    ],
+    "totalStores": 268,
+    "activeStores": 245,
+    "storeLocations": [
+      "Salvador",
+      "Rio de Janeiro"
+    ],
+    "monthlyTransactionVolume": 6614532.73,
+    "monthlyTransactionCount": 1080,
+    "averageTransactionSize": 926.28,
+    "commissionRate": 1.03,
+    "monthlyRevenue": 35523.57,
+    "partnershipStartDate": "2023-03-17T18:10:28Z",
+    "status": "Active",
+    "brandColor": "#6e0c47",
+    "isIntegrated": true,
+    "lastSyncDate": null
+  },
+  {
+    "partnerId": "RP-BRA-003",
+    "businessName": "P\u00e3o de A\u00e7\u00facar Brazil Ltd",
+    "brandName": "P\u00e3o de A\u00e7\u00facar",
+    "partnerType": "SmallShop",
+    "country": "Brazil",
+    "currency": "BRL",
+    "contactPerson": "Partner Manager 3",
+    "email": "banking@p\u00e3odea\u00e7\u00facar.br",
+    "phoneNumber": "+562-865-555040",
+    "servicesOffered": [
+      "BillPayment",
+      "AccountOpening",
+      "CashWithdrawal"
+    ],
+    "acceptedPaymentMethods": [
+      "USSD",
+      "PhoneNumber",
+      "QRCode",
+      "Cash",
+      "CardTap",
+      "AccountNumber"
+    ],
+    "totalStores": 224,
+    "activeStores": 221,
+    "storeLocations": [
+      "Bras\u00edlia",
+      "S\u00e3o Paulo"
+    ],
+    "monthlyTransactionVolume": 7142937.42,
+    "monthlyTransactionCount": 9260,
+    "averageTransactionSize": 271.02,
+    "commissionRate": 1.02,
+    "monthlyRevenue": 49818.86,
+    "partnershipStartDate": "2025-12-30T18:10:28Z",
+    "status": "Active",
+    "brandColor": "#afff17",
+    "isIntegrated": true,
+    "lastSyncDate": "2026-03-02T18:10:28Z"
+  },
+  {
+    "partnerId": "RP-BRA-004",
+    "businessName": "Atacad\u00e3o Brazil Ltd",
+    "brandName": "Atacad\u00e3o",
+    "partnerType": "Supermarket",
+    "country": "Brazil",
+    "currency": "BRL",
+    "contactPerson": "Partner Manager 4",
+    "email": "banking@atacad\u00e3o.br",
+    "phoneNumber": "+329-259-460836",
+    "servicesOffered": [
+      "LoanPayment",
+      "AccountOpening",
+      "CashWithdrawal"
+    ],
+    "acceptedPaymentMethods": [
+      "AccountNumber",
+      "QRCode",
+      "CardTap",
+      "PhoneNumber",
+      "USSD"
+    ],
+    "totalStores": 70,
+    "activeStores": 70,
+    "storeLocations": [
+      "Bras\u00edlia",
+      "Rio de Janeiro",
+      "S\u00e3o Paulo",
+      "Salvador"
+    ],
+    "monthlyTransactionVolume": 2632857.2,
+    "monthlyTransactionCount": 31969,
+    "averageTransactionSize": 135.23,
+    "commissionRate": 0.78,
+    "monthlyRevenue": 10508.73,
+    "partnershipStartDate": "2023-10-08T18:10:28Z",
+    "status": "Active",
+    "brandColor": "#9b2414",
+    "isIntegrated": false,
+    "lastSyncDate": null
+  }
+]

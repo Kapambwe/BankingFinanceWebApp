@@ -1,0 +1,62 @@
+[
+  {
+    "transactionId": "TXN-NUB-2026-001",
+    "customerId": "c1000001-0001-0001-0001-000000000001",
+    "customerName": "Carlos Silva",
+    "amount": 1500.0,
+    "currency": "BRL",
+    "transactionType": "Pix",
+    "transactionDate": "2026-02-07T14:30:00Z",
+    "status": "Completed",
+    "method": "Pix",
+    "reference": "PIX-NUB-001-2026"
+  },
+  {
+    "transactionId": "TXN-NUB-2026-002",
+    "customerId": "c1000001-0001-0001-0001-000000000002",
+    "customerName": "Ana Santos",
+    "amount": 8750.0,
+    "currency": "BRL",
+    "transactionType": "CreditCardPayment",
+    "transactionDate": "2026-02-07T10:15:00Z",
+    "status": "Completed",
+    "method": "Boleto",
+    "reference": "BOL-NUB-002-2026"
+  },
+  {
+    "transactionId": "TXN-NUB-2026-003",
+    "customerId": "c1000001-0001-0001-0001-000000000003",
+    "customerName": "João Oliveira",
+    "amount": 25000.0,
+    "currency": "BRL",
+    "transactionType": "LoanDisbursement",
+    "transactionDate": "2026-02-06T16:00:00Z",
+    "status": "Completed",
+    "method": "TED",
+    "reference": "TED-NUB-003-2026"
+  },
+  {
+    "transactionId": "TXN-NUB-2026-004",
+    "customerId": "c1000001-0001-0001-0001-000000000004",
+    "customerName": "Maria Souza",
+    "amount": 500.0,
+    "currency": "BRL",
+    "transactionType": "Caixinhas",
+    "transactionDate": "2026-02-07T12:00:00Z",
+    "status": "Completed",
+    "method": "Internal",
+    "reference": "CX-NUB-004-2026"
+  },
+  {
+    "transactionId": "TXN-NUB-2026-005",
+    "customerId": "c1000001-0001-0001-0001-000000000005",
+    "customerName": "Pedro Rodrigues",
+    "amount": 2800.0,
+    "currency": "BRL",
+    "transactionType": "CreditCardPurchase",
+    "transactionDate": "2026-02-07T19:30:00Z",
+    "status": "Pending",
+    "method": "Mastercard",
+    "reference": "CC-NUB-005-2026"
+  }
+]

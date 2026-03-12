@@ -1,0 +1,67 @@
+[
+  {
+    "benefitId": "bn200000-0001-0000-0000-0000000002001",
+    "employeeId": "e2000000-0001-0000-0000-0000000002001",
+    "employeeName": "Kwame Owusu",
+    "benefitType": "MedicalAid",
+    "provider": "SIC Life Insurance",
+    "contributionEmployee": 356,
+    "contributionEmployer": 712,
+    "currency": "GHS",
+    "effectiveDate": "2025-01-01",
+    "isActive": true,
+    "createdAt": "2025-01-01T00:00:00Z"
+  },
+  {
+    "benefitId": "bn200000-0002-0000-0000-0000000002002",
+    "employeeId": "e2000000-0002-0000-0000-0000000002002",
+    "employeeName": "Abena Asamoah",
+    "benefitType": "Pension",
+    "provider": "Enterprise Life Ghana",
+    "contributionEmployee": 399,
+    "contributionEmployer": 799,
+    "currency": "GHS",
+    "effectiveDate": "2025-01-01",
+    "isActive": true,
+    "createdAt": "2025-01-01T00:00:00Z"
+  },
+  {
+    "benefitId": "bn200000-0003-0000-0000-0000000002003",
+    "employeeId": "e2000000-0003-0000-0000-0000000002003",
+    "employeeName": "Kofi Appiah",
+    "benefitType": "LifeInsurance",
+    "provider": "Star Life Assurance",
+    "contributionEmployee": 443,
+    "contributionEmployer": 886,
+    "currency": "GHS",
+    "effectiveDate": "2025-01-01",
+    "isActive": true,
+    "createdAt": "2025-01-01T00:00:00Z"
+  },
+  {
+    "benefitId": "bn200000-0004-0000-0000-0000000002004",
+    "employeeId": "e2000000-0004-0000-0000-0000000002004",
+    "employeeName": "Ama Ofori",
+    "benefitType": "HousingAllowance",
+    "provider": "SSNIT",
+    "contributionEmployee": 486,
+    "contributionEmployer": 973,
+    "currency": "GHS",
+    "effectiveDate": "2025-01-01",
+    "isActive": true,
+    "createdAt": "2025-01-01T00:00:00Z"
+  },
+  {
+    "benefitId": "bn200000-0005-0000-0000-0000000002005",
+    "employeeId": "e2000000-0005-0000-0000-0000000002005",
+    "employeeName": "Akosua Acheampong",
+    "benefitType": "TransportAllowance",
+    "provider": "Life Assurance Co",
+    "contributionEmployee": 530,
+    "contributionEmployer": 1060,
+    "currency": "GHS",
+    "effectiveDate": "2025-01-01",
+    "isActive": true,
+    "createdAt": "2025-01-01T00:00:00Z"
+  }
+]

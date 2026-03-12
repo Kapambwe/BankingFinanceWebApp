@@ -1,0 +1,677 @@
+[
+  {
+    "journalEntryId": "JE-AIR-00001",
+    "entryDate": "2025-09-15T07:31:07Z",
+    "description": "Adjustment \u2014 Airtel Zambia period reconciliation",
+    "reference": "REF-AIR-778684",
+    "status": "Posted",
+    "entryType": "Adjustment",
+    "currency": "ZMW",
+    "totalDebits": 3705550.16,
+    "totalCredits": 3705550.16,
+    "createdBy": "AccountingBot",
+    "postedBy": "Finance Officer 4",
+    "lines": [
+      {
+        "accountCode": "3374",
+        "accountName": "Adjustment Account",
+        "debit": 3705550.16,
+        "credit": 0.0
+      },
+      {
+        "accountCode": "5699",
+        "accountName": "Settlement/Clearing Account",
+        "debit": 0.0,
+        "credit": 3705550.16
+      }
+    ]
+  },
+  {
+    "journalEntryId": "JE-AIR-00002",
+    "entryDate": "2026-03-16T00:40:44Z",
+    "description": "Commission \u2014 Airtel Zambia period reconciliation",
+    "reference": "REF-AIR-863933",
+    "status": "Draft",
+    "entryType": "Commission",
+    "currency": "ZMW",
+    "totalDebits": 3351094.27,
+    "totalCredits": 3351094.27,
+    "createdBy": "AccountingBot",
+    "postedBy": "Finance Officer 3",
+    "lines": [
+      {
+        "accountCode": "1920",
+        "accountName": "Commission Account",
+        "debit": 3351094.27,
+        "credit": 0.0
+      },
+      {
+        "accountCode": "4923",
+        "accountName": "Settlement/Clearing Account",
+        "debit": 0.0,
+        "credit": 3351094.27
+      }
+    ]
+  },
+  {
+    "journalEntryId": "JE-AIR-00003",
+    "entryDate": "2026-06-11T14:59:29Z",
+    "description": "Expense \u2014 Airtel Zambia period reconciliation",
+    "reference": "REF-AIR-677723",
+    "status": "Posted",
+    "entryType": "Expense",
+    "currency": "ZMW",
+    "totalDebits": 4505863.62,
+    "totalCredits": 4505863.62,
+    "createdBy": "AccountingBot",
+    "postedBy": "Finance Officer 3",
+    "lines": [
+      {
+        "accountCode": "1203",
+        "accountName": "Expense Account",
+        "debit": 4505863.62,
+        "credit": 0.0
+      },
+      {
+        "accountCode": "4290",
+        "accountName": "Settlement/Clearing Account",
+        "debit": 0.0,
+        "credit": 4505863.62
+      }
+    ]
+  },
+  {
+    "journalEntryId": "JE-AIR-00004",
+    "entryDate": "2025-12-13T09:32:00Z",
+    "description": "Expense \u2014 Airtel Zambia period reconciliation",
+    "reference": "REF-AIR-474754",
+    "status": "Posted",
+    "entryType": "Expense",
+    "currency": "ZMW",
+    "totalDebits": 3106733.86,
+    "totalCredits": 3106733.86,
+    "createdBy": "AccountingBot",
+    "postedBy": "Finance Officer 3",
+    "lines": [
+      {
+        "accountCode": "1450",
+        "accountName": "Expense Account",
+        "debit": 3106733.86,
+        "credit": 0.0
+      },
+      {
+        "accountCode": "5981",
+        "accountName": "Settlement/Clearing Account",
+        "debit": 0.0,
+        "credit": 3106733.86
+      }
+    ]
+  },
+  {
+    "journalEntryId": "JE-AIR-00005",
+    "entryDate": "2026-02-13T21:26:17Z",
+    "description": "Adjustment \u2014 Airtel Zambia period reconciliation",
+    "reference": "REF-AIR-332934",
+    "status": "Posted",
+    "entryType": "Adjustment",
+    "currency": "ZMW",
+    "totalDebits": 3224497.63,
+    "totalCredits": 3224497.63,
+    "createdBy": "AccountingBot",
+    "postedBy": "Finance Officer 2",
+    "lines": [
+      {
+        "accountCode": "1184",
+        "accountName": "Adjustment Account",
+        "debit": 3224497.63,
+        "credit": 0.0
+      },
+      {
+        "accountCode": "1684",
+        "accountName": "Settlement/Clearing Account",
+        "debit": 0.0,
+        "credit": 3224497.63
+      }
+    ]
+  },
+  {
+    "journalEntryId": "JE-AIR-00006",
+    "entryDate": "2026-06-10T21:22:34Z",
+    "description": "Accrual \u2014 Airtel Zambia period reconciliation",
+    "reference": "REF-AIR-804179",
+    "status": "Posted",
+    "entryType": "Accrual",
+    "currency": "ZMW",
+    "totalDebits": 2715140.86,
+    "totalCredits": 2715140.86,
+    "createdBy": "AccountingBot",
+    "postedBy": "Finance Officer 5",
+    "lines": [
+      {
+        "accountCode": "4231",
+        "accountName": "Accrual Account",
+        "debit": 2715140.86,
+        "credit": 0.0
+      },
+      {
+        "accountCode": "2592",
+        "accountName": "Settlement/Clearing Account",
+        "debit": 0.0,
+        "credit": 2715140.86
+      }
+    ]
+  },
+  {
+    "journalEntryId": "JE-AIR-00007",
+    "entryDate": "2026-04-15T23:28:05Z",
+    "description": "Adjustment \u2014 Airtel Zambia period reconciliation",
+    "reference": "REF-AIR-636405",
+    "status": "Posted",
+    "entryType": "Adjustment",
+    "currency": "ZMW",
+    "totalDebits": 2477803.53,
+    "totalCredits": 2477803.53,
+    "createdBy": "AccountingBot",
+    "postedBy": "Finance Officer 3",
+    "lines": [
+      {
+        "accountCode": "4256",
+        "accountName": "Adjustment Account",
+        "debit": 2477803.53,
+        "credit": 0.0
+      },
+      {
+        "accountCode": "2211",
+        "accountName": "Settlement/Clearing Account",
+        "debit": 0.0,
+        "credit": 2477803.53
+      }
+    ]
+  },
+  {
+    "journalEntryId": "JE-AIR-00008",
+    "entryDate": "2025-10-15T02:24:07Z",
+    "description": "Accrual \u2014 Airtel Zambia period reconciliation",
+    "reference": "REF-AIR-504868",
+    "status": "Posted",
+    "entryType": "Accrual",
+    "currency": "ZMW",
+    "totalDebits": 3594020.67,
+    "totalCredits": 3594020.67,
+    "createdBy": "AccountingBot",
+    "postedBy": "Finance Officer 1",
+    "lines": [
+      {
+        "accountCode": "3331",
+        "accountName": "Accrual Account",
+        "debit": 3594020.67,
+        "credit": 0.0
+      },
+      {
+        "accountCode": "3825",
+        "accountName": "Settlement/Clearing Account",
+        "debit": 0.0,
+        "credit": 3594020.67
+      }
+    ]
+  },
+  {
+    "journalEntryId": "JE-AIR-00009",
+    "entryDate": "2026-11-11T02:09:56Z",
+    "description": "Accrual \u2014 Airtel Zambia period reconciliation",
+    "reference": "REF-AIR-688285",
+    "status": "Posted",
+    "entryType": "Accrual",
+    "currency": "ZMW",
+    "totalDebits": 1789207.42,
+    "totalCredits": 1789207.42,
+    "createdBy": "AccountingBot",
+    "postedBy": "Finance Officer 2",
+    "lines": [
+      {
+        "accountCode": "4639",
+        "accountName": "Accrual Account",
+        "debit": 1789207.42,
+        "credit": 0.0
+      },
+      {
+        "accountCode": "4404",
+        "accountName": "Settlement/Clearing Account",
+        "debit": 0.0,
+        "credit": 1789207.42
+      }
+    ]
+  },
+  {
+    "journalEntryId": "JE-AIR-00010",
+    "entryDate": "2025-05-08T05:16:23Z",
+    "description": "Settlement \u2014 Airtel Zambia period reconciliation",
+    "reference": "REF-AIR-944809",
+    "status": "Draft",
+    "entryType": "Settlement",
+    "currency": "ZMW",
+    "totalDebits": 4028243.25,
+    "totalCredits": 4028243.25,
+    "createdBy": "AccountingBot",
+    "postedBy": "Finance Officer 4",
+    "lines": [
+      {
+        "accountCode": "2143",
+        "accountName": "Settlement Account",
+        "debit": 4028243.25,
+        "credit": 0.0
+      },
+      {
+        "accountCode": "5810",
+        "accountName": "Settlement/Clearing Account",
+        "debit": 0.0,
+        "credit": 4028243.25
+      }
+    ]
+  },
+  {
+    "journalEntryId": "JE-AIR-00011",
+    "entryDate": "2025-06-11T09:22:14Z",
+    "description": "Expense \u2014 Airtel Zambia period reconciliation",
+    "reference": "REF-AIR-417960",
+    "status": "Draft",
+    "entryType": "Expense",
+    "currency": "ZMW",
+    "totalDebits": 3009781.75,
+    "totalCredits": 3009781.75,
+    "createdBy": "AccountingBot",
+    "postedBy": "Finance Officer 5",
+    "lines": [
+      {
+        "accountCode": "3747",
+        "accountName": "Expense Account",
+        "debit": 3009781.75,
+        "credit": 0.0
+      },
+      {
+        "accountCode": "1541",
+        "accountName": "Settlement/Clearing Account",
+        "debit": 0.0,
+        "credit": 3009781.75
+      }
+    ]
+  },
+  {
+    "journalEntryId": "JE-AIR-00012",
+    "entryDate": "2026-08-11T06:59:15Z",
+    "description": "Adjustment \u2014 Airtel Zambia period reconciliation",
+    "reference": "REF-AIR-494025",
+    "status": "Posted",
+    "entryType": "Adjustment",
+    "currency": "ZMW",
+    "totalDebits": 4669107.33,
+    "totalCredits": 4669107.33,
+    "createdBy": "AccountingBot",
+    "postedBy": "Finance Officer 1",
+    "lines": [
+      {
+        "accountCode": "4354",
+        "accountName": "Adjustment Account",
+        "debit": 4669107.33,
+        "credit": 0.0
+      },
+      {
+        "accountCode": "3239",
+        "accountName": "Settlement/Clearing Account",
+        "debit": 0.0,
+        "credit": 4669107.33
+      }
+    ]
+  },
+  {
+    "journalEntryId": "JE-AIR-00013",
+    "entryDate": "2025-12-25T22:32:25Z",
+    "description": "Adjustment \u2014 Airtel Zambia period reconciliation",
+    "reference": "REF-AIR-844747",
+    "status": "Pending",
+    "entryType": "Adjustment",
+    "currency": "ZMW",
+    "totalDebits": 2101844.37,
+    "totalCredits": 2101844.37,
+    "createdBy": "AccountingBot",
+    "postedBy": "Finance Officer 2",
+    "lines": [
+      {
+        "accountCode": "2632",
+        "accountName": "Adjustment Account",
+        "debit": 2101844.37,
+        "credit": 0.0
+      },
+      {
+        "accountCode": "2523",
+        "accountName": "Settlement/Clearing Account",
+        "debit": 0.0,
+        "credit": 2101844.37
+      }
+    ]
+  },
+  {
+    "journalEntryId": "JE-AIR-00014",
+    "entryDate": "2026-03-07T04:49:40Z",
+    "description": "Settlement \u2014 Airtel Zambia period reconciliation",
+    "reference": "REF-AIR-614416",
+    "status": "Posted",
+    "entryType": "Settlement",
+    "currency": "ZMW",
+    "totalDebits": 4169804.43,
+    "totalCredits": 4169804.43,
+    "createdBy": "AccountingBot",
+    "postedBy": "Finance Officer 3",
+    "lines": [
+      {
+        "accountCode": "5794",
+        "accountName": "Settlement Account",
+        "debit": 4169804.43,
+        "credit": 0.0
+      },
+      {
+        "accountCode": "3489",
+        "accountName": "Settlement/Clearing Account",
+        "debit": 0.0,
+        "credit": 4169804.43
+      }
+    ]
+  },
+  {
+    "journalEntryId": "JE-AIR-00015",
+    "entryDate": "2025-12-26T23:22:06Z",
+    "description": "Tax \u2014 Airtel Zambia period reconciliation",
+    "reference": "REF-AIR-335426",
+    "status": "Posted",
+    "entryType": "Tax",
+    "currency": "ZMW",
+    "totalDebits": 2495797.4,
+    "totalCredits": 2495797.4,
+    "createdBy": "AccountingBot",
+    "postedBy": "Finance Officer 1",
+    "lines": [
+      {
+        "accountCode": "2261",
+        "accountName": "Tax Account",
+        "debit": 2495797.4,
+        "credit": 0.0
+      },
+      {
+        "accountCode": "3151",
+        "accountName": "Settlement/Clearing Account",
+        "debit": 0.0,
+        "credit": 2495797.4
+      }
+    ]
+  },
+  {
+    "journalEntryId": "JE-AIR-00016",
+    "entryDate": "2024-10-27T16:49:14Z",
+    "description": "Expense \u2014 Airtel Zambia period 16",
+    "reference": "REF-AIR-339464",
+    "status": "Pending",
+    "entryType": "Expense",
+    "currency": "ZMW",
+    "totalDebits": 5430135.01,
+    "totalCredits": 5430135.01,
+    "createdBy": "AccountingBot",
+    "postedBy": "Finance Officer 4",
+    "lines": [
+      {
+        "accountCode": "5577",
+        "accountName": "Expense Account",
+        "debit": 5430135.01,
+        "credit": 0.0
+      },
+      {
+        "accountCode": "1034",
+        "accountName": "Settlement/Clearing Account",
+        "debit": 0.0,
+        "credit": 5430135.01
+      }
+    ]
+  },
+  {
+    "journalEntryId": "JE-AIR-00017",
+    "entryDate": "2025-09-27T11:43:49Z",
+    "description": "Settlement \u2014 Airtel Zambia period 17",
+    "reference": "REF-AIR-331718",
+    "status": "Posted",
+    "entryType": "Settlement",
+    "currency": "ZMW",
+    "totalDebits": 6906282.66,
+    "totalCredits": 6906282.66,
+    "createdBy": "AccountingBot",
+    "postedBy": "Finance Officer 7",
+    "lines": [
+      {
+        "accountCode": "1352",
+        "accountName": "Settlement Account",
+        "debit": 6906282.66,
+        "credit": 0.0
+      },
+      {
+        "accountCode": "4002",
+        "accountName": "Settlement/Clearing Account",
+        "debit": 0.0,
+        "credit": 6906282.66
+      }
+    ]
+  },
+  {
+    "journalEntryId": "JE-AIR-00018",
+    "entryDate": "2024-08-02T19:13:44Z",
+    "description": "Accrual \u2014 Airtel Zambia period 18",
+    "reference": "REF-AIR-166182",
+    "status": "Posted",
+    "entryType": "Accrual",
+    "currency": "ZMW",
+    "totalDebits": 6000912.11,
+    "totalCredits": 6000912.11,
+    "createdBy": "AccountingBot",
+    "postedBy": "Finance Officer 5",
+    "lines": [
+      {
+        "accountCode": "5118",
+        "accountName": "Accrual Account",
+        "debit": 6000912.11,
+        "credit": 0.0
+      },
+      {
+        "accountCode": "4060",
+        "accountName": "Settlement/Clearing Account",
+        "debit": 0.0,
+        "credit": 6000912.11
+      }
+    ]
+  },
+  {
+    "journalEntryId": "JE-AIR-00019",
+    "entryDate": "2024-11-09T01:11:45Z",
+    "description": "Adjustment \u2014 Airtel Zambia period 19",
+    "reference": "REF-AIR-814056",
+    "status": "Draft",
+    "entryType": "Adjustment",
+    "currency": "ZMW",
+    "totalDebits": 6561117.92,
+    "totalCredits": 6561117.92,
+    "createdBy": "AccountingBot",
+    "postedBy": "Finance Officer 5",
+    "lines": [
+      {
+        "accountCode": "1373",
+        "accountName": "Adjustment Account",
+        "debit": 6561117.92,
+        "credit": 0.0
+      },
+      {
+        "accountCode": "1713",
+        "accountName": "Settlement/Clearing Account",
+        "debit": 0.0,
+        "credit": 6561117.92
+      }
+    ]
+  },
+  {
+    "journalEntryId": "JE-AIR-00020",
+    "entryDate": "2024-05-09T02:00:56Z",
+    "description": "Tax \u2014 Airtel Zambia period 20",
+    "reference": "REF-AIR-409120",
+    "status": "Posted",
+    "entryType": "Tax",
+    "currency": "ZMW",
+    "totalDebits": 6548900.23,
+    "totalCredits": 6548900.23,
+    "createdBy": "AccountingBot",
+    "postedBy": "Finance Officer 8",
+    "lines": [
+      {
+        "accountCode": "2762",
+        "accountName": "Tax Account",
+        "debit": 6548900.23,
+        "credit": 0.0
+      },
+      {
+        "accountCode": "5907",
+        "accountName": "Settlement/Clearing Account",
+        "debit": 0.0,
+        "credit": 6548900.23
+      }
+    ]
+  },
+  {
+    "journalEntryId": "JE-AIR-00021",
+    "entryDate": "2025-03-24T00:48:51Z",
+    "description": "Commission \u2014 Airtel Zambia period 21",
+    "reference": "REF-AIR-432554",
+    "status": "Posted",
+    "entryType": "Commission",
+    "currency": "ZMW",
+    "totalDebits": 6643308.45,
+    "totalCredits": 6643308.45,
+    "createdBy": "AccountingBot",
+    "postedBy": "Finance Officer 6",
+    "lines": [
+      {
+        "accountCode": "2883",
+        "accountName": "Commission Account",
+        "debit": 6643308.45,
+        "credit": 0.0
+      },
+      {
+        "accountCode": "5409",
+        "accountName": "Settlement/Clearing Account",
+        "debit": 0.0,
+        "credit": 6643308.45
+      }
+    ]
+  },
+  {
+    "journalEntryId": "JE-AIR-00022",
+    "entryDate": "2025-01-05T06:52:16Z",
+    "description": "Depreciation \u2014 Airtel Zambia period 22",
+    "reference": "REF-AIR-275936",
+    "status": "Pending",
+    "entryType": "Depreciation",
+    "currency": "ZMW",
+    "totalDebits": 2284394.9,
+    "totalCredits": 2284394.9,
+    "createdBy": "AccountingBot",
+    "postedBy": "Finance Officer 4",
+    "lines": [
+      {
+        "accountCode": "1513",
+        "accountName": "Depreciation Account",
+        "debit": 2284394.9,
+        "credit": 0.0
+      },
+      {
+        "accountCode": "2024",
+        "accountName": "Settlement/Clearing Account",
+        "debit": 0.0,
+        "credit": 2284394.9
+      }
+    ]
+  },
+  {
+    "journalEntryId": "JE-AIR-00023",
+    "entryDate": "2024-10-29T08:06:50Z",
+    "description": "Provision \u2014 Airtel Zambia period 23",
+    "reference": "REF-AIR-508407",
+    "status": "Posted",
+    "entryType": "Provision",
+    "currency": "ZMW",
+    "totalDebits": 931709.46,
+    "totalCredits": 931709.46,
+    "createdBy": "AccountingBot",
+    "postedBy": "Finance Officer 1",
+    "lines": [
+      {
+        "accountCode": "2283",
+        "accountName": "Provision Account",
+        "debit": 931709.46,
+        "credit": 0.0
+      },
+      {
+        "accountCode": "2561",
+        "accountName": "Settlement/Clearing Account",
+        "debit": 0.0,
+        "credit": 931709.46
+      }
+    ]
+  },
+  {
+    "journalEntryId": "JE-AIR-00024",
+    "entryDate": "2025-11-14T09:11:39Z",
+    "description": "Revaluation \u2014 Airtel Zambia period 24",
+    "reference": "REF-AIR-231207",
+    "status": "Posted",
+    "entryType": "Revaluation",
+    "currency": "ZMW",
+    "totalDebits": 7436201.99,
+    "totalCredits": 7436201.99,
+    "createdBy": "AccountingBot",
+    "postedBy": "Finance Officer 5",
+    "lines": [
+      {
+        "accountCode": "2243",
+        "accountName": "Revaluation Account",
+        "debit": 7436201.99,
+        "credit": 0.0
+      },
+      {
+        "accountCode": "2580",
+        "accountName": "Settlement/Clearing Account",
+        "debit": 0.0,
+        "credit": 7436201.99
+      }
+    ]
+  },
+  {
+    "journalEntryId": "JE-AIR-00025",
+    "entryDate": "2024-11-10T18:25:52Z",
+    "description": "Intercompany \u2014 Airtel Zambia period 25",
+    "reference": "REF-AIR-841389",
+    "status": "Posted",
+    "entryType": "Intercompany",
+    "currency": "ZMW",
+    "totalDebits": 1505715.16,
+    "totalCredits": 1505715.16,
+    "createdBy": "AccountingBot",
+    "postedBy": "Finance Officer 2",
+    "lines": [
+      {
+        "accountCode": "4699",
+        "accountName": "Intercompany Account",
+        "debit": 1505715.16,
+        "credit": 0.0
+      },
+      {
+        "accountCode": "4921",
+        "accountName": "Settlement/Clearing Account",
+        "debit": 0.0,
+        "credit": 1505715.16
+      }
+    ]
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "creditId": "cc200000-0001",
+    "creditType": "Verified Carbon Unit",
+    "projectName": "Ghana Healthcare Facility Solar Initiative",
+    "projectLocation": "Accra",
+    "vintageYear": 2024,
+    "creditsAmount": 500,
+    "creditValue": 108.0,
+    "currency": "GHS",
+    "certificationBody": "Verra",
+    "status": "Active",
+    "expiryDate": "2034-12-31",
+    "createdAt": "2024-06-01T00:00:00Z"
+  },
+  {
+    "creditId": "cc200000-0002",
+    "creditType": "Gold Standard Credit",
+    "projectName": "Ghana Clean Cooking for Health Workers",
+    "projectLocation": "Ghana",
+    "vintageYear": 2024,
+    "creditsAmount": 250,
+    "creditValue": 64.0,
+    "currency": "GHS",
+    "certificationBody": "Gold Standard",
+    "status": "Active",
+    "expiryDate": "2034-12-31",
+    "createdAt": "2024-09-01T00:00:00Z"
+  },
+  {
+    "creditId": "cc200000-0003",
+    "creditType": "REDD+ Credit",
+    "projectName": "Ghana Forest Conservation Health Buffer Zone",
+    "projectLocation": "West Africa",
+    "vintageYear": 2023,
+    "creditsAmount": 1000,
+    "creditValue": 172.0,
+    "currency": "GHS",
+    "certificationBody": "Verra",
+    "status": "Retired",
+    "expiryDate": "2033-12-31",
+    "createdAt": "2023-12-01T00:00:00Z"
+  }
+]

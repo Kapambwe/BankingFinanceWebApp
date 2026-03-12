@@ -1,0 +1,80 @@
+[
+  {
+    "ruleId": 1,
+    "ruleName": "Bills KES 65,000\u2013650,000 require Branch Coordinator approval",
+    "type": "Bill",
+    "minAmount": 65000,
+    "maxAmount": 650000,
+    "approverId": "manager@smallbusines.co",
+    "approverName": "Branch Coordinator",
+    "level": 1,
+    "isActive": true,
+    "autoApproveBelow": false,
+    "notes": "Standard operational expenditure threshold"
+  },
+  {
+    "ruleId": 2,
+    "ruleName": "Bills above KES 650,000 require Chief Finance Officer approval",
+    "type": "Bill",
+    "minAmount": 650000,
+    "maxAmount": null,
+    "approverId": "cfo@smallbusines.co",
+    "approverName": "Chief Finance Officer",
+    "level": 2,
+    "isActive": true,
+    "autoApproveBelow": false,
+    "notes": "Capital expenditure and large operational bills"
+  },
+  {
+    "ruleId": 3,
+    "ruleName": "Bills above KES 3,200,000 require Executive Director approval",
+    "type": "Bill",
+    "minAmount": 3200000,
+    "maxAmount": null,
+    "approverId": "ceo@smallbusines.co",
+    "approverName": "Executive Director",
+    "level": 3,
+    "isActive": true,
+    "autoApproveBelow": false,
+    "notes": "Strategic vendor contracts and major capital expenditure"
+  },
+  {
+    "ruleId": 4,
+    "ruleName": "Journal entries above KES 325,000 require Chief Finance Officer approval",
+    "type": "JournalEntry",
+    "minAmount": 325000.0,
+    "maxAmount": null,
+    "approverId": "controller@smallbusines.co",
+    "approverName": "Financial Controller",
+    "level": 1,
+    "isActive": true,
+    "autoApproveBelow": false,
+    "notes": "SOX control \u2014 manual journal entries above threshold"
+  },
+  {
+    "ruleId": 5,
+    "ruleName": "Payments below KES 32,000 auto-approved",
+    "type": "Payment",
+    "minAmount": 0,
+    "maxAmount": 32000,
+    "approverId": "system@smallbusines.co",
+    "approverName": "System",
+    "level": 1,
+    "isActive": true,
+    "autoApproveBelow": true,
+    "notes": "Petty cash and minor operational payments"
+  },
+  {
+    "ruleId": 6,
+    "ruleName": "Budget changes above KES 650,000 require Chief Finance Officer approval",
+    "type": "BudgetChange",
+    "minAmount": 650000,
+    "maxAmount": null,
+    "approverId": "cfo@smallbusines.co",
+    "approverName": "Chief Finance Officer",
+    "level": 2,
+    "isActive": true,
+    "autoApproveBelow": false,
+    "notes": "Budget revisions require justification memo"
+  }
+]

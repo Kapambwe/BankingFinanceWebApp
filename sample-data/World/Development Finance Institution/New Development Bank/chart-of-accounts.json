@@ -1,0 +1,18 @@
+[
+  {"accountCode":"1000","accountName":"Cash and Cash Equivalents","accountType":"Asset","balance":3800000000.00,"currency":"USD"},
+  {"accountCode":"1100","accountName":"Sovereign Loans Outstanding","accountType":"Asset","balance":12000000000.00,"currency":"USD"},
+  {"accountCode":"1200","accountName":"Green Bond Facilities Outstanding","accountType":"Asset","balance":5500000000.00,"currency":"USD"},
+  {"accountCode":"1300","accountName":"Infrastructure Loans Outstanding","accountType":"Asset","balance":3200000000.00,"currency":"USD"},
+  {"accountCode":"1400","accountName":"Emergency Facilities Outstanding","accountType":"Asset","balance":1300000000.00,"currency":"USD"},
+  {"accountCode":"1500","accountName":"Investment Securities","accountType":"Asset","balance":7800000000.00,"currency":"USD"},
+  {"accountCode":"1600","accountName":"Derivative Assets","accountType":"Asset","balance":1400000000.00,"currency":"USD"},
+  {"accountCode":"2000","accountName":"Borrowings","accountType":"Liability","balance":20500000000.00,"currency":"USD"},
+  {"accountCode":"2100","accountName":"Accounts Payable and Accruals","accountType":"Liability","balance":850000000.00,"currency":"USD"},
+  {"accountCode":"3000","accountName":"Paid-in Capital","accountType":"Equity","balance":10000000000.00,"currency":"USD"},
+  {"accountCode":"3100","accountName":"Callable Capital","accountType":"Equity","balance":40000000000.00,"currency":"USD"},
+  {"accountCode":"3200","accountName":"Retained Earnings","accountType":"Equity","balance":1800000000.00,"currency":"USD"},
+  {"accountCode":"4000","accountName":"Interest Income - Loans","accountType":"Revenue","balance":1200000000.00,"currency":"USD"},
+  {"accountCode":"4100","accountName":"Green Bond Income","accountType":"Revenue","balance":280000000.00,"currency":"USD"},
+  {"accountCode":"5000","accountName":"Interest Expense","accountType":"Expense","balance":920000000.00,"currency":"USD"},
+  {"accountCode":"5100","accountName":"Administrative Expenses","accountType":"Expense","balance":120000000.00,"currency":"USD"}
+]

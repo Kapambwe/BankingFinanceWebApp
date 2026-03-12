@@ -1,0 +1,138 @@
+[
+  {
+    "providerId": "P-001",
+    "providerName": "Korle Bu Teaching Hospital",
+    "accreditationNumber": "NHIS-ACC-0001",
+    "region": "Greater Accra",
+    "address": "Korle Bu Teaching Hospital, Greater Accra",
+    "tier": "Tertiary",
+    "category": "Public Hospital",
+    "servicesOffered": [
+      "Inpatient",
+      "Outpatient",
+      "Emergency",
+      "Surgery",
+      "Maternity"
+    ],
+    "isAccredited": true,
+    "accreditationDate": "2023-01-01T00:00:00Z",
+    "accreditationExpiry": "2026-01-01T00:00:00Z"
+  },
+  {
+    "providerId": "P-002",
+    "providerName": "Komfo Anokye Teaching Hospital",
+    "accreditationNumber": "NHIS-ACC-0002",
+    "region": "Ashanti",
+    "address": "Komfo Anokye Teaching Hospital, Ashanti",
+    "tier": "Tertiary",
+    "category": "Private Hospital",
+    "servicesOffered": [
+      "Inpatient",
+      "Outpatient",
+      "Emergency",
+      "Surgery",
+      "Maternity"
+    ],
+    "isAccredited": true,
+    "accreditationDate": "2023-02-01T00:00:00Z",
+    "accreditationExpiry": "2026-02-01T00:00:00Z"
+  },
+  {
+    "providerId": "P-003",
+    "providerName": "Tamale Teaching Hospital",
+    "accreditationNumber": "NHIS-ACC-0003",
+    "region": "Northern",
+    "address": "Tamale Teaching Hospital, Northern",
+    "tier": "Secondary",
+    "category": "PolyClinic",
+    "servicesOffered": [
+      "Inpatient",
+      "Outpatient",
+      "Maternity"
+    ],
+    "isAccredited": true,
+    "accreditationDate": "2023-03-01T00:00:00Z",
+    "accreditationExpiry": "2026-03-01T00:00:00Z"
+  },
+  {
+    "providerId": "P-004",
+    "providerName": "37 Military Hospital",
+    "accreditationNumber": "NHIS-ACC-0004",
+    "region": "Central",
+    "address": "37 Military Hospital, Central",
+    "tier": "Secondary",
+    "category": "Health Centre",
+    "servicesOffered": [
+      "Inpatient",
+      "Outpatient",
+      "Maternity"
+    ],
+    "isAccredited": true,
+    "accreditationDate": "2023-04-01T00:00:00Z",
+    "accreditationExpiry": "2026-04-01T00:00:00Z"
+  },
+  {
+    "providerId": "P-005",
+    "providerName": "Cape Coast Teaching Hospital",
+    "accreditationNumber": "NHIS-ACC-0005",
+    "region": "Western",
+    "address": "Cape Coast Teaching Hospital, Western",
+    "tier": "Primary",
+    "category": "Maternity Home",
+    "servicesOffered": [
+      "Outpatient",
+      "Pharmaceutical"
+    ],
+    "isAccredited": true,
+    "accreditationDate": "2023-05-01T00:00:00Z",
+    "accreditationExpiry": "2026-05-01T00:00:00Z"
+  },
+  {
+    "providerId": "P-006",
+    "providerName": "Agogo Presbyterian Hospital",
+    "accreditationNumber": "NHIS-ACC-0006",
+    "region": "Volta",
+    "address": "Agogo Presbyterian Hospital, Volta",
+    "tier": "Primary",
+    "category": "Pharmacy",
+    "servicesOffered": [
+      "Outpatient",
+      "Pharmaceutical"
+    ],
+    "isAccredited": true,
+    "accreditationDate": "2023-06-01T00:00:00Z",
+    "accreditationExpiry": "2026-06-01T00:00:00Z"
+  },
+  {
+    "providerId": "P-007",
+    "providerName": "Cocoa Clinic",
+    "accreditationNumber": "NHIS-ACC-0007",
+    "region": "Eastern",
+    "address": "Cocoa Clinic, Eastern",
+    "tier": "Accredited",
+    "category": "Public Hospital",
+    "servicesOffered": [
+      "Outpatient",
+      "Pharmaceutical"
+    ],
+    "isAccredited": true,
+    "accreditationDate": "2023-07-01T00:00:00Z",
+    "accreditationExpiry": "2026-07-01T00:00:00Z"
+  },
+  {
+    "providerId": "P-008",
+    "providerName": "Ernest Chemists",
+    "accreditationNumber": "NHIS-ACC-0008",
+    "region": "Brong-Ahafo",
+    "address": "Ernest Chemists, Brong-Ahafo",
+    "tier": "Primary",
+    "category": "Private Hospital",
+    "servicesOffered": [
+      "Outpatient",
+      "Pharmaceutical"
+    ],
+    "isAccredited": true,
+    "accreditationDate": "2023-08-01T00:00:00Z",
+    "accreditationExpiry": "2026-08-01T00:00:00Z"
+  }
+]

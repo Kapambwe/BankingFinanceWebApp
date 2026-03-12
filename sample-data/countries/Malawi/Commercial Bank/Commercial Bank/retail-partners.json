@@ -1,0 +1,124 @@
+[
+  {
+    "partnerId": "RP-MAL-001",
+    "businessName": "Shoprite Malawi Malawi Ltd",
+    "brandName": "Shoprite Malawi",
+    "partnerType": "ConvenienceStore",
+    "country": "Malawi",
+    "currency": "MWK",
+    "contactPerson": "Partner Manager 1",
+    "email": "banking@shopritemala.ma",
+    "phoneNumber": "+642-559-697145",
+    "servicesOffered": [
+      "MoneyTransfer",
+      "AirtimePurchase",
+      "CashDeposit"
+    ],
+    "acceptedPaymentMethods": [
+      "AccountNumber",
+      "CardTap",
+      "QRCode",
+      "USSD"
+    ],
+    "totalStores": 154,
+    "activeStores": 151,
+    "storeLocations": [
+      "Zomba",
+      "Lilongwe",
+      "Blantyre",
+      "Mzuzu"
+    ],
+    "monthlyTransactionVolume": 821876.66,
+    "monthlyTransactionCount": 2546,
+    "averageTransactionSize": 103.97,
+    "commissionRate": 1.37,
+    "monthlyRevenue": 4478.03,
+    "partnershipStartDate": "2024-02-01T18:10:28Z",
+    "status": "Active",
+    "brandColor": "#044f49",
+    "isIntegrated": true,
+    "lastSyncDate": "2026-03-03T18:10:28Z"
+  },
+  {
+    "partnerId": "RP-MAL-002",
+    "businessName": "Chipiku Stores Malawi Ltd",
+    "brandName": "Chipiku Stores",
+    "partnerType": "SmallShop",
+    "country": "Malawi",
+    "currency": "MWK",
+    "contactPerson": "Partner Manager 2",
+    "email": "banking@chipikustore.ma",
+    "phoneNumber": "+996-229-222504",
+    "servicesOffered": [
+      "BillPayment",
+      "MoneyTransfer",
+      "AccountOpening",
+      "AirtimePurchase",
+      "CashWithdrawal"
+    ],
+    "acceptedPaymentMethods": [
+      "QRCode",
+      "USSD",
+      "CardTap",
+      "Cash",
+      "PhoneNumber",
+      "AccountNumber"
+    ],
+    "totalStores": 180,
+    "activeStores": 176,
+    "storeLocations": [
+      "Zomba",
+      "Lilongwe",
+      "Mzuzu"
+    ],
+    "monthlyTransactionVolume": 7639802.54,
+    "monthlyTransactionCount": 12348,
+    "averageTransactionSize": 879.76,
+    "commissionRate": 1.34,
+    "monthlyRevenue": 53336.69,
+    "partnershipStartDate": "2024-12-18T18:10:28Z",
+    "status": "Active",
+    "brandColor": "#707768",
+    "isIntegrated": false,
+    "lastSyncDate": "2026-03-03T18:10:28Z"
+  },
+  {
+    "partnerId": "RP-MAL-003",
+    "businessName": "People's Supermarket Malawi Ltd",
+    "brandName": "People's Supermarket",
+    "partnerType": "SmallShop",
+    "country": "Malawi",
+    "currency": "MWK",
+    "contactPerson": "Partner Manager 3",
+    "email": "banking@people'ssupe.ma",
+    "phoneNumber": "+520-106-612857",
+    "servicesOffered": [
+      "CashWithdrawal",
+      "BillPayment",
+      "AccountOpening"
+    ],
+    "acceptedPaymentMethods": [
+      "CardTap",
+      "PhoneNumber",
+      "Cash",
+      "USSD"
+    ],
+    "totalStores": 119,
+    "activeStores": 108,
+    "storeLocations": [
+      "Blantyre",
+      "Lilongwe",
+      "Mzuzu"
+    ],
+    "monthlyTransactionVolume": 4826219.05,
+    "monthlyTransactionCount": 46474,
+    "averageTransactionSize": 122.01,
+    "commissionRate": 0.4,
+    "monthlyRevenue": 57394.69,
+    "partnershipStartDate": "2023-12-18T18:10:28Z",
+    "status": "Active",
+    "brandColor": "#afe1b7",
+    "isIntegrated": false,
+    "lastSyncDate": null
+  }
+]

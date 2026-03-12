@@ -1,0 +1,72 @@
+[
+  {
+    "paymentId": "pp200000-0001",
+    "policyId": "pol20000-0001",
+    "policyNumber": "POL-2-2025-00001",
+    "memberName": "Kwame Boateng",
+    "paymentDate": "2025-10-01",
+    "amount": 280.0,
+    "currency": "GHS",
+    "paymentMethod": "BankTransfer",
+    "referenceNumber": "PAY-2-2025-000001",
+    "status": "Cleared",
+    "bankName": "GCB Bank",
+    "createdAt": "2025-10-01T00:00:00Z"
+  },
+  {
+    "paymentId": "pp200000-0002",
+    "policyId": "pol20000-0002",
+    "policyNumber": "POL-2-2025-00002",
+    "memberName": "Abena Owusu",
+    "paymentDate": "2025-11-01",
+    "amount": 490.0,
+    "currency": "GHS",
+    "paymentMethod": "DirectDebit",
+    "referenceNumber": "PAY-2-2025-000002",
+    "status": "Cleared",
+    "bankName": "GCB Bank",
+    "createdAt": "2025-11-01T00:00:00Z"
+  },
+  {
+    "paymentId": "pp200000-0003",
+    "policyId": "pol20000-0003",
+    "policyNumber": "POL-2-2025-00003",
+    "memberName": "Kofi Asamoah",
+    "paymentDate": "2025-12-01",
+    "amount": 700.0,
+    "currency": "GHS",
+    "paymentMethod": "MobilePayment",
+    "referenceNumber": "PAY-2-2025-000003",
+    "status": "Cleared",
+    "bankName": "GCB Bank",
+    "createdAt": "2025-12-01T00:00:00Z"
+  },
+  {
+    "paymentId": "pp200000-0004",
+    "policyId": "pol20000-0004",
+    "policyNumber": "POL-2-2025-00004",
+    "memberName": "Ama Appiah",
+    "paymentDate": "2025-13-01",
+    "amount": 280.0,
+    "currency": "GHS",
+    "paymentMethod": "BankTransfer",
+    "referenceNumber": "PAY-2-2025-000004",
+    "status": "Cleared",
+    "bankName": "GCB Bank",
+    "createdAt": "2025-13-01T00:00:00Z"
+  },
+  {
+    "paymentId": "pp200000-0005",
+    "policyId": "pol20000-0005",
+    "policyNumber": "POL-2-2025-00005",
+    "memberName": "Akosua Ofori",
+    "paymentDate": "2025-14-01",
+    "amount": 490.0,
+    "currency": "GHS",
+    "paymentMethod": "DirectDebit",
+    "referenceNumber": "PAY-2-2025-000005",
+    "status": "Cleared",
+    "bankName": "GCB Bank",
+    "createdAt": "2025-14-01T00:00:00Z"
+  }
+]

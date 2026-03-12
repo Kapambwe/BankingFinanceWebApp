@@ -1,0 +1,114 @@
+[
+  {
+    "accountCode": "1001",
+    "accountName": "Cash and Bank Balances",
+    "accountType": "Asset",
+    "debit": 4.0,
+    "credit": 0,
+    "currency": "GHS"
+  },
+  {
+    "accountCode": "1002",
+    "accountName": "Member Contribution Receivable",
+    "accountType": "Asset",
+    "debit": 3.0,
+    "credit": 0,
+    "currency": "GHS"
+  },
+  {
+    "accountCode": "1101",
+    "accountName": "Property and Equipment",
+    "accountType": "Asset",
+    "debit": 13.0,
+    "credit": 0,
+    "currency": "GHS"
+  },
+  {
+    "accountCode": "1103",
+    "accountName": "Long-Term Investments",
+    "accountType": "Asset",
+    "debit": 7.0,
+    "credit": 0,
+    "currency": "GHS"
+  },
+  {
+    "accountCode": "2001",
+    "accountName": "Outstanding Claims Payable",
+    "accountType": "Liability",
+    "debit": 0,
+    "credit": 3.0,
+    "currency": "GHS"
+  },
+  {
+    "accountCode": "2101",
+    "accountName": "Claims Reserve",
+    "accountType": "Liability",
+    "debit": 0,
+    "credit": 9.0,
+    "currency": "GHS"
+  },
+  {
+    "accountCode": "3001",
+    "accountName": "Government Capital Contribution",
+    "accountType": "Equity",
+    "debit": 0,
+    "credit": 11.0,
+    "currency": "GHS"
+  },
+  {
+    "accountCode": "4001",
+    "accountName": "Member Contributions",
+    "accountType": "Revenue",
+    "debit": 0,
+    "credit": 20.0,
+    "currency": "GHS"
+  },
+  {
+    "accountCode": "4002",
+    "accountName": "Government Subvention",
+    "accountType": "Revenue",
+    "debit": 0,
+    "credit": 11.0,
+    "currency": "GHS"
+  },
+  {
+    "accountCode": "5001",
+    "accountName": "Claims Paid",
+    "accountType": "Expense",
+    "debit": 21.0,
+    "credit": 0,
+    "currency": "GHS"
+  },
+  {
+    "accountCode": "5002",
+    "accountName": "Staff Costs",
+    "accountType": "Expense",
+    "debit": 7.0,
+    "credit": 0,
+    "currency": "GHS"
+  },
+  {
+    "accountCode": "5003",
+    "accountName": "Administrative Expenses",
+    "accountType": "Expense",
+    "debit": 3.0,
+    "credit": 0,
+    "currency": "GHS"
+  },
+  {
+    "accountCode": "3002",
+    "accountName": "Retained Surplus",
+    "accountType": "Equity",
+    "debit": 0,
+    "credit": 4.0,
+    "currency": "GHS"
+  },
+  {
+    "accountCode": "TOTAL",
+    "accountName": "TOTAL",
+    "accountType": "Summary",
+    "debit": 58.0,
+    "credit": 58.0,
+    "currency": "GHS"
+  }
+]

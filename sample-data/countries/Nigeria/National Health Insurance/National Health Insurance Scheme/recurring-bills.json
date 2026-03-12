@@ -1,0 +1,35 @@
+[
+  {
+    "recurringBillId": "rb400000-0001",
+    "name": "Monthly Office Rent",
+    "vendor": "Prime Properties Abuja",
+    "amount": 2184.0,
+    "currency": "NGN",
+    "frequency": "Monthly",
+    "nextBillDate": "2026-01-01",
+    "status": "Active",
+    "createdAt": "2025-01-01T00:00:00Z"
+  },
+  {
+    "recurringBillId": "rb400000-0002",
+    "name": "Monthly IT Maintenance",
+    "vendor": "IBM Nigeria",
+    "amount": 1310.0,
+    "currency": "NGN",
+    "frequency": "Monthly",
+    "nextBillDate": "2026-01-01",
+    "status": "Active",
+    "createdAt": "2025-01-01T00:00:00Z"
+  },
+  {
+    "recurringBillId": "rb400000-0003",
+    "name": "Monthly Utilities",
+    "vendor": "National Utilities Nigeria",
+    "amount": 437.0,
+    "currency": "NGN",
+    "frequency": "Monthly",
+    "nextBillDate": "2026-01-01",
+    "status": "Active",
+    "createdAt": "2025-01-01T00:00:00Z"
+  }
+]

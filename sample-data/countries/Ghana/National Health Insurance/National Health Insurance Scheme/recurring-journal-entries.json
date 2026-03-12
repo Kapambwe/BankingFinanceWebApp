@@ -1,0 +1,32 @@
+[
+  {
+    "recurringJEId": "rj200000-0001",
+    "name": "Monthly Salary Accrual",
+    "frequency": "Monthly",
+    "nextRunDate": "2026-01-31",
+    "amount": 108.0,
+    "currency": "GHS",
+    "status": "Active",
+    "createdAt": "2025-01-01T00:00:00Z"
+  },
+  {
+    "recurringJEId": "rj200000-0002",
+    "name": "Monthly Rent Accrual",
+    "frequency": "Monthly",
+    "nextRunDate": "2026-01-31",
+    "amount": 6.0,
+    "currency": "GHS",
+    "status": "Active",
+    "createdAt": "2025-01-01T00:00:00Z"
+  },
+  {
+    "recurringJEId": "rj200000-0003",
+    "name": "Quarterly IT Maintenance",
+    "frequency": "Quarterly",
+    "nextRunDate": "2026-03-31",
+    "amount": 3.0,
+    "currency": "GHS",
+    "status": "Active",
+    "createdAt": "2025-01-01T00:00:00Z"
+  }
+]

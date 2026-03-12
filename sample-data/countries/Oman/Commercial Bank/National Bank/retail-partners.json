@@ -1,0 +1,121 @@
+[
+  {
+    "partnerId": "RP-OMA-001",
+    "businessName": "Lulu Hypermarket Oman Oman Ltd",
+    "brandName": "Lulu Hypermarket Oman",
+    "partnerType": "SmallShop",
+    "country": "Oman",
+    "currency": "OMR",
+    "contactPerson": "Partner Manager 1",
+    "email": "banking@luluhypermar.om",
+    "phoneNumber": "+648-990-219185",
+    "servicesOffered": [
+      "AirtimePurchase",
+      "LoanPayment",
+      "CashWithdrawal"
+    ],
+    "acceptedPaymentMethods": [
+      "AccountNumber",
+      "PhoneNumber",
+      "CardTap"
+    ],
+    "totalStores": 70,
+    "activeStores": 63,
+    "storeLocations": [
+      "Nizwa",
+      "Salalah"
+    ],
+    "monthlyTransactionVolume": 6067249.31,
+    "monthlyTransactionCount": 1106,
+    "averageTransactionSize": 304.17,
+    "commissionRate": 0.5,
+    "monthlyRevenue": 90698.9,
+    "partnershipStartDate": "2022-02-19T18:10:28Z",
+    "status": "Active",
+    "brandColor": "#895a28",
+    "isIntegrated": true,
+    "lastSyncDate": "2026-03-02T18:10:28Z"
+  },
+  {
+    "partnerId": "RP-OMA-002",
+    "businessName": "Carrefour Oman Oman Ltd",
+    "brandName": "Carrefour Oman",
+    "partnerType": "SmallShop",
+    "country": "Oman",
+    "currency": "OMR",
+    "contactPerson": "Partner Manager 2",
+    "email": "banking@carrefouroma.om",
+    "phoneNumber": "+368-636-849817",
+    "servicesOffered": [
+      "CashDeposit",
+      "BillPayment",
+      "AirtimePurchase",
+      "CashWithdrawal",
+      "LoanPayment",
+      "MoneyTransfer"
+    ],
+    "acceptedPaymentMethods": [
+      "QRCode",
+      "Cash",
+      "CardTap",
+      "AccountNumber"
+    ],
+    "totalStores": 195,
+    "activeStores": 193,
+    "storeLocations": [
+      "Sohar",
+      "Nizwa"
+    ],
+    "monthlyTransactionVolume": 4179069.28,
+    "monthlyTransactionCount": 12799,
+    "averageTransactionSize": 308.21,
+    "commissionRate": 1.48,
+    "monthlyRevenue": 39503.81,
+    "partnershipStartDate": "2024-04-26T18:10:28Z",
+    "status": "Active",
+    "brandColor": "#072583",
+    "isIntegrated": false,
+    "lastSyncDate": null
+  },
+  {
+    "partnerId": "RP-OMA-003",
+    "businessName": "Al Meera Oman Ltd",
+    "brandName": "Al Meera",
+    "partnerType": "ConvenienceStore",
+    "country": "Oman",
+    "currency": "OMR",
+    "contactPerson": "Partner Manager 3",
+    "email": "banking@almeera.om",
+    "phoneNumber": "+774-654-772765",
+    "servicesOffered": [
+      "CashDeposit",
+      "MoneyTransfer",
+      "CashWithdrawal",
+      "LoanPayment"
+    ],
+    "acceptedPaymentMethods": [
+      "AccountNumber",
+      "USSD",
+      "Cash",
+      "QRCode",
+      "CardTap"
+    ],
+    "totalStores": 103,
+    "activeStores": 100,
+    "storeLocations": [
+      "Salalah",
+      "Nizwa",
+      "Muscat"
+    ],
+    "monthlyTransactionVolume": 2232915.89,
+    "monthlyTransactionCount": 8803,
+    "averageTransactionSize": 64.29,
+    "commissionRate": 1.3,
+    "monthlyRevenue": 27225.17,
+    "partnershipStartDate": "2024-04-27T18:10:28Z",
+    "status": "Active",
+    "brandColor": "#fb9e30",
+    "isIntegrated": true,
+    "lastSyncDate": "2026-03-04T18:10:28Z"
+  }
+]

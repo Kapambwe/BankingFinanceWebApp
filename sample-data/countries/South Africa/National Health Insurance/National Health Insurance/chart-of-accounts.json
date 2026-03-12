@@ -1,0 +1,167 @@
+[
+  {
+    "accountId": "ac300000-0001-0000-0000-0000000003001",
+    "accountNumber": "1001",
+    "accountName": "Cash and Bank Balances",
+    "accountType": "Asset",
+    "category": "CurrentAssets",
+    "currency": "ZAR",
+    "balance": 52.0,
+    "isActive": true,
+    "createdAt": "2025-01-01T00:00:00Z"
+  },
+  {
+    "accountId": "ac300000-0002-0000-0000-0000000003002",
+    "accountNumber": "1002",
+    "accountName": "Member Contribution Receivable",
+    "accountType": "Asset",
+    "category": "CurrentAssets",
+    "currency": "ZAR",
+    "balance": 34.0,
+    "isActive": true,
+    "createdAt": "2025-01-01T00:00:00Z"
+  },
+  {
+    "accountId": "ac300000-0003-0000-0000-0000000003003",
+    "accountNumber": "1003",
+    "accountName": "Government Subvention Receivable",
+    "accountType": "Asset",
+    "category": "CurrentAssets",
+    "currency": "ZAR",
+    "balance": 22.0,
+    "isActive": true,
+    "createdAt": "2025-01-01T00:00:00Z"
+  },
+  {
+    "accountId": "ac300000-0004-0000-0000-0000000003004",
+    "accountNumber": "1004",
+    "accountName": "Short-Term Investments",
+    "accountType": "Asset",
+    "category": "CurrentAssets",
+    "currency": "ZAR",
+    "balance": 43.0,
+    "isActive": true,
+    "createdAt": "2025-01-01T00:00:00Z"
+  },
+  {
+    "accountId": "ac300000-0005-0000-0000-0000000003005",
+    "accountNumber": "1101",
+    "accountName": "Property and Equipment",
+    "accountType": "Asset",
+    "category": "NonCurrentAssets",
+    "currency": "ZAR",
+    "balance": 151.0,
+    "isActive": true,
+    "createdAt": "2025-01-01T00:00:00Z"
+  },
+  {
+    "accountId": "ac300000-0006-0000-0000-0000000003006",
+    "accountNumber": "1102",
+    "accountName": "Intangible Assets - Software",
+    "accountType": "Asset",
+    "category": "NonCurrentAssets",
+    "currency": "ZAR",
+    "balance": 34.0,
+    "isActive": true,
+    "createdAt": "2025-01-01T00:00:00Z"
+  },
+  {
+    "accountId": "ac300000-0007-0000-0000-0000000003007",
+    "accountNumber": "2001",
+    "accountName": "Outstanding Claims Payable",
+    "accountType": "Liability",
+    "category": "CurrentLiabilities",
+    "currency": "ZAR",
+    "balance": 39.0,
+    "isActive": true,
+    "createdAt": "2025-01-01T00:00:00Z"
+  },
+  {
+    "accountId": "ac300000-0008-0000-0000-0000000003008",
+    "accountNumber": "2002",
+    "accountName": "Accrued Staff Costs",
+    "accountType": "Liability",
+    "category": "CurrentLiabilities",
+    "currency": "ZAR",
+    "balance": 17.0,
+    "isActive": true,
+    "createdAt": "2025-01-01T00:00:00Z"
+  },
+  {
+    "accountId": "ac300000-0009-0000-0000-0000000003009",
+    "accountNumber": "2101",
+    "accountName": "Claims Reserve",
+    "accountType": "Liability",
+    "category": "NonCurrentLiabilities",
+    "currency": "ZAR",
+    "balance": 108.0,
+    "isActive": true,
+    "createdAt": "2025-01-01T00:00:00Z"
+  },
+  {
+    "accountId": "ac300000-0010-0000-0000-0000000003010",
+    "accountNumber": "3001",
+    "accountName": "Government Capital Contribution",
+    "accountType": "Equity",
+    "category": "Equity",
+    "currency": "ZAR",
+    "balance": 129.0,
+    "isActive": true,
+    "createdAt": "2025-01-01T00:00:00Z"
+  },
+  {
+    "accountId": "ac300000-0011-0000-0000-0000000003011",
+    "accountNumber": "4001",
+    "accountName": "Member Contributions",
+    "accountType": "Revenue",
+    "category": "OperatingRevenue",
+    "currency": "ZAR",
+    "balance": 237.0,
+    "isActive": true,
+    "createdAt": "2025-01-01T00:00:00Z"
+  },
+  {
+    "accountId": "ac300000-0012-0000-0000-0000000003012",
+    "accountNumber": "4002",
+    "accountName": "Government Subvention",
+    "accountType": "Revenue",
+    "category": "OperatingRevenue",
+    "currency": "ZAR",
+    "balance": 129.0,
+    "isActive": true,
+    "createdAt": "2025-01-01T00:00:00Z"
+  },
+  {
+    "accountId": "ac300000-0013-0000-0000-0000000003013",
+    "accountNumber": "5001",
+    "accountName": "Claims Paid",
+    "accountType": "Expense",
+    "category": "OperatingExpenses",
+    "currency": "ZAR",
+    "balance": 250.0,
+    "isActive": true,
+    "createdAt": "2025-01-01T00:00:00Z"
+  },
+  {
+    "accountId": "ac300000-0014-0000-0000-0000000003014",
+    "accountNumber": "5002",
+    "accountName": "Staff Costs",
+    "accountType": "Expense",
+    "category": "OperatingExpenses",
+    "currency": "ZAR",
+    "balance": 77.0,
+    "isActive": true,
+    "createdAt": "2025-01-01T00:00:00Z"
+  },
+  {
+    "accountId": "ac300000-0015-0000-0000-0000000003015",
+    "accountNumber": "5003",
+    "accountName": "Administrative Expenses",
+    "accountType": "Expense",
+    "category": "OperatingExpenses",
+    "currency": "ZAR",
+    "balance": 34.0,
+    "isActive": true,
+    "createdAt": "2025-01-01T00:00:00Z"
+  }
+]

@@ -1,0 +1,7 @@
+[
+  {"entryId":"AIIB-JE-001","date":"2025-08-15T00:00:00Z","description":"Co-Financing Disbursement - Egypt Transport Corridor","debitAccount":"1200","creditAccount":"1000","amount":200000000.00,"currency":"USD","status":"Posted"},
+  {"entryId":"AIIB-JE-002","date":"2025-09-20T00:00:00Z","description":"Infrastructure Loan Disbursement - Rwanda Digital","debitAccount":"1100","creditAccount":"1000","amount":80000000.00,"currency":"USD","status":"Posted"},
+  {"entryId":"AIIB-JE-003","date":"2025-10-10T00:00:00Z","description":"Co-Financing Disbursement - Cote d'Ivoire Urban Rail","debitAccount":"1200","creditAccount":"1000","amount":150000000.00,"currency":"USD","status":"Posted"},
+  {"entryId":"AIIB-JE-004","date":"2025-12-01T00:00:00Z","description":"Loan Repayment Received - Egypt Transport","debitAccount":"1000","creditAccount":"1200","amount":25000000.00,"currency":"USD","status":"Posted"},
+  {"entryId":"AIIB-JE-005","date":"2025-12-31T00:00:00Z","description":"Interest Income Accrual - Q4 2025","debitAccount":"1400","creditAccount":"4000","amount":462500000.00,"currency":"USD","status":"Posted"}
+]

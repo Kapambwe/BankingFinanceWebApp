@@ -1,0 +1,177 @@
+[
+  {
+    "id": 1,
+    "name": "Barclays Bank",
+    "code": "BARC",
+    "swiftCode": "BARCGB22",
+    "country": "England"
+  },
+  {
+    "id": 2,
+    "name": "HSBC UK",
+    "code": "HSBC",
+    "swiftCode": "HBUKGB4B",
+    "country": "England"
+  },
+  {
+    "id": 3,
+    "name": "Lloyds Bank",
+    "code": "LLOY",
+    "swiftCode": "LOYDGB2L",
+    "country": "England"
+  },
+  {
+    "id": 4,
+    "name": "NatWest",
+    "code": "NATW",
+    "swiftCode": "NWBKGB2L",
+    "country": "England"
+  },
+  {
+    "id": 5,
+    "name": "Santander UK",
+    "code": "SANT",
+    "swiftCode": "ABBYGB2L",
+    "country": "England"
+  },
+  {
+    "id": 6,
+    "name": "Standard Chartered",
+    "code": "SCBL",
+    "swiftCode": "SCBLGB2L",
+    "country": "England"
+  },
+  {
+    "id": 7,
+    "name": "Starling Bank",
+    "code": "STLG",
+    "swiftCode": "SRLGGB2L",
+    "country": "England"
+  },
+  {
+    "id": 8,
+    "name": "Monzo Bank",
+    "code": "MONZ",
+    "swiftCode": "MONZGB2L",
+    "country": "England"
+  },
+  {
+    "id": 9,
+    "name": "Metro Bank",
+    "code": "MTRB",
+    "swiftCode": "MYMBGB2L",
+    "country": "England"
+  },
+  {
+    "id": 10,
+    "name": "Bank of England",
+    "code": "BOEN",
+    "swiftCode": "BKENGB2L",
+    "country": "England"
+  },
+  {
+    "id": 11,
+    "name": "Deutsche Bank AG",
+    "code": "DEUT",
+    "swiftCode": "DEUTGB2L",
+    "country": "England"
+  },
+  {
+    "id": 12,
+    "name": "Citibank UK",
+    "code": "CITI",
+    "swiftCode": "CITIGB2L",
+    "country": "England"
+  },
+  {
+    "id": 13,
+    "name": "Goldman Sachs International",
+    "code": "GSCO",
+    "swiftCode": "GSCOGB2L",
+    "country": "England"
+  },
+  {
+    "id": 14,
+    "name": "JP Morgan Securities",
+    "code": "JPMC",
+    "swiftCode": "CHASGB2L",
+    "country": "England"
+  },
+  {
+    "id": 15,
+    "name": "BNP Paribas London",
+    "code": "BNPA",
+    "swiftCode": "BNPAGB2L",
+    "country": "England"
+  },
+  {
+    "id": 16,
+    "name": "Credit Suisse UK",
+    "code": "CRES",
+    "swiftCode": "CRESGB2L",
+    "country": "England"
+  },
+  {
+    "id": 17,
+    "name": "UBS AG London",
+    "code": "UBSW",
+    "swiftCode": "UBSWGB2L",
+    "country": "England"
+  },
+  {
+    "id": 18,
+    "name": "Tide Platform",
+    "code": "TIDE",
+    "swiftCode": "TIDEGB2L",
+    "country": "England"
+  },
+  {
+    "id": 19,
+    "name": "Wise Payments",
+    "code": "WISE",
+    "swiftCode": "WISEGB2L",
+    "country": "England"
+  },
+  {
+    "id": 20,
+    "name": "ClearBank",
+    "code": "CLRB",
+    "swiftCode": "CLRBGB2L",
+    "country": "England"
+  },
+  {
+    "id": 21,
+    "name": "Virgin Money",
+    "code": "VRGN",
+    "swiftCode": "VRGNGB2L",
+    "country": "England"
+  },
+  {
+    "id": 22,
+    "name": "Halifax",
+    "code": "HALF",
+    "swiftCode": "HALIFGB",
+    "country": "England"
+  },
+  {
+    "id": 23,
+    "name": "TSB Bank",
+    "code": "TSBB",
+    "swiftCode": "TSBSGB2A",
+    "country": "England"
+  },
+  {
+    "id": 24,
+    "name": "First Direct",
+    "code": "FDRC",
+    "swiftCode": "FDRCGB2L",
+    "country": "England"
+  },
+  {
+    "id": 25,
+    "name": "Bank of Ireland UK",
+    "code": "BOFI",
+    "swiftCode": "BOFIGB2L",
+    "country": "England"
+  }
+]

@@ -1,0 +1,5 @@
+[
+  {"customerId":"a50-c001-1234-5678-abcd-ef1234567890","customerName":"Noor Midelt Solar Complex SPV","creditScore":720,"creditRating":"A-","riskCategory":"Low","lastAssessmentDate":"2025-12-01T00:00:00Z","debtToGdpRatio":"N/A"},
+  {"customerId":"a50-c002-2345-6789-bcde-f12345678901","customerName":"Nairobi-Mombasa Expressway SPV","creditScore":690,"creditRating":"BBB","riskCategory":"Medium","lastAssessmentDate":"2025-12-01T00:00:00Z","debtToGdpRatio":"N/A"},
+  {"customerId":"a50-c003-3456-7890-cdef-123456789012","customerName":"Ghana Data Centre Holdings","creditScore":670,"creditRating":"BBB-","riskCategory":"Medium","lastAssessmentDate":"2025-12-01T00:00:00Z","debtToGdpRatio":"N/A"}
+]

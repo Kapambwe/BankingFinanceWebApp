@@ -1,0 +1,44 @@
+[
+  {
+    "partnerId": "bp200000-0001",
+    "partnerName": "GCB Bank",
+    "partnerType": "Commercial Bank",
+    "country": "Ghana",
+    "collectionsModel": "Direct Debit",
+    "activeMemberAccounts": 33600,
+    "monthlyCollections": 9030000.0,
+    "currency": "GHS",
+    "commissionRate": 0.015,
+    "status": "Active",
+    "partnerSince": "2020-01-01",
+    "createdAt": "2020-01-01T00:00:00Z"
+  },
+  {
+    "partnerId": "bp200000-0002",
+    "partnerName": "Ecobank Ghana",
+    "partnerType": "Commercial Bank",
+    "country": "Ghana",
+    "collectionsModel": "Standing Order",
+    "activeMemberAccounts": 22400,
+    "monthlyCollections": 6020000.0,
+    "currency": "GHS",
+    "commissionRate": 0.012,
+    "status": "Active",
+    "partnerSince": "2021-06-01",
+    "createdAt": "2021-06-01T00:00:00Z"
+  },
+  {
+    "partnerId": "bp200000-0003",
+    "partnerName": "Stanbic Bank Ghana",
+    "partnerType": "Commercial Bank",
+    "country": "Ghana",
+    "collectionsModel": "Mobile Banking",
+    "activeMemberAccounts": 14000,
+    "monthlyCollections": 3612000.0,
+    "currency": "GHS",
+    "commissionRate": 0.01,
+    "status": "Active",
+    "partnerSince": "2023-01-01",
+    "createdAt": "2023-01-01T00:00:00Z"
+  }
+]

@@ -1,0 +1,186 @@
+[
+  {
+    "journalEntryId": "je300000-0001-0000-0000-0000000003001",
+    "reference": "JE-2025-001",
+    "description": "Member Contribution Receipt",
+    "entryDate": "2025-10-31",
+    "status": "Posted",
+    "totalAmount": 3946.0,
+    "currency": "ZAR",
+    "lines": [
+      {
+        "accountCode": "1001",
+        "debit": 3946.0,
+        "credit": 0
+      },
+      {
+        "accountCode": "4001",
+        "debit": 0,
+        "credit": 3946.0
+      }
+    ],
+    "createdBy": "Thabo Dlamini",
+    "createdAt": "2025-10-31T00:00:00Z"
+  },
+  {
+    "journalEntryId": "je300000-0002-0000-0000-0000000003002",
+    "reference": "JE-2025-002",
+    "description": "Claims Disbursement to Providers",
+    "entryDate": "2025-10-31",
+    "status": "Posted",
+    "totalAmount": 3229.0,
+    "currency": "ZAR",
+    "lines": [
+      {
+        "accountCode": "5001",
+        "debit": 3229.0,
+        "credit": 0
+      },
+      {
+        "accountCode": "2001",
+        "debit": 0,
+        "credit": 3229.0
+      }
+    ],
+    "createdBy": "Thabo Dlamini",
+    "createdAt": "2025-10-31T00:00:00Z"
+  },
+  {
+    "journalEntryId": "je300000-0003-0000-0000-0000000003003",
+    "reference": "JE-2025-003",
+    "description": "Government Subvention Receipt",
+    "entryDate": "2025-10-31",
+    "status": "Posted",
+    "totalAmount": 2152.0,
+    "currency": "ZAR",
+    "lines": [
+      {
+        "accountCode": "1001",
+        "debit": 2152.0,
+        "credit": 0
+      },
+      {
+        "accountCode": "4002",
+        "debit": 0,
+        "credit": 2152.0
+      }
+    ],
+    "createdBy": "Thabo Dlamini",
+    "createdAt": "2025-10-31T00:00:00Z"
+  },
+  {
+    "journalEntryId": "je300000-0004-0000-0000-0000000003004",
+    "reference": "JE-2025-004",
+    "description": "Monthly Salary Payment",
+    "entryDate": "2025-10-31",
+    "status": "Posted",
+    "totalAmount": 1292.0,
+    "currency": "ZAR",
+    "lines": [
+      {
+        "accountCode": "5002",
+        "debit": 1292.0,
+        "credit": 0
+      },
+      {
+        "accountCode": "1001",
+        "debit": 0,
+        "credit": 1292.0
+      }
+    ],
+    "createdBy": "Thabo Dlamini",
+    "createdAt": "2025-10-31T00:00:00Z"
+  },
+  {
+    "journalEntryId": "je300000-0005-0000-0000-0000000003005",
+    "reference": "JE-2025-005",
+    "description": "Employer Contribution Receipt",
+    "entryDate": "2025-10-31",
+    "status": "Posted",
+    "totalAmount": 718.0,
+    "currency": "ZAR",
+    "lines": [
+      {
+        "accountCode": "1001",
+        "debit": 718.0,
+        "credit": 0
+      },
+      {
+        "accountCode": "4003",
+        "debit": 0,
+        "credit": 718.0
+      }
+    ],
+    "createdBy": "Thabo Dlamini",
+    "createdAt": "2025-10-31T00:00:00Z"
+  },
+  {
+    "journalEntryId": "je300000-0006-0000-0000-0000000003006",
+    "reference": "JE-2025-006",
+    "description": "Provider Fee Payment",
+    "entryDate": "2025-11-15",
+    "status": "Posted",
+    "totalAmount": 287.0,
+    "currency": "ZAR",
+    "lines": [
+      {
+        "accountCode": "5004",
+        "debit": 287.0,
+        "credit": 0
+      },
+      {
+        "accountCode": "1001",
+        "debit": 0,
+        "credit": 287.0
+      }
+    ],
+    "createdBy": "Thabo Dlamini",
+    "createdAt": "2025-11-15T00:00:00Z"
+  },
+  {
+    "journalEntryId": "je300000-0007-0000-0000-0000000003007",
+    "reference": "JE-2025-007",
+    "description": "IT Infrastructure Maintenance",
+    "entryDate": "2025-11-30",
+    "status": "Draft",
+    "totalAmount": 144.0,
+    "currency": "ZAR",
+    "lines": [
+      {
+        "accountCode": "5003",
+        "debit": 144.0,
+        "credit": 0
+      },
+      {
+        "accountCode": "2002",
+        "debit": 0,
+        "credit": 144.0
+      }
+    ],
+    "createdBy": "Thabo Dlamini",
+    "createdAt": "2025-11-30T00:00:00Z"
+  },
+  {
+    "journalEntryId": "je300000-0008-0000-0000-0000000003008",
+    "reference": "JE-2025-008",
+    "description": "Investment Income Receipt",
+    "entryDate": "2025-12-31",
+    "status": "Draft",
+    "totalAmount": 359.0,
+    "currency": "ZAR",
+    "lines": [
+      {
+        "accountCode": "1001",
+        "debit": 359.0,
+        "credit": 0
+      },
+      {
+        "accountCode": "4004",
+        "debit": 0,
+        "credit": 359.0
+      }
+    ],
+    "createdBy": "Thabo Dlamini",
+    "createdAt": "2025-12-31T00:00:00Z"
+  }
+]

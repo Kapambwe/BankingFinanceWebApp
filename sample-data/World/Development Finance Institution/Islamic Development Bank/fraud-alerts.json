@@ -1,0 +1,3 @@
+[
+  {"alertId":"IsDB-FA-001","alertType":"Procurement Irregularity","severity":"Medium","status":"Under Investigation","dateDetected":"2025-11-10T00:00:00Z","description":"Suspected non-competitive procurement in Murabaha-financed highway construction materials","accountId":"isdb-a006-6666-ffff-7777-000011112222","customerId":"isdb-c006-6666-ffff-7777-000011112222","amountInvolved":8500000.00,"currency":"ID"}
+]

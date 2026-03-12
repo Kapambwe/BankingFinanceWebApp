@@ -1,0 +1,80 @@
+[
+  {
+    "ruleId": 1,
+    "ruleName": "Bills GBP 10,000\u2013100,000 require Team Lead approval",
+    "type": "Bill",
+    "minAmount": 10000,
+    "maxAmount": 100000,
+    "approverId": "teamlead@revolut.com",
+    "approverName": "Team Lead",
+    "level": 1,
+    "isActive": true,
+    "autoApproveBelow": false,
+    "notes": "Standard operational expenditure threshold"
+  },
+  {
+    "ruleId": 2,
+    "ruleName": "Bills GBP 100,001\u2013500,000 require Head of Finance approval",
+    "type": "Bill",
+    "minAmount": 100001,
+    "maxAmount": 500000,
+    "approverId": "financeHead@revolut.com",
+    "approverName": "Head of Finance",
+    "level": 2,
+    "isActive": true,
+    "autoApproveBelow": false,
+    "notes": "Mid-tier expenditure approval"
+  },
+  {
+    "ruleId": 3,
+    "ruleName": "Bills over GBP 500,000 require CFO approval",
+    "type": "Bill",
+    "minAmount": 500001,
+    "maxAmount": null,
+    "approverId": "cfo@revolut.com",
+    "approverName": "CFO",
+    "level": 3,
+    "isActive": true,
+    "autoApproveBelow": false,
+    "notes": "High-value expenditure"
+  },
+  {
+    "ruleId": 4,
+    "ruleName": "Invoices GBP 50,000\u2013250,000 require Finance Manager approval",
+    "type": "Invoice",
+    "minAmount": 50000,
+    "maxAmount": 250000,
+    "approverId": "financeManager@revolut.com",
+    "approverName": "Finance Manager",
+    "level": 1,
+    "isActive": true,
+    "autoApproveBelow": false,
+    "notes": "Invoice approval threshold"
+  },
+  {
+    "ruleId": 5,
+    "ruleName": "Journal Entries over GBP 1,000,000 require CFO approval",
+    "type": "JournalEntry",
+    "minAmount": 1000000,
+    "maxAmount": null,
+    "approverId": "cfo@revolut.com",
+    "approverName": "CFO",
+    "level": 2,
+    "isActive": true,
+    "autoApproveBelow": false,
+    "notes": "Material journal entries"
+  },
+  {
+    "ruleId": 6,
+    "ruleName": "Payments below GBP 5,000 auto-approved",
+    "type": "Payment",
+    "minAmount": 0,
+    "maxAmount": 5000,
+    "approverId": "system@revolut.com",
+    "approverName": "System",
+    "level": 0,
+    "isActive": true,
+    "autoApproveBelow": true,
+    "notes": "Straight-through processing for small payments"
+  }
+]

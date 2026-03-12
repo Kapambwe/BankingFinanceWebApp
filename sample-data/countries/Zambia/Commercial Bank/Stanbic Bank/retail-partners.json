@@ -1,0 +1,162 @@
+[
+  {
+    "partnerId": "RP-ZAM-001",
+    "businessName": "Shoprite Zambia Zambia Ltd",
+    "brandName": "Shoprite Zambia",
+    "partnerType": "SmallShop",
+    "country": "Zambia",
+    "currency": "ZMW",
+    "contactPerson": "Partner Manager 1",
+    "email": "banking@shopritezamb.za",
+    "phoneNumber": "+874-283-459965",
+    "servicesOffered": [
+      "LoanPayment",
+      "MoneyTransfer",
+      "CashWithdrawal",
+      "AirtimePurchase"
+    ],
+    "acceptedPaymentMethods": [
+      "CardTap",
+      "Cash",
+      "PhoneNumber"
+    ],
+    "totalStores": 145,
+    "activeStores": 133,
+    "storeLocations": [
+      "Lusaka",
+      "Ndola",
+      "Livingstone"
+    ],
+    "monthlyTransactionVolume": 168856.75,
+    "monthlyTransactionCount": 39985,
+    "averageTransactionSize": 10.39,
+    "commissionRate": 1.08,
+    "monthlyRevenue": 1033.48,
+    "partnershipStartDate": "2021-06-06T18:10:28Z",
+    "status": "Active",
+    "brandColor": "#d2229c",
+    "isIntegrated": true,
+    "lastSyncDate": "2026-03-02T18:10:28Z"
+  },
+  {
+    "partnerId": "RP-ZAM-002",
+    "businessName": "Pick n Pay Zambia Zambia Ltd",
+    "brandName": "Pick n Pay Zambia",
+    "partnerType": "Supermarket",
+    "country": "Zambia",
+    "currency": "ZMW",
+    "contactPerson": "Partner Manager 2",
+    "email": "banking@picknpayzamb.za",
+    "phoneNumber": "+318-176-424125",
+    "servicesOffered": [
+      "CashWithdrawal",
+      "CashDeposit",
+      "AirtimePurchase",
+      "BillPayment"
+    ],
+    "acceptedPaymentMethods": [
+      "Cash",
+      "QRCode",
+      "AccountNumber"
+    ],
+    "totalStores": 147,
+    "activeStores": 147,
+    "storeLocations": [
+      "Chipata",
+      "Lusaka",
+      "Ndola",
+      "Kitwe"
+    ],
+    "monthlyTransactionVolume": 6092958.89,
+    "monthlyTransactionCount": 31885,
+    "averageTransactionSize": 1001.97,
+    "commissionRate": 1.73,
+    "monthlyRevenue": 41475.8,
+    "partnershipStartDate": "2024-03-22T18:10:28Z",
+    "status": "Active",
+    "brandColor": "#ceb277",
+    "isIntegrated": false,
+    "lastSyncDate": null
+  },
+  {
+    "partnerId": "RP-ZAM-003",
+    "businessName": "Choppies Zambia Zambia Ltd",
+    "brandName": "Choppies Zambia",
+    "partnerType": "SmallShop",
+    "country": "Zambia",
+    "currency": "ZMW",
+    "contactPerson": "Partner Manager 3",
+    "email": "banking@choppieszamb.za",
+    "phoneNumber": "+679-272-221875",
+    "servicesOffered": [
+      "CashWithdrawal",
+      "AccountOpening",
+      "AirtimePurchase",
+      "MoneyTransfer",
+      "BillPayment",
+      "CashDeposit"
+    ],
+    "acceptedPaymentMethods": [
+      "PhoneNumber",
+      "USSD",
+      "QRCode"
+    ],
+    "totalStores": 187,
+    "activeStores": 181,
+    "storeLocations": [
+      "Ndola",
+      "Kitwe"
+    ],
+    "monthlyTransactionVolume": 4638161.98,
+    "monthlyTransactionCount": 33839,
+    "averageTransactionSize": 232.36,
+    "commissionRate": 0.42,
+    "monthlyRevenue": 58235.13,
+    "partnershipStartDate": "2025-03-11T18:10:28Z",
+    "status": "Active",
+    "brandColor": "#5997cb",
+    "isIntegrated": false,
+    "lastSyncDate": null
+  },
+  {
+    "partnerId": "RP-ZAM-004",
+    "businessName": "Bwalya Shop Zambia Ltd",
+    "brandName": "Bwalya Shop",
+    "partnerType": "Pharmacy",
+    "country": "Zambia",
+    "currency": "ZMW",
+    "contactPerson": "Partner Manager 4",
+    "email": "banking@bwalyashop.za",
+    "phoneNumber": "+475-798-189483",
+    "servicesOffered": [
+      "CashDeposit",
+      "AirtimePurchase",
+      "CashWithdrawal"
+    ],
+    "acceptedPaymentMethods": [
+      "USSD",
+      "Cash",
+      "PhoneNumber",
+      "AccountNumber",
+      "QRCode",
+      "CardTap"
+    ],
+    "totalStores": 188,
+    "activeStores": 176,
+    "storeLocations": [
+      "Lusaka",
+      "Ndola",
+      "Kitwe"
+    ],
+    "monthlyTransactionVolume": 7815129.72,
+    "monthlyTransactionCount": 35083,
+    "averageTransactionSize": 275.2,
+    "commissionRate": 0.55,
+    "monthlyRevenue": 56751.57,
+    "partnershipStartDate": "2022-07-06T18:10:28Z",
+    "status": "PendingApproval",
+    "brandColor": "#d12f4d",
+    "isIntegrated": true,
+    "lastSyncDate": null
+  }
+]

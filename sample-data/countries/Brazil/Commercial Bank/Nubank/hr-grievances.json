@@ -1,0 +1,44 @@
+[
+  {
+    "grievanceId": "grv00001-0001-0001-0001-000000000001",
+    "grievanceNumber": "GRV-2026-001",
+    "employeeId": "a1b2c3d4-0001-0001-0001-000000000001",
+    "employeeName": "Carlos Silva",
+    "departmentName": "Engenharia de Software",
+    "type": "WorkingConditions",
+    "description": "Solicitação de regime híbrido não atendida conforme política 2025",
+    "status": "UnderReview",
+    "filedDate": "2026-01-20T00:00:00",
+    "resolvedDate": null,
+    "resolution": "",
+    "hrOfficer": "Juliana Mendes"
+  },
+  {
+    "grievanceId": "grv00001-0001-0001-0001-000000000002",
+    "grievanceNumber": "GRV-2025-018",
+    "employeeId": "a1b2c3d4-0001-0001-0001-000000000002",
+    "employeeName": "Ana Santos",
+    "departmentName": "Produto",
+    "type": "Remuneration",
+    "description": "Discordância com resultado de avaliação de desempenho e ajuste salarial",
+    "status": "Resolved",
+    "filedDate": "2025-10-05T00:00:00",
+    "resolvedDate": "2025-11-10T00:00:00",
+    "resolution": "Revisão realizada — ajuste concedido de 8%",
+    "hrOfficer": "Pedro Ribeiro"
+  },
+  {
+    "grievanceId": "grv00001-0001-0001-0001-000000000003",
+    "grievanceNumber": "GRV-2026-002",
+    "employeeId": "a1b2c3d4-0001-0001-0001-000000000004",
+    "employeeName": "Maria Souza",
+    "departmentName": "Financeiro",
+    "type": "Harassment",
+    "description": "Relato de comportamento inadequado por parte de superior",
+    "status": "UnderInvestigation",
+    "filedDate": "2026-02-10T00:00:00",
+    "resolvedDate": null,
+    "resolution": "",
+    "hrOfficer": "Juliana Mendes"
+  }
+]

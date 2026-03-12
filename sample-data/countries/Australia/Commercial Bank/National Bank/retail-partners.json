@@ -1,0 +1,164 @@
+[
+  {
+    "partnerId": "RP-AUS-001",
+    "businessName": "Woolworths Australia Ltd",
+    "brandName": "Woolworths",
+    "partnerType": "ConvenienceStore",
+    "country": "Australia",
+    "currency": "AUD",
+    "contactPerson": "Partner Manager 1",
+    "email": "banking@woolworths.au",
+    "phoneNumber": "+997-524-217455",
+    "servicesOffered": [
+      "LoanPayment",
+      "MoneyTransfer",
+      "AccountOpening",
+      "CashDeposit"
+    ],
+    "acceptedPaymentMethods": [
+      "AccountNumber",
+      "PhoneNumber"
+    ],
+    "totalStores": 18,
+    "activeStores": 18,
+    "storeLocations": [
+      "Perth",
+      "Melbourne",
+      "Brisbane",
+      "Sydney"
+    ],
+    "monthlyTransactionVolume": 7978241.72,
+    "monthlyTransactionCount": 17794,
+    "averageTransactionSize": 165.21,
+    "commissionRate": 0.78,
+    "monthlyRevenue": 117663.28,
+    "partnershipStartDate": "2025-07-02T18:10:28Z",
+    "status": "PendingApproval",
+    "brandColor": "#eea695",
+    "isIntegrated": true,
+    "lastSyncDate": null
+  },
+  {
+    "partnerId": "RP-AUS-002",
+    "businessName": "Coles Australia Ltd",
+    "brandName": "Coles",
+    "partnerType": "SmallShop",
+    "country": "Australia",
+    "currency": "AUD",
+    "contactPerson": "Partner Manager 2",
+    "email": "banking@coles.au",
+    "phoneNumber": "+606-642-600534",
+    "servicesOffered": [
+      "LoanPayment",
+      "CashDeposit",
+      "MoneyTransfer",
+      "CashWithdrawal",
+      "AirtimePurchase"
+    ],
+    "acceptedPaymentMethods": [
+      "Cash",
+      "AccountNumber",
+      "USSD",
+      "PhoneNumber",
+      "CardTap",
+      "QRCode"
+    ],
+    "totalStores": 41,
+    "activeStores": 40,
+    "storeLocations": [
+      "Melbourne",
+      "Sydney"
+    ],
+    "monthlyTransactionVolume": 6477683.22,
+    "monthlyTransactionCount": 40252,
+    "averageTransactionSize": 162.14,
+    "commissionRate": 1.16,
+    "monthlyRevenue": 25146.49,
+    "partnershipStartDate": "2023-08-23T18:10:28Z",
+    "status": "Active",
+    "brandColor": "#561ebd",
+    "isIntegrated": true,
+    "lastSyncDate": null
+  },
+  {
+    "partnerId": "RP-AUS-003",
+    "businessName": "IGA Australia Ltd",
+    "brandName": "IGA",
+    "partnerType": "ConvenienceStore",
+    "country": "Australia",
+    "currency": "AUD",
+    "contactPerson": "Partner Manager 3",
+    "email": "banking@iga.au",
+    "phoneNumber": "+443-604-514708",
+    "servicesOffered": [
+      "AirtimePurchase",
+      "AccountOpening",
+      "CashDeposit",
+      "MoneyTransfer",
+      "LoanPayment",
+      "BillPayment"
+    ],
+    "acceptedPaymentMethods": [
+      "USSD",
+      "PhoneNumber"
+    ],
+    "totalStores": 279,
+    "activeStores": 266,
+    "storeLocations": [
+      "Sydney",
+      "Perth"
+    ],
+    "monthlyTransactionVolume": 3287621.05,
+    "monthlyTransactionCount": 4129,
+    "averageTransactionSize": 95.03,
+    "commissionRate": 1.8,
+    "monthlyRevenue": 24117.54,
+    "partnershipStartDate": "2023-12-11T18:10:28Z",
+    "status": "Active",
+    "brandColor": "#dc6a1f",
+    "isIntegrated": true,
+    "lastSyncDate": null
+  },
+  {
+    "partnerId": "RP-AUS-004",
+    "businessName": "Aldi Australia Australia Ltd",
+    "brandName": "Aldi Australia",
+    "partnerType": "SmallShop",
+    "country": "Australia",
+    "currency": "AUD",
+    "contactPerson": "Partner Manager 4",
+    "email": "banking@aldiaustrali.au",
+    "phoneNumber": "+646-685-214057",
+    "servicesOffered": [
+      "AccountOpening",
+      "AirtimePurchase",
+      "LoanPayment",
+      "CashWithdrawal",
+      "BillPayment",
+      "CashDeposit"
+    ],
+    "acceptedPaymentMethods": [
+      "USSD",
+      "Cash",
+      "PhoneNumber",
+      "CardTap"
+    ],
+    "totalStores": 94,
+    "activeStores": 86,
+    "storeLocations": [
+      "Brisbane",
+      "Perth",
+      "Sydney"
+    ],
+    "monthlyTransactionVolume": 6152377.37,
+    "monthlyTransactionCount": 8090,
+    "averageTransactionSize": 375.92,
+    "commissionRate": 0.82,
+    "monthlyRevenue": 59397.32,
+    "partnershipStartDate": "2021-09-21T18:10:28Z",
+    "status": "PendingApproval",
+    "brandColor": "#c53deb",
+    "isIntegrated": false,
+    "lastSyncDate": null
+  }
+]

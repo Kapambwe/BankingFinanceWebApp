@@ -1,0 +1,68 @@
+[
+  {
+    "instrumentId": "LOAN-001",
+    "instrumentReference": "Jean-Baptiste \u2014 Mortgage Financ",
+    "instrumentType": "Loan",
+    "outstandingBalance": 700000000.0,
+    "nominalRate": 0.18,
+    "effectiveInterestRate": 0.1987,
+    "accruedAmount": 381068.49,
+    "accrualDate": "2026-02-28T00:00:00Z",
+    "journalEntryId": null
+  },
+  {
+    "instrumentId": "LOAN-002",
+    "instrumentReference": "SME Loan \u2014 Emmanuel Trading Ltd",
+    "instrumentType": "Loan",
+    "outstandingBalance": 4200000000.0,
+    "nominalRate": 0.16,
+    "effectiveInterestRate": 0.1735,
+    "accruedAmount": 1996438.36,
+    "accrualDate": "2026-02-28T00:00:00Z",
+    "journalEntryId": null
+  },
+  {
+    "instrumentId": "DEP-001",
+    "instrumentReference": "Fixed Deposit \u2014 Celestin Savings Group",
+    "instrumentType": "Deposit",
+    "outstandingBalance": 14000000000.0,
+    "nominalRate": 0.085,
+    "effectiveInterestRate": 0.085,
+    "accruedAmount": 3260273.97,
+    "accrualDate": "2026-02-28T00:00:00Z",
+    "journalEntryId": null
+  },
+  {
+    "instrumentId": "LOAN-003",
+    "instrumentReference": "Mortgage \u2014 Celestin",
+    "instrumentType": "Loan",
+    "outstandingBalance": 3360000000.0,
+    "nominalRate": 0.155,
+    "effectiveInterestRate": 0.1621,
+    "accruedAmount": 1492208.22,
+    "accrualDate": "2026-02-28T00:00:00Z",
+    "journalEntryId": null
+  },
+  {
+    "instrumentId": "DEP-002",
+    "instrumentReference": "Call Deposit \u2014 Mortgage Financ Fund",
+    "instrumentType": "Deposit",
+    "outstandingBalance": 8400000000.0,
+    "nominalRate": 0.07,
+    "effectiveInterestRate": 0.07,
+    "accruedAmount": 1610958.9,
+    "accrualDate": "2026-02-28T00:00:00Z",
+    "journalEntryId": null
+  },
+  {
+    "instrumentId": "LOAN-004",
+    "instrumentReference": "Corporate Bond \u2014 Mortgage Financ",
+    "instrumentType": "Loan",
+    "outstandingBalance": 22400000000.0,
+    "nominalRate": 0.19,
+    "effectiveInterestRate": 0.2045,
+    "accruedAmount": 12550136.99,
+    "accrualDate": "2026-02-28T00:00:00Z",
+    "journalEntryId": null
+  }
+]

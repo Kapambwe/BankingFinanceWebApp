@@ -1,0 +1,74 @@
+[
+  {
+    "orderId": "CC-ORD-20240123-001",
+    "creditId": "VCS-NI-001",
+    "symbol": "REDD-WA",
+    "side": "Buy",
+    "quantity": 112,
+    "price": 21.49,
+    "totalAmount": 2406.88,
+    "purpose": "Portfolio Investment",
+    "status": "Completed",
+    "timestamp": "2024-01-23T08:00:00Z"
+  },
+  {
+    "orderId": "CC-ORD-20240219-002",
+    "creditId": "VCS-NI-001",
+    "symbol": "REDD-WA",
+    "side": "Retire",
+    "quantity": 50,
+    "price": 21.51,
+    "totalAmount": 1075.5,
+    "purpose": "Social Impact Investment",
+    "status": "Completed",
+    "timestamp": "2024-02-19T09:00:00Z"
+  },
+  {
+    "orderId": "CC-ORD-20240321-003",
+    "creditId": "GOL-NI-002",
+    "symbol": "SOLAR-WA",
+    "side": "Buy",
+    "quantity": 76,
+    "price": 21.56,
+    "totalAmount": 1638.56,
+    "purpose": "ESG Portfolio Diversification",
+    "status": "Completed",
+    "timestamp": "2024-03-21T17:00:00Z"
+  },
+  {
+    "orderId": "CC-ORD-20240410-004",
+    "creditId": "GOL-NI-002",
+    "symbol": "SOLAR-WA",
+    "side": "Buy",
+    "quantity": 32,
+    "price": 21.04,
+    "totalAmount": 673.28,
+    "purpose": "ESG Portfolio Diversification",
+    "status": "Completed",
+    "timestamp": "2024-04-10T16:00:00Z"
+  },
+  {
+    "orderId": "CC-ORD-20240510-005",
+    "creditId": "CDM-NI-003",
+    "symbol": "OIL-EFF-WA",
+    "side": "Retire",
+    "quantity": 103,
+    "price": 18.18,
+    "totalAmount": 1872.54,
+    "purpose": "Portfolio Investment",
+    "status": "Completed",
+    "timestamp": "2024-05-10T08:00:00Z"
+  },
+  {
+    "orderId": "CC-ORD-20240628-006",
+    "creditId": "CDM-NI-003",
+    "symbol": "OIL-EFF-WA",
+    "side": "Buy",
+    "quantity": 148,
+    "price": 17.53,
+    "totalAmount": 2594.44,
+    "purpose": "Regulatory Compliance",
+    "status": "Completed",
+    "timestamp": "2024-06-28T14:00:00Z"
+  }
+]

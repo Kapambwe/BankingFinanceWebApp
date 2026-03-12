@@ -1,0 +1,10 @@
+[
+  {"customerId":"fao-c001-1111-2222-aaaa-bb1234567890","customerName":"Republic of Zambia","creditScore":610,"creditRating":"B","riskCategory":"Medium-High","lastAssessmentDate":"2025-12-01T00:00:00Z","debtToGdpRatio":"130.2%"},
+  {"customerId":"fao-c002-2222-3333-bbbb-cc2345678901","customerName":"Republic of Kenya","creditScore":650,"creditRating":"B+","riskCategory":"Medium-High","lastAssessmentDate":"2025-12-01T00:00:00Z","debtToGdpRatio":"68.2%"},
+  {"customerId":"fao-c003-3333-4444-cccc-dd3456789012","customerName":"Federal Democratic Republic of Ethiopia","creditScore":600,"creditRating":"B-","riskCategory":"High","lastAssessmentDate":"2025-12-01T00:00:00Z","debtToGdpRatio":"55.2%"},
+  {"customerId":"fao-c004-4444-5555-dddd-ee4567890123","customerName":"Republic of Ghana","creditScore":590,"creditRating":"CCC+","riskCategory":"High","lastAssessmentDate":"2025-12-01T00:00:00Z","debtToGdpRatio":"85.6%"},
+  {"customerId":"fao-c005-5555-6666-eeee-ff5678901234","customerName":"United Republic of Tanzania","creditScore":640,"creditRating":"B","riskCategory":"Medium-High","lastAssessmentDate":"2025-12-01T00:00:00Z","debtToGdpRatio":"42.8%"},
+  {"customerId":"fao-c006-6666-7777-ffff-006789012345","customerName":"Republic of Mozambique","creditScore":575,"creditRating":"CCC","riskCategory":"High","lastAssessmentDate":"2025-12-01T00:00:00Z","debtToGdpRatio":"108.5%"},
+  {"customerId":"fao-c007-7777-8888-0000-117890123456","customerName":"Republic of Uganda","creditScore":630,"creditRating":"B","riskCategory":"Medium-High","lastAssessmentDate":"2025-12-01T00:00:00Z","debtToGdpRatio":"49.1%"},
+  {"customerId":"fao-c009-9999-0000-2222-339012345678","customerName":"Republic of India","creditScore":730,"creditRating":"BBB-","riskCategory":"Medium","lastAssessmentDate":"2025-12-01T00:00:00Z","debtToGdpRatio":"83.4%"}
+]

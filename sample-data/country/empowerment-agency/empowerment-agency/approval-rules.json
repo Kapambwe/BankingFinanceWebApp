@@ -1,0 +1,80 @@
+[
+  {
+    "ruleId": 1,
+    "ruleName": "Bills USD 270,000\u20132,700,000 require Branch Manager approval",
+    "type": "Bill",
+    "minAmount": 270000,
+    "maxAmount": 2700000,
+    "approverId": "manager@empowerment-.co",
+    "approverName": "Branch Manager",
+    "level": 1,
+    "isActive": true,
+    "autoApproveBelow": false,
+    "notes": "Standard operational expenditure threshold"
+  },
+  {
+    "ruleId": 2,
+    "ruleName": "Bills above USD 2,700,000 require Chief Financial Officer approval",
+    "type": "Bill",
+    "minAmount": 2700000,
+    "maxAmount": null,
+    "approverId": "cfo@empowerment-.co",
+    "approverName": "Chief Financial Officer",
+    "level": 2,
+    "isActive": true,
+    "autoApproveBelow": false,
+    "notes": "Capital expenditure and large operational bills"
+  },
+  {
+    "ruleId": 3,
+    "ruleName": "Bills above USD 13,600,000 require Chief Executive Officer approval",
+    "type": "Bill",
+    "minAmount": 13600000,
+    "maxAmount": null,
+    "approverId": "ceo@empowerment-.co",
+    "approverName": "Chief Executive Officer",
+    "level": 3,
+    "isActive": true,
+    "autoApproveBelow": false,
+    "notes": "Strategic vendor contracts and major capital expenditure"
+  },
+  {
+    "ruleId": 4,
+    "ruleName": "Journal entries above USD 1,350,000 require Chief Financial Officer approval",
+    "type": "JournalEntry",
+    "minAmount": 1350000.0,
+    "maxAmount": null,
+    "approverId": "controller@empowerment-.co",
+    "approverName": "Financial Controller",
+    "level": 1,
+    "isActive": true,
+    "autoApproveBelow": false,
+    "notes": "SOX control \u2014 manual journal entries above threshold"
+  },
+  {
+    "ruleId": 5,
+    "ruleName": "Payments below USD 140,000 auto-approved",
+    "type": "Payment",
+    "minAmount": 0,
+    "maxAmount": 140000,
+    "approverId": "system@empowerment-.co",
+    "approverName": "System",
+    "level": 1,
+    "isActive": true,
+    "autoApproveBelow": true,
+    "notes": "Petty cash and minor operational payments"
+  },
+  {
+    "ruleId": 6,
+    "ruleName": "Budget changes above USD 2,700,000 require Chief Financial Officer approval",
+    "type": "BudgetChange",
+    "minAmount": 2700000,
+    "maxAmount": null,
+    "approverId": "cfo@empowerment-.co",
+    "approverName": "Chief Financial Officer",
+    "level": 2,
+    "isActive": true,
+    "autoApproveBelow": false,
+    "notes": "Budget revisions require justification memo"
+  }
+]

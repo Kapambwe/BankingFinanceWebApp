@@ -1,0 +1,57 @@
+[
+  {
+    "customerId": "cust2000-0001",
+    "customerNumber": "CUST-2-00001",
+    "customerName": "Ministry of Health Ghana",
+    "customerType": "Government",
+    "email": "info@ministry-of-health-g.gh",
+    "phone": "+233-30-2680100",
+    "country": "Ghana",
+    "status": "Active",
+    "createdAt": "2025-01-01T00:00:00Z"
+  },
+  {
+    "customerId": "cust2000-0002",
+    "customerNumber": "CUST-2-00002",
+    "customerName": "Ministry of Finance Ghana",
+    "customerType": "Government",
+    "email": "info@ministry-of-finance-.gh",
+    "phone": "+233-30-2680100",
+    "country": "Ghana",
+    "status": "Active",
+    "createdAt": "2025-01-01T00:00:00Z"
+  },
+  {
+    "customerId": "cust2000-0003",
+    "customerNumber": "CUST-2-00003",
+    "customerName": "Ministry of Employment Ghana",
+    "customerType": "Government",
+    "email": "info@ministry-of-employme.gh",
+    "phone": "+233-30-2680100",
+    "country": "Ghana",
+    "status": "Active",
+    "createdAt": "2025-01-01T00:00:00Z"
+  },
+  {
+    "customerId": "cust2000-0004",
+    "customerNumber": "CUST-2-00004",
+    "customerName": "Ghana Commercial Bank",
+    "customerType": "Corporate",
+    "email": "info@ghana-commercial-ban.gh",
+    "phone": "+233-30-2680100",
+    "country": "Ghana",
+    "status": "Active",
+    "createdAt": "2025-01-01T00:00:00Z"
+  },
+  {
+    "customerId": "cust2000-0005",
+    "customerNumber": "CUST-2-00005",
+    "customerName": "Tullow Oil Ghana",
+    "customerType": "Corporate",
+    "email": "info@tullow-oil-ghana.gh",
+    "phone": "+233-30-2680100",
+    "country": "Ghana",
+    "status": "Active",
+    "createdAt": "2025-01-01T00:00:00Z"
+  }
+]

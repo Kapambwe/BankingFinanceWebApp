@@ -1,0 +1,17 @@
+{
+  "registrationNumber": "REG-44621",
+  "contactEmail": "prudentiallifeassurance@example.zm",
+  "createdAt": "2024-05-19T00:00:00Z",
+  "branches": 44,
+  "institutionType": "Insurance",
+  "institutionName": "Prudential Life Assurance",
+  "country": "Australia",
+  "established": 1963,
+  "employees": 2045,
+  "contactPhone": "+260-601-460806",
+  "headquarters": "Canberra",
+  "institutionId": "db173e0b-141e-44ba-a54f-9e25524c10c9",
+  "currency": "AUD",
+  "status": "Active",
+  "website": "https://www.prudentiallifeassurance.co.zm"
+}

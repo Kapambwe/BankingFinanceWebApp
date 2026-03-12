@@ -1,0 +1,36 @@
+[
+  {
+    "fundId": "b50e8400-e29b-41d4-a716-446655440001",
+    "fundCode": "CEF-001",
+    "fundName": "Citizen Economic Empowerment Fund - Youth",
+    "fundType": "YouthEmpowerment",
+    "description": "Supporting young entrepreneurs with startup capital",
+    "totalCapital": 50000000,
+    "committedAmount": 35000000,
+    "disbursedAmount": 28000000,
+    "availableBalance": 15000000,
+    "loanCount": 450,
+    "beneficiaryCount": 450,
+    "currency": "USD",
+    "status": "Active",
+    "establishedDate": "2020-04-01T00:00:00Z",
+    "createdAt": "2020-03-15T00:00:00Z"
+  },
+  {
+    "fundId": "b50e8400-e29b-41d4-a716-446655440002",
+    "fundCode": "CEF-002",
+    "fundName": "Women Economic Empowerment Fund",
+    "fundType": "WomenEmpowerment",
+    "description": "Empowering women-led businesses",
+    "totalCapital": 75000000,
+    "committedAmount": 50000000,
+    "disbursedAmount": 42000000,
+    "availableBalance": 25000000,
+    "loanCount": 680,
+    "beneficiaryCount": 680,
+    "currency": "USD",
+    "status": "Active",
+    "establishedDate": "2019-01-01T00:00:00Z",
+    "createdAt": "2018-12-10T00:00:00Z"
+  }
+]

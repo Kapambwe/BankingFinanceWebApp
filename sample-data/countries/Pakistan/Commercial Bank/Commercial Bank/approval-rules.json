@@ -1,0 +1,80 @@
+[
+  {
+    "ruleId": 1,
+    "ruleName": "Bills PKR 2,800,000\u201328,000,000 require Branch Manager approval",
+    "type": "Bill",
+    "minAmount": 2800000,
+    "maxAmount": 28000000,
+    "approverId": "manager@commercialba.co",
+    "approverName": "Branch Manager",
+    "level": 1,
+    "isActive": true,
+    "autoApproveBelow": false,
+    "notes": "Standard operational expenditure threshold"
+  },
+  {
+    "ruleId": 2,
+    "ruleName": "Bills above PKR 28,000,000 require Chief Financial Officer approval",
+    "type": "Bill",
+    "minAmount": 28000000,
+    "maxAmount": null,
+    "approverId": "cfo@commercialba.co",
+    "approverName": "Chief Financial Officer",
+    "level": 2,
+    "isActive": true,
+    "autoApproveBelow": false,
+    "notes": "Capital expenditure and large operational bills"
+  },
+  {
+    "ruleId": 3,
+    "ruleName": "Bills above PKR 140,000,000 require Chief Executive Officer approval",
+    "type": "Bill",
+    "minAmount": 140000000,
+    "maxAmount": null,
+    "approverId": "ceo@commercialba.co",
+    "approverName": "Chief Executive Officer",
+    "level": 3,
+    "isActive": true,
+    "autoApproveBelow": false,
+    "notes": "Strategic vendor contracts and major capital expenditure"
+  },
+  {
+    "ruleId": 4,
+    "ruleName": "Journal entries above PKR 14,000,000 require Chief Financial Officer approval",
+    "type": "JournalEntry",
+    "minAmount": 14000000.0,
+    "maxAmount": null,
+    "approverId": "controller@commercialba.co",
+    "approverName": "Financial Controller",
+    "level": 1,
+    "isActive": true,
+    "autoApproveBelow": false,
+    "notes": "SOX control \u2014 manual journal entries above threshold"
+  },
+  {
+    "ruleId": 5,
+    "ruleName": "Payments below PKR 1,400,000 auto-approved",
+    "type": "Payment",
+    "minAmount": 0,
+    "maxAmount": 1400000,
+    "approverId": "system@commercialba.co",
+    "approverName": "System",
+    "level": 1,
+    "isActive": true,
+    "autoApproveBelow": true,
+    "notes": "Petty cash and minor operational payments"
+  },
+  {
+    "ruleId": 6,
+    "ruleName": "Budget changes above PKR 28,000,000 require Chief Financial Officer approval",
+    "type": "BudgetChange",
+    "minAmount": 28000000,
+    "maxAmount": null,
+    "approverId": "cfo@commercialba.co",
+    "approverName": "Chief Financial Officer",
+    "level": 2,
+    "isActive": true,
+    "autoApproveBelow": false,
+    "notes": "Budget revisions require justification memo"
+  }
+]

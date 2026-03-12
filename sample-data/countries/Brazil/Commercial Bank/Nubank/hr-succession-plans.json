@@ -1,0 +1,71 @@
+[
+  {
+    "planId": "suc00001-0001-0001-0001-000000000001",
+    "roleTitle": "CTO",
+    "currentHolder": "André Street",
+    "successors": [
+      {
+        "employeeName": "Marcos Vinicius",
+        "readiness": "Ready Now",
+        "developmentNeeds": []
+      },
+      {
+        "employeeName": "Renata Castro",
+        "readiness": "1-2 Years",
+        "developmentNeeds": [
+          "Cloud architecture scale",
+          "Executive stakeholder management"
+        ]
+      }
+    ],
+    "riskLevel": "Low",
+    "lastUpdated": "2026-01-01T00:00:00"
+  },
+  {
+    "planId": "suc00001-0001-0001-0001-000000000002",
+    "roleTitle": "Head de Produto",
+    "currentHolder": "Cristina Junqueira",
+    "successors": [
+      {
+        "employeeName": "Ana Santos",
+        "readiness": "1-2 Years",
+        "developmentNeeds": [
+          "P&L ownership",
+          "Broader platform experience"
+        ]
+      },
+      {
+        "employeeName": "Rafael Costa",
+        "readiness": "2-3 Years",
+        "developmentNeeds": [
+          "Leadership at scale",
+          "Cross-functional influence"
+        ]
+      }
+    ],
+    "riskLevel": "Medium",
+    "lastUpdated": "2026-01-01T00:00:00"
+  },
+  {
+    "planId": "suc00001-0001-0001-0001-000000000003",
+    "roleTitle": "CFO",
+    "currentHolder": "Guilherme Lago",
+    "successors": [
+      {
+        "employeeName": "Pedro Martins",
+        "readiness": "Ready Now",
+        "developmentNeeds": []
+      },
+      {
+        "employeeName": "Juliana Alves",
+        "readiness": "2-3 Years",
+        "developmentNeeds": [
+          "Capital markets experience",
+          "Regulatory dialogue"
+        ]
+      }
+    ],
+    "riskLevel": "Low",
+    "lastUpdated": "2026-01-01T00:00:00"
+  }
+]

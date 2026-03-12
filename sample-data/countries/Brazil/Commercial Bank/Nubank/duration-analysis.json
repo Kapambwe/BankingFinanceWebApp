@@ -1,0 +1,57 @@
+[
+  {
+    "analysisId": "a1001122-3344-4556-7788-99aabbccdd01",
+    "portfolioName": "Títulos do Tesouro Nacional",
+    "macaulayDuration": 5.8,
+    "modifiedDuration": 5.32,
+    "convexity": 38.5,
+    "dollarDuration": 532000,
+    "basisPointValue": 53200,
+    "assetClass": "Fixed Income",
+    "analysisDate": "2025-01-31"
+  },
+  {
+    "analysisId": "a1001122-3344-4556-7788-99aabbccdd02",
+    "portfolioName": "Debêntures Corporativas",
+    "macaulayDuration": 3.2,
+    "modifiedDuration": 2.98,
+    "convexity": 22.1,
+    "dollarDuration": 298000,
+    "basisPointValue": 29800,
+    "assetClass": "Fixed Income",
+    "analysisDate": "2025-01-31"
+  },
+  {
+    "analysisId": "a1001122-3344-4556-7788-99aabbccdd03",
+    "portfolioName": "LCI/LCA",
+    "macaulayDuration": 1.5,
+    "modifiedDuration": 1.42,
+    "convexity": 8.7,
+    "dollarDuration": 142000,
+    "basisPointValue": 14200,
+    "assetClass": "Fixed Income",
+    "analysisDate": "2025-01-31"
+  },
+  {
+    "analysisId": "a1001122-3344-4556-7788-99aabbccdd04",
+    "portfolioName": "CRI/CRA",
+    "macaulayDuration": 4.1,
+    "modifiedDuration": 3.85,
+    "convexity": 28.9,
+    "dollarDuration": 385000,
+    "basisPointValue": 38500,
+    "assetClass": "Structured",
+    "analysisDate": "2025-01-31"
+  },
+  {
+    "analysisId": "a1001122-3344-4556-7788-99aabbccdd05",
+    "portfolioName": "Carteira de Crédito Pessoal",
+    "macaulayDuration": 2.3,
+    "modifiedDuration": 2.15,
+    "convexity": 15.2,
+    "dollarDuration": 215000,
+    "basisPointValue": 21500,
+    "assetClass": "Loans",
+    "analysisDate": "2025-01-31"
+  }
+]

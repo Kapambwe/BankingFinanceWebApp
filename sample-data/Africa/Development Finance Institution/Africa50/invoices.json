@@ -1,0 +1,5 @@
+[
+  {"invoiceId":"AF50-INV-001","customerId":"a50-c002-2345-6789-bcde-f12345678901","amount":120000000.00,"currency":"USD","status":"Paid","description":"Expressway Construction Tranche 5","issuedDate":"2025-10-05T00:00:00Z","paidDate":"2025-10-15T00:00:00Z"},
+  {"invoiceId":"AF50-INV-002","customerId":"a50-c001-1234-5678-abcd-ef1234567890","amount":80000000.00,"currency":"USD","status":"Paid","description":"Solar Plant Phase 3","issuedDate":"2025-09-10T00:00:00Z","paidDate":"2025-09-20T00:00:00Z"},
+  {"invoiceId":"AF50-INV-003","customerId":"a50-c004-4567-8901-defa-234567890123","amount":45000000.00,"currency":"USD","status":"Paid","description":"Wind Turbine Procurement","issuedDate":"2025-11-25T00:00:00Z","paidDate":"2025-12-05T00:00:00Z"}
+]

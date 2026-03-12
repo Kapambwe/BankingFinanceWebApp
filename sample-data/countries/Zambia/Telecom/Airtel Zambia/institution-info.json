@@ -1,0 +1,17 @@
+{
+  "registrationNumber": "REG-TELECOM-68079",
+  "contactEmail": "info@airtelzambia.zm",
+  "createdAt": "2001-01-01T00:00:00Z",
+  "branches": 446,
+  "institutionType": "Telecom",
+  "institutionName": "Airtel Zambia",
+  "country": "Zambia",
+  "established": 2001,
+  "employees": 7265,
+  "contactPhone": "+260436454",
+  "headquarters": "Lusaka",
+  "institutionId": "9adfe981-6ab1-9e15-ba92-992e44f8b53c",
+  "currency": "ZMW",
+  "status": "Active",
+  "website": "https://www.airtel.co.zm"
+}

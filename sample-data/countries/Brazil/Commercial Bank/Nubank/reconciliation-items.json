@@ -1,0 +1,62 @@
+[
+  {
+    "reconciliationId": "rec001-1111-1111-1111-000000000001",
+    "reconciliationDate": "2026-01-02T00:00:00Z",
+    "accountType": "Nostro",
+    "referenceNumber": "REF-NUB-010001",
+    "systemBalance": 2500000000,
+    "externalBalance": 2500000000,
+    "variance": 0,
+    "status": "Matched",
+    "reconciledBy": "Ana Ferreira",
+    "createdAt": "2026-01-02T00:00:00Z"
+  },
+  {
+    "reconciliationId": "rec001-1111-1111-1111-000000000002",
+    "reconciliationDate": "2026-01-02T00:00:00Z",
+    "accountType": "Internal",
+    "referenceNumber": "REF-NUB-010002",
+    "systemBalance": 850000000,
+    "externalBalance": 850000000,
+    "variance": 0,
+    "status": "Matched",
+    "reconciledBy": "Carlos Mendes",
+    "createdAt": "2026-01-02T00:00:00Z"
+  },
+  {
+    "reconciliationId": "rec001-1111-1111-1111-000000000003",
+    "reconciliationDate": "2026-01-03T00:00:00Z",
+    "accountType": "Nostro",
+    "referenceNumber": "REF-NUB-010003",
+    "systemBalance": 1200000000,
+    "externalBalance": 1198500000,
+    "variance": 1500000,
+    "status": "UnderReview",
+    "reconciledBy": "Maria Souza",
+    "createdAt": "2026-01-03T00:00:00Z"
+  },
+  {
+    "reconciliationId": "rec001-1111-1111-1111-000000000004",
+    "reconciliationDate": "2026-01-03T00:00:00Z",
+    "accountType": "External",
+    "referenceNumber": "REF-NUB-010004",
+    "systemBalance": 5800000000,
+    "externalBalance": 5800000000,
+    "variance": 0,
+    "status": "Matched",
+    "reconciledBy": "João Oliveira",
+    "createdAt": "2026-01-03T00:00:00Z"
+  },
+  {
+    "reconciliationId": "rec001-1111-1111-1111-000000000005",
+    "reconciliationDate": "2026-01-04T00:00:00Z",
+    "accountType": "Internal",
+    "referenceNumber": "REF-NUB-010005",
+    "systemBalance": 320000000,
+    "externalBalance": 320000000,
+    "variance": 0,
+    "status": "Matched",
+    "reconciledBy": "Pedro Rodrigues",
+    "createdAt": "2026-01-04T00:00:00Z"
+  }
+]

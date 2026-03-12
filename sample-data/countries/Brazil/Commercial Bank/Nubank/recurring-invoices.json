@@ -1,0 +1,53 @@
+[
+  {
+    "recurringInvoiceId": 1,
+    "invoiceName": "Retainer de Serviços Financeiros — Petrobras",
+    "customerCode": "C001",
+    "customerName": "Petrobras S.A.",
+    "frequency": "Monthly",
+    "amount": 18500000.0,
+    "currency": "BRL",
+    "nextInvoiceDate": "2026-03-01T00:00:00Z",
+    "revenueAccountCode": "4010",
+    "revenueAccountName": "Receita de Serviços",
+    "status": "Active",
+    "startDate": "2020-01-01T00:00:00Z",
+    "endDate": null,
+    "totalGenerated": 74,
+    "createdBy": "Ana Ferreira"
+  },
+  {
+    "recurringInvoiceId": 2,
+    "invoiceName": "Serviços de Câmbio — Vale S.A.",
+    "customerCode": "C002",
+    "customerName": "Vale S.A.",
+    "frequency": "Monthly",
+    "amount": 8200000.0,
+    "currency": "BRL",
+    "nextInvoiceDate": "2026-03-01T00:00:00Z",
+    "revenueAccountCode": "4025",
+    "revenueAccountName": "Receita de Câmbio",
+    "status": "Active",
+    "startDate": "2021-06-01T00:00:00Z",
+    "endDate": null,
+    "totalGenerated": 57,
+    "createdBy": "Ana Ferreira"
+  },
+  {
+    "recurringInvoiceId": 3,
+    "invoiceName": "Pacote Bancário Premium — Embraer",
+    "customerCode": "C003",
+    "customerName": "Embraer S.A.",
+    "frequency": "Monthly",
+    "amount": 4500000.0,
+    "currency": "BRL",
+    "nextInvoiceDate": "2026-03-01T00:00:00Z",
+    "revenueAccountCode": "4035",
+    "revenueAccountName": "Receita de Tarifas Bancárias",
+    "status": "Active",
+    "startDate": "2022-01-01T00:00:00Z",
+    "endDate": null,
+    "totalGenerated": 38,
+    "createdBy": "Carlos Mendes"
+  }
+]

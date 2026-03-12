@@ -1,0 +1,6 @@
+[
+  {"invoiceId":"AIIB-INV-001","customerId":"aiib-c001-1111-2222-aaaa-bbbbccccdddd","amount":200000000.00,"currency":"USD","status":"Paid","description":"Egypt Sustainable Transport Corridor Co-Finance Disbursement","issuedDate":"2025-08-01T00:00:00Z","paidDate":"2025-08-15T00:00:00Z"},
+  {"invoiceId":"AIIB-INV-002","customerId":"aiib-c003-3333-4444-cccc-ddddeeeeffff","amount":150000000.00,"currency":"USD","status":"Paid","description":"Cote d'Ivoire Abidjan Urban Rail Co-Finance Disbursement","issuedDate":"2025-09-25T00:00:00Z","paidDate":"2025-10-10T00:00:00Z"},
+  {"invoiceId":"AIIB-INV-003","customerId":"aiib-c002-2222-3333-bbbb-ccccddddeeee","amount":80000000.00,"currency":"USD","status":"Paid","description":"Rwanda Digital Infrastructure Backbone Disbursement","issuedDate":"2025-09-10T00:00:00Z","paidDate":"2025-09-20T00:00:00Z"},
+  {"invoiceId":"AIIB-INV-004","customerId":"aiib-c004-4444-5555-dddd-eeeeffff0000","amount":75000000.00,"currency":"USD","status":"Paid","description":"Senegal Climate-Resilient Coastal Protection Disbursement","issuedDate":"2025-10-25T00:00:00Z","paidDate":"2025-11-05T00:00:00Z"}
+]

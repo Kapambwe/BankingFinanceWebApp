@@ -1,0 +1,7 @@
+[
+  {"entryId":"EBRD-JE-001","date":"2025-08-15T00:00:00Z","description":"Transition Loan Disbursement - Egypt Renewable Energy","debitAccount":"1100","creditAccount":"1000","amount":500000000.00,"currency":"EUR","status":"Posted"},
+  {"entryId":"EBRD-JE-002","date":"2025-09-10T00:00:00Z","description":"Green Economy Disbursement - Morocco Agriculture","debitAccount":"1400","creditAccount":"1000","amount":300000000.00,"currency":"EUR","status":"Posted"},
+  {"entryId":"EBRD-JE-003","date":"2025-10-15T00:00:00Z","description":"Equity Investment - Nigeria Fintech","debitAccount":"1200","creditAccount":"1000","amount":250000000.00,"currency":"EUR","status":"Posted"},
+  {"entryId":"EBRD-JE-004","date":"2025-11-01T00:00:00Z","description":"Transition Loan Repayment - Egypt","debitAccount":"1000","creditAccount":"1100","amount":120000000.00,"currency":"EUR","status":"Posted"},
+  {"entryId":"EBRD-JE-005","date":"2025-12-31T00:00:00Z","description":"Interest and Fee Income Accrual - Q4 2025","debitAccount":"1500","creditAccount":"4000","amount":700000000.00,"currency":"EUR","status":"Posted"}
+]

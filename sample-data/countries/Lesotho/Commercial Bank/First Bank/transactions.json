@@ -1,0 +1,222 @@
+[
+  {
+    "transactionType": "Transfer",
+    "currency": "LSL",
+    "status": "Pending",
+    "transactionId": "5ea0d4c0-8958-4512-8ba1-70222e5fea24",
+    "amount": 113980802226.0,
+    "description": "Service Charge",
+    "balance": 112280345614.0,
+    "transactionDate": "2025-08-13T13:41:36Z",
+    "accountId": "c27cb8af-d7dd-4ced-b5cd-194f467cf3bd"
+  },
+  {
+    "transactionType": "Payment",
+    "currency": "LSL",
+    "status": "Completed",
+    "transactionId": "114a1ade-e1d5-4dc5-8559-cd29e1c5eb62",
+    "amount": 192951508853.0,
+    "description": "Mobile Money",
+    "balance": 74851374915.0,
+    "transactionDate": "2025-10-23T13:41:36Z",
+    "accountId": "70c46a47-871d-46b3-8fc2-f3a05560f999"
+  },
+  {
+    "transactionType": "Transfer",
+    "currency": "LSL",
+    "status": "Failed",
+    "transactionId": "4e01b4cb-9c84-432e-a167-6a688c14ac5c",
+    "amount": 99510990840.0,
+    "description": "POS Purchase",
+    "balance": 35554083450.0,
+    "transactionDate": "2025-12-18T13:41:36Z",
+    "accountId": "b61edf52-eac8-4783-a6c1-9fd71a88b909"
+  },
+  {
+    "transactionType": "Withdrawal",
+    "currency": "LSL",
+    "status": "Completed",
+    "transactionId": "75d85abe-af90-4acd-ae96-277842c1ac7c",
+    "amount": 81317966518.0,
+    "description": "POS Purchase",
+    "balance": 100517438274.0,
+    "transactionDate": "2025-09-12T13:41:36Z",
+    "accountId": "9f41f96e-baa9-43a9-a705-e7f2483ec675"
+  },
+  {
+    "transactionType": "Fee",
+    "currency": "LSL",
+    "status": "Failed",
+    "transactionId": "f2a59f6c-eb6a-47f5-97f6-bf881c905e84",
+    "amount": 61922757204.0,
+    "description": "Mobile Money",
+    "balance": 144315424627.0,
+    "transactionDate": "2025-12-01T13:41:36Z",
+    "accountId": "196ea97d-8553-4b04-9395-e631a777ce14"
+  },
+  {
+    "transactionType": "Payment",
+    "currency": "LSL",
+    "status": "Completed",
+    "transactionId": "849ce981-ec3e-4bf9-93fd-94a415c598d0",
+    "amount": 164346954168.0,
+    "description": "Mobile Money",
+    "balance": 143216294429.0,
+    "transactionDate": "2025-12-29T13:41:36Z",
+    "accountId": "8a773a33-ed0a-4c98-b9b0-97f6ef6ce2ae"
+  },
+  {
+    "transactionType": "Withdrawal",
+    "currency": "LSL",
+    "status": "Pending",
+    "transactionId": "bd596075-f287-4637-8936-c6944a1c1c54",
+    "amount": 62221493760.0,
+    "description": "Bill Payment",
+    "balance": 55111214195.0,
+    "transactionDate": "2025-08-22T13:41:36Z",
+    "accountId": "8dcd213a-4d9b-4e94-bfdf-ab57afdec976"
+  },
+  {
+    "transactionType": "Fee",
+    "currency": "LSL",
+    "status": "Completed",
+    "transactionId": "f7b7dde9-5950-4e2c-bc9a-7968209e8239",
+    "amount": 89605352931.0,
+    "description": "Transfer to Account",
+    "balance": 15308495220.0,
+    "transactionDate": "2026-01-02T13:41:36Z",
+    "accountId": "0365a352-250a-4b61-afb9-aece158bc159"
+  },
+  {
+    "transactionType": "Transfer",
+    "currency": "LSL",
+    "status": "Completed",
+    "transactionId": "61fd9b8c-1cb1-4b93-ab50-00c3e70296af",
+    "amount": 120177154404.0,
+    "description": "Service Charge",
+    "balance": 196854690794.0,
+    "transactionDate": "2026-01-24T13:41:36Z",
+    "accountId": "9874a312-6a88-476e-9f4c-2e8ba71cc158"
+  },
+  {
+    "transactionType": "Fee",
+    "currency": "LSL",
+    "status": "Completed",
+    "transactionId": "50232d11-2ea5-4d77-a41a-0448124e4473",
+    "amount": 24048416912.0,
+    "description": "Mobile Money",
+    "balance": 125826733136.0,
+    "transactionDate": "2025-09-05T13:41:36Z",
+    "accountId": "f0ba8a39-bac3-4004-84b0-635d3d619a9a"
+  },
+  {
+    "transactionType": "Deposit",
+    "currency": "LSL",
+    "status": "Completed",
+    "transactionId": "644348e4-56f5-4e7b-a13d-3179c5b1740f",
+    "amount": 202793659792.0,
+    "description": "ATM Withdrawal",
+    "balance": 162203841207.0,
+    "transactionDate": "2026-01-04T13:41:36Z",
+    "accountId": "26c78676-3d9a-4e8f-96d5-651d547404ea"
+  },
+  {
+    "transactionType": "Deposit",
+    "currency": "LSL",
+    "status": "Pending",
+    "transactionId": "f4d8a059-8b07-47dd-ab9e-754eeafd52d6",
+    "amount": 165247020696.0,
+    "description": "ATM Withdrawal",
+    "balance": 78349383655.0,
+    "transactionDate": "2025-08-20T13:41:36Z",
+    "accountId": "7d2102fb-c88b-4a78-8a88-c2ff3f3b33cb"
+  },
+  {
+    "transactionType": "Payment",
+    "currency": "LSL",
+    "status": "Completed",
+    "transactionId": "074844ed-f435-49ac-9318-cd4cb6f0e53f",
+    "amount": 48474253064.0,
+    "description": "Bill Payment",
+    "balance": 69134330433.0,
+    "transactionDate": "2025-12-10T13:41:36Z",
+    "accountId": "e6729301-69cc-4465-ad3d-41d6eb86e60e"
+  },
+  {
+    "transactionType": "Withdrawal",
+    "currency": "LSL",
+    "status": "Failed",
+    "transactionId": "cd181347-f22d-4fcd-a4c2-efa65919a531",
+    "amount": 173684473614.0,
+    "description": "ATM Withdrawal",
+    "balance": 40799858063.0,
+    "transactionDate": "2025-12-16T13:41:36Z",
+    "accountId": "d088cf45-1e18-48a4-9786-3e500c9abfeb"
+  },
+  {
+    "transactionType": "Deposit",
+    "currency": "LSL",
+    "status": "Completed",
+    "transactionId": "b90afb67-82fe-4105-986a-a9b357456f62",
+    "amount": 194355799682.0,
+    "description": "Transfer to Account",
+    "balance": 197067408666.0,
+    "transactionDate": "2025-12-24T13:41:36Z",
+    "accountId": "f442de85-bd57-4cd5-af8a-b247898f6406"
+  },
+  {
+    "transactionType": "Payment",
+    "currency": "LSL",
+    "status": "Completed",
+    "transactionId": "dff162bf-50dc-4cfb-a35c-5d94fa6df1b4",
+    "amount": 123344592405.0,
+    "description": "Salary Deposit",
+    "balance": 131304101741.0,
+    "transactionDate": "2025-11-21T13:41:36Z",
+    "accountId": "e6157d8a-5975-4a70-b2b3-2932a05ba800"
+  },
+  {
+    "transactionType": "Withdrawal",
+    "currency": "LSL",
+    "status": "Pending",
+    "transactionId": "556c9969-578d-4c2e-bdf5-9392f27e0000",
+    "amount": 116760272135.0,
+    "description": "POS Purchase",
+    "balance": 151456466426.0,
+    "transactionDate": "2025-11-23T13:41:36Z",
+    "accountId": "baf7621f-43d2-41ea-9f46-5542f78b86f3"
+  },
+  {
+    "transactionType": "Transfer",
+    "currency": "LSL",
+    "status": "Completed",
+    "transactionId": "96d0a3aa-1e9b-45bc-8380-12175202e812",
+    "amount": 47699607153.0,
+    "description": "Mobile Money",
+    "balance": 33502648985.0,
+    "transactionDate": "2025-10-21T13:41:36Z",
+    "accountId": "2b63c113-8dd4-4d30-8573-133c68213bdc"
+  },
+  {
+    "transactionType": "Deposit",
+    "currency": "LSL",
+    "status": "Completed",
+    "transactionId": "05a3c8fa-40ae-45fd-b579-9b3e0f6dbe5a",
+    "amount": 9668901339.0,
+    "description": "ATM Withdrawal",
+    "balance": 11532078638.0,
+    "transactionDate": "2026-01-28T13:41:36Z",
+    "accountId": "55802779-f9e8-4441-9ac3-2df75f4eef64"
+  },
+  {
+    "transactionType": "Transfer",
+    "currency": "LSL",
+    "status": "Failed",
+    "transactionId": "547283f7-ba45-450c-a195-7bfcf1642cfc",
+    "amount": 58418519663.0,
+    "description": "ATM Withdrawal",
+    "balance": 6147356662.0,
+    "transactionDate": "2025-12-17T13:41:36Z",
+    "accountId": "edbe07ff-fae3-4e4c-be93-ba92393e6f69"
+  }
+]

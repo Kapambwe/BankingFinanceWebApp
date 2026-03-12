@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Banking Admin</title>
+    <script>
+        // Set base path before ANY relative resource is loaded (GitHub Pages needs /BankingFinanceWebApp/)
+        (function () {
+            var base = document.createElement('base');
+            base.id = 'dynamic-base';
+            base.href = window.location.pathname.includes('/BankingFinanceWebApp')
+                ? '/BankingFinanceWebApp/'
+                : '/';
+            document.head.appendChild(base);
+        })();
+    </script>
+    <link rel="stylesheet" href="lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="css/app.css" />
+    <link rel="stylesheet" href="css/theme.css" />
+    <link rel="icon" type="image/png" href="favicon.png" />
+    <link rel="manifest" href="manifest.json" />
+    <link rel="apple-touch-icon" sizes="512x512" href="icon-512.png" />
+    <link rel="apple-touch-icon" sizes="192x192" href="icon-192.png" />
+    <link href="Banking.Admin.Client.styles.css" rel="stylesheet" />
+    <link href="_content/Radzen.Blazor/css/material-base.css" rel="stylesheet" />
+    <!-- Preload critical resources (must be after base href script) -->
+    <link rel="preload" href="_framework/blazor.webassembly.js" as="script" />
+    <link rel="preload" href="_content/Radzen.Blazor/Radzen.Blazor.js" as="script" />
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.draw/1.0.4/leaflet.draw.css" />
+    <!-- Vis.js Network for Customer Relationship Graphs -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/vis-network@9.1.6/dist/dist/vis-network.min.css" />
+    <!-- Font Awesome for Journey Builder Icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" />
+    <!-- D3.js for Network Visualization -->
+    <style>
+        .d3-network-graph {
+            border: 1px solid #dee2e6;
+            border-radius: 4px;
+            background-color: #ffffff;
+        }
+
+        .d3-network-graph-dark {
+            background-color: #1a1a1a;
+        }
+    </style>
+</head>
+
+<body>
+    <div id="app">
+        <div style="display: flex; justify-content: center; align-items: center; height: 100vh; flex-direction: column;">
+            <svg class="loading-progress">
+                <circle r="40%" cx="50%" cy="50%" />
+                <circle r="40%" cx="50%" cy="50%" />
+            </svg>
+            <div class="loading-progress-text">Loading...</div>
+        </div>
+    </div>
+
+    <div id="blazor-error-ui">
+        An unhandled error has occurred.
+        <a href="." class="reload">Reload</a>
+        <span class="dismiss">🗙</span>
+    </div>
+
+    <script src="_content/Radzen.Blazor/Radzen.Blazor.js"></script>
+    <script src="_framework/blazor.webassembly.js" autostart="false"></script>
+    <script>
+        // Optimize Blazor startup with custom configuration
+        Blazor.start({
+            loadBootResource: function (type, name, defaultUri, integrity) {
+                // Use CDN for common libraries if available
+                if (type === 'dotnetjs') {
+                    return defaultUri;
+                }
+                // Add cache busting for development
+                if (window.location.hostname === 'localhost') {
+                    return defaultUri + '?v=' + Date.now();
+                }
+                return defaultUri;
+            }
+        });
+    </script>
+    <script>navigator.serviceWorker.register('service-worker.js');</script>
+    <script src="js/theme.js"></script>
+    <script src="js/fileDownload.js"></script>
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet.draw/1.0.4/leaflet.draw.js"></script>
+    <!-- Vis.js Network for Customer Relationship Graphs -->
+    <script src="https://cdn.jsdelivr.net/npm/vis-network@9.1.6/dist/vis-network.min.js"></script>
+    <script src="js/customer-network-graph.js"></script>
+    <script src="js/journey-builder-graph.js"></script>
+    <!-- D3.js for Network Visualization -->
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <script src="js/d3-network-graph.js"></script>
+    <script>
+        // If redirected from 404.html, restore path
+        (function () {
+            const params = new URLSearchParams(window.location.search);
+            const path = params.get('path');
+            if (path) {
+                window.history.replaceState(null, '', '/BankingFinanceWebApp' + decodeURIComponent(path));
+            }
+        })();
+    </script>
+</body>
+
+</html>

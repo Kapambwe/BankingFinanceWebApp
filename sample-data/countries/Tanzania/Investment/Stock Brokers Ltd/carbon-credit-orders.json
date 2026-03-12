@@ -1,0 +1,74 @@
+[
+  {
+    "orderId": "CC-ORD-20240126-001",
+    "creditId": "VCS-TA-001",
+    "symbol": "REDD-EA",
+    "side": "Retire",
+    "quantity": 39,
+    "price": 20.98,
+    "totalAmount": 818.22,
+    "purpose": "Social Impact Investment",
+    "status": "Completed",
+    "timestamp": "2024-01-26T10:00:00Z"
+  },
+  {
+    "orderId": "CC-ORD-20240209-002",
+    "creditId": "VCS-TA-001",
+    "symbol": "REDD-EA",
+    "side": "Buy",
+    "quantity": 139,
+    "price": 21.24,
+    "totalAmount": 2952.36,
+    "purpose": "ESG Portfolio Diversification",
+    "status": "Completed",
+    "timestamp": "2024-02-09T10:00:00Z"
+  },
+  {
+    "orderId": "CC-ORD-20240318-003",
+    "creditId": "GOL-TA-002",
+    "symbol": "GEOTH-EA",
+    "side": "Buy",
+    "quantity": 46,
+    "price": 22.28,
+    "totalAmount": 1024.88,
+    "purpose": "Regulatory Compliance",
+    "status": "Completed",
+    "timestamp": "2024-03-18T08:00:00Z"
+  },
+  {
+    "orderId": "CC-ORD-20240410-004",
+    "creditId": "GOL-TA-002",
+    "symbol": "GEOTH-EA",
+    "side": "Retire",
+    "quantity": 24,
+    "price": 23.01,
+    "totalAmount": 552.24,
+    "purpose": "Corporate Offsetting",
+    "status": "Completed",
+    "timestamp": "2024-04-10T16:00:00Z"
+  },
+  {
+    "orderId": "CC-ORD-20240525-005",
+    "creditId": "GOL-TA-003",
+    "symbol": "SOLAR-EA",
+    "side": "Retire",
+    "quantity": 125,
+    "price": 20.29,
+    "totalAmount": 2536.25,
+    "purpose": "Regulatory Compliance",
+    "status": "Completed",
+    "timestamp": "2024-05-25T17:00:00Z"
+  },
+  {
+    "orderId": "CC-ORD-20240609-006",
+    "creditId": "GOL-TA-003",
+    "symbol": "SOLAR-EA",
+    "side": "Buy",
+    "quantity": 43,
+    "price": 20.64,
+    "totalAmount": 887.52,
+    "purpose": "Annual Carbon Neutrality Commitment",
+    "status": "Completed",
+    "timestamp": "2024-06-09T13:00:00Z"
+  }
+]

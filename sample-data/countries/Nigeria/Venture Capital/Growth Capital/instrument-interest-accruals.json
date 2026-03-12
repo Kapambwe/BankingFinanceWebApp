@@ -1,0 +1,68 @@
+[
+  {
+    "instrumentId": "LOAN-001",
+    "instrumentReference": "Emeka \u2014 Growth Capital",
+    "instrumentType": "Loan",
+    "outstandingBalance": 400000000.0,
+    "nominalRate": 0.18,
+    "effectiveInterestRate": 0.1987,
+    "accruedAmount": 217753.42,
+    "accrualDate": "2026-02-28T00:00:00Z",
+    "journalEntryId": null
+  },
+  {
+    "instrumentId": "LOAN-002",
+    "instrumentReference": "SME Loan \u2014 Chidi Trading Ltd",
+    "instrumentType": "Loan",
+    "outstandingBalance": 2400000000.0,
+    "nominalRate": 0.16,
+    "effectiveInterestRate": 0.1735,
+    "accruedAmount": 1140821.92,
+    "accrualDate": "2026-02-28T00:00:00Z",
+    "journalEntryId": null
+  },
+  {
+    "instrumentId": "DEP-001",
+    "instrumentReference": "Fixed Deposit \u2014 Adaeze Savings Group",
+    "instrumentType": "Deposit",
+    "outstandingBalance": 8000000000.0,
+    "nominalRate": 0.085,
+    "effectiveInterestRate": 0.085,
+    "accruedAmount": 1863013.7,
+    "accrualDate": "2026-02-28T00:00:00Z",
+    "journalEntryId": null
+  },
+  {
+    "instrumentId": "LOAN-003",
+    "instrumentReference": "Mortgage \u2014 Adaeze",
+    "instrumentType": "Loan",
+    "outstandingBalance": 1920000000.0,
+    "nominalRate": 0.155,
+    "effectiveInterestRate": 0.1621,
+    "accruedAmount": 852690.41,
+    "accrualDate": "2026-02-28T00:00:00Z",
+    "journalEntryId": null
+  },
+  {
+    "instrumentId": "DEP-002",
+    "instrumentReference": "Call Deposit \u2014 Growth Capital Fund",
+    "instrumentType": "Deposit",
+    "outstandingBalance": 4800000000.0,
+    "nominalRate": 0.07,
+    "effectiveInterestRate": 0.07,
+    "accruedAmount": 920547.95,
+    "accrualDate": "2026-02-28T00:00:00Z",
+    "journalEntryId": null
+  },
+  {
+    "instrumentId": "LOAN-004",
+    "instrumentReference": "Corporate Bond \u2014 Growth Capital",
+    "instrumentType": "Loan",
+    "outstandingBalance": 12800000000.0,
+    "nominalRate": 0.19,
+    "effectiveInterestRate": 0.2045,
+    "accruedAmount": 7171506.85,
+    "accrualDate": "2026-02-28T00:00:00Z",
+    "journalEntryId": null
+  }
+]

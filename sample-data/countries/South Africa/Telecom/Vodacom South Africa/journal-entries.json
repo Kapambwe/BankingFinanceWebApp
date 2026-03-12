@@ -1,0 +1,677 @@
+[
+  {
+    "journalEntryId": "JE-VOD-00001",
+    "entryDate": "2025-06-25T02:49:24Z",
+    "description": "Tax \u2014 Vodacom South Africa period reconciliation",
+    "reference": "REF-VOD-920064",
+    "status": "Posted",
+    "entryType": "Tax",
+    "currency": "ZAR",
+    "totalDebits": 1854131.95,
+    "totalCredits": 1854131.95,
+    "createdBy": "AccountingBot",
+    "postedBy": "Finance Officer 4",
+    "lines": [
+      {
+        "accountCode": "3330",
+        "accountName": "Tax Account",
+        "debit": 1854131.95,
+        "credit": 0.0
+      },
+      {
+        "accountCode": "1020",
+        "accountName": "Settlement/Clearing Account",
+        "debit": 0.0,
+        "credit": 1854131.95
+      }
+    ]
+  },
+  {
+    "journalEntryId": "JE-VOD-00002",
+    "entryDate": "2025-08-28T15:59:19Z",
+    "description": "Adjustment \u2014 Vodacom South Africa period reconciliation",
+    "reference": "REF-VOD-909760",
+    "status": "Draft",
+    "entryType": "Adjustment",
+    "currency": "ZAR",
+    "totalDebits": 3902877.5,
+    "totalCredits": 3902877.5,
+    "createdBy": "AccountingBot",
+    "postedBy": "Finance Officer 3",
+    "lines": [
+      {
+        "accountCode": "1262",
+        "accountName": "Adjustment Account",
+        "debit": 3902877.5,
+        "credit": 0.0
+      },
+      {
+        "accountCode": "4454",
+        "accountName": "Settlement/Clearing Account",
+        "debit": 0.0,
+        "credit": 3902877.5
+      }
+    ]
+  },
+  {
+    "journalEntryId": "JE-VOD-00003",
+    "entryDate": "2025-02-19T02:38:01Z",
+    "description": "Adjustment \u2014 Vodacom South Africa period reconciliation",
+    "reference": "REF-VOD-357643",
+    "status": "Draft",
+    "entryType": "Adjustment",
+    "currency": "ZAR",
+    "totalDebits": 2251768.13,
+    "totalCredits": 2251768.13,
+    "createdBy": "AccountingBot",
+    "postedBy": "Finance Officer 5",
+    "lines": [
+      {
+        "accountCode": "5836",
+        "accountName": "Adjustment Account",
+        "debit": 2251768.13,
+        "credit": 0.0
+      },
+      {
+        "accountCode": "3316",
+        "accountName": "Settlement/Clearing Account",
+        "debit": 0.0,
+        "credit": 2251768.13
+      }
+    ]
+  },
+  {
+    "journalEntryId": "JE-VOD-00004",
+    "entryDate": "2025-11-15T15:02:02Z",
+    "description": "Tax \u2014 Vodacom South Africa period reconciliation",
+    "reference": "REF-VOD-513383",
+    "status": "Posted",
+    "entryType": "Tax",
+    "currency": "ZAR",
+    "totalDebits": 3450554.49,
+    "totalCredits": 3450554.49,
+    "createdBy": "AccountingBot",
+    "postedBy": "Finance Officer 2",
+    "lines": [
+      {
+        "accountCode": "5716",
+        "accountName": "Tax Account",
+        "debit": 3450554.49,
+        "credit": 0.0
+      },
+      {
+        "accountCode": "2989",
+        "accountName": "Settlement/Clearing Account",
+        "debit": 0.0,
+        "credit": 3450554.49
+      }
+    ]
+  },
+  {
+    "journalEntryId": "JE-VOD-00005",
+    "entryDate": "2025-03-27T21:37:24Z",
+    "description": "Commission \u2014 Vodacom South Africa period reconciliation",
+    "reference": "REF-VOD-438721",
+    "status": "Posted",
+    "entryType": "Commission",
+    "currency": "ZAR",
+    "totalDebits": 463142.47,
+    "totalCredits": 463142.47,
+    "createdBy": "AccountingBot",
+    "postedBy": "Finance Officer 3",
+    "lines": [
+      {
+        "accountCode": "2269",
+        "accountName": "Commission Account",
+        "debit": 463142.47,
+        "credit": 0.0
+      },
+      {
+        "accountCode": "5155",
+        "accountName": "Settlement/Clearing Account",
+        "debit": 0.0,
+        "credit": 463142.47
+      }
+    ]
+  },
+  {
+    "journalEntryId": "JE-VOD-00006",
+    "entryDate": "2025-11-13T02:58:24Z",
+    "description": "Commission \u2014 Vodacom South Africa period reconciliation",
+    "reference": "REF-VOD-371739",
+    "status": "Posted",
+    "entryType": "Commission",
+    "currency": "ZAR",
+    "totalDebits": 4565633.18,
+    "totalCredits": 4565633.18,
+    "createdBy": "AccountingBot",
+    "postedBy": "Finance Officer 4",
+    "lines": [
+      {
+        "accountCode": "2327",
+        "accountName": "Commission Account",
+        "debit": 4565633.18,
+        "credit": 0.0
+      },
+      {
+        "accountCode": "5629",
+        "accountName": "Settlement/Clearing Account",
+        "debit": 0.0,
+        "credit": 4565633.18
+      }
+    ]
+  },
+  {
+    "journalEntryId": "JE-VOD-00007",
+    "entryDate": "2025-07-14T19:21:54Z",
+    "description": "Accrual \u2014 Vodacom South Africa period reconciliation",
+    "reference": "REF-VOD-199535",
+    "status": "Posted",
+    "entryType": "Accrual",
+    "currency": "ZAR",
+    "totalDebits": 1190006.87,
+    "totalCredits": 1190006.87,
+    "createdBy": "AccountingBot",
+    "postedBy": "Finance Officer 5",
+    "lines": [
+      {
+        "accountCode": "4316",
+        "accountName": "Accrual Account",
+        "debit": 1190006.87,
+        "credit": 0.0
+      },
+      {
+        "accountCode": "4858",
+        "accountName": "Settlement/Clearing Account",
+        "debit": 0.0,
+        "credit": 1190006.87
+      }
+    ]
+  },
+  {
+    "journalEntryId": "JE-VOD-00008",
+    "entryDate": "2025-05-24T17:08:22Z",
+    "description": "Revenue \u2014 Vodacom South Africa period reconciliation",
+    "reference": "REF-VOD-262032",
+    "status": "Posted",
+    "entryType": "Revenue",
+    "currency": "ZAR",
+    "totalDebits": 2412730.12,
+    "totalCredits": 2412730.12,
+    "createdBy": "AccountingBot",
+    "postedBy": "Finance Officer 3",
+    "lines": [
+      {
+        "accountCode": "1931",
+        "accountName": "Revenue Account",
+        "debit": 2412730.12,
+        "credit": 0.0
+      },
+      {
+        "accountCode": "1461",
+        "accountName": "Settlement/Clearing Account",
+        "debit": 0.0,
+        "credit": 2412730.12
+      }
+    ]
+  },
+  {
+    "journalEntryId": "JE-VOD-00009",
+    "entryDate": "2025-11-02T08:03:40Z",
+    "description": "Adjustment \u2014 Vodacom South Africa period reconciliation",
+    "reference": "REF-VOD-139965",
+    "status": "Posted",
+    "entryType": "Adjustment",
+    "currency": "ZAR",
+    "totalDebits": 2708240.38,
+    "totalCredits": 2708240.38,
+    "createdBy": "AccountingBot",
+    "postedBy": "Finance Officer 4",
+    "lines": [
+      {
+        "accountCode": "5376",
+        "accountName": "Adjustment Account",
+        "debit": 2708240.38,
+        "credit": 0.0
+      },
+      {
+        "accountCode": "5746",
+        "accountName": "Settlement/Clearing Account",
+        "debit": 0.0,
+        "credit": 2708240.38
+      }
+    ]
+  },
+  {
+    "journalEntryId": "JE-VOD-00010",
+    "entryDate": "2025-09-20T06:17:40Z",
+    "description": "Adjustment \u2014 Vodacom South Africa period reconciliation",
+    "reference": "REF-VOD-361236",
+    "status": "Posted",
+    "entryType": "Adjustment",
+    "currency": "ZAR",
+    "totalDebits": 4580592.27,
+    "totalCredits": 4580592.27,
+    "createdBy": "AccountingBot",
+    "postedBy": "Finance Officer 1",
+    "lines": [
+      {
+        "accountCode": "3784",
+        "accountName": "Adjustment Account",
+        "debit": 4580592.27,
+        "credit": 0.0
+      },
+      {
+        "accountCode": "2786",
+        "accountName": "Settlement/Clearing Account",
+        "debit": 0.0,
+        "credit": 4580592.27
+      }
+    ]
+  },
+  {
+    "journalEntryId": "JE-VOD-00011",
+    "entryDate": "2025-06-19T16:04:52Z",
+    "description": "Accrual \u2014 Vodacom South Africa period reconciliation",
+    "reference": "REF-VOD-301248",
+    "status": "Posted",
+    "entryType": "Accrual",
+    "currency": "ZAR",
+    "totalDebits": 2533082.67,
+    "totalCredits": 2533082.67,
+    "createdBy": "AccountingBot",
+    "postedBy": "Finance Officer 3",
+    "lines": [
+      {
+        "accountCode": "4908",
+        "accountName": "Accrual Account",
+        "debit": 2533082.67,
+        "credit": 0.0
+      },
+      {
+        "accountCode": "4760",
+        "accountName": "Settlement/Clearing Account",
+        "debit": 0.0,
+        "credit": 2533082.67
+      }
+    ]
+  },
+  {
+    "journalEntryId": "JE-VOD-00012",
+    "entryDate": "2025-11-08T06:13:36Z",
+    "description": "Revenue \u2014 Vodacom South Africa period reconciliation",
+    "reference": "REF-VOD-597082",
+    "status": "Posted",
+    "entryType": "Revenue",
+    "currency": "ZAR",
+    "totalDebits": 71540.79,
+    "totalCredits": 71540.79,
+    "createdBy": "AccountingBot",
+    "postedBy": "Finance Officer 1",
+    "lines": [
+      {
+        "accountCode": "3480",
+        "accountName": "Revenue Account",
+        "debit": 71540.79,
+        "credit": 0.0
+      },
+      {
+        "accountCode": "1403",
+        "accountName": "Settlement/Clearing Account",
+        "debit": 0.0,
+        "credit": 71540.79
+      }
+    ]
+  },
+  {
+    "journalEntryId": "JE-VOD-00013",
+    "entryDate": "2025-01-11T09:19:37Z",
+    "description": "Tax \u2014 Vodacom South Africa period reconciliation",
+    "reference": "REF-VOD-426317",
+    "status": "Posted",
+    "entryType": "Tax",
+    "currency": "ZAR",
+    "totalDebits": 3510194.71,
+    "totalCredits": 3510194.71,
+    "createdBy": "AccountingBot",
+    "postedBy": "Finance Officer 5",
+    "lines": [
+      {
+        "accountCode": "2541",
+        "accountName": "Tax Account",
+        "debit": 3510194.71,
+        "credit": 0.0
+      },
+      {
+        "accountCode": "5560",
+        "accountName": "Settlement/Clearing Account",
+        "debit": 0.0,
+        "credit": 3510194.71
+      }
+    ]
+  },
+  {
+    "journalEntryId": "JE-VOD-00014",
+    "entryDate": "2025-04-14T20:51:20Z",
+    "description": "Settlement \u2014 Vodacom South Africa period reconciliation",
+    "reference": "REF-VOD-793741",
+    "status": "Posted",
+    "entryType": "Settlement",
+    "currency": "ZAR",
+    "totalDebits": 2441311.01,
+    "totalCredits": 2441311.01,
+    "createdBy": "AccountingBot",
+    "postedBy": "Finance Officer 5",
+    "lines": [
+      {
+        "accountCode": "2698",
+        "accountName": "Settlement Account",
+        "debit": 2441311.01,
+        "credit": 0.0
+      },
+      {
+        "accountCode": "4414",
+        "accountName": "Settlement/Clearing Account",
+        "debit": 0.0,
+        "credit": 2441311.01
+      }
+    ]
+  },
+  {
+    "journalEntryId": "JE-VOD-00015",
+    "entryDate": "2025-04-14T07:28:59Z",
+    "description": "Adjustment \u2014 Vodacom South Africa period reconciliation",
+    "reference": "REF-VOD-246294",
+    "status": "Posted",
+    "entryType": "Adjustment",
+    "currency": "ZAR",
+    "totalDebits": 4623782.08,
+    "totalCredits": 4623782.08,
+    "createdBy": "AccountingBot",
+    "postedBy": "Finance Officer 5",
+    "lines": [
+      {
+        "accountCode": "2542",
+        "accountName": "Adjustment Account",
+        "debit": 4623782.08,
+        "credit": 0.0
+      },
+      {
+        "accountCode": "2797",
+        "accountName": "Settlement/Clearing Account",
+        "debit": 0.0,
+        "credit": 4623782.08
+      }
+    ]
+  },
+  {
+    "journalEntryId": "JE-VOD-00016",
+    "entryDate": "2024-10-18T22:07:51Z",
+    "description": "Expense \u2014 Vodacom South Africa period 16",
+    "reference": "REF-VOD-759750",
+    "status": "Posted",
+    "entryType": "Expense",
+    "currency": "ZAR",
+    "totalDebits": 2641841.84,
+    "totalCredits": 2641841.84,
+    "createdBy": "AccountingBot",
+    "postedBy": "Finance Officer 1",
+    "lines": [
+      {
+        "accountCode": "3143",
+        "accountName": "Expense Account",
+        "debit": 2641841.84,
+        "credit": 0.0
+      },
+      {
+        "accountCode": "4604",
+        "accountName": "Settlement/Clearing Account",
+        "debit": 0.0,
+        "credit": 2641841.84
+      }
+    ]
+  },
+  {
+    "journalEntryId": "JE-VOD-00017",
+    "entryDate": "2025-01-26T16:23:13Z",
+    "description": "Settlement \u2014 Vodacom South Africa period 17",
+    "reference": "REF-VOD-482822",
+    "status": "Posted",
+    "entryType": "Settlement",
+    "currency": "ZAR",
+    "totalDebits": 869350.25,
+    "totalCredits": 869350.25,
+    "createdBy": "AccountingBot",
+    "postedBy": "Finance Officer 7",
+    "lines": [
+      {
+        "accountCode": "3333",
+        "accountName": "Settlement Account",
+        "debit": 869350.25,
+        "credit": 0.0
+      },
+      {
+        "accountCode": "4637",
+        "accountName": "Settlement/Clearing Account",
+        "debit": 0.0,
+        "credit": 869350.25
+      }
+    ]
+  },
+  {
+    "journalEntryId": "JE-VOD-00018",
+    "entryDate": "2024-11-20T07:36:13Z",
+    "description": "Accrual \u2014 Vodacom South Africa period 18",
+    "reference": "REF-VOD-441980",
+    "status": "Posted",
+    "entryType": "Accrual",
+    "currency": "ZAR",
+    "totalDebits": 7877665.53,
+    "totalCredits": 7877665.53,
+    "createdBy": "AccountingBot",
+    "postedBy": "Finance Officer 2",
+    "lines": [
+      {
+        "accountCode": "1854",
+        "accountName": "Accrual Account",
+        "debit": 7877665.53,
+        "credit": 0.0
+      },
+      {
+        "accountCode": "4073",
+        "accountName": "Settlement/Clearing Account",
+        "debit": 0.0,
+        "credit": 7877665.53
+      }
+    ]
+  },
+  {
+    "journalEntryId": "JE-VOD-00019",
+    "entryDate": "2024-06-01T12:11:57Z",
+    "description": "Adjustment \u2014 Vodacom South Africa period 19",
+    "reference": "REF-VOD-633699",
+    "status": "Posted",
+    "entryType": "Adjustment",
+    "currency": "ZAR",
+    "totalDebits": 2103237.95,
+    "totalCredits": 2103237.95,
+    "createdBy": "AccountingBot",
+    "postedBy": "Finance Officer 5",
+    "lines": [
+      {
+        "accountCode": "2071",
+        "accountName": "Adjustment Account",
+        "debit": 2103237.95,
+        "credit": 0.0
+      },
+      {
+        "accountCode": "5448",
+        "accountName": "Settlement/Clearing Account",
+        "debit": 0.0,
+        "credit": 2103237.95
+      }
+    ]
+  },
+  {
+    "journalEntryId": "JE-VOD-00020",
+    "entryDate": "2024-02-21T11:02:39Z",
+    "description": "Tax \u2014 Vodacom South Africa period 20",
+    "reference": "REF-VOD-815411",
+    "status": "Draft",
+    "entryType": "Tax",
+    "currency": "ZAR",
+    "totalDebits": 5537894.73,
+    "totalCredits": 5537894.73,
+    "createdBy": "AccountingBot",
+    "postedBy": "Finance Officer 1",
+    "lines": [
+      {
+        "accountCode": "5411",
+        "accountName": "Tax Account",
+        "debit": 5537894.73,
+        "credit": 0.0
+      },
+      {
+        "accountCode": "3829",
+        "accountName": "Settlement/Clearing Account",
+        "debit": 0.0,
+        "credit": 5537894.73
+      }
+    ]
+  },
+  {
+    "journalEntryId": "JE-VOD-00021",
+    "entryDate": "2024-10-26T21:36:16Z",
+    "description": "Commission \u2014 Vodacom South Africa period 21",
+    "reference": "REF-VOD-567533",
+    "status": "Draft",
+    "entryType": "Commission",
+    "currency": "ZAR",
+    "totalDebits": 7567524.1,
+    "totalCredits": 7567524.1,
+    "createdBy": "AccountingBot",
+    "postedBy": "Finance Officer 8",
+    "lines": [
+      {
+        "accountCode": "5538",
+        "accountName": "Commission Account",
+        "debit": 7567524.1,
+        "credit": 0.0
+      },
+      {
+        "accountCode": "3739",
+        "accountName": "Settlement/Clearing Account",
+        "debit": 0.0,
+        "credit": 7567524.1
+      }
+    ]
+  },
+  {
+    "journalEntryId": "JE-VOD-00022",
+    "entryDate": "2024-09-19T16:39:30Z",
+    "description": "Depreciation \u2014 Vodacom South Africa period 22",
+    "reference": "REF-VOD-218037",
+    "status": "Draft",
+    "entryType": "Depreciation",
+    "currency": "ZAR",
+    "totalDebits": 2719133.2,
+    "totalCredits": 2719133.2,
+    "createdBy": "AccountingBot",
+    "postedBy": "Finance Officer 8",
+    "lines": [
+      {
+        "accountCode": "1877",
+        "accountName": "Depreciation Account",
+        "debit": 2719133.2,
+        "credit": 0.0
+      },
+      {
+        "accountCode": "4218",
+        "accountName": "Settlement/Clearing Account",
+        "debit": 0.0,
+        "credit": 2719133.2
+      }
+    ]
+  },
+  {
+    "journalEntryId": "JE-VOD-00023",
+    "entryDate": "2024-02-19T07:41:20Z",
+    "description": "Provision \u2014 Vodacom South Africa period 23",
+    "reference": "REF-VOD-572168",
+    "status": "Posted",
+    "entryType": "Provision",
+    "currency": "ZAR",
+    "totalDebits": 1331551.88,
+    "totalCredits": 1331551.88,
+    "createdBy": "AccountingBot",
+    "postedBy": "Finance Officer 6",
+    "lines": [
+      {
+        "accountCode": "1231",
+        "accountName": "Provision Account",
+        "debit": 1331551.88,
+        "credit": 0.0
+      },
+      {
+        "accountCode": "3189",
+        "accountName": "Settlement/Clearing Account",
+        "debit": 0.0,
+        "credit": 1331551.88
+      }
+    ]
+  },
+  {
+    "journalEntryId": "JE-VOD-00024",
+    "entryDate": "2024-11-17T08:50:49Z",
+    "description": "Revaluation \u2014 Vodacom South Africa period 24",
+    "reference": "REF-VOD-540242",
+    "status": "Posted",
+    "entryType": "Revaluation",
+    "currency": "ZAR",
+    "totalDebits": 4170110.96,
+    "totalCredits": 4170110.96,
+    "createdBy": "AccountingBot",
+    "postedBy": "Finance Officer 8",
+    "lines": [
+      {
+        "accountCode": "3264",
+        "accountName": "Revaluation Account",
+        "debit": 4170110.96,
+        "credit": 0.0
+      },
+      {
+        "accountCode": "1402",
+        "accountName": "Settlement/Clearing Account",
+        "debit": 0.0,
+        "credit": 4170110.96
+      }
+    ]
+  },
+  {
+    "journalEntryId": "JE-VOD-00025",
+    "entryDate": "2024-01-29T21:57:10Z",
+    "description": "Intercompany \u2014 Vodacom South Africa period 25",
+    "reference": "REF-VOD-744244",
+    "status": "Draft",
+    "entryType": "Intercompany",
+    "currency": "ZAR",
+    "totalDebits": 5054608.1,
+    "totalCredits": 5054608.1,
+    "createdBy": "AccountingBot",
+    "postedBy": "Finance Officer 6",
+    "lines": [
+      {
+        "accountCode": "2416",
+        "accountName": "Intercompany Account",
+        "debit": 5054608.1,
+        "credit": 0.0
+      },
+      {
+        "accountCode": "1988",
+        "accountName": "Settlement/Clearing Account",
+        "debit": 0.0,
+        "credit": 5054608.1
+      }
+    ]
+  }
+]

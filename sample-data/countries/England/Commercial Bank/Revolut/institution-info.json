@@ -1,0 +1,17 @@
+{
+  "registrationNumber": "REG-REVOLUT-2015",
+  "contactEmail": "support@revolut.com",
+  "createdAt": "2015-07-01T00:00:00Z",
+  "branches": 2,
+  "institutionType": "Commercial Bank",
+  "institutionName": "Revolut",
+  "country": "England",
+  "established": 2015,
+  "employees": 8000,
+  "contactPhone": "+44-800-802-1281",
+  "headquarters": "London",
+  "institutionId": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+  "currency": "GBP",
+  "status": "Active",
+  "website": "https://www.revolut.com"
+}

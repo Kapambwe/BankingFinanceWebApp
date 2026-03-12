@@ -1,0 +1,3 @@
+[
+  {"alertId":"AX-FA-001","alertType":"Trade Misinvoicing","severity":"High","status":"Under Investigation","dateDetected":"2025-10-22T00:00:00Z","description":"Suspected over-invoicing in cross-border commodity trade transaction","accountId":"ax01-a001-4579-a281-6d898272fbc5","customerId":"ax-c001-e5f6-7890-abcd-ef1234567890","amountInvolved":15000000.00,"currency":"USD"}
+]

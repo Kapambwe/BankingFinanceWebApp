@@ -1,0 +1,17 @@
+{
+  "registrationNumber": "REG-TELECOM-20888",
+  "contactEmail": "info@airtelkenya.ke",
+  "createdAt": "2004-01-01T00:00:00Z",
+  "branches": 231,
+  "institutionType": "Telecom",
+  "institutionName": "Airtel Kenya",
+  "country": "Kenya",
+  "established": 2004,
+  "employees": 5438,
+  "contactPhone": "+254938145",
+  "headquarters": "Nairobi",
+  "institutionId": "e41bb3b9-9f32-5c4c-0415-a9617ea7eded",
+  "currency": "KES",
+  "status": "Active",
+  "website": "https://www.airtel.co.ke"
+}

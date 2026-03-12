@@ -1,0 +1,164 @@
+[
+  {
+    "partnerId": "RP-NIG-001",
+    "businessName": "Shoprite Nigeria Nigeria Ltd",
+    "brandName": "Shoprite Nigeria",
+    "partnerType": "Supermarket",
+    "country": "Nigeria",
+    "currency": "NGN",
+    "contactPerson": "Partner Manager 1",
+    "email": "banking@shopritenige.ni",
+    "phoneNumber": "+685-296-948910",
+    "servicesOffered": [
+      "LoanPayment",
+      "MoneyTransfer",
+      "AccountOpening",
+      "CashDeposit"
+    ],
+    "acceptedPaymentMethods": [
+      "QRCode",
+      "CardTap"
+    ],
+    "totalStores": 100,
+    "activeStores": 90,
+    "storeLocations": [
+      "Abuja",
+      "Port Harcourt",
+      "Lagos",
+      "Kano"
+    ],
+    "monthlyTransactionVolume": 6719540.38,
+    "monthlyTransactionCount": 27938,
+    "averageTransactionSize": 144.4,
+    "commissionRate": 0.85,
+    "monthlyRevenue": 91404.77,
+    "partnershipStartDate": "2025-01-11T18:10:28Z",
+    "status": "Active",
+    "brandColor": "#77e06d",
+    "isIntegrated": false,
+    "lastSyncDate": null
+  },
+  {
+    "partnerId": "RP-NIG-002",
+    "businessName": "SPAR Nigeria Nigeria Ltd",
+    "brandName": "SPAR Nigeria",
+    "partnerType": "Supermarket",
+    "country": "Nigeria",
+    "currency": "NGN",
+    "contactPerson": "Partner Manager 2",
+    "email": "banking@sparnigeria.ni",
+    "phoneNumber": "+890-889-348937",
+    "servicesOffered": [
+      "BillPayment",
+      "AccountOpening",
+      "MoneyTransfer",
+      "CashDeposit",
+      "AirtimePurchase"
+    ],
+    "acceptedPaymentMethods": [
+      "PhoneNumber",
+      "CardTap",
+      "AccountNumber"
+    ],
+    "totalStores": 212,
+    "activeStores": 203,
+    "storeLocations": [
+      "Port Harcourt",
+      "Abuja",
+      "Lagos"
+    ],
+    "monthlyTransactionVolume": 4719132.53,
+    "monthlyTransactionCount": 25428,
+    "averageTransactionSize": 118.74,
+    "commissionRate": 0.61,
+    "monthlyRevenue": 49093.9,
+    "partnershipStartDate": "2021-07-30T18:10:28Z",
+    "status": "PendingApproval",
+    "brandColor": "#35f8f4",
+    "isIntegrated": false,
+    "lastSyncDate": "2026-03-02T18:10:28Z"
+  },
+  {
+    "partnerId": "RP-NIG-003",
+    "businessName": "Justrite Superstore Nigeria Ltd",
+    "brandName": "Justrite Superstore",
+    "partnerType": "Pharmacy",
+    "country": "Nigeria",
+    "currency": "NGN",
+    "contactPerson": "Partner Manager 3",
+    "email": "banking@justritesupe.ni",
+    "phoneNumber": "+942-651-217069",
+    "servicesOffered": [
+      "AirtimePurchase",
+      "MoneyTransfer",
+      "CashDeposit",
+      "LoanPayment",
+      "BillPayment",
+      "CashWithdrawal"
+    ],
+    "acceptedPaymentMethods": [
+      "PhoneNumber",
+      "CardTap",
+      "Cash"
+    ],
+    "totalStores": 147,
+    "activeStores": 137,
+    "storeLocations": [
+      "Abuja",
+      "Kano",
+      "Lagos"
+    ],
+    "monthlyTransactionVolume": 5286577.18,
+    "monthlyTransactionCount": 23027,
+    "averageTransactionSize": 123.57,
+    "commissionRate": 1.2,
+    "monthlyRevenue": 70651.77,
+    "partnershipStartDate": "2021-12-02T18:10:28Z",
+    "status": "Active",
+    "brandColor": "#1a4cea",
+    "isIntegrated": false,
+    "lastSyncDate": "2026-03-03T18:10:28Z"
+  },
+  {
+    "partnerId": "RP-NIG-004",
+    "businessName": "Grand Square Nigeria Ltd",
+    "brandName": "Grand Square",
+    "partnerType": "Pharmacy",
+    "country": "Nigeria",
+    "currency": "NGN",
+    "contactPerson": "Partner Manager 4",
+    "email": "banking@grandsquare.ni",
+    "phoneNumber": "+845-405-144597",
+    "servicesOffered": [
+      "CashDeposit",
+      "CashWithdrawal",
+      "LoanPayment",
+      "MoneyTransfer",
+      "BillPayment",
+      "AirtimePurchase"
+    ],
+    "acceptedPaymentMethods": [
+      "PhoneNumber",
+      "Cash",
+      "QRCode",
+      "AccountNumber",
+      "USSD"
+    ],
+    "totalStores": 5,
+    "activeStores": 4,
+    "storeLocations": [
+      "Port Harcourt",
+      "Lagos"
+    ],
+    "monthlyTransactionVolume": 1637719.58,
+    "monthlyTransactionCount": 35148,
+    "averageTransactionSize": 144.25,
+    "commissionRate": 1.32,
+    "monthlyRevenue": 13061.52,
+    "partnershipStartDate": "2025-03-13T18:10:28Z",
+    "status": "Active",
+    "brandColor": "#dd5fa0",
+    "isIntegrated": true,
+    "lastSyncDate": "2026-03-02T18:10:28Z"
+  }
+]

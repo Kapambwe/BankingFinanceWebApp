@@ -1,0 +1,134 @@
+[
+  {
+    "analysisId": "a0000001-3344-4556-7788-99aabbccdd01",
+    "portfolioName": "Corporate Bond Portfolio",
+    "macaulayDuration": 2.9,
+    "modifiedDuration": 2.6799999999999997,
+    "convexity": 17.5,
+    "dollarDuration": 250000,
+    "basisPointValue": 25000,
+    "assetClass": "Fixed Income",
+    "analysisDate": "2025-01-28"
+  },
+  {
+    "analysisId": "a0000002-3344-4556-7788-99aabbccdd02",
+    "portfolioName": "Treasury Bills",
+    "macaulayDuration": 3.3,
+    "modifiedDuration": 3.0599999999999996,
+    "convexity": 20.0,
+    "dollarDuration": 500000,
+    "basisPointValue": 50000,
+    "assetClass": "Fixed Income",
+    "analysisDate": "2025-02-28"
+  },
+  {
+    "analysisId": "a0000003-3344-4556-7788-99aabbccdd03",
+    "portfolioName": "Asset-Backed Securities",
+    "macaulayDuration": 3.7,
+    "modifiedDuration": 3.44,
+    "convexity": 22.5,
+    "dollarDuration": 750000,
+    "basisPointValue": 75000,
+    "assetClass": "Fixed Income",
+    "analysisDate": "2025-03-28"
+  },
+  {
+    "analysisId": "a0000004-3344-4556-7788-99aabbccdd04",
+    "portfolioName": "Mortgage-Backed Securities",
+    "macaulayDuration": 4.1,
+    "modifiedDuration": 3.82,
+    "convexity": 25.0,
+    "dollarDuration": 1000000,
+    "basisPointValue": 100000,
+    "assetClass": "Fixed Income",
+    "analysisDate": "2025-04-28"
+  },
+  {
+    "analysisId": "a0000005-3344-4556-7788-99aabbccdd05",
+    "portfolioName": "European Sovereigns",
+    "macaulayDuration": 4.5,
+    "modifiedDuration": 4.199999999999999,
+    "convexity": 27.5,
+    "dollarDuration": 1250000,
+    "basisPointValue": 125000,
+    "assetClass": "Fixed Income",
+    "analysisDate": "2025-05-28"
+  },
+  {
+    "analysisId": "a0000006-3344-4556-7788-99aabbccdd06",
+    "portfolioName": "UK Gilt Portfolio",
+    "macaulayDuration": 4.9,
+    "modifiedDuration": 4.58,
+    "convexity": 30.0,
+    "dollarDuration": 1500000,
+    "basisPointValue": 150000,
+    "assetClass": "Fixed Income",
+    "analysisDate": "2025-06-28"
+  },
+  {
+    "analysisId": "a0000007-3344-4556-7788-99aabbccdd07",
+    "portfolioName": "Corporate Bond Portfolio",
+    "macaulayDuration": 5.300000000000001,
+    "modifiedDuration": 4.96,
+    "convexity": 32.5,
+    "dollarDuration": 1750000,
+    "basisPointValue": 175000,
+    "assetClass": "Fixed Income",
+    "analysisDate": "2025-07-28"
+  },
+  {
+    "analysisId": "a0000008-3344-4556-7788-99aabbccdd08",
+    "portfolioName": "Treasury Bills",
+    "macaulayDuration": 5.7,
+    "modifiedDuration": 5.34,
+    "convexity": 35.0,
+    "dollarDuration": 2000000,
+    "basisPointValue": 200000,
+    "assetClass": "Fixed Income",
+    "analysisDate": "2025-08-28"
+  },
+  {
+    "analysisId": "a0000009-3344-4556-7788-99aabbccdd09",
+    "portfolioName": "Asset-Backed Securities",
+    "macaulayDuration": 6.1,
+    "modifiedDuration": 5.72,
+    "convexity": 37.5,
+    "dollarDuration": 2250000,
+    "basisPointValue": 225000,
+    "assetClass": "Fixed Income",
+    "analysisDate": "2025-09-28"
+  },
+  {
+    "analysisId": "a0000010-3344-4556-7788-99aabbccdd10",
+    "portfolioName": "Mortgage-Backed Securities",
+    "macaulayDuration": 6.5,
+    "modifiedDuration": 6.1,
+    "convexity": 40.0,
+    "dollarDuration": 2500000,
+    "basisPointValue": 250000,
+    "assetClass": "Fixed Income",
+    "analysisDate": "2025-10-28"
+  },
+  {
+    "analysisId": "a0000011-3344-4556-7788-99aabbccdd11",
+    "portfolioName": "European Sovereigns",
+    "macaulayDuration": 6.9,
+    "modifiedDuration": 6.4799999999999995,
+    "convexity": 42.5,
+    "dollarDuration": 2750000,
+    "basisPointValue": 275000,
+    "assetClass": "Fixed Income",
+    "analysisDate": "2025-11-28"
+  },
+  {
+    "analysisId": "a0000012-3344-4556-7788-99aabbccdd12",
+    "portfolioName": "UK Gilt Portfolio",
+    "macaulayDuration": 7.300000000000001,
+    "modifiedDuration": 6.86,
+    "convexity": 45.0,
+    "dollarDuration": 3000000,
+    "basisPointValue": 300000,
+    "assetClass": "Fixed Income",
+    "analysisDate": "2025-12-28"
+  }
+]

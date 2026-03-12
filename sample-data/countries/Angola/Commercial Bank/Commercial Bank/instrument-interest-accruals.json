@@ -1,0 +1,68 @@
+[
+  {
+    "instrumentId": "LOAN-001",
+    "instrumentReference": "Carlos \u2014 Commercial Bank",
+    "instrumentType": "Loan",
+    "outstandingBalance": 195000000.0,
+    "nominalRate": 0.18,
+    "effectiveInterestRate": 0.1987,
+    "accruedAmount": 106154.79,
+    "accrualDate": "2026-02-28T00:00:00Z",
+    "journalEntryId": null
+  },
+  {
+    "instrumentId": "LOAN-002",
+    "instrumentReference": "SME Loan \u2014 Ana Trading Ltd",
+    "instrumentType": "Loan",
+    "outstandingBalance": 1170000000.0,
+    "nominalRate": 0.16,
+    "effectiveInterestRate": 0.1735,
+    "accruedAmount": 556150.68,
+    "accrualDate": "2026-02-28T00:00:00Z",
+    "journalEntryId": null
+  },
+  {
+    "instrumentId": "DEP-001",
+    "instrumentReference": "Fixed Deposit \u2014 Miguel Savings Group",
+    "instrumentType": "Deposit",
+    "outstandingBalance": 3900000000.0,
+    "nominalRate": 0.085,
+    "effectiveInterestRate": 0.085,
+    "accruedAmount": 908219.18,
+    "accrualDate": "2026-02-28T00:00:00Z",
+    "journalEntryId": null
+  },
+  {
+    "instrumentId": "LOAN-003",
+    "instrumentReference": "Mortgage \u2014 Miguel",
+    "instrumentType": "Loan",
+    "outstandingBalance": 936000000.0,
+    "nominalRate": 0.155,
+    "effectiveInterestRate": 0.1621,
+    "accruedAmount": 415686.58,
+    "accrualDate": "2026-02-28T00:00:00Z",
+    "journalEntryId": null
+  },
+  {
+    "instrumentId": "DEP-002",
+    "instrumentReference": "Call Deposit \u2014 Commercial Bank Fund",
+    "instrumentType": "Deposit",
+    "outstandingBalance": 2340000000.0,
+    "nominalRate": 0.07,
+    "effectiveInterestRate": 0.07,
+    "accruedAmount": 448767.12,
+    "accrualDate": "2026-02-28T00:00:00Z",
+    "journalEntryId": null
+  },
+  {
+    "instrumentId": "LOAN-004",
+    "instrumentReference": "Corporate Bond \u2014 Commercial Bank",
+    "instrumentType": "Loan",
+    "outstandingBalance": 6240000000.0,
+    "nominalRate": 0.19,
+    "effectiveInterestRate": 0.2045,
+    "accruedAmount": 3496109.59,
+    "accrualDate": "2026-02-28T00:00:00Z",
+    "journalEntryId": null
+  }
+]

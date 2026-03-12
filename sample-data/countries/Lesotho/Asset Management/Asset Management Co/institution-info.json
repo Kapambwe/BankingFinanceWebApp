@@ -1,0 +1,17 @@
+{
+  "registrationNumber": "REG-94905",
+  "contactEmail": "pangaeasecurities@example.zm",
+  "createdAt": "2024-05-27T00:00:00Z",
+  "branches": 31,
+  "institutionType": "Asset Management",
+  "institutionName": "Pangaea Securities",
+  "country": "Lesotho",
+  "established": 1962,
+  "employees": 1156,
+  "contactPhone": "+260-841-853509",
+  "headquarters": "Mafeteng",
+  "institutionId": "3d15ef79-db96-484c-bd3e-5383410409a0",
+  "currency": "LSL",
+  "status": "Active",
+  "website": "https://www.pangaeasecurities.co.zm"
+}

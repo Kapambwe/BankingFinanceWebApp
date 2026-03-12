@@ -1,0 +1,98 @@
+[
+  {
+    "tableId": "mt500000-0001",
+    "tableName": "Kenya Morbidity Table 2025",
+    "tableType": "Morbidity",
+    "description": "National morbidity rates for health insurance pricing",
+    "baseYear": 2025,
+    "ageGroups": [
+      {
+        "ageRange": "0-17",
+        "morbidityRate": 0.045
+      },
+      {
+        "ageRange": "18-35",
+        "morbidityRate": 0.062
+      },
+      {
+        "ageRange": "36-50",
+        "morbidityRate": 0.098
+      },
+      {
+        "ageRange": "51-65",
+        "morbidityRate": 0.182
+      },
+      {
+        "ageRange": "65+",
+        "morbidityRate": 0.31
+      }
+    ],
+    "source": "Kenya Actuarial Society",
+    "isActive": true,
+    "createdAt": "2025-01-01T00:00:00Z"
+  },
+  {
+    "tableId": "mt500000-0002",
+    "tableName": "Kenya Utilization Table 2025",
+    "tableType": "Utilization",
+    "description": "Healthcare utilization rates by age and gender",
+    "baseYear": 2025,
+    "ageGroups": [
+      {
+        "ageRange": "0-17",
+        "utilizationRate": 0.55
+      },
+      {
+        "ageRange": "18-35",
+        "utilizationRate": 0.42
+      },
+      {
+        "ageRange": "36-50",
+        "utilizationRate": 0.65
+      },
+      {
+        "ageRange": "51-65",
+        "utilizationRate": 0.78
+      },
+      {
+        "ageRange": "65+",
+        "utilizationRate": 0.88
+      }
+    ],
+    "source": "National Hospital Insurance Fund Actuarial Department",
+    "isActive": true,
+    "createdAt": "2025-01-01T00:00:00Z"
+  },
+  {
+    "tableId": "mt500000-0003",
+    "tableName": "Kenya Claims Frequency Table 2025",
+    "tableType": "ClaimsFrequency",
+    "description": "Expected claims frequency per member per year",
+    "baseYear": 2025,
+    "categories": [
+      {
+        "category": "Outpatient",
+        "frequency": 2.4
+      },
+      {
+        "category": "Inpatient",
+        "frequency": 0.18
+      },
+      {
+        "category": "Pharmacy",
+        "frequency": 3.1
+      },
+      {
+        "category": "Specialist",
+        "frequency": 0.65
+      },
+      {
+        "category": "Emergency",
+        "frequency": 0.12
+      }
+    ],
+    "source": "National Hospital Insurance Fund Actuarial Department",
+    "isActive": true,
+    "createdAt": "2025-01-01T00:00:00Z"
+  }
+]

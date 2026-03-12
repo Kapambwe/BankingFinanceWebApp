@@ -1,0 +1,17 @@
+{
+  "registrationNumber": "REG-22501",
+  "contactEmail": "accessbankBotswana@example.zm",
+  "createdAt": "2025-07-25T00:00:00Z",
+  "branches": 5,
+  "institutionType": "Commercial Bank",
+  "institutionName": "Access Bank Botswana",
+  "country": "Botswana",
+  "established": 1987,
+  "employees": 3311,
+  "contactPhone": "+260-903-555269",
+  "headquarters": "Gaborone",
+  "institutionId": "3a1fd426-a9d7-40dc-92f6-6ba3496c65a9",
+  "currency": "BWP",
+  "status": "Active",
+  "website": "https://www.accessbankBotswana.co.zm"
+}

@@ -1,0 +1,186 @@
+[
+  {
+    "journalEntryId": "je100000-0001-0000-0000-0000000001001",
+    "reference": "JE-2025-001",
+    "description": "Member Contribution Receipt",
+    "entryDate": "2025-10-31",
+    "status": "Posted",
+    "totalAmount": 746.0,
+    "currency": "ZMW",
+    "lines": [
+      {
+        "accountCode": "1001",
+        "debit": 746.0,
+        "credit": 0
+      },
+      {
+        "accountCode": "4001",
+        "debit": 0,
+        "credit": 746.0
+      }
+    ],
+    "createdBy": "Chanda Banda",
+    "createdAt": "2025-10-31T00:00:00Z"
+  },
+  {
+    "journalEntryId": "je100000-0002-0000-0000-0000000001002",
+    "reference": "JE-2025-002",
+    "description": "Claims Disbursement to Providers",
+    "entryDate": "2025-10-31",
+    "status": "Posted",
+    "totalAmount": 610.0,
+    "currency": "ZMW",
+    "lines": [
+      {
+        "accountCode": "5001",
+        "debit": 610.0,
+        "credit": 0
+      },
+      {
+        "accountCode": "2001",
+        "debit": 0,
+        "credit": 610.0
+      }
+    ],
+    "createdBy": "Chanda Banda",
+    "createdAt": "2025-10-31T00:00:00Z"
+  },
+  {
+    "journalEntryId": "je100000-0003-0000-0000-0000000001003",
+    "reference": "JE-2025-003",
+    "description": "Government Subvention Receipt",
+    "entryDate": "2025-10-31",
+    "status": "Posted",
+    "totalAmount": 407.0,
+    "currency": "ZMW",
+    "lines": [
+      {
+        "accountCode": "1001",
+        "debit": 407.0,
+        "credit": 0
+      },
+      {
+        "accountCode": "4002",
+        "debit": 0,
+        "credit": 407.0
+      }
+    ],
+    "createdBy": "Chanda Banda",
+    "createdAt": "2025-10-31T00:00:00Z"
+  },
+  {
+    "journalEntryId": "je100000-0004-0000-0000-0000000001004",
+    "reference": "JE-2025-004",
+    "description": "Monthly Salary Payment",
+    "entryDate": "2025-10-31",
+    "status": "Posted",
+    "totalAmount": 244.0,
+    "currency": "ZMW",
+    "lines": [
+      {
+        "accountCode": "5002",
+        "debit": 244.0,
+        "credit": 0
+      },
+      {
+        "accountCode": "1001",
+        "debit": 0,
+        "credit": 244.0
+      }
+    ],
+    "createdBy": "Chanda Banda",
+    "createdAt": "2025-10-31T00:00:00Z"
+  },
+  {
+    "journalEntryId": "je100000-0005-0000-0000-0000000001005",
+    "reference": "JE-2025-005",
+    "description": "Employer Contribution Receipt",
+    "entryDate": "2025-10-31",
+    "status": "Posted",
+    "totalAmount": 136.0,
+    "currency": "ZMW",
+    "lines": [
+      {
+        "accountCode": "1001",
+        "debit": 136.0,
+        "credit": 0
+      },
+      {
+        "accountCode": "4003",
+        "debit": 0,
+        "credit": 136.0
+      }
+    ],
+    "createdBy": "Chanda Banda",
+    "createdAt": "2025-10-31T00:00:00Z"
+  },
+  {
+    "journalEntryId": "je100000-0006-0000-0000-0000000001006",
+    "reference": "JE-2025-006",
+    "description": "Provider Fee Payment",
+    "entryDate": "2025-11-15",
+    "status": "Posted",
+    "totalAmount": 54.0,
+    "currency": "ZMW",
+    "lines": [
+      {
+        "accountCode": "5004",
+        "debit": 54.0,
+        "credit": 0
+      },
+      {
+        "accountCode": "1001",
+        "debit": 0,
+        "credit": 54.0
+      }
+    ],
+    "createdBy": "Chanda Banda",
+    "createdAt": "2025-11-15T00:00:00Z"
+  },
+  {
+    "journalEntryId": "je100000-0007-0000-0000-0000000001007",
+    "reference": "JE-2025-007",
+    "description": "IT Infrastructure Maintenance",
+    "entryDate": "2025-11-30",
+    "status": "Draft",
+    "totalAmount": 27.0,
+    "currency": "ZMW",
+    "lines": [
+      {
+        "accountCode": "5003",
+        "debit": 27.0,
+        "credit": 0
+      },
+      {
+        "accountCode": "2002",
+        "debit": 0,
+        "credit": 27.0
+      }
+    ],
+    "createdBy": "Chanda Banda",
+    "createdAt": "2025-11-30T00:00:00Z"
+  },
+  {
+    "journalEntryId": "je100000-0008-0000-0000-0000000001008",
+    "reference": "JE-2025-008",
+    "description": "Investment Income Receipt",
+    "entryDate": "2025-12-31",
+    "status": "Draft",
+    "totalAmount": 68.0,
+    "currency": "ZMW",
+    "lines": [
+      {
+        "accountCode": "1001",
+        "debit": 68.0,
+        "credit": 0
+      },
+      {
+        "accountCode": "4004",
+        "debit": 0,
+        "credit": 68.0
+      }
+    ],
+    "createdBy": "Chanda Banda",
+    "createdAt": "2025-12-31T00:00:00Z"
+  }
+]

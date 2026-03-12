@@ -1,0 +1,177 @@
+[
+  {
+    "accountCode": "1010",
+    "accountName": "Caixa — Conta Operacional",
+    "accountType": "Asset",
+    "debit": 4500000000.0,
+    "credit": 0
+  },
+  {
+    "accountCode": "1020",
+    "accountName": "Caixa — Conta Poupança",
+    "accountType": "Asset",
+    "debit": 8200000000.0,
+    "credit": 0
+  },
+  {
+    "accountCode": "1030",
+    "accountName": "Investimentos de Curto Prazo",
+    "accountType": "Asset",
+    "debit": 12500000000.0,
+    "credit": 0
+  },
+  {
+    "accountCode": "1040",
+    "accountName": "Contas a Receber",
+    "accountType": "Asset",
+    "debit": 9800000000.0,
+    "credit": 0
+  },
+  {
+    "accountCode": "1050",
+    "accountName": "Despesas Antecipadas",
+    "accountType": "Asset",
+    "debit": 850000000.0,
+    "credit": 0
+  },
+  {
+    "accountCode": "1080",
+    "accountName": "Operações Interbancárias",
+    "accountType": "Asset",
+    "debit": 6700000000.0,
+    "credit": 0
+  },
+  {
+    "accountCode": "1110",
+    "accountName": "Imóveis e Equipamentos (Líquido)",
+    "accountType": "Asset",
+    "debit": 380000000.0,
+    "credit": 0
+  },
+  {
+    "accountCode": "1120",
+    "accountName": "Investimentos de Longo Prazo",
+    "accountType": "Asset",
+    "debit": 18500000000.0,
+    "credit": 0
+  },
+  {
+    "accountCode": "1130",
+    "accountName": "Ativos Intangíveis",
+    "accountType": "Asset",
+    "debit": 2100000000.0,
+    "credit": 0
+  },
+  {
+    "accountCode": "2010",
+    "accountName": "Contas a Pagar",
+    "accountType": "Liability",
+    "debit": 0,
+    "credit": 3200000000.0
+  },
+  {
+    "accountCode": "2020",
+    "accountName": "Empréstimos de Curto Prazo",
+    "accountType": "Liability",
+    "debit": 0,
+    "credit": 5500000000.0
+  },
+  {
+    "accountCode": "2030",
+    "accountName": "Despesas Acumuladas",
+    "accountType": "Liability",
+    "debit": 0,
+    "credit": 1800000000.0
+  },
+  {
+    "accountCode": "2050",
+    "accountName": "Depósitos de Clientes",
+    "accountType": "Liability",
+    "debit": 0,
+    "credit": 28500000000.0
+  },
+  {
+    "accountCode": "2110",
+    "accountName": "Dívida de Longo Prazo",
+    "accountType": "Liability",
+    "debit": 0,
+    "credit": 12000000000.0
+  },
+  {
+    "accountCode": "3010",
+    "accountName": "Capital Social",
+    "accountType": "Equity",
+    "debit": 0,
+    "credit": 9800000000.0
+  },
+  {
+    "accountCode": "3020",
+    "accountName": "Lucros Acumulados",
+    "accountType": "Equity",
+    "debit": 0,
+    "credit": 1000000000.0
+  },
+  {
+    "accountCode": "3030",
+    "accountName": "Reservas Gerais",
+    "accountType": "Equity",
+    "debit": 0,
+    "credit": 2200000000.0
+  },
+  {
+    "accountCode": "4010",
+    "accountName": "Receita de Juros — Cartão de Crédito",
+    "accountType": "Revenue",
+    "debit": 0,
+    "credit": 6500000000.0
+  },
+  {
+    "accountCode": "4020",
+    "accountName": "Receita de Interchange",
+    "accountType": "Revenue",
+    "debit": 0,
+    "credit": 1850000000.0
+  },
+  {
+    "accountCode": "4030",
+    "accountName": "Receita de Juros — Empréstimos",
+    "accountType": "Revenue",
+    "debit": 0,
+    "credit": 2100000000.0
+  },
+  {
+    "accountCode": "5010",
+    "accountName": "Provisão para Créditos Duvidosos",
+    "accountType": "Expense",
+    "debit": 1850000000.0,
+    "credit": 0
+  },
+  {
+    "accountCode": "5020",
+    "accountName": "Despesas de Captação",
+    "accountType": "Expense",
+    "debit": 2200000000.0,
+    "credit": 0
+  },
+  {
+    "accountCode": "5030",
+    "accountName": "Salários e Encargos Sociais",
+    "accountType": "Expense",
+    "debit": 2100000000.0,
+    "credit": 0
+  },
+  {
+    "accountCode": "5040",
+    "accountName": "Infraestrutura de TI",
+    "accountType": "Expense",
+    "debit": 1500000000.0,
+    "credit": 0
+  },
+  {
+    "accountCode": "5050",
+    "accountName": "Despesas de Marketing",
+    "accountType": "Expense",
+    "debit": 980000000.0,
+    "credit": 0
+  }
+]

@@ -1,0 +1,17 @@
+{
+  "registrationNumber": "REG-39605",
+  "contactEmail": "cavmontbankmortgage@example.zm",
+  "createdAt": "2024-11-05T00:00:00Z",
+  "branches": 27,
+  "institutionType": "Mortgage Company",
+  "institutionName": "Cavmont Bank Mortgage",
+  "country": "Rwanda",
+  "established": 1985,
+  "employees": 4793,
+  "contactPhone": "+260-871-364433",
+  "headquarters": "Kibuye",
+  "institutionId": "deacc4ab-c9ce-4166-bab9-02318673a105",
+  "currency": "RWF",
+  "status": "Active",
+  "website": "https://www.cavmontbankmortgage.co.zm"
+}

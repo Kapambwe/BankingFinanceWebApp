@@ -1,0 +1,164 @@
+[
+  {
+    "partnerId": "RP-ENG-001",
+    "businessName": "Tesco England Ltd",
+    "brandName": "Tesco",
+    "partnerType": "Pharmacy",
+    "country": "England",
+    "currency": "GBP",
+    "contactPerson": "Partner Manager 1",
+    "email": "banking@tesco.en",
+    "phoneNumber": "+433-233-232626",
+    "servicesOffered": [
+      "MoneyTransfer",
+      "AccountOpening",
+      "CashDeposit",
+      "BillPayment",
+      "CashWithdrawal"
+    ],
+    "acceptedPaymentMethods": [
+      "PhoneNumber",
+      "QRCode",
+      "Cash",
+      "CardTap",
+      "USSD",
+      "AccountNumber"
+    ],
+    "totalStores": 35,
+    "activeStores": 33,
+    "storeLocations": [
+      "London",
+      "Leeds"
+    ],
+    "monthlyTransactionVolume": 1372497.1,
+    "monthlyTransactionCount": 46453,
+    "averageTransactionSize": 29.17,
+    "commissionRate": 1.77,
+    "monthlyRevenue": 4650.84,
+    "partnershipStartDate": "2025-11-04T18:10:28Z",
+    "status": "Active",
+    "brandColor": "#05ef9c",
+    "isIntegrated": true,
+    "lastSyncDate": "2026-03-03T18:10:28Z"
+  },
+  {
+    "partnerId": "RP-ENG-002",
+    "businessName": "Sainsbury's England Ltd",
+    "brandName": "Sainsbury's",
+    "partnerType": "SmallShop",
+    "country": "England",
+    "currency": "GBP",
+    "contactPerson": "Partner Manager 2",
+    "email": "banking@sainsbury's.en",
+    "phoneNumber": "+457-591-982459",
+    "servicesOffered": [
+      "CashWithdrawal",
+      "BillPayment",
+      "AirtimePurchase"
+    ],
+    "acceptedPaymentMethods": [
+      "Cash",
+      "USSD",
+      "AccountNumber",
+      "CardTap",
+      "QRCode",
+      "PhoneNumber"
+    ],
+    "totalStores": 38,
+    "activeStores": 35,
+    "storeLocations": [
+      "London",
+      "Leeds"
+    ],
+    "monthlyTransactionVolume": 2998559.64,
+    "monthlyTransactionCount": 36868,
+    "averageTransactionSize": 682.73,
+    "commissionRate": 1.61,
+    "monthlyRevenue": 37683.22,
+    "partnershipStartDate": "2023-04-16T18:10:28Z",
+    "status": "Active",
+    "brandColor": "#00ec81",
+    "isIntegrated": true,
+    "lastSyncDate": null
+  },
+  {
+    "partnerId": "RP-ENG-003",
+    "businessName": "Marks & Spencer England Ltd",
+    "brandName": "Marks & Spencer",
+    "partnerType": "ConvenienceStore",
+    "country": "England",
+    "currency": "GBP",
+    "contactPerson": "Partner Manager 3",
+    "email": "banking@marksandspen.en",
+    "phoneNumber": "+658-209-255327",
+    "servicesOffered": [
+      "LoanPayment",
+      "AccountOpening",
+      "CashDeposit"
+    ],
+    "acceptedPaymentMethods": [
+      "AccountNumber",
+      "PhoneNumber",
+      "Cash",
+      "USSD",
+      "QRCode"
+    ],
+    "totalStores": 51,
+    "activeStores": 49,
+    "storeLocations": [
+      "London",
+      "Manchester",
+      "Leeds",
+      "Birmingham"
+    ],
+    "monthlyTransactionVolume": 3937424.44,
+    "monthlyTransactionCount": 33816,
+    "averageTransactionSize": 1199.7,
+    "commissionRate": 0.99,
+    "monthlyRevenue": 16615.92,
+    "partnershipStartDate": "2025-11-14T18:10:28Z",
+    "status": "PendingApproval",
+    "brandColor": "#b5fd4f",
+    "isIntegrated": true,
+    "lastSyncDate": "2026-03-04T18:10:28Z"
+  },
+  {
+    "partnerId": "RP-ENG-004",
+    "businessName": "Boots England Ltd",
+    "brandName": "Boots",
+    "partnerType": "SmallShop",
+    "country": "England",
+    "currency": "GBP",
+    "contactPerson": "Partner Manager 4",
+    "email": "banking@boots.en",
+    "phoneNumber": "+557-644-653776",
+    "servicesOffered": [
+      "AirtimePurchase",
+      "LoanPayment",
+      "AccountOpening",
+      "BillPayment",
+      "CashWithdrawal"
+    ],
+    "acceptedPaymentMethods": [
+      "PhoneNumber",
+      "Cash",
+      "QRCode"
+    ],
+    "totalStores": 210,
+    "activeStores": 210,
+    "storeLocations": [
+      "London",
+      "Birmingham"
+    ],
+    "monthlyTransactionVolume": 1441095.98,
+    "monthlyTransactionCount": 858,
+    "averageTransactionSize": 64.41,
+    "commissionRate": 0.64,
+    "monthlyRevenue": 15927.87,
+    "partnershipStartDate": "2021-04-13T18:10:28Z",
+    "status": "Active",
+    "brandColor": "#92cfed",
+    "isIntegrated": true,
+    "lastSyncDate": "2026-03-04T18:10:28Z"
+  }
+]

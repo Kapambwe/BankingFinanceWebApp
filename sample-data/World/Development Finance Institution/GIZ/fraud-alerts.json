@@ -1,0 +1,4 @@
+[
+  {"alertId":"GIZ-FA-001","alertType":"Procurement Irregularity","severity":"Medium","status":"Under Investigation","dateDetected":"2025-09-20T00:00:00Z","description":"Suspected single-source contracting for training services without competitive bidding","accountId":"giz-a003-1234-5678-aaaa-bb0000000003","customerId":"giz-c003-3333-4444-cccc-dd3456789012","amountInvolved":320000.00,"currency":"EUR"},
+  {"alertId":"GIZ-FA-002","alertType":"Conflict of Interest","severity":"Low","status":"Resolved","dateDetected":"2025-07-10T00:00:00Z","description":"Project consultant had undisclosed business relationship with sub-contractor in Zambia","accountId":"giz-a001-1234-5678-aaaa-bb0000000001","customerId":"giz-c001-1111-2222-aaaa-bb1234567890","amountInvolved":95000.00,"currency":"EUR"}
+]

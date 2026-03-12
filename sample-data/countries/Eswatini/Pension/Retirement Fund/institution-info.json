@@ -1,0 +1,17 @@
+{
+  "registrationNumber": "REG-16070",
+  "contactEmail": "localauthoritysuperannuationfund@example.zm",
+  "createdAt": "2024-02-10T00:00:00Z",
+  "branches": 42,
+  "institutionType": "Pension",
+  "institutionName": "Local Authority Superannuation Fund",
+  "country": "Eswatini",
+  "established": 1988,
+  "employees": 2706,
+  "contactPhone": "+260-659-821370",
+  "headquarters": "Lobamba",
+  "institutionId": "f3e71bb3-6905-4adf-b38c-9da5e86094e6",
+  "currency": "SZL",
+  "status": "Active",
+  "website": "https://www.localauthoritysuperannuationfund.co.zm"
+}

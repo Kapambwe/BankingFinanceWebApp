@@ -1,0 +1,677 @@
+[
+  {
+    "journalEntryId": "JE-MTN-00001",
+    "entryDate": "2025-01-29T14:25:40Z",
+    "description": "Accrual \u2014 MTN Uganda period reconciliation",
+    "reference": "REF-MTN-391236",
+    "status": "Posted",
+    "entryType": "Accrual",
+    "currency": "UGX",
+    "totalDebits": 2505377.76,
+    "totalCredits": 2505377.76,
+    "createdBy": "AccountingBot",
+    "postedBy": "Finance Officer 4",
+    "lines": [
+      {
+        "accountCode": "1675",
+        "accountName": "Accrual Account",
+        "debit": 2505377.76,
+        "credit": 0.0
+      },
+      {
+        "accountCode": "3171",
+        "accountName": "Settlement/Clearing Account",
+        "debit": 0.0,
+        "credit": 2505377.76
+      }
+    ]
+  },
+  {
+    "journalEntryId": "JE-MTN-00002",
+    "entryDate": "2025-07-16T02:27:14Z",
+    "description": "Commission \u2014 MTN Uganda period reconciliation",
+    "reference": "REF-MTN-569549",
+    "status": "Posted",
+    "entryType": "Commission",
+    "currency": "UGX",
+    "totalDebits": 4179671.76,
+    "totalCredits": 4179671.76,
+    "createdBy": "AccountingBot",
+    "postedBy": "Finance Officer 4",
+    "lines": [
+      {
+        "accountCode": "3727",
+        "accountName": "Commission Account",
+        "debit": 4179671.76,
+        "credit": 0.0
+      },
+      {
+        "accountCode": "1302",
+        "accountName": "Settlement/Clearing Account",
+        "debit": 0.0,
+        "credit": 4179671.76
+      }
+    ]
+  },
+  {
+    "journalEntryId": "JE-MTN-00003",
+    "entryDate": "2026-08-19T00:25:02Z",
+    "description": "Settlement \u2014 MTN Uganda period reconciliation",
+    "reference": "REF-MTN-209879",
+    "status": "Posted",
+    "entryType": "Settlement",
+    "currency": "UGX",
+    "totalDebits": 4248413.06,
+    "totalCredits": 4248413.06,
+    "createdBy": "AccountingBot",
+    "postedBy": "Finance Officer 2",
+    "lines": [
+      {
+        "accountCode": "4523",
+        "accountName": "Settlement Account",
+        "debit": 4248413.06,
+        "credit": 0.0
+      },
+      {
+        "accountCode": "3140",
+        "accountName": "Settlement/Clearing Account",
+        "debit": 0.0,
+        "credit": 4248413.06
+      }
+    ]
+  },
+  {
+    "journalEntryId": "JE-MTN-00004",
+    "entryDate": "2026-06-14T20:53:24Z",
+    "description": "Settlement \u2014 MTN Uganda period reconciliation",
+    "reference": "REF-MTN-791638",
+    "status": "Pending",
+    "entryType": "Settlement",
+    "currency": "UGX",
+    "totalDebits": 1455447.95,
+    "totalCredits": 1455447.95,
+    "createdBy": "AccountingBot",
+    "postedBy": "Finance Officer 2",
+    "lines": [
+      {
+        "accountCode": "5911",
+        "accountName": "Settlement Account",
+        "debit": 1455447.95,
+        "credit": 0.0
+      },
+      {
+        "accountCode": "4392",
+        "accountName": "Settlement/Clearing Account",
+        "debit": 0.0,
+        "credit": 1455447.95
+      }
+    ]
+  },
+  {
+    "journalEntryId": "JE-MTN-00005",
+    "entryDate": "2026-07-20T18:21:58Z",
+    "description": "Settlement \u2014 MTN Uganda period reconciliation",
+    "reference": "REF-MTN-487040",
+    "status": "Posted",
+    "entryType": "Settlement",
+    "currency": "UGX",
+    "totalDebits": 3705775.06,
+    "totalCredits": 3705775.06,
+    "createdBy": "AccountingBot",
+    "postedBy": "Finance Officer 1",
+    "lines": [
+      {
+        "accountCode": "5696",
+        "accountName": "Settlement Account",
+        "debit": 3705775.06,
+        "credit": 0.0
+      },
+      {
+        "accountCode": "1938",
+        "accountName": "Settlement/Clearing Account",
+        "debit": 0.0,
+        "credit": 3705775.06
+      }
+    ]
+  },
+  {
+    "journalEntryId": "JE-MTN-00006",
+    "entryDate": "2026-09-28T04:55:07Z",
+    "description": "Tax \u2014 MTN Uganda period reconciliation",
+    "reference": "REF-MTN-585393",
+    "status": "Pending",
+    "entryType": "Tax",
+    "currency": "UGX",
+    "totalDebits": 4184359.48,
+    "totalCredits": 4184359.48,
+    "createdBy": "AccountingBot",
+    "postedBy": "Finance Officer 1",
+    "lines": [
+      {
+        "accountCode": "3083",
+        "accountName": "Tax Account",
+        "debit": 4184359.48,
+        "credit": 0.0
+      },
+      {
+        "accountCode": "5873",
+        "accountName": "Settlement/Clearing Account",
+        "debit": 0.0,
+        "credit": 4184359.48
+      }
+    ]
+  },
+  {
+    "journalEntryId": "JE-MTN-00007",
+    "entryDate": "2025-11-29T21:09:09Z",
+    "description": "Commission \u2014 MTN Uganda period reconciliation",
+    "reference": "REF-MTN-241596",
+    "status": "Posted",
+    "entryType": "Commission",
+    "currency": "UGX",
+    "totalDebits": 2554608.21,
+    "totalCredits": 2554608.21,
+    "createdBy": "AccountingBot",
+    "postedBy": "Finance Officer 5",
+    "lines": [
+      {
+        "accountCode": "2551",
+        "accountName": "Commission Account",
+        "debit": 2554608.21,
+        "credit": 0.0
+      },
+      {
+        "accountCode": "5485",
+        "accountName": "Settlement/Clearing Account",
+        "debit": 0.0,
+        "credit": 2554608.21
+      }
+    ]
+  },
+  {
+    "journalEntryId": "JE-MTN-00008",
+    "entryDate": "2025-07-11T11:39:42Z",
+    "description": "Accrual \u2014 MTN Uganda period reconciliation",
+    "reference": "REF-MTN-723094",
+    "status": "Draft",
+    "entryType": "Accrual",
+    "currency": "UGX",
+    "totalDebits": 4049473.28,
+    "totalCredits": 4049473.28,
+    "createdBy": "AccountingBot",
+    "postedBy": "Finance Officer 3",
+    "lines": [
+      {
+        "accountCode": "2349",
+        "accountName": "Accrual Account",
+        "debit": 4049473.28,
+        "credit": 0.0
+      },
+      {
+        "accountCode": "3559",
+        "accountName": "Settlement/Clearing Account",
+        "debit": 0.0,
+        "credit": 4049473.28
+      }
+    ]
+  },
+  {
+    "journalEntryId": "JE-MTN-00009",
+    "entryDate": "2026-01-05T02:47:20Z",
+    "description": "Commission \u2014 MTN Uganda period reconciliation",
+    "reference": "REF-MTN-802669",
+    "status": "Draft",
+    "entryType": "Commission",
+    "currency": "UGX",
+    "totalDebits": 4499823.8,
+    "totalCredits": 4499823.8,
+    "createdBy": "AccountingBot",
+    "postedBy": "Finance Officer 1",
+    "lines": [
+      {
+        "accountCode": "4980",
+        "accountName": "Commission Account",
+        "debit": 4499823.8,
+        "credit": 0.0
+      },
+      {
+        "accountCode": "3304",
+        "accountName": "Settlement/Clearing Account",
+        "debit": 0.0,
+        "credit": 4499823.8
+      }
+    ]
+  },
+  {
+    "journalEntryId": "JE-MTN-00010",
+    "entryDate": "2025-08-30T13:19:43Z",
+    "description": "Revenue \u2014 MTN Uganda period reconciliation",
+    "reference": "REF-MTN-557764",
+    "status": "Posted",
+    "entryType": "Revenue",
+    "currency": "UGX",
+    "totalDebits": 3316484.12,
+    "totalCredits": 3316484.12,
+    "createdBy": "AccountingBot",
+    "postedBy": "Finance Officer 3",
+    "lines": [
+      {
+        "accountCode": "1027",
+        "accountName": "Revenue Account",
+        "debit": 3316484.12,
+        "credit": 0.0
+      },
+      {
+        "accountCode": "2395",
+        "accountName": "Settlement/Clearing Account",
+        "debit": 0.0,
+        "credit": 3316484.12
+      }
+    ]
+  },
+  {
+    "journalEntryId": "JE-MTN-00011",
+    "entryDate": "2025-05-28T20:06:18Z",
+    "description": "Revenue \u2014 MTN Uganda period reconciliation",
+    "reference": "REF-MTN-469417",
+    "status": "Posted",
+    "entryType": "Revenue",
+    "currency": "UGX",
+    "totalDebits": 2204886.2,
+    "totalCredits": 2204886.2,
+    "createdBy": "AccountingBot",
+    "postedBy": "Finance Officer 3",
+    "lines": [
+      {
+        "accountCode": "2269",
+        "accountName": "Revenue Account",
+        "debit": 2204886.2,
+        "credit": 0.0
+      },
+      {
+        "accountCode": "3666",
+        "accountName": "Settlement/Clearing Account",
+        "debit": 0.0,
+        "credit": 2204886.2
+      }
+    ]
+  },
+  {
+    "journalEntryId": "JE-MTN-00012",
+    "entryDate": "2025-03-09T00:59:47Z",
+    "description": "Accrual \u2014 MTN Uganda period reconciliation",
+    "reference": "REF-MTN-684042",
+    "status": "Posted",
+    "entryType": "Accrual",
+    "currency": "UGX",
+    "totalDebits": 1798447.65,
+    "totalCredits": 1798447.65,
+    "createdBy": "AccountingBot",
+    "postedBy": "Finance Officer 2",
+    "lines": [
+      {
+        "accountCode": "4524",
+        "accountName": "Accrual Account",
+        "debit": 1798447.65,
+        "credit": 0.0
+      },
+      {
+        "accountCode": "2248",
+        "accountName": "Settlement/Clearing Account",
+        "debit": 0.0,
+        "credit": 1798447.65
+      }
+    ]
+  },
+  {
+    "journalEntryId": "JE-MTN-00013",
+    "entryDate": "2026-02-19T06:35:48Z",
+    "description": "Expense \u2014 MTN Uganda period reconciliation",
+    "reference": "REF-MTN-368258",
+    "status": "Posted",
+    "entryType": "Expense",
+    "currency": "UGX",
+    "totalDebits": 4164053.15,
+    "totalCredits": 4164053.15,
+    "createdBy": "AccountingBot",
+    "postedBy": "Finance Officer 3",
+    "lines": [
+      {
+        "accountCode": "3823",
+        "accountName": "Expense Account",
+        "debit": 4164053.15,
+        "credit": 0.0
+      },
+      {
+        "accountCode": "1593",
+        "accountName": "Settlement/Clearing Account",
+        "debit": 0.0,
+        "credit": 4164053.15
+      }
+    ]
+  },
+  {
+    "journalEntryId": "JE-MTN-00014",
+    "entryDate": "2026-06-03T02:01:41Z",
+    "description": "Adjustment \u2014 MTN Uganda period reconciliation",
+    "reference": "REF-MTN-468650",
+    "status": "Posted",
+    "entryType": "Adjustment",
+    "currency": "UGX",
+    "totalDebits": 4220205.95,
+    "totalCredits": 4220205.95,
+    "createdBy": "AccountingBot",
+    "postedBy": "Finance Officer 2",
+    "lines": [
+      {
+        "accountCode": "3965",
+        "accountName": "Adjustment Account",
+        "debit": 4220205.95,
+        "credit": 0.0
+      },
+      {
+        "accountCode": "2158",
+        "accountName": "Settlement/Clearing Account",
+        "debit": 0.0,
+        "credit": 4220205.95
+      }
+    ]
+  },
+  {
+    "journalEntryId": "JE-MTN-00015",
+    "entryDate": "2025-01-06T03:33:33Z",
+    "description": "Settlement \u2014 MTN Uganda period reconciliation",
+    "reference": "REF-MTN-485656",
+    "status": "Draft",
+    "entryType": "Settlement",
+    "currency": "UGX",
+    "totalDebits": 4338043.33,
+    "totalCredits": 4338043.33,
+    "createdBy": "AccountingBot",
+    "postedBy": "Finance Officer 5",
+    "lines": [
+      {
+        "accountCode": "5123",
+        "accountName": "Settlement Account",
+        "debit": 4338043.33,
+        "credit": 0.0
+      },
+      {
+        "accountCode": "1505",
+        "accountName": "Settlement/Clearing Account",
+        "debit": 0.0,
+        "credit": 4338043.33
+      }
+    ]
+  },
+  {
+    "journalEntryId": "JE-MTN-00016",
+    "entryDate": "2024-12-19T04:23:43Z",
+    "description": "Expense \u2014 MTN Uganda period 16",
+    "reference": "REF-MTN-986168",
+    "status": "Posted",
+    "entryType": "Expense",
+    "currency": "UGX",
+    "totalDebits": 7446358.33,
+    "totalCredits": 7446358.33,
+    "createdBy": "AccountingBot",
+    "postedBy": "Finance Officer 1",
+    "lines": [
+      {
+        "accountCode": "1249",
+        "accountName": "Expense Account",
+        "debit": 7446358.33,
+        "credit": 0.0
+      },
+      {
+        "accountCode": "5104",
+        "accountName": "Settlement/Clearing Account",
+        "debit": 0.0,
+        "credit": 7446358.33
+      }
+    ]
+  },
+  {
+    "journalEntryId": "JE-MTN-00017",
+    "entryDate": "2025-05-11T01:06:53Z",
+    "description": "Settlement \u2014 MTN Uganda period 17",
+    "reference": "REF-MTN-364180",
+    "status": "Posted",
+    "entryType": "Settlement",
+    "currency": "UGX",
+    "totalDebits": 337382.13,
+    "totalCredits": 337382.13,
+    "createdBy": "AccountingBot",
+    "postedBy": "Finance Officer 3",
+    "lines": [
+      {
+        "accountCode": "5759",
+        "accountName": "Settlement Account",
+        "debit": 337382.13,
+        "credit": 0.0
+      },
+      {
+        "accountCode": "1107",
+        "accountName": "Settlement/Clearing Account",
+        "debit": 0.0,
+        "credit": 337382.13
+      }
+    ]
+  },
+  {
+    "journalEntryId": "JE-MTN-00018",
+    "entryDate": "2024-09-03T16:54:37Z",
+    "description": "Accrual \u2014 MTN Uganda period 18",
+    "reference": "REF-MTN-954124",
+    "status": "Posted",
+    "entryType": "Accrual",
+    "currency": "UGX",
+    "totalDebits": 766905.86,
+    "totalCredits": 766905.86,
+    "createdBy": "AccountingBot",
+    "postedBy": "Finance Officer 4",
+    "lines": [
+      {
+        "accountCode": "4542",
+        "accountName": "Accrual Account",
+        "debit": 766905.86,
+        "credit": 0.0
+      },
+      {
+        "accountCode": "2772",
+        "accountName": "Settlement/Clearing Account",
+        "debit": 0.0,
+        "credit": 766905.86
+      }
+    ]
+  },
+  {
+    "journalEntryId": "JE-MTN-00019",
+    "entryDate": "2024-04-24T22:27:28Z",
+    "description": "Adjustment \u2014 MTN Uganda period 19",
+    "reference": "REF-MTN-687982",
+    "status": "Draft",
+    "entryType": "Adjustment",
+    "currency": "UGX",
+    "totalDebits": 6081452.86,
+    "totalCredits": 6081452.86,
+    "createdBy": "AccountingBot",
+    "postedBy": "Finance Officer 6",
+    "lines": [
+      {
+        "accountCode": "4695",
+        "accountName": "Adjustment Account",
+        "debit": 6081452.86,
+        "credit": 0.0
+      },
+      {
+        "accountCode": "5850",
+        "accountName": "Settlement/Clearing Account",
+        "debit": 0.0,
+        "credit": 6081452.86
+      }
+    ]
+  },
+  {
+    "journalEntryId": "JE-MTN-00020",
+    "entryDate": "2024-06-12T18:18:33Z",
+    "description": "Tax \u2014 MTN Uganda period 20",
+    "reference": "REF-MTN-661281",
+    "status": "Posted",
+    "entryType": "Tax",
+    "currency": "UGX",
+    "totalDebits": 6175437.15,
+    "totalCredits": 6175437.15,
+    "createdBy": "AccountingBot",
+    "postedBy": "Finance Officer 5",
+    "lines": [
+      {
+        "accountCode": "5186",
+        "accountName": "Tax Account",
+        "debit": 6175437.15,
+        "credit": 0.0
+      },
+      {
+        "accountCode": "1370",
+        "accountName": "Settlement/Clearing Account",
+        "debit": 0.0,
+        "credit": 6175437.15
+      }
+    ]
+  },
+  {
+    "journalEntryId": "JE-MTN-00021",
+    "entryDate": "2024-06-24T10:22:37Z",
+    "description": "Commission \u2014 MTN Uganda period 21",
+    "reference": "REF-MTN-467146",
+    "status": "Posted",
+    "entryType": "Commission",
+    "currency": "UGX",
+    "totalDebits": 5043012.05,
+    "totalCredits": 5043012.05,
+    "createdBy": "AccountingBot",
+    "postedBy": "Finance Officer 4",
+    "lines": [
+      {
+        "accountCode": "2235",
+        "accountName": "Commission Account",
+        "debit": 5043012.05,
+        "credit": 0.0
+      },
+      {
+        "accountCode": "2774",
+        "accountName": "Settlement/Clearing Account",
+        "debit": 0.0,
+        "credit": 5043012.05
+      }
+    ]
+  },
+  {
+    "journalEntryId": "JE-MTN-00022",
+    "entryDate": "2025-10-15T23:43:47Z",
+    "description": "Depreciation \u2014 MTN Uganda period 22",
+    "reference": "REF-MTN-634043",
+    "status": "Draft",
+    "entryType": "Depreciation",
+    "currency": "UGX",
+    "totalDebits": 2942612.05,
+    "totalCredits": 2942612.05,
+    "createdBy": "AccountingBot",
+    "postedBy": "Finance Officer 4",
+    "lines": [
+      {
+        "accountCode": "5950",
+        "accountName": "Depreciation Account",
+        "debit": 2942612.05,
+        "credit": 0.0
+      },
+      {
+        "accountCode": "5826",
+        "accountName": "Settlement/Clearing Account",
+        "debit": 0.0,
+        "credit": 2942612.05
+      }
+    ]
+  },
+  {
+    "journalEntryId": "JE-MTN-00023",
+    "entryDate": "2025-06-18T07:00:18Z",
+    "description": "Provision \u2014 MTN Uganda period 23",
+    "reference": "REF-MTN-924135",
+    "status": "Posted",
+    "entryType": "Provision",
+    "currency": "UGX",
+    "totalDebits": 5526827.6,
+    "totalCredits": 5526827.6,
+    "createdBy": "AccountingBot",
+    "postedBy": "Finance Officer 4",
+    "lines": [
+      {
+        "accountCode": "3746",
+        "accountName": "Provision Account",
+        "debit": 5526827.6,
+        "credit": 0.0
+      },
+      {
+        "accountCode": "2245",
+        "accountName": "Settlement/Clearing Account",
+        "debit": 0.0,
+        "credit": 5526827.6
+      }
+    ]
+  },
+  {
+    "journalEntryId": "JE-MTN-00024",
+    "entryDate": "2024-10-24T20:21:30Z",
+    "description": "Revaluation \u2014 MTN Uganda period 24",
+    "reference": "REF-MTN-775135",
+    "status": "Posted",
+    "entryType": "Revaluation",
+    "currency": "UGX",
+    "totalDebits": 4523090.73,
+    "totalCredits": 4523090.73,
+    "createdBy": "AccountingBot",
+    "postedBy": "Finance Officer 8",
+    "lines": [
+      {
+        "accountCode": "3562",
+        "accountName": "Revaluation Account",
+        "debit": 4523090.73,
+        "credit": 0.0
+      },
+      {
+        "accountCode": "5829",
+        "accountName": "Settlement/Clearing Account",
+        "debit": 0.0,
+        "credit": 4523090.73
+      }
+    ]
+  },
+  {
+    "journalEntryId": "JE-MTN-00025",
+    "entryDate": "2024-11-29T23:56:59Z",
+    "description": "Intercompany \u2014 MTN Uganda period 25",
+    "reference": "REF-MTN-387267",
+    "status": "Draft",
+    "entryType": "Intercompany",
+    "currency": "UGX",
+    "totalDebits": 4720897.55,
+    "totalCredits": 4720897.55,
+    "createdBy": "AccountingBot",
+    "postedBy": "Finance Officer 1",
+    "lines": [
+      {
+        "accountCode": "1645",
+        "accountName": "Intercompany Account",
+        "debit": 4720897.55,
+        "credit": 0.0
+      },
+      {
+        "accountCode": "2457",
+        "accountName": "Settlement/Clearing Account",
+        "debit": 0.0,
+        "credit": 4720897.55
+      }
+    ]
+  }
+]

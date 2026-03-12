@@ -1,0 +1,114 @@
+[
+  {
+    "accountCode": "1001",
+    "accountName": "Cash and Bank Balances",
+    "accountType": "Asset",
+    "debit": 629.0,
+    "credit": 0,
+    "currency": "NGN"
+  },
+  {
+    "accountCode": "1002",
+    "accountName": "Member Contribution Receivable",
+    "accountType": "Asset",
+    "debit": 419.0,
+    "credit": 0,
+    "currency": "NGN"
+  },
+  {
+    "accountCode": "1101",
+    "accountName": "Property and Equipment",
+    "accountType": "Asset",
+    "debit": 1835.0,
+    "credit": 0,
+    "currency": "NGN"
+  },
+  {
+    "accountCode": "1103",
+    "accountName": "Long-Term Investments",
+    "accountType": "Asset",
+    "debit": 1048.0,
+    "credit": 0,
+    "currency": "NGN"
+  },
+  {
+    "accountCode": "2001",
+    "accountName": "Outstanding Claims Payable",
+    "accountType": "Liability",
+    "debit": 0,
+    "credit": 472.0,
+    "currency": "NGN"
+  },
+  {
+    "accountCode": "2101",
+    "accountName": "Claims Reserve",
+    "accountType": "Liability",
+    "debit": 0,
+    "credit": 1310.0,
+    "currency": "NGN"
+  },
+  {
+    "accountCode": "3001",
+    "accountName": "Government Capital Contribution",
+    "accountType": "Equity",
+    "debit": 0,
+    "credit": 1572.0,
+    "currency": "NGN"
+  },
+  {
+    "accountCode": "4001",
+    "accountName": "Member Contributions",
+    "accountType": "Revenue",
+    "debit": 0,
+    "credit": 2883.0,
+    "currency": "NGN"
+  },
+  {
+    "accountCode": "4002",
+    "accountName": "Government Subvention",
+    "accountType": "Revenue",
+    "debit": 0,
+    "credit": 1572.0,
+    "currency": "NGN"
+  },
+  {
+    "accountCode": "5001",
+    "accountName": "Claims Paid",
+    "accountType": "Expense",
+    "debit": 3040.0,
+    "credit": 0,
+    "currency": "NGN"
+  },
+  {
+    "accountCode": "5002",
+    "accountName": "Staff Costs",
+    "accountType": "Expense",
+    "debit": 943.0,
+    "credit": 0,
+    "currency": "NGN"
+  },
+  {
+    "accountCode": "5003",
+    "accountName": "Administrative Expenses",
+    "accountType": "Expense",
+    "debit": 419.0,
+    "credit": 0,
+    "currency": "NGN"
+  },
+  {
+    "accountCode": "3002",
+    "accountName": "Retained Surplus",
+    "accountType": "Equity",
+    "debit": 0,
+    "credit": 524.0,
+    "currency": "NGN"
+  },
+  {
+    "accountCode": "TOTAL",
+    "accountName": "TOTAL",
+    "accountType": "Summary",
+    "debit": 8333.0,
+    "credit": 8333.0,
+    "currency": "NGN"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "orderId": "CC-ORD-20240105-001",
+    "creditId": "VCS-DR-001",
+    "symbol": "REDD-AF",
+    "side": "Retire",
+    "quantity": 92,
+    "price": 18.53,
+    "totalAmount": 1704.76,
+    "purpose": "Portfolio Investment",
+    "status": "Completed",
+    "timestamp": "2024-01-05T08:00:00Z"
+  },
+  {
+    "orderId": "CC-ORD-20240207-002",
+    "creditId": "VCS-DR-001",
+    "symbol": "REDD-AF",
+    "side": "Retire",
+    "quantity": 108,
+    "price": 18.68,
+    "totalAmount": 2017.44,
+    "purpose": "Portfolio Investment",
+    "status": "Completed",
+    "timestamp": "2024-02-07T17:00:00Z"
+  },
+  {
+    "orderId": "CC-ORD-20240318-003",
+    "creditId": "GOL-DR-002",
+    "symbol": "SOLAR-AF",
+    "side": "Buy",
+    "quantity": 40,
+    "price": 21.41,
+    "totalAmount": 856.4,
+    "purpose": "Social Impact Investment",
+    "status": "Completed",
+    "timestamp": "2024-03-18T15:00:00Z"
+  },
+  {
+    "orderId": "CC-ORD-20240405-004",
+    "creditId": "GOL-DR-002",
+    "symbol": "SOLAR-AF",
+    "side": "Buy",
+    "quantity": 101,
+    "price": 21.33,
+    "totalAmount": 2154.33,
+    "purpose": "Regulatory Compliance",
+    "status": "Completed",
+    "timestamp": "2024-04-05T17:00:00Z"
+  },
+  {
+    "orderId": "CC-ORD-20240526-005",
+    "creditId": "GOL-DR-003",
+    "symbol": "COOK-AF",
+    "side": "Buy",
+    "quantity": 87,
+    "price": 11.35,
+    "totalAmount": 987.45,
+    "purpose": "Regulatory Compliance",
+    "status": "Completed",
+    "timestamp": "2024-05-26T15:00:00Z"
+  },
+  {
+    "orderId": "CC-ORD-20240616-006",
+    "creditId": "GOL-DR-003",
+    "symbol": "COOK-AF",
+    "side": "Buy",
+    "quantity": 142,
+    "price": 10.99,
+    "totalAmount": 1560.58,
+    "purpose": "Regulatory Compliance",
+    "status": "Completed",
+    "timestamp": "2024-06-16T15:00:00Z"
+  }
+]

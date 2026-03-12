@@ -1,0 +1,80 @@
+[
+  {
+    "ruleId": 1,
+    "ruleName": "Bills UGX 55,500,000\u2013555,000,000 require Mortgage Manager approval",
+    "type": "Bill",
+    "minAmount": 55500000,
+    "maxAmount": 555000000,
+    "approverId": "manager@homeloansltd.co",
+    "approverName": "Mortgage Manager",
+    "level": 1,
+    "isActive": true,
+    "autoApproveBelow": false,
+    "notes": "Standard operational expenditure threshold"
+  },
+  {
+    "ruleId": 2,
+    "ruleName": "Bills above UGX 555,000,000 require Chief Financial Officer approval",
+    "type": "Bill",
+    "minAmount": 555000000,
+    "maxAmount": null,
+    "approverId": "cfo@homeloansltd.co",
+    "approverName": "Chief Financial Officer",
+    "level": 2,
+    "isActive": true,
+    "autoApproveBelow": false,
+    "notes": "Capital expenditure and large operational bills"
+  },
+  {
+    "ruleId": 3,
+    "ruleName": "Bills above UGX 1,850,000,000 require Managing Director approval",
+    "type": "Bill",
+    "minAmount": 1850000000,
+    "maxAmount": null,
+    "approverId": "ceo@homeloansltd.co",
+    "approverName": "Managing Director",
+    "level": 3,
+    "isActive": true,
+    "autoApproveBelow": false,
+    "notes": "Strategic vendor contracts and major capital expenditure"
+  },
+  {
+    "ruleId": 4,
+    "ruleName": "Journal entries above UGX 277,500,000 require Chief Financial Officer approval",
+    "type": "JournalEntry",
+    "minAmount": 277500000.0,
+    "maxAmount": null,
+    "approverId": "controller@homeloansltd.co",
+    "approverName": "Financial Controller",
+    "level": 1,
+    "isActive": true,
+    "autoApproveBelow": false,
+    "notes": "SOX control \u2014 manual journal entries above threshold"
+  },
+  {
+    "ruleId": 5,
+    "ruleName": "Payments below UGX 27,800,000 auto-approved",
+    "type": "Payment",
+    "minAmount": 0,
+    "maxAmount": 27800000,
+    "approverId": "system@homeloansltd.co",
+    "approverName": "System",
+    "level": 1,
+    "isActive": true,
+    "autoApproveBelow": true,
+    "notes": "Petty cash and minor operational payments"
+  },
+  {
+    "ruleId": 6,
+    "ruleName": "Budget changes above UGX 555,000,000 require Chief Financial Officer approval",
+    "type": "BudgetChange",
+    "minAmount": 555000000,
+    "maxAmount": null,
+    "approverId": "cfo@homeloansltd.co",
+    "approverName": "Chief Financial Officer",
+    "level": 2,
+    "isActive": true,
+    "autoApproveBelow": false,
+    "notes": "Budget revisions require justification memo"
+  }
+]

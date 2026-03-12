@@ -1,0 +1,12 @@
+[
+  {"accountCode":"1000","accountName":"Cash and Cash Equivalents","accountType":"Asset","balance":950000000.00,"currency":"USD"},
+  {"accountCode":"1100","accountName":"Trade Finance Loans","accountType":"Asset","balance":3800000000.00,"currency":"USD"},
+  {"accountCode":"1200","accountName":"Project Finance Loans","accountType":"Asset","balance":1800000000.00,"currency":"USD"},
+  {"accountCode":"1300","accountName":"Investment Securities","accountType":"Asset","balance":650000000.00,"currency":"USD"},
+  {"accountCode":"2000","accountName":"Borrowings","accountType":"Liability","balance":5800000000.00,"currency":"USD"},
+  {"accountCode":"3000","accountName":"Paid-in Capital","accountType":"Equity","balance":1500000000.00,"currency":"USD"},
+  {"accountCode":"4000","accountName":"Interest Income","accountType":"Revenue","balance":520000000.00,"currency":"USD"},
+  {"accountCode":"4100","accountName":"Fee Income","accountType":"Revenue","balance":85000000.00,"currency":"USD"},
+  {"accountCode":"5000","accountName":"Interest Expense","accountType":"Expense","balance":320000000.00,"currency":"USD"},
+  {"accountCode":"5100","accountName":"Administrative Expenses","accountType":"Expense","balance":42000000.00,"currency":"USD"}
+]

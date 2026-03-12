@@ -1,0 +1,4 @@
+[
+  {"alertId":"FAO-FA-001","alertType":"Fund Diversion","severity":"High","status":"Under Investigation","dateDetected":"2025-11-08T00:00:00Z","description":"Suspected diversion of food aid supplies to non-target beneficiaries in Southern Zambia","accountId":"fao-a001-1234-5678-aaaa-bb0000000001","customerId":"fao-c001-1111-2222-aaaa-bb1234567890","amountInvolved":780000.00,"currency":"USD"},
+  {"alertId":"FAO-FA-002","alertType":"Procurement Irregularity","severity":"Medium","status":"Resolved","dateDetected":"2025-07-22T00:00:00Z","description":"Inflated supplier invoices for agricultural inputs under Ghana Nutrition Programme","accountId":"fao-a004-1234-5678-aaaa-bb0000000004","customerId":"fao-c004-4444-5555-dddd-ee4567890123","amountInvolved":145000.00,"currency":"USD"}
+]

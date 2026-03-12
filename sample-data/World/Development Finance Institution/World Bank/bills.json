@@ -1,0 +1,6 @@
+[
+  {"billId":"WB-BILL-001","customerId":"wb-c003-3456-7890-cdef-123456789012","amount":72000000.00,"currency":"USD","dueDate":"2026-03-31T00:00:00Z","status":"Pending","description":"IBRD Interest Payment Q1 2026 - Kenya","issuedDate":"2026-01-01T00:00:00Z"},
+  {"billId":"WB-BILL-002","customerId":"wb-c001-1234-5678-abcd-ef1234567890","amount":21250000.00,"currency":"USD","dueDate":"2026-06-30T00:00:00Z","status":"Pending","description":"IDA Service Charge H1 2026 - Nigeria","issuedDate":"2026-01-15T00:00:00Z"},
+  {"billId":"WB-BILL-003","customerId":"wb-c006-6789-0123-fabc-456789012345","amount":42000000.00,"currency":"USD","dueDate":"2026-04-15T00:00:00Z","status":"Pending","description":"IBRD Principal + Interest - Ghana","issuedDate":"2026-01-20T00:00:00Z"},
+  {"billId":"WB-BILL-004","customerId":"wb-c002-2345-6789-bcde-f12345678901","amount":15500000.00,"currency":"USD","dueDate":"2026-06-30T00:00:00Z","status":"Pending","description":"IDA Service Charge - Ethiopia","issuedDate":"2026-01-25T00:00:00Z"}
+]

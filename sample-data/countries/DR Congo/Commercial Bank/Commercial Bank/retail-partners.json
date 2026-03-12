@@ -1,0 +1,124 @@
+[
+  {
+    "partnerId": "RP-DRC-001",
+    "businessName": "Shoprite DRC DR Congo Ltd",
+    "brandName": "Shoprite DRC",
+    "partnerType": "ConvenienceStore",
+    "country": "DR Congo",
+    "currency": "CDF",
+    "contactPerson": "Partner Manager 1",
+    "email": "banking@shopritedrc.dr",
+    "phoneNumber": "+667-345-487596",
+    "servicesOffered": [
+      "AccountOpening",
+      "CashWithdrawal",
+      "MoneyTransfer",
+      "AirtimePurchase",
+      "BillPayment"
+    ],
+    "acceptedPaymentMethods": [
+      "USSD",
+      "CardTap"
+    ],
+    "totalStores": 75,
+    "activeStores": 74,
+    "storeLocations": [
+      "Lubumbashi",
+      "Kinshasa"
+    ],
+    "monthlyTransactionVolume": 3062435.93,
+    "monthlyTransactionCount": 12928,
+    "averageTransactionSize": 234.45,
+    "commissionRate": 1.21,
+    "monthlyRevenue": 34704.28,
+    "partnershipStartDate": "2024-05-22T18:10:28Z",
+    "status": "PendingApproval",
+    "brandColor": "#f30938",
+    "isIntegrated": true,
+    "lastSyncDate": "2026-03-04T18:10:28Z"
+  },
+  {
+    "partnerId": "RP-DRC-002",
+    "businessName": "Cadeco Supermarch\u00e9 DR Congo Ltd",
+    "brandName": "Cadeco Supermarch\u00e9",
+    "partnerType": "Supermarket",
+    "country": "DR Congo",
+    "currency": "CDF",
+    "contactPerson": "Partner Manager 2",
+    "email": "banking@cadecosuperm.dr",
+    "phoneNumber": "+371-620-506968",
+    "servicesOffered": [
+      "AirtimePurchase",
+      "MoneyTransfer",
+      "LoanPayment",
+      "CashWithdrawal",
+      "AccountOpening"
+    ],
+    "acceptedPaymentMethods": [
+      "AccountNumber",
+      "QRCode",
+      "CardTap",
+      "USSD",
+      "PhoneNumber",
+      "Cash"
+    ],
+    "totalStores": 148,
+    "activeStores": 137,
+    "storeLocations": [
+      "Goma",
+      "Mbuji-Mayi",
+      "Lubumbashi"
+    ],
+    "monthlyTransactionVolume": 6989169.36,
+    "monthlyTransactionCount": 31548,
+    "averageTransactionSize": 386.46,
+    "commissionRate": 1.29,
+    "monthlyRevenue": 74485.45,
+    "partnershipStartDate": "2021-09-27T18:10:28Z",
+    "status": "Active",
+    "brandColor": "#3e7336",
+    "isIntegrated": true,
+    "lastSyncDate": "2026-03-03T18:10:28Z"
+  },
+  {
+    "partnerId": "RP-DRC-003",
+    "businessName": "Simbazikita DR Congo Ltd",
+    "brandName": "Simbazikita",
+    "partnerType": "ConvenienceStore",
+    "country": "DR Congo",
+    "currency": "CDF",
+    "contactPerson": "Partner Manager 3",
+    "email": "banking@simbazikita.dr",
+    "phoneNumber": "+435-697-143141",
+    "servicesOffered": [
+      "MoneyTransfer",
+      "LoanPayment",
+      "BillPayment",
+      "AirtimePurchase",
+      "CashWithdrawal",
+      "AccountOpening"
+    ],
+    "acceptedPaymentMethods": [
+      "PhoneNumber",
+      "USSD",
+      "QRCode"
+    ],
+    "totalStores": 135,
+    "activeStores": 129,
+    "storeLocations": [
+      "Mbuji-Mayi",
+      "Lubumbashi",
+      "Goma"
+    ],
+    "monthlyTransactionVolume": 4426888.19,
+    "monthlyTransactionCount": 18392,
+    "averageTransactionSize": 173.2,
+    "commissionRate": 0.34,
+    "monthlyRevenue": 36744.33,
+    "partnershipStartDate": "2024-09-07T18:10:28Z",
+    "status": "Active",
+    "brandColor": "#51d8ac",
+    "isIntegrated": true,
+    "lastSyncDate": null
+  }
+]

@@ -1,0 +1,7 @@
+[
+  {"customerId":"ndb-c001-1111-aaaa-2222-bbbbccccdddd","customerName":"Republic of South Africa","creditScore":620,"creditRating":"BB-","riskCategory":"Medium-High","lastAssessmentDate":"2025-12-01T00:00:00Z","debtToGdpRatio":"73.8%"},
+  {"customerId":"ndb-c002-2222-bbbb-3333-ccccddddeeee","customerName":"Arab Republic of Egypt","creditScore":640,"creditRating":"B","riskCategory":"Medium-High","lastAssessmentDate":"2025-12-01T00:00:00Z","debtToGdpRatio":"92.4%"},
+  {"customerId":"ndb-c003-3333-cccc-4444-ddddeeeeffff","customerName":"Federal Democratic Republic of Ethiopia","creditScore":580,"creditRating":"B-","riskCategory":"High","lastAssessmentDate":"2025-12-01T00:00:00Z","debtToGdpRatio":"55.2%"},
+  {"customerId":"ndb-c004-4444-dddd-5555-eeeeffff0000","customerName":"Eskom Holdings SOC Ltd","creditScore":550,"creditRating":"CCC+","riskCategory":"High","lastAssessmentDate":"2025-12-01T00:00:00Z","debtToGdpRatio":"N/A - Corporate"},
+  {"customerId":"ndb-c005-5555-eeee-6666-ffff00001111","customerName":"Trade and Development Bank - Eastern and Southern Africa","creditScore":700,"creditRating":"BBB-","riskCategory":"Medium","lastAssessmentDate":"2025-12-01T00:00:00Z","debtToGdpRatio":"N/A - DFI"}
+]

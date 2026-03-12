@@ -1,0 +1,120 @@
+[
+  {
+    "partnerId": "RP-RWA-001",
+    "businessName": "Soyco Rwanda Ltd",
+    "brandName": "Soyco",
+    "partnerType": "ConvenienceStore",
+    "country": "Rwanda",
+    "currency": "RWF",
+    "contactPerson": "Partner Manager 1",
+    "email": "banking@soyco.rw",
+    "phoneNumber": "+378-824-689275",
+    "servicesOffered": [
+      "CashWithdrawal",
+      "AccountOpening",
+      "MoneyTransfer",
+      "LoanPayment",
+      "AirtimePurchase"
+    ],
+    "acceptedPaymentMethods": [
+      "Cash",
+      "QRCode",
+      "AccountNumber"
+    ],
+    "totalStores": 170,
+    "activeStores": 161,
+    "storeLocations": [
+      "Gisenyi",
+      "Kigali",
+      "Ruhengeri",
+      "Butare"
+    ],
+    "monthlyTransactionVolume": 1134790.77,
+    "monthlyTransactionCount": 46506,
+    "averageTransactionSize": 29.83,
+    "commissionRate": 0.97,
+    "monthlyRevenue": 16944.01,
+    "partnershipStartDate": "2022-12-28T18:10:28Z",
+    "status": "Active",
+    "brandColor": "#25c9a1",
+    "isIntegrated": true,
+    "lastSyncDate": null
+  },
+  {
+    "partnerId": "RP-RWA-002",
+    "businessName": "Shoprite Rwanda Rwanda Ltd",
+    "brandName": "Shoprite Rwanda",
+    "partnerType": "Supermarket",
+    "country": "Rwanda",
+    "currency": "RWF",
+    "contactPerson": "Partner Manager 2",
+    "email": "banking@shopriterwan.rw",
+    "phoneNumber": "+471-314-361662",
+    "servicesOffered": [
+      "BillPayment",
+      "LoanPayment",
+      "CashDeposit"
+    ],
+    "acceptedPaymentMethods": [
+      "CardTap",
+      "PhoneNumber",
+      "USSD",
+      "Cash"
+    ],
+    "totalStores": 44,
+    "activeStores": 44,
+    "storeLocations": [
+      "Ruhengeri",
+      "Butare"
+    ],
+    "monthlyTransactionVolume": 1942067.6,
+    "monthlyTransactionCount": 48510,
+    "averageTransactionSize": 69.35,
+    "commissionRate": 1.95,
+    "monthlyRevenue": 26440.52,
+    "partnershipStartDate": "2023-05-30T18:10:28Z",
+    "status": "PendingApproval",
+    "brandColor": "#56dc9c",
+    "isIntegrated": true,
+    "lastSyncDate": null
+  },
+  {
+    "partnerId": "RP-RWA-003",
+    "businessName": "Nakumatt Rwanda Rwanda Ltd",
+    "brandName": "Nakumatt Rwanda",
+    "partnerType": "ConvenienceStore",
+    "country": "Rwanda",
+    "currency": "RWF",
+    "contactPerson": "Partner Manager 3",
+    "email": "banking@nakumattrwan.rw",
+    "phoneNumber": "+467-207-177804",
+    "servicesOffered": [
+      "CashWithdrawal",
+      "AirtimePurchase",
+      "LoanPayment",
+      "CashDeposit",
+      "BillPayment"
+    ],
+    "acceptedPaymentMethods": [
+      "USSD",
+      "PhoneNumber"
+    ],
+    "totalStores": 42,
+    "activeStores": 42,
+    "storeLocations": [
+      "Ruhengeri",
+      "Gisenyi",
+      "Kigali"
+    ],
+    "monthlyTransactionVolume": 6403596.8,
+    "monthlyTransactionCount": 28767,
+    "averageTransactionSize": 147.77,
+    "commissionRate": 0.58,
+    "monthlyRevenue": 87582.24,
+    "partnershipStartDate": "2025-04-17T18:10:28Z",
+    "status": "Active",
+    "brandColor": "#133bbb",
+    "isIntegrated": true,
+    "lastSyncDate": "2026-03-03T18:10:28Z"
+  }
+]
