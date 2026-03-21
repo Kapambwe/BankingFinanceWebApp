@@ -65,6 +65,26 @@
         <span class="dismiss">🗙</span>
     </div>
 
+    <script>
+        // Restore SPA path from 404.html redirect — MUST run before Blazor.start()
+        (function () {
+            var params = new URLSearchParams(window.location.search);
+            var path = params.get('path');
+            if (path) {
+                params.delete('path');
+                var remaining = params.toString();
+                // Preserve whatever base path is already in the URL (works for both
+                // root and sub-path deployments without hardcoding /BankingFinanceWebApp).
+                var isProjectPage = (window.location.hostname.split('.').length === 3);
+                var segments = window.location.pathname.split('/').filter(Boolean);
+                var base = isProjectPage && segments.length > 0 ? '/' + segments[0] : '';
+                var newUrl = base + decodeURIComponent(path)
+                             + (remaining ? '?' + remaining : '')
+                             + window.location.hash;
+                window.history.replaceState(null, null, newUrl);
+            }
+        })();
+    </script>
     <script src="_content/Radzen.Blazor/Radzen.Blazor.js"></script>
     <script src="_framework/blazor.webassembly.js" autostart="false"></script>
     <script>
@@ -95,16 +115,6 @@
     <!-- D3.js for Network Visualization -->
     <script src="https://d3js.org/d3.v7.min.js"></script>
     <script src="js/d3-network-graph.js"></script>
-    <script>
-        // If redirected from 404.html, restore path
-        (function () {
-            const params = new URLSearchParams(window.location.search);
-            const path = params.get('path');
-            if (path) {
-                window.history.replaceState(null, '', '/BankingFinanceWebApp' + decodeURIComponent(path));
-            }
-        })();
-    </script>
 </body>
 
 </html>
