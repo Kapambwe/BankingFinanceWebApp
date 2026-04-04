@@ -1,0 +1,17 @@
+{
+  "registrationNumber": "REG-53961",
+  "contactEmail": "unitedbankforafricazambia@example.zm",
+  "createdAt": "2025-11-03T00:00:00Z",
+  "branches": 25,
+  "institutionType": "Commercial Bank",
+  "institutionName": "United Bank for Africa Zambia",
+  "country": "Zambia",
+  "established": 1986,
+  "employees": 3328,
+  "contactPhone": "+260-214-995359",
+  "headquarters": "Kitwe",
+  "institutionId": "446d59b6-966e-420f-a257-691717ab91aa",
+  "currency": "ZMW",
+  "status": "Active",
+  "website": "https://www.unitedbankforafricazambia.co.zm"
+}

@@ -1,0 +1,164 @@
+[
+  {
+    "partnerId": "RP-KEN-001",
+    "businessName": "Carrefour Kenya Kenya Ltd",
+    "brandName": "Carrefour Kenya",
+    "partnerType": "ConvenienceStore",
+    "country": "Kenya",
+    "currency": "KES",
+    "contactPerson": "Partner Manager 1",
+    "email": "banking@carrefourken.ke",
+    "phoneNumber": "+792-137-890954",
+    "servicesOffered": [
+      "BillPayment",
+      "AccountOpening",
+      "MoneyTransfer"
+    ],
+    "acceptedPaymentMethods": [
+      "PhoneNumber",
+      "QRCode",
+      "USSD"
+    ],
+    "totalStores": 66,
+    "activeStores": 60,
+    "storeLocations": [
+      "Mombasa",
+      "Nakuru"
+    ],
+    "monthlyTransactionVolume": 6428526.94,
+    "monthlyTransactionCount": 44576,
+    "averageTransactionSize": 573.77,
+    "commissionRate": 1.32,
+    "monthlyRevenue": 77121.89,
+    "partnershipStartDate": "2024-02-03T18:10:28Z",
+    "status": "Active",
+    "brandColor": "#856fda",
+    "isIntegrated": false,
+    "lastSyncDate": "2026-03-04T18:10:28Z"
+  },
+  {
+    "partnerId": "RP-KEN-002",
+    "businessName": "Naivas Kenya Ltd",
+    "brandName": "Naivas",
+    "partnerType": "ConvenienceStore",
+    "country": "Kenya",
+    "currency": "KES",
+    "contactPerson": "Partner Manager 2",
+    "email": "banking@naivas.ke",
+    "phoneNumber": "+995-450-210982",
+    "servicesOffered": [
+      "LoanPayment",
+      "BillPayment",
+      "CashDeposit",
+      "CashWithdrawal",
+      "AirtimePurchase",
+      "MoneyTransfer"
+    ],
+    "acceptedPaymentMethods": [
+      "Cash",
+      "CardTap",
+      "AccountNumber",
+      "PhoneNumber"
+    ],
+    "totalStores": 83,
+    "activeStores": 79,
+    "storeLocations": [
+      "Nakuru",
+      "Nairobi",
+      "Kisumu"
+    ],
+    "monthlyTransactionVolume": 3880541.27,
+    "monthlyTransactionCount": 46585,
+    "averageTransactionSize": 311.94,
+    "commissionRate": 1.5,
+    "monthlyRevenue": 30539.06,
+    "partnershipStartDate": "2025-12-18T18:10:28Z",
+    "status": "Active",
+    "brandColor": "#b6944d",
+    "isIntegrated": false,
+    "lastSyncDate": "2026-03-03T18:10:28Z"
+  },
+  {
+    "partnerId": "RP-KEN-003",
+    "businessName": "Quickmart Kenya Ltd",
+    "brandName": "Quickmart",
+    "partnerType": "SmallShop",
+    "country": "Kenya",
+    "currency": "KES",
+    "contactPerson": "Partner Manager 3",
+    "email": "banking@quickmart.ke",
+    "phoneNumber": "+208-890-939888",
+    "servicesOffered": [
+      "MoneyTransfer",
+      "AirtimePurchase",
+      "LoanPayment",
+      "BillPayment",
+      "AccountOpening",
+      "CashDeposit"
+    ],
+    "acceptedPaymentMethods": [
+      "QRCode",
+      "CardTap",
+      "PhoneNumber",
+      "USSD"
+    ],
+    "totalStores": 167,
+    "activeStores": 154,
+    "storeLocations": [
+      "Kisumu",
+      "Mombasa",
+      "Nakuru",
+      "Nairobi"
+    ],
+    "monthlyTransactionVolume": 1908345.68,
+    "monthlyTransactionCount": 41763,
+    "averageTransactionSize": 102.11,
+    "commissionRate": 1.85,
+    "monthlyRevenue": 6460.37,
+    "partnershipStartDate": "2021-12-21T18:10:28Z",
+    "status": "Active",
+    "brandColor": "#b7ae5f",
+    "isIntegrated": true,
+    "lastSyncDate": "2026-03-02T18:10:28Z"
+  },
+  {
+    "partnerId": "RP-KEN-004",
+    "businessName": "Tuskys Kenya Ltd",
+    "brandName": "Tuskys",
+    "partnerType": "SmallShop",
+    "country": "Kenya",
+    "currency": "KES",
+    "contactPerson": "Partner Manager 4",
+    "email": "banking@tuskys.ke",
+    "phoneNumber": "+639-563-130181",
+    "servicesOffered": [
+      "AccountOpening",
+      "CashWithdrawal",
+      "CashDeposit",
+      "AirtimePurchase",
+      "BillPayment",
+      "MoneyTransfer"
+    ],
+    "acceptedPaymentMethods": [
+      "CardTap",
+      "AccountNumber",
+      "QRCode"
+    ],
+    "totalStores": 37,
+    "activeStores": 35,
+    "storeLocations": [
+      "Mombasa",
+      "Nakuru"
+    ],
+    "monthlyTransactionVolume": 579013.33,
+    "monthlyTransactionCount": 9190,
+    "averageTransactionSize": 13.43,
+    "commissionRate": 0.59,
+    "monthlyRevenue": 2923.34,
+    "partnershipStartDate": "2021-05-27T18:10:28Z",
+    "status": "Active",
+    "brandColor": "#19ed3c",
+    "isIntegrated": true,
+    "lastSyncDate": "2026-03-04T18:10:28Z"
+  }
+]

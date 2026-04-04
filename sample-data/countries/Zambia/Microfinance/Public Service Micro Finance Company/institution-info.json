@@ -1,0 +1,17 @@
+{
+  "registrationNumber": "REG-33820",
+  "contactEmail": "publicservicemicrofinancecompany@example.zm",
+  "createdAt": "2023-09-30T00:00:00Z",
+  "branches": 39,
+  "institutionType": "Microfinance",
+  "institutionName": "Public Service Micro Finance Company",
+  "country": "Zambia",
+  "established": 1960,
+  "employees": 4895,
+  "contactPhone": "+260-456-144950",
+  "headquarters": "Chipata",
+  "institutionId": "5cee823f-3fa2-47fe-990c-c508bfce0e35",
+  "currency": "ZMW",
+  "status": "Active",
+  "website": "https://www.publicservicemicrofinancecompany.co.zm"
+}

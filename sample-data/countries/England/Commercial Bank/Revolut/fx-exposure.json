@@ -1,0 +1,134 @@
+[
+  {
+    "exposureId": "fe000001-1111-1111-1111-000000000001",
+    "currency": "USD",
+    "longPosition": 50000000,
+    "shortPosition": 30000000,
+    "netExposure": 20000000,
+    "netExposureGBP": 15800000,
+    "dailyLimit": 100000000,
+    "utilizationPercent": 20.0,
+    "asOfDate": "2024-01-31T23:59:59Z"
+  },
+  {
+    "exposureId": "fe000002-1111-1111-1111-000000000002",
+    "currency": "EUR",
+    "longPosition": 100000000,
+    "shortPosition": 60000000,
+    "netExposure": 40000000,
+    "netExposureGBP": 31600000,
+    "dailyLimit": 200000000,
+    "utilizationPercent": 20.0,
+    "asOfDate": "2024-01-31T23:59:59Z"
+  },
+  {
+    "exposureId": "fe000003-1111-1111-1111-000000000003",
+    "currency": "CHF",
+    "longPosition": 150000000,
+    "shortPosition": 90000000,
+    "netExposure": 60000000,
+    "netExposureGBP": 47400000,
+    "dailyLimit": 300000000,
+    "utilizationPercent": 20.0,
+    "asOfDate": "2024-01-31T23:59:59Z"
+  },
+  {
+    "exposureId": "fe000004-1111-1111-1111-000000000004",
+    "currency": "JPY",
+    "longPosition": 200000000,
+    "shortPosition": 120000000,
+    "netExposure": 80000000,
+    "netExposureGBP": 63200000,
+    "dailyLimit": 400000000,
+    "utilizationPercent": 20.0,
+    "asOfDate": "2024-01-31T23:59:59Z"
+  },
+  {
+    "exposureId": "fe000005-1111-1111-1111-000000000005",
+    "currency": "AUD",
+    "longPosition": 250000000,
+    "shortPosition": 150000000,
+    "netExposure": 100000000,
+    "netExposureGBP": 79000000,
+    "dailyLimit": 500000000,
+    "utilizationPercent": 20.0,
+    "asOfDate": "2024-01-31T23:59:59Z"
+  },
+  {
+    "exposureId": "fe000006-1111-1111-1111-000000000006",
+    "currency": "CAD",
+    "longPosition": 300000000,
+    "shortPosition": 180000000,
+    "netExposure": 120000000,
+    "netExposureGBP": 94800000,
+    "dailyLimit": 600000000,
+    "utilizationPercent": 20.0,
+    "asOfDate": "2024-01-31T23:59:59Z"
+  },
+  {
+    "exposureId": "fe000007-1111-1111-1111-000000000007",
+    "currency": "NOK",
+    "longPosition": 350000000,
+    "shortPosition": 210000000,
+    "netExposure": 140000000,
+    "netExposureGBP": 110600000,
+    "dailyLimit": 700000000,
+    "utilizationPercent": 20.0,
+    "asOfDate": "2024-01-31T23:59:59Z"
+  },
+  {
+    "exposureId": "fe000008-1111-1111-1111-000000000008",
+    "currency": "SEK",
+    "longPosition": 400000000,
+    "shortPosition": 240000000,
+    "netExposure": 160000000,
+    "netExposureGBP": 126400000,
+    "dailyLimit": 800000000,
+    "utilizationPercent": 20.0,
+    "asOfDate": "2024-01-31T23:59:59Z"
+  },
+  {
+    "exposureId": "fe000009-1111-1111-1111-000000000009",
+    "currency": "DKK",
+    "longPosition": 450000000,
+    "shortPosition": 270000000,
+    "netExposure": 180000000,
+    "netExposureGBP": 142200000,
+    "dailyLimit": 900000000,
+    "utilizationPercent": 20.0,
+    "asOfDate": "2024-01-31T23:59:59Z"
+  },
+  {
+    "exposureId": "fe000010-1111-1111-1111-000000000010",
+    "currency": "PLN",
+    "longPosition": 500000000,
+    "shortPosition": 300000000,
+    "netExposure": 200000000,
+    "netExposureGBP": 158000000,
+    "dailyLimit": 1000000000,
+    "utilizationPercent": 20.0,
+    "asOfDate": "2024-01-31T23:59:59Z"
+  },
+  {
+    "exposureId": "fe000011-1111-1111-1111-000000000011",
+    "currency": "SGD",
+    "longPosition": 550000000,
+    "shortPosition": 330000000,
+    "netExposure": 220000000,
+    "netExposureGBP": 173800000,
+    "dailyLimit": 1100000000,
+    "utilizationPercent": 20.0,
+    "asOfDate": "2024-01-31T23:59:59Z"
+  },
+  {
+    "exposureId": "fe000012-1111-1111-1111-000000000012",
+    "currency": "HKD",
+    "longPosition": 600000000,
+    "shortPosition": 360000000,
+    "netExposure": 240000000,
+    "netExposureGBP": 189600000,
+    "dailyLimit": 1200000000,
+    "utilizationPercent": 20.0,
+    "asOfDate": "2024-01-31T23:59:59Z"
+  }
+]

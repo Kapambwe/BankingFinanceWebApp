@@ -1,0 +1,163 @@
+[
+  {
+    "userId": "5b24f932-ccac-4cc2-b76f-809efa6e6fb9",
+    "email": "admin.microfinance",
+    "username": "admin.microfinance",
+    "firstName": "Microfinance",
+    "lastName": "Admin",
+    "institutionType": "Microfinance",
+    "institutionName": "Vision Fund Namibia",
+    "institutionId": "332e22d5-63a1-4b5a-a47c-6f3d5823d612",
+    "roles": [
+      "MicrofinanceAdmin"
+    ],
+    "permissions": [],
+    "isActive": true,
+    "isEmailVerified": true,
+    "isPhoneVerified": true,
+    "isIdentityVerified": true,
+    "trustScore": 95,
+    "createdAt": "2023-02-09T00:00:00Z",
+    "phoneNumber": "+260977000000",
+    "gender": "Other",
+    "nationality": "Zambian"
+  },
+  {
+    "userId": "30158cee-8e47-4cc1-8f09-7dca36fe244e",
+    "email": "branchmanager.microfinance",
+    "username": "branchmanager.microfinance",
+    "firstName": "MFI Branch",
+    "lastName": "Manager",
+    "institutionType": "Microfinance",
+    "institutionName": "Vision Fund Namibia",
+    "institutionId": "332e22d5-63a1-4b5a-a47c-6f3d5823d612",
+    "roles": [
+      "MFIBranchManager"
+    ],
+    "permissions": [],
+    "isActive": true,
+    "isEmailVerified": true,
+    "isPhoneVerified": true,
+    "isIdentityVerified": true,
+    "trustScore": 95,
+    "createdAt": "2023-02-09T00:00:00Z",
+    "phoneNumber": "+260977000000",
+    "gender": "Other",
+    "nationality": "Zambian"
+  },
+  {
+    "userId": "7b5b1eb3-3c79-4747-998e-9fd5e929ffe9",
+    "email": "loanofficer.microfinance",
+    "username": "loanofficer.microfinance",
+    "firstName": "MFI Loan",
+    "lastName": "Officer",
+    "institutionType": "Microfinance",
+    "institutionName": "Vision Fund Namibia",
+    "institutionId": "332e22d5-63a1-4b5a-a47c-6f3d5823d612",
+    "roles": [
+      "MFILoanOfficer"
+    ],
+    "permissions": [],
+    "isActive": true,
+    "isEmailVerified": true,
+    "isPhoneVerified": true,
+    "isIdentityVerified": true,
+    "trustScore": 95,
+    "createdAt": "2023-02-09T00:00:00Z",
+    "phoneNumber": "+260977000000",
+    "gender": "Other",
+    "nationality": "Zambian"
+  },
+  {
+    "userId": "80d16a15-636b-47e3-972e-f2eba4ac17bb",
+    "email": "grouplending.microfinance",
+    "username": "grouplending.microfinance",
+    "firstName": "Group Lending",
+    "lastName": "Officer",
+    "institutionType": "Microfinance",
+    "institutionName": "Vision Fund Namibia",
+    "institutionId": "332e22d5-63a1-4b5a-a47c-6f3d5823d612",
+    "roles": [
+      "GroupLendingOfficer"
+    ],
+    "permissions": [],
+    "isActive": true,
+    "isEmailVerified": true,
+    "isPhoneVerified": true,
+    "isIdentityVerified": true,
+    "trustScore": 95,
+    "createdAt": "2023-02-09T00:00:00Z",
+    "phoneNumber": "+260977000000",
+    "gender": "Other",
+    "nationality": "Zambian"
+  },
+  {
+    "userId": "ba1187e1-a5b9-47db-a085-44c467aff1e1",
+    "email": "fieldofficer.microfinance",
+    "username": "fieldofficer.microfinance",
+    "firstName": "Field",
+    "lastName": "Officer",
+    "institutionType": "Microfinance",
+    "institutionName": "Vision Fund Namibia",
+    "institutionId": "332e22d5-63a1-4b5a-a47c-6f3d5823d612",
+    "roles": [
+      "FieldOfficer"
+    ],
+    "permissions": [],
+    "isActive": true,
+    "isEmailVerified": true,
+    "isPhoneVerified": true,
+    "isIdentityVerified": true,
+    "trustScore": 95,
+    "createdAt": "2023-02-09T00:00:00Z",
+    "phoneNumber": "+260977000000",
+    "gender": "Other",
+    "nationality": "Zambian"
+  },
+  {
+    "userId": "6da285dc-0966-4151-83ba-f727c889d3ad",
+    "email": "savingsteller.microfinance",
+    "username": "savingsteller.microfinance",
+    "firstName": "Savings",
+    "lastName": "Teller",
+    "institutionType": "Microfinance",
+    "institutionName": "Vision Fund Namibia",
+    "institutionId": "332e22d5-63a1-4b5a-a47c-6f3d5823d612",
+    "roles": [
+      "SavingsTeller"
+    ],
+    "permissions": [],
+    "isActive": true,
+    "isEmailVerified": true,
+    "isPhoneVerified": true,
+    "isIdentityVerified": true,
+    "trustScore": 95,
+    "createdAt": "2023-02-09T00:00:00Z",
+    "phoneNumber": "+260977000000",
+    "gender": "Other",
+    "nationality": "Zambian"
+  },
+  {
+    "userId": "571dbcab-5a39-43ae-becb-7d1581972518",
+    "email": "socialperformance.microfinance",
+    "username": "socialperformance.microfinance",
+    "firstName": "Social Performance",
+    "lastName": "Officer",
+    "institutionType": "Microfinance",
+    "institutionName": "Vision Fund Namibia",
+    "institutionId": "332e22d5-63a1-4b5a-a47c-6f3d5823d612",
+    "roles": [
+      "SocialPerformanceOfficer"
+    ],
+    "permissions": [],
+    "isActive": true,
+    "isEmailVerified": true,
+    "isPhoneVerified": true,
+    "isIdentityVerified": true,
+    "trustScore": 95,
+    "createdAt": "2023-02-09T00:00:00Z",
+    "phoneNumber": "+260977000000",
+    "gender": "Other",
+    "nationality": "Zambian"
+  }
+]

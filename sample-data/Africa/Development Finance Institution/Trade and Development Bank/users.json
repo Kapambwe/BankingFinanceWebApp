@@ -1,0 +1,163 @@
+[
+  {
+    "userId": "b1e7d9f8-857e-4ad3-9528-8298da5c5595",
+    "email": "admin.government",
+    "username": "admin.government",
+    "firstName": "Government",
+    "lastName": "Admin",
+    "institutionType": "Development Finance Institution",
+    "institutionName": "Trade and Development Bank",
+    "institutionId": "tdb-0001-9f7a-3b8c-6d7e8f9a0b1c",
+    "roles": [
+      "GovernmentAdmin"
+    ],
+    "permissions": [],
+    "isActive": true,
+    "isEmailVerified": true,
+    "isPhoneVerified": true,
+    "isIdentityVerified": true,
+    "trustScore": 95,
+    "createdAt": "1985-11-06T00:00:00Z",
+    "phoneNumber": "+260977000000",
+    "gender": "Other",
+    "nationality": "Zambian"
+  },
+  {
+    "userId": "f6df8243-1dd9-43c0-9a00-98b666eb6ae9",
+    "email": "projectfinance.government",
+    "username": "projectfinance.government",
+    "firstName": "Project Finance",
+    "lastName": "Manager",
+    "institutionType": "Development Finance Institution",
+    "institutionName": "Trade and Development Bank",
+    "institutionId": "tdb-0001-9f7a-3b8c-6d7e8f9a0b1c",
+    "roles": [
+      "ProjectFinanceManager"
+    ],
+    "permissions": [],
+    "isActive": true,
+    "isEmailVerified": true,
+    "isPhoneVerified": true,
+    "isIdentityVerified": true,
+    "trustScore": 95,
+    "createdAt": "1985-11-06T00:00:00Z",
+    "phoneNumber": "+260977000000",
+    "gender": "Other",
+    "nationality": "Zambian"
+  },
+  {
+    "userId": "001177b5-6d01-409a-ae58-ad232d76e4ee",
+    "email": "loansclerk.government",
+    "username": "loansclerk.government",
+    "firstName": "Loans",
+    "lastName": "Clerk",
+    "institutionType": "Development Finance Institution",
+    "institutionName": "Trade and Development Bank",
+    "institutionId": "tdb-0001-9f7a-3b8c-6d7e8f9a0b1c",
+    "roles": [
+      "LoansClerk"
+    ],
+    "permissions": [],
+    "isActive": true,
+    "isEmailVerified": true,
+    "isPhoneVerified": true,
+    "isIdentityVerified": true,
+    "trustScore": 95,
+    "createdAt": "1985-11-06T00:00:00Z",
+    "phoneNumber": "+260977000000",
+    "gender": "Other",
+    "nationality": "Zambian"
+  },
+  {
+    "userId": "ca5457f2-28b2-4495-b157-0e2965377348",
+    "email": "socialprotection.government",
+    "username": "socialprotection.government",
+    "firstName": "Social Protection",
+    "lastName": "Officer",
+    "institutionType": "Development Finance Institution",
+    "institutionName": "Trade and Development Bank",
+    "institutionId": "tdb-0001-9f7a-3b8c-6d7e8f9a0b1c",
+    "roles": [
+      "SocialProtectionOfficer"
+    ],
+    "permissions": [],
+    "isActive": true,
+    "isEmailVerified": true,
+    "isPhoneVerified": true,
+    "isIdentityVerified": true,
+    "trustScore": 95,
+    "createdAt": "1985-11-06T00:00:00Z",
+    "phoneNumber": "+260977000000",
+    "gender": "Other",
+    "nationality": "Zambian"
+  },
+  {
+    "userId": "078ca9f7-e986-4c18-bddc-74606dc92862",
+    "email": "me.government",
+    "username": "me.government",
+    "firstName": "M&E",
+    "lastName": "Officer",
+    "institutionType": "Development Finance Institution",
+    "institutionName": "Trade and Development Bank",
+    "institutionId": "tdb-0001-9f7a-3b8c-6d7e8f9a0b1c",
+    "roles": [
+      "MEOfficer"
+    ],
+    "permissions": [],
+    "isActive": true,
+    "isEmailVerified": true,
+    "isPhoneVerified": true,
+    "isIdentityVerified": true,
+    "trustScore": 95,
+    "createdAt": "1985-11-06T00:00:00Z",
+    "phoneNumber": "+260977000000",
+    "gender": "Other",
+    "nationality": "Zambian"
+  },
+  {
+    "userId": "6791cfda-bf34-4312-b58c-ceadcdb6ae2e",
+    "email": "procurement.government",
+    "username": "procurement.government",
+    "firstName": "Procurement",
+    "lastName": "Officer",
+    "institutionType": "Development Finance Institution",
+    "institutionName": "Trade and Development Bank",
+    "institutionId": "tdb-0001-9f7a-3b8c-6d7e8f9a0b1c",
+    "roles": [
+      "ProcurementOfficer"
+    ],
+    "permissions": [],
+    "isActive": true,
+    "isEmailVerified": true,
+    "isPhoneVerified": true,
+    "isIdentityVerified": true,
+    "trustScore": 95,
+    "createdAt": "1985-11-06T00:00:00Z",
+    "phoneNumber": "+260977000000",
+    "gender": "Other",
+    "nationality": "Zambian"
+  },
+  {
+    "userId": "ab026bf1-cb73-4aec-8897-9d6e13d184f8",
+    "email": "financeclerk.government",
+    "username": "financeclerk.government",
+    "firstName": "Finance",
+    "lastName": "Clerk",
+    "institutionType": "Development Finance Institution",
+    "institutionName": "Trade and Development Bank",
+    "institutionId": "tdb-0001-9f7a-3b8c-6d7e8f9a0b1c",
+    "roles": [
+      "GovernmentFinanceClerk"
+    ],
+    "permissions": [],
+    "isActive": true,
+    "isEmailVerified": true,
+    "isPhoneVerified": true,
+    "isIdentityVerified": true,
+    "trustScore": 95,
+    "createdAt": "1985-11-06T00:00:00Z",
+    "phoneNumber": "+260977000000",
+    "gender": "Other",
+    "nationality": "Zambian"
+  }
+]

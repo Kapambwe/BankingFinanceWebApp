@@ -1,0 +1,140 @@
+[
+  {
+    "userId": "ff58cdfe-7111-417d-b820-80b180648b27",
+    "email": "admin.mortgage",
+    "username": "admin.mortgage",
+    "firstName": "Mortgage",
+    "lastName": "Admin",
+    "institutionType": "Mortgage Company",
+    "institutionName": "Cavmont Bank Mortgage",
+    "institutionId": "deacc4ab-c9ce-4166-bab9-02318673a105",
+    "roles": [
+      "MortgageAdmin"
+    ],
+    "permissions": [],
+    "isActive": true,
+    "isEmailVerified": true,
+    "isPhoneVerified": true,
+    "isIdentityVerified": true,
+    "trustScore": 95,
+    "createdAt": "2024-11-05T00:00:00Z",
+    "phoneNumber": "+260977000000",
+    "gender": "Other",
+    "nationality": "Zambian"
+  },
+  {
+    "userId": "7b3819c1-b81d-450b-a569-34894eb85ab5",
+    "email": "mortgagemanager.mortgage",
+    "username": "mortgagemanager.mortgage",
+    "firstName": "Mortgage",
+    "lastName": "Manager",
+    "institutionType": "Mortgage Company",
+    "institutionName": "Cavmont Bank Mortgage",
+    "institutionId": "deacc4ab-c9ce-4166-bab9-02318673a105",
+    "roles": [
+      "MortgageManager"
+    ],
+    "permissions": [],
+    "isActive": true,
+    "isEmailVerified": true,
+    "isPhoneVerified": true,
+    "isIdentityVerified": true,
+    "trustScore": 95,
+    "createdAt": "2024-11-05T00:00:00Z",
+    "phoneNumber": "+260977000000",
+    "gender": "Other",
+    "nationality": "Zambian"
+  },
+  {
+    "userId": "392309d7-0f05-4682-9f30-409a6d0f7bb4",
+    "email": "loanofficer.mortgage",
+    "username": "loanofficer.mortgage",
+    "firstName": "Mortgage Loan",
+    "lastName": "Officer",
+    "institutionType": "Mortgage Company",
+    "institutionName": "Cavmont Bank Mortgage",
+    "institutionId": "deacc4ab-c9ce-4166-bab9-02318673a105",
+    "roles": [
+      "MortgageLoanOfficer"
+    ],
+    "permissions": [],
+    "isActive": true,
+    "isEmailVerified": true,
+    "isPhoneVerified": true,
+    "isIdentityVerified": true,
+    "trustScore": 95,
+    "createdAt": "2024-11-05T00:00:00Z",
+    "phoneNumber": "+260977000000",
+    "gender": "Other",
+    "nationality": "Zambian"
+  },
+  {
+    "userId": "1db96b22-2d35-4fc0-a00b-bf5b0bbf3857",
+    "email": "valuation.mortgage",
+    "username": "valuation.mortgage",
+    "firstName": "Valuation",
+    "lastName": "Officer",
+    "institutionType": "Mortgage Company",
+    "institutionName": "Cavmont Bank Mortgage",
+    "institutionId": "deacc4ab-c9ce-4166-bab9-02318673a105",
+    "roles": [
+      "ValuationOfficer"
+    ],
+    "permissions": [],
+    "isActive": true,
+    "isEmailVerified": true,
+    "isPhoneVerified": true,
+    "isIdentityVerified": true,
+    "trustScore": 95,
+    "createdAt": "2024-11-05T00:00:00Z",
+    "phoneNumber": "+260977000000",
+    "gender": "Other",
+    "nationality": "Zambian"
+  },
+  {
+    "userId": "916f1612-56dc-47ec-b03f-31f99a689234",
+    "email": "collections.mortgage",
+    "username": "collections.mortgage",
+    "firstName": "Collections",
+    "lastName": "Officer",
+    "institutionType": "Mortgage Company",
+    "institutionName": "Cavmont Bank Mortgage",
+    "institutionId": "deacc4ab-c9ce-4166-bab9-02318673a105",
+    "roles": [
+      "CollectionsOfficer"
+    ],
+    "permissions": [],
+    "isActive": true,
+    "isEmailVerified": true,
+    "isPhoneVerified": true,
+    "isIdentityVerified": true,
+    "trustScore": 95,
+    "createdAt": "2024-11-05T00:00:00Z",
+    "phoneNumber": "+260977000000",
+    "gender": "Other",
+    "nationality": "Zambian"
+  },
+  {
+    "userId": "16df8b1f-420b-4d5c-aca0-1d26ee8f5355",
+    "email": "compliance.mortgage",
+    "username": "compliance.mortgage",
+    "firstName": "Mortgage Compliance",
+    "lastName": "Officer",
+    "institutionType": "Mortgage Company",
+    "institutionName": "Cavmont Bank Mortgage",
+    "institutionId": "deacc4ab-c9ce-4166-bab9-02318673a105",
+    "roles": [
+      "MortgageComplianceOfficer"
+    ],
+    "permissions": [],
+    "isActive": true,
+    "isEmailVerified": true,
+    "isPhoneVerified": true,
+    "isIdentityVerified": true,
+    "trustScore": 95,
+    "createdAt": "2024-11-05T00:00:00Z",
+    "phoneNumber": "+260977000000",
+    "gender": "Other",
+    "nationality": "Zambian"
+  }
+]

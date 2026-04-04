@@ -1,0 +1,44 @@
+[
+  {
+    "creditId": "cc300000-0001",
+    "creditType": "Verified Carbon Unit",
+    "projectName": "South Africa Healthcare Facility Solar Initiative",
+    "projectLocation": "Pretoria",
+    "vintageYear": 2024,
+    "creditsAmount": 500,
+    "creditValue": 1025.0,
+    "currency": "ZAR",
+    "certificationBody": "Verra",
+    "status": "Active",
+    "expiryDate": "2034-12-31",
+    "createdAt": "2024-06-01T00:00:00Z"
+  },
+  {
+    "creditId": "cc300000-0002",
+    "creditType": "Gold Standard Credit",
+    "projectName": "South Africa Clean Cooking for Health Workers",
+    "projectLocation": "South Africa",
+    "vintageYear": 2024,
+    "creditsAmount": 250,
+    "creditValue": 615.0,
+    "currency": "ZAR",
+    "certificationBody": "Gold Standard",
+    "status": "Active",
+    "expiryDate": "2034-12-31",
+    "createdAt": "2024-09-01T00:00:00Z"
+  },
+  {
+    "creditId": "cc300000-0003",
+    "creditType": "REDD+ Credit",
+    "projectName": "South Africa Forest Conservation Health Buffer Zone",
+    "projectLocation": "Southern Africa",
+    "vintageYear": 2023,
+    "creditsAmount": 1000,
+    "creditValue": 1640.0,
+    "currency": "ZAR",
+    "certificationBody": "Verra",
+    "status": "Retired",
+    "expiryDate": "2033-12-31",
+    "createdAt": "2023-12-01T00:00:00Z"
+  }
+]

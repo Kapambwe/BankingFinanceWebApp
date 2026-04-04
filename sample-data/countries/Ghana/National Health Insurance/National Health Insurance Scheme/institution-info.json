@@ -1,0 +1,17 @@
+{
+  "institutionId": "22200000-0000-0000-0000-000000000002",
+  "registrationNumber": "REG-NHIS-2003",
+  "institutionType": "National Health Insurance",
+  "institutionName": "National Health Insurance Scheme",
+  "country": "Ghana",
+  "currency": "GHS",
+  "established": 2003,
+  "headquarters": "Accra",
+  "employees": 2800,
+  "branches": 110,
+  "status": "Active",
+  "contactEmail": "info@nhis.gov.gh",
+  "contactPhone": "+233-30-2680100",
+  "website": "https://www.nhis.gov.gh",
+  "createdAt": "2025-01-01T00:00:00Z"
+}

@@ -1,0 +1,44 @@
+[
+  {
+    "incidentId": "ic100000-0001-0000-0000-0000000001001",
+    "incidentNumber": "INC-1-2025-001",
+    "incidentType": "IT Security Breach Attempt",
+    "reportedBy": "Mwansa Musonda",
+    "employeeId": "e1000000-0004-0000-0000-0000000001004",
+    "incidentDate": "2025-03-15",
+    "location": "Lusaka",
+    "severity": "High",
+    "status": "Resolved",
+    "actionTaken": "Security audit conducted",
+    "closedDate": "2025-04-01",
+    "createdAt": "2025-03-15T00:00:00Z"
+  },
+  {
+    "incidentId": "ic100000-0002-0000-0000-0000000001002",
+    "incidentNumber": "INC-1-2025-002",
+    "incidentType": "Workplace Injury",
+    "reportedBy": "Chileshe Nkosi",
+    "employeeId": "e1000000-0005-0000-0000-0000000001005",
+    "incidentDate": "2025-04-16",
+    "location": "Lusaka",
+    "severity": "Medium",
+    "status": "Under Investigation",
+    "actionTaken": "Medical treatment provided",
+    "closedDate": null,
+    "createdAt": "2025-04-16T00:00:00Z"
+  },
+  {
+    "incidentId": "ic100000-0003-0000-0000-0000000001003",
+    "incidentNumber": "INC-1-2025-003",
+    "incidentType": "Data Privacy Concern",
+    "reportedBy": "Lubinda Phiri",
+    "employeeId": "e1000000-0006-0000-0000-0000000001006",
+    "incidentDate": "2025-05-17",
+    "location": "Lusaka",
+    "severity": "High",
+    "status": "Closed",
+    "actionTaken": "Data breach notification issued",
+    "closedDate": "2025-06-01",
+    "createdAt": "2025-05-17T00:00:00Z"
+  }
+]

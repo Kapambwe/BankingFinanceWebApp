@@ -1,0 +1,72 @@
+[
+  {
+    "checklistId": "onb00001-0001-0001-0001-000000000001",
+    "employeeId": "a1b2c3d4-0001-0001-0001-000000000003",
+    "employeeName": "João Oliveira",
+    "hireDate": "2020-01-15",
+    "tasks": [
+      {
+        "taskName": "Assinar contrato CLT",
+        "completed": true,
+        "completedDate": "2020-01-15"
+      },
+      {
+        "taskName": "Configurar laptop Nubank",
+        "completed": true,
+        "completedDate": "2020-01-16"
+      },
+      {
+        "taskName": "Treinamento AML obrigatório",
+        "completed": true,
+        "completedDate": "2020-01-20"
+      },
+      {
+        "taskName": "Tour pelo escritório",
+        "completed": true,
+        "completedDate": "2020-01-16"
+      },
+      {
+        "taskName": "Acesso a sistemas internos",
+        "completed": true,
+        "completedDate": "2020-01-17"
+      }
+    ],
+    "overallStatus": "Completed",
+    "completionPercentage": 100.0
+  },
+  {
+    "checklistId": "onb00001-0001-0001-0001-000000000002",
+    "employeeId": "a1b2c3d4-0001-0001-0001-000000000004",
+    "employeeName": "Maria Souza",
+    "hireDate": "2022-05-01",
+    "tasks": [
+      {
+        "taskName": "Assinar contrato CLT",
+        "completed": true,
+        "completedDate": "2022-05-01"
+      },
+      {
+        "taskName": "Configurar laptop Nubank",
+        "completed": true,
+        "completedDate": "2022-05-02"
+      },
+      {
+        "taskName": "Treinamento AML obrigatório",
+        "completed": true,
+        "completedDate": "2022-05-10"
+      },
+      {
+        "taskName": "Treinamento LGPD",
+        "completed": true,
+        "completedDate": "2022-05-12"
+      },
+      {
+        "taskName": "Badge de acesso físico",
+        "completed": true,
+        "completedDate": "2022-05-01"
+      }
+    ],
+    "overallStatus": "Completed",
+    "completionPercentage": 100.0
+  }
+]

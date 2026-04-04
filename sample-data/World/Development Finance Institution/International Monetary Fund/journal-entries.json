@@ -1,0 +1,7 @@
+[
+  {"entryId":"IMF-JE-001","date":"2025-08-20T00:00:00Z","description":"ECF Disbursement - Ghana Third Review","debitAccount":"1200","creditAccount":"1000","amount":575000000.00,"currency":"SDR","status":"Posted"},
+  {"entryId":"IMF-JE-002","date":"2025-09-30T00:00:00Z","description":"ECF Repurchase Received - Zambia","debitAccount":"1000","creditAccount":"1200","amount":120000000.00,"currency":"SDR","status":"Posted"},
+  {"entryId":"IMF-JE-003","date":"2025-10-15T00:00:00Z","description":"ECF Disbursement - Ethiopia First Review","debitAccount":"1200","creditAccount":"1000","amount":687500000.00,"currency":"SDR","status":"Posted"},
+  {"entryId":"IMF-JE-004","date":"2025-12-01T00:00:00Z","description":"ECF Repurchase Received - Ghana Semi-Annual","debitAccount":"1000","creditAccount":"1200","amount":200000000.00,"currency":"SDR","status":"Posted"},
+  {"entryId":"IMF-JE-005","date":"2025-12-31T00:00:00Z","description":"Charges on Credit Outstanding Accrual - Q4 2025","debitAccount":"1400","creditAccount":"4000","amount":1200000000.00,"currency":"SDR","status":"Posted"}
+]

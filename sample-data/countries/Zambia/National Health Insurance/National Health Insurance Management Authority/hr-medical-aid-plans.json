@@ -1,0 +1,44 @@
+[
+  {
+    "planId": "ma100000-0001-0000-0000-0000000001001",
+    "planName": "Madison Life Insurance Basic Plan",
+    "provider": "Madison Life Insurance",
+    "tierLevel": "Basic",
+    "coverageType": "Individual",
+    "description": "Basic cover",
+    "monthlyPremium": 565,
+    "employerContribution": 339,
+    "employeeContribution": 226,
+    "currency": "ZMW",
+    "isActive": true,
+    "createdAt": "2025-01-01T00:00:00Z"
+  },
+  {
+    "planId": "ma100000-0002-0000-0000-0000000001002",
+    "planName": "Unitrust Insurance Standard Plan",
+    "provider": "Unitrust Insurance",
+    "tierLevel": "Standard",
+    "coverageType": "Individual + Spouse",
+    "description": "Standard cover",
+    "monthlyPremium": 904,
+    "employerContribution": 542,
+    "employeeContribution": 361,
+    "currency": "ZMW",
+    "isActive": true,
+    "createdAt": "2025-01-01T00:00:00Z"
+  },
+  {
+    "planId": "ma100000-0003-0000-0000-0000000001003",
+    "planName": "Zambia State Insurance Corporation Premium Plan",
+    "provider": "Zambia State Insurance Corporation",
+    "tierLevel": "Premium",
+    "coverageType": "Family",
+    "description": "Comprehensive cover",
+    "monthlyPremium": 1356,
+    "employerContribution": 813,
+    "employeeContribution": 542,
+    "currency": "ZMW",
+    "isActive": true,
+    "createdAt": "2025-01-01T00:00:00Z"
+  }
+]

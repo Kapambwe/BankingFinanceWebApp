@@ -1,0 +1,41 @@
+[
+  {
+    "orderId": "co400000-0001",
+    "creditId": "cc400000-0001",
+    "orderType": "Buy",
+    "projectName": "Nigeria Healthcare Facility Solar Initiative",
+    "creditsOrdered": 300,
+    "pricePerCredit": 20.8,
+    "totalAmount": 6240.0,
+    "currency": "NGN",
+    "orderDate": "2024-06-15",
+    "status": "Completed",
+    "createdAt": "2024-06-15T00:00:00Z"
+  },
+  {
+    "orderId": "co400000-0002",
+    "creditId": "cc400000-0002",
+    "orderType": "Buy",
+    "projectName": "Nigeria Clean Cooking for Health Workers",
+    "creditsOrdered": 150,
+    "pricePerCredit": 24.96,
+    "totalAmount": 3744.0,
+    "currency": "NGN",
+    "orderDate": "2024-09-15",
+    "status": "Pending",
+    "createdAt": "2024-09-15T00:00:00Z"
+  },
+  {
+    "orderId": "co400000-0003",
+    "creditId": "cc400000-0003",
+    "orderType": "Retire",
+    "projectName": "Nigeria Forest Conservation Health Buffer Zone",
+    "creditsOrdered": 1000,
+    "pricePerCredit": 16.64,
+    "totalAmount": 16640.0,
+    "currency": "NGN",
+    "orderDate": "2023-12-15",
+    "status": "Completed",
+    "createdAt": "2023-12-15T00:00:00Z"
+  }
+]

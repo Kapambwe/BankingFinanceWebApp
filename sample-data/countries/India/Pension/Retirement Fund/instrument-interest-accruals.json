@@ -1,0 +1,68 @@
+[
+  {
+    "instrumentId": "LOAN-001",
+    "instrumentReference": "Rajesh \u2014 Retirement Fund",
+    "instrumentType": "Loan",
+    "outstandingBalance": 435000000.0,
+    "nominalRate": 0.095,
+    "effectiveInterestRate": 0.095,
+    "accruedAmount": 113219.18,
+    "accrualDate": "2026-02-28T00:00:00Z",
+    "journalEntryId": null
+  },
+  {
+    "instrumentId": "LOAN-002",
+    "instrumentReference": "SME Loan \u2014 Amit Trading Ltd",
+    "instrumentType": "Loan",
+    "outstandingBalance": 1740000000.0,
+    "nominalRate": 0.085,
+    "effectiveInterestRate": 0.085,
+    "accruedAmount": 405205.48,
+    "accrualDate": "2026-02-28T00:00:00Z",
+    "journalEntryId": null
+  },
+  {
+    "instrumentId": "DEP-001",
+    "instrumentReference": "Fixed Deposit \u2014 Sanjay Savings Group",
+    "instrumentType": "Deposit",
+    "outstandingBalance": 4350000000.0,
+    "nominalRate": 0.07,
+    "effectiveInterestRate": 0.07,
+    "accruedAmount": 834246.58,
+    "accrualDate": "2026-02-28T00:00:00Z",
+    "journalEntryId": null
+  },
+  {
+    "instrumentId": "LOAN-003",
+    "instrumentReference": "Mortgage \u2014 Sanjay",
+    "instrumentType": "Loan",
+    "outstandingBalance": 696000000.0,
+    "nominalRate": 0.09,
+    "effectiveInterestRate": 0.09,
+    "accruedAmount": 171616.44,
+    "accrualDate": "2026-02-28T00:00:00Z",
+    "journalEntryId": null
+  },
+  {
+    "instrumentId": "DEP-002",
+    "instrumentReference": "Call Deposit \u2014 Retirement Fund Fund",
+    "instrumentType": "Deposit",
+    "outstandingBalance": 1305000000.0,
+    "nominalRate": 0.065,
+    "effectiveInterestRate": 0.065,
+    "accruedAmount": 232397.26,
+    "accrualDate": "2026-02-28T00:00:00Z",
+    "journalEntryId": null
+  },
+  {
+    "instrumentId": "LOAN-004",
+    "instrumentReference": "Corporate Bond \u2014 Retirement Fund",
+    "instrumentType": "Loan",
+    "outstandingBalance": 2610000000.0,
+    "nominalRate": 0.1,
+    "effectiveInterestRate": 0.1,
+    "accruedAmount": 715068.49,
+    "accrualDate": "2026-02-28T00:00:00Z",
+    "journalEntryId": null
+  }
+]

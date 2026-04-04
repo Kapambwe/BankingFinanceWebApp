@@ -1,0 +1,186 @@
+[
+  {
+    "journalEntryId": "je500000-0001-0000-0000-0000000005001",
+    "reference": "JE-2025-001",
+    "description": "Member Contribution Receipt",
+    "entryDate": "2025-10-31",
+    "status": "Posted",
+    "totalAmount": 6735.0,
+    "currency": "KES",
+    "lines": [
+      {
+        "accountCode": "1001",
+        "debit": 6735.0,
+        "credit": 0
+      },
+      {
+        "accountCode": "4001",
+        "debit": 0,
+        "credit": 6735.0
+      }
+    ],
+    "createdBy": "Wanjiku Otieno",
+    "createdAt": "2025-10-31T00:00:00Z"
+  },
+  {
+    "journalEntryId": "je500000-0002-0000-0000-0000000005002",
+    "reference": "JE-2025-002",
+    "description": "Claims Disbursement to Providers",
+    "entryDate": "2025-10-31",
+    "status": "Posted",
+    "totalAmount": 5510.0,
+    "currency": "KES",
+    "lines": [
+      {
+        "accountCode": "5001",
+        "debit": 5510.0,
+        "credit": 0
+      },
+      {
+        "accountCode": "2001",
+        "debit": 0,
+        "credit": 5510.0
+      }
+    ],
+    "createdBy": "Wanjiku Otieno",
+    "createdAt": "2025-10-31T00:00:00Z"
+  },
+  {
+    "journalEntryId": "je500000-0003-0000-0000-0000000005003",
+    "reference": "JE-2025-003",
+    "description": "Government Subvention Receipt",
+    "entryDate": "2025-10-31",
+    "status": "Posted",
+    "totalAmount": 3674.0,
+    "currency": "KES",
+    "lines": [
+      {
+        "accountCode": "1001",
+        "debit": 3674.0,
+        "credit": 0
+      },
+      {
+        "accountCode": "4002",
+        "debit": 0,
+        "credit": 3674.0
+      }
+    ],
+    "createdBy": "Wanjiku Otieno",
+    "createdAt": "2025-10-31T00:00:00Z"
+  },
+  {
+    "journalEntryId": "je500000-0004-0000-0000-0000000005004",
+    "reference": "JE-2025-004",
+    "description": "Monthly Salary Payment",
+    "entryDate": "2025-10-31",
+    "status": "Posted",
+    "totalAmount": 2204.0,
+    "currency": "KES",
+    "lines": [
+      {
+        "accountCode": "5002",
+        "debit": 2204.0,
+        "credit": 0
+      },
+      {
+        "accountCode": "1001",
+        "debit": 0,
+        "credit": 2204.0
+      }
+    ],
+    "createdBy": "Wanjiku Otieno",
+    "createdAt": "2025-10-31T00:00:00Z"
+  },
+  {
+    "journalEntryId": "je500000-0005-0000-0000-0000000005005",
+    "reference": "JE-2025-005",
+    "description": "Employer Contribution Receipt",
+    "entryDate": "2025-10-31",
+    "status": "Posted",
+    "totalAmount": 1224.0,
+    "currency": "KES",
+    "lines": [
+      {
+        "accountCode": "1001",
+        "debit": 1224.0,
+        "credit": 0
+      },
+      {
+        "accountCode": "4003",
+        "debit": 0,
+        "credit": 1224.0
+      }
+    ],
+    "createdBy": "Wanjiku Otieno",
+    "createdAt": "2025-10-31T00:00:00Z"
+  },
+  {
+    "journalEntryId": "je500000-0006-0000-0000-0000000005006",
+    "reference": "JE-2025-006",
+    "description": "Provider Fee Payment",
+    "entryDate": "2025-11-15",
+    "status": "Posted",
+    "totalAmount": 490.0,
+    "currency": "KES",
+    "lines": [
+      {
+        "accountCode": "5004",
+        "debit": 490.0,
+        "credit": 0
+      },
+      {
+        "accountCode": "1001",
+        "debit": 0,
+        "credit": 490.0
+      }
+    ],
+    "createdBy": "Wanjiku Otieno",
+    "createdAt": "2025-11-15T00:00:00Z"
+  },
+  {
+    "journalEntryId": "je500000-0007-0000-0000-0000000005007",
+    "reference": "JE-2025-007",
+    "description": "IT Infrastructure Maintenance",
+    "entryDate": "2025-11-30",
+    "status": "Draft",
+    "totalAmount": 245.0,
+    "currency": "KES",
+    "lines": [
+      {
+        "accountCode": "5003",
+        "debit": 245.0,
+        "credit": 0
+      },
+      {
+        "accountCode": "2002",
+        "debit": 0,
+        "credit": 245.0
+      }
+    ],
+    "createdBy": "Wanjiku Otieno",
+    "createdAt": "2025-11-30T00:00:00Z"
+  },
+  {
+    "journalEntryId": "je500000-0008-0000-0000-0000000005008",
+    "reference": "JE-2025-008",
+    "description": "Investment Income Receipt",
+    "entryDate": "2025-12-31",
+    "status": "Draft",
+    "totalAmount": 612.0,
+    "currency": "KES",
+    "lines": [
+      {
+        "accountCode": "1001",
+        "debit": 612.0,
+        "credit": 0
+      },
+      {
+        "accountCode": "4004",
+        "debit": 0,
+        "credit": 612.0
+      }
+    ],
+    "createdBy": "Wanjiku Otieno",
+    "createdAt": "2025-12-31T00:00:00Z"
+  }
+]

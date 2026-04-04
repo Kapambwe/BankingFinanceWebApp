@@ -1,0 +1,304 @@
+[
+  {
+    "institutionId": "inst1111-1111-1111-1111-111111111111",
+    "institutionName": "LuSE Securities",
+    "role": 1,
+    "country": "Zambia",
+    "authorizedTokenTypes": [
+      9,
+      8,
+      10
+    ],
+    "totalTokensIssued": 3,
+    "totalValueTokenized": 6718750000,
+    "regulatoryLicenseRef": "LUSE-DEALER-DIGITAL-2024-001",
+    "isActive": true,
+    "onboardedDate": "2024-06-01T00:00:00Z"
+  },
+  {
+    "institutionId": "inst2222-2222-2222-2222-222222222222",
+    "institutionName": "Bank of Zambia",
+    "role": 8,
+    "country": "Zambia",
+    "authorizedTokenTypes": [
+      10,
+      1,
+      2
+    ],
+    "totalTokensIssued": 2,
+    "totalValueTokenized": 5180000000,
+    "regulatoryLicenseRef": "BOZ-CENTRAL-BANK-DIGITAL-AUTH",
+    "isActive": true,
+    "onboardedDate": "2024-01-01T00:00:00Z"
+  },
+  {
+    "institutionId": "inst3333-3333-3333-3333-333333333333",
+    "institutionName": "Zambia National Building Society",
+    "role": 0,
+    "country": "Zambia",
+    "authorizedTokenTypes": [
+      3,
+      10
+    ],
+    "totalTokensIssued": 1,
+    "totalValueTokenized": 75000000,
+    "regulatoryLicenseRef": "SEC-ZAMBIA-BANK-DIGITAL-2024-003",
+    "isActive": true,
+    "onboardedDate": "2024-09-01T00:00:00Z"
+  },
+  {
+    "institutionId": "inst4444-4444-4444-4444-444444444444",
+    "institutionName": "Madison Asset Management",
+    "role": 3,
+    "country": "Zambia",
+    "authorizedTokenTypes": [
+      8,
+      10,
+      9
+    ],
+    "totalTokensIssued": 2,
+    "totalValueTokenized": 1895000000,
+    "regulatoryLicenseRef": "SEC-ZAMBIA-ASSET-DIGITAL-2024-005",
+    "isActive": true,
+    "onboardedDate": "2024-10-15T00:00:00Z"
+  },
+  {
+    "institutionId": "inst5555-5555-5555-5555-555555555555",
+    "institutionName": "Citizens Economic Empowerment Commission",
+    "role": 2,
+    "country": "Zambia",
+    "authorizedTokenTypes": [
+      2,
+      4,
+      5
+    ],
+    "totalTokensIssued": 1,
+    "totalValueTokenized": 180000000,
+    "regulatoryLicenseRef": "CEEC-GOVT-DIGITAL-ASSET-2025-001",
+    "isActive": true,
+    "onboardedDate": "2024-11-01T00:00:00Z"
+  },
+  {
+    "institutionId": "inst6666-6666-6666-6666-666666666666",
+    "institutionName": "Zambia National Commercial Bank",
+    "role": 0,
+    "country": "Zambia",
+    "authorizedTokenTypes": [
+      6,
+      0,
+      7
+    ],
+    "totalTokensIssued": 2,
+    "totalValueTokenized": 204750000,
+    "regulatoryLicenseRef": "BOZ-COMM-BANK-DIGITAL-2025-001",
+    "isActive": true,
+    "onboardedDate": "2025-01-01T00:00:00Z"
+  },
+  {
+    "institutionId": "inst7777-7777-7777-7777-777777777777",
+    "institutionName": "NATSAVE",
+    "role": 0,
+    "country": "Zambia",
+    "authorizedTokenTypes": [
+      7,
+      0
+    ],
+    "totalTokensIssued": 1,
+    "totalValueTokenized": 175000000,
+    "regulatoryLicenseRef": "BOZ-NATSAVE-DIGITAL-2024-008",
+    "isActive": true,
+    "onboardedDate": "2024-10-01T00:00:00Z"
+  },
+  {
+    "institutionId": "inst8888-8888-8888-8888-888888888888",
+    "institutionName": "Zambia Commodity Exchange",
+    "role": 1,
+    "country": "Zambia",
+    "authorizedTokenTypes": [
+      0,
+      1,
+      6
+    ],
+    "totalTokensIssued": 2,
+    "totalValueTokenized": 6025000000,
+    "regulatoryLicenseRef": "ZEMA-COMMODITY-EXCHANGE-DIGITAL-2024",
+    "isActive": true,
+    "onboardedDate": "2024-08-01T00:00:00Z"
+  },
+  {
+    "institutionId": "mninst1111-1111-1111-1111-111111111111",
+    "institutionName": "Konkola Copper Mines",
+    "role": 9,
+    "country": "Zambia",
+    "authorizedTokenTypes": [
+      12
+    ],
+    "totalTokensIssued": 1,
+    "totalValueTokenized": 786250000,
+    "regulatoryLicenseRef": "MCTI-COPPER-TOKEN-2025-001",
+    "isActive": true,
+    "onboardedDate": "2025-01-01T00:00:00Z"
+  },
+  {
+    "institutionId": "mninst2222-2222-2222-2222-222222222222",
+    "institutionName": "Glencore Mopani Copper Mines",
+    "role": 9,
+    "country": "Zambia",
+    "authorizedTokenTypes": [
+      12
+    ],
+    "totalTokensIssued": 1,
+    "totalValueTokenized": 1575000000,
+    "regulatoryLicenseRef": "MCTI-COBALT-TOKEN-2025-003",
+    "isActive": true,
+    "onboardedDate": "2025-01-01T00:00:00Z"
+  },
+  {
+    "institutionId": "mninst3333-3333-3333-3333-333333333333",
+    "institutionName": "ZCCM Investment Holdings",
+    "role": 9,
+    "country": "Zambia",
+    "authorizedTokenTypes": [
+      12,
+      10
+    ],
+    "totalTokensIssued": 1,
+    "totalValueTokenized": 1972000000,
+    "regulatoryLicenseRef": "BOZ-GOLD-TOKEN-2025-001",
+    "isActive": true,
+    "onboardedDate": "2024-06-01T00:00:00Z"
+  },
+  {
+    "institutionId": "mninst4444-4444-4444-4444-444444444444",
+    "institutionName": "Zambia Lithium Industries Ltd",
+    "role": 9,
+    "country": "Zambia",
+    "authorizedTokenTypes": [
+      12
+    ],
+    "totalTokensIssued": 1,
+    "totalValueTokenized": 189000000,
+    "regulatoryLicenseRef": "MCTI-LITHIUM-TOKEN-2025-002",
+    "isActive": true,
+    "onboardedDate": "2025-02-01T00:00:00Z"
+  },
+  {
+    "institutionId": "mninst5555-5555-5555-5555-555555555555",
+    "institutionName": "Kagem Mining Limited",
+    "role": 9,
+    "country": "Zambia",
+    "authorizedTokenTypes": [
+      12
+    ],
+    "totalTokensIssued": 1,
+    "totalValueTokenized": 475000000,
+    "regulatoryLicenseRef": "MCTI-EMERALD-TOKEN-2024-001",
+    "isActive": true,
+    "onboardedDate": "2024-09-01T00:00:00Z"
+  },
+  {
+    "institutionId": "mninst6666-6666-6666-6666-666666666666",
+    "institutionName": "Zambia Ministry of Mines & Critical Minerals",
+    "role": 10,
+    "country": "Zambia",
+    "authorizedTokenTypes": [
+      12,
+      4
+    ],
+    "totalTokensIssued": 0,
+    "totalValueTokenized": 0,
+    "regulatoryLicenseRef": "MCTI-REGULATOR-DIGITAL-2025",
+    "isActive": true,
+    "onboardedDate": "2024-01-01T00:00:00Z"
+  },
+  {
+    "institutionId": "mninst7777-7777-7777-7777-777777777777",
+    "institutionName": "Food Reserve Agency",
+    "role": 11,
+    "country": "Zambia",
+    "authorizedTokenTypes": [
+      13,
+      1,
+      0
+    ],
+    "totalTokensIssued": 2,
+    "totalValueTokenized": 2150000,
+    "regulatoryLicenseRef": "FRA-AGRITOKEN-2025-001",
+    "isActive": true,
+    "onboardedDate": "2024-10-01T00:00:00Z"
+  },
+  {
+    "institutionId": "mninst8888-8888-8888-8888-888888888888",
+    "institutionName": "Zambia National Farmers Union",
+    "role": 11,
+    "country": "Zambia",
+    "authorizedTokenTypes": [
+      13,
+      6
+    ],
+    "totalTokensIssued": 1,
+    "totalValueTokenized": 640000,
+    "regulatoryLicenseRef": "ZNFU-AGRITOKEN-2024-002",
+    "isActive": true,
+    "onboardedDate": "2024-08-01T00:00:00Z"
+  },
+  {
+    "institutionId": "loginst1111-1111-1111-1111-111111111111",
+    "institutionName": "TRANSCOM Zambia Ltd",
+    "role": 12,
+    "country": "Zambia",
+    "authorizedTokenTypes": [
+      14
+    ],
+    "totalTokensIssued": 2,
+    "totalValueTokenized": 186000.0,
+    "regulatoryLicenseRef": "RTSA-LOGISTICS-2024-001",
+    "isActive": true,
+    "onboardedDate": "2025-01-15T00:00:00Z"
+  },
+  {
+    "institutionId": "loginst2222-2222-2222-2222-222222222222",
+    "institutionName": "National Milling Company Zambia",
+    "role": 13,
+    "country": "Zambia",
+    "authorizedTokenTypes": [
+      14,
+      6,
+      0
+    ],
+    "totalTokensIssued": 1,
+    "totalValueTokenized": 10200.0,
+    "regulatoryLicenseRef": "ZABS-MILL-2023-001",
+    "isActive": true,
+    "onboardedDate": "2025-02-01T00:00:00Z"
+  },
+  {
+    "institutionId": "loginst3333-3333-3333-3333-333333333333",
+    "institutionName": "Zambia Fertilizer Import Consortium",
+    "role": 12,
+    "country": "Zambia",
+    "authorizedTokenTypes": [
+      14,
+      1
+    ],
+    "totalTokensIssued": 1,
+    "totalValueTokenized": 350000.0,
+    "regulatoryLicenseRef": "MoA-FERT-IMP-2025-001",
+    "isActive": true,
+    "onboardedDate": "2024-11-01T00:00:00Z"
+  },
+  {
+    "institutionId": "loginst4444-4444-4444-4444-444444444444",
+    "institutionName": "MSC Mediterranean Shipping",
+    "role": 12,
+    "country": "Switzerland",
+    "authorizedTokenTypes": [
+      14
+    ],
+    "totalTokensIssued": 1,
+    "totalValueTokenized": 1890000.0,
+    "regulatoryLicenseRef": "IMO-MSC-CARRIER-2024",
+    "isActive": true,
+    "onboardedDate": "2025-01-01T00:00:00Z"
+  }
+]

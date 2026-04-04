@@ -1,0 +1,17 @@
+{
+  "registrationNumber": "REG-89459",
+  "contactEmail": "fincaMorocco@example.zm",
+  "createdAt": "2023-08-03T00:00:00Z",
+  "branches": 8,
+  "institutionType": "Microfinance",
+  "institutionName": "FINCA Morocco",
+  "country": "Morocco",
+  "established": 1980,
+  "employees": 4170,
+  "contactPhone": "+260-953-808905",
+  "headquarters": "Agadir",
+  "institutionId": "4ffe374f-f49d-4a0a-9c26-9bf64d47d25f",
+  "currency": "MAD",
+  "status": "Active",
+  "website": "https://www.fincaMorocco.co.zm"
+}

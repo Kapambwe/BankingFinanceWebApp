@@ -1,0 +1,57 @@
+[
+  {
+    "customerId": "cust1000-0001",
+    "customerNumber": "CUST-1-00001",
+    "customerName": "Ministry of Health Zambia",
+    "customerType": "Government",
+    "email": "info@ministry-of-health-z.zm",
+    "phone": "+260-97-1000100",
+    "country": "Zambia",
+    "status": "Active",
+    "createdAt": "2025-01-01T00:00:00Z"
+  },
+  {
+    "customerId": "cust1000-0002",
+    "customerNumber": "CUST-1-00002",
+    "customerName": "Ministry of Finance Zambia",
+    "customerType": "Government",
+    "email": "info@ministry-of-finance-.zm",
+    "phone": "+260-97-1000100",
+    "country": "Zambia",
+    "status": "Active",
+    "createdAt": "2025-01-01T00:00:00Z"
+  },
+  {
+    "customerId": "cust1000-0003",
+    "customerNumber": "CUST-1-00003",
+    "customerName": "Ministry of Labour Zambia",
+    "customerType": "Government",
+    "email": "info@ministry-of-labour-z.zm",
+    "phone": "+260-97-1000100",
+    "country": "Zambia",
+    "status": "Active",
+    "createdAt": "2025-01-01T00:00:00Z"
+  },
+  {
+    "customerId": "cust1000-0004",
+    "customerNumber": "CUST-1-00004",
+    "customerName": "Zambia National Commercial Bank",
+    "customerType": "Corporate",
+    "email": "info@zambia-national-comm.zm",
+    "phone": "+260-97-1000100",
+    "country": "Zambia",
+    "status": "Active",
+    "createdAt": "2025-01-01T00:00:00Z"
+  },
+  {
+    "customerId": "cust1000-0005",
+    "customerNumber": "CUST-1-00005",
+    "customerName": "Zambeef Products PLC",
+    "customerType": "Corporate",
+    "email": "info@zambeef-products-plc.zm",
+    "phone": "+260-97-1000100",
+    "country": "Zambia",
+    "status": "Active",
+    "createdAt": "2025-01-01T00:00:00Z"
+  }
+]

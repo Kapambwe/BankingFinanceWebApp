@@ -1,0 +1,163 @@
+[
+  {
+    "userId": "14f44bba-7843-4c56-b3dd-edc3da501da2",
+    "email": "admin.microfinance",
+    "username": "admin.microfinance",
+    "firstName": "Microfinance",
+    "lastName": "Admin",
+    "institutionType": "Microfinance",
+    "institutionName": "Vision Fund England",
+    "institutionId": "332e22d5-63a1-4b5a-a47c-6f3d5823d612",
+    "roles": [
+      "MicrofinanceAdmin"
+    ],
+    "permissions": [],
+    "isActive": true,
+    "isEmailVerified": true,
+    "isPhoneVerified": true,
+    "isIdentityVerified": true,
+    "trustScore": 95,
+    "createdAt": "2023-02-09T00:00:00Z",
+    "phoneNumber": "+260977000000",
+    "gender": "Other",
+    "nationality": "Zambian"
+  },
+  {
+    "userId": "a47bb481-d919-4d0d-aeda-c67978b3596c",
+    "email": "branchmanager.microfinance",
+    "username": "branchmanager.microfinance",
+    "firstName": "MFI Branch",
+    "lastName": "Manager",
+    "institutionType": "Microfinance",
+    "institutionName": "Vision Fund England",
+    "institutionId": "332e22d5-63a1-4b5a-a47c-6f3d5823d612",
+    "roles": [
+      "MFIBranchManager"
+    ],
+    "permissions": [],
+    "isActive": true,
+    "isEmailVerified": true,
+    "isPhoneVerified": true,
+    "isIdentityVerified": true,
+    "trustScore": 95,
+    "createdAt": "2023-02-09T00:00:00Z",
+    "phoneNumber": "+260977000000",
+    "gender": "Other",
+    "nationality": "Zambian"
+  },
+  {
+    "userId": "ccd7299c-41d8-4151-81ae-35339a627304",
+    "email": "loanofficer.microfinance",
+    "username": "loanofficer.microfinance",
+    "firstName": "MFI Loan",
+    "lastName": "Officer",
+    "institutionType": "Microfinance",
+    "institutionName": "Vision Fund England",
+    "institutionId": "332e22d5-63a1-4b5a-a47c-6f3d5823d612",
+    "roles": [
+      "MFILoanOfficer"
+    ],
+    "permissions": [],
+    "isActive": true,
+    "isEmailVerified": true,
+    "isPhoneVerified": true,
+    "isIdentityVerified": true,
+    "trustScore": 95,
+    "createdAt": "2023-02-09T00:00:00Z",
+    "phoneNumber": "+260977000000",
+    "gender": "Other",
+    "nationality": "Zambian"
+  },
+  {
+    "userId": "3e00a8ec-c099-4864-b692-d335daeb2ade",
+    "email": "grouplending.microfinance",
+    "username": "grouplending.microfinance",
+    "firstName": "Group Lending",
+    "lastName": "Officer",
+    "institutionType": "Microfinance",
+    "institutionName": "Vision Fund England",
+    "institutionId": "332e22d5-63a1-4b5a-a47c-6f3d5823d612",
+    "roles": [
+      "GroupLendingOfficer"
+    ],
+    "permissions": [],
+    "isActive": true,
+    "isEmailVerified": true,
+    "isPhoneVerified": true,
+    "isIdentityVerified": true,
+    "trustScore": 95,
+    "createdAt": "2023-02-09T00:00:00Z",
+    "phoneNumber": "+260977000000",
+    "gender": "Other",
+    "nationality": "Zambian"
+  },
+  {
+    "userId": "161a3796-4523-4ad2-ae79-d2e7102077a6",
+    "email": "fieldofficer.microfinance",
+    "username": "fieldofficer.microfinance",
+    "firstName": "Field",
+    "lastName": "Officer",
+    "institutionType": "Microfinance",
+    "institutionName": "Vision Fund England",
+    "institutionId": "332e22d5-63a1-4b5a-a47c-6f3d5823d612",
+    "roles": [
+      "FieldOfficer"
+    ],
+    "permissions": [],
+    "isActive": true,
+    "isEmailVerified": true,
+    "isPhoneVerified": true,
+    "isIdentityVerified": true,
+    "trustScore": 95,
+    "createdAt": "2023-02-09T00:00:00Z",
+    "phoneNumber": "+260977000000",
+    "gender": "Other",
+    "nationality": "Zambian"
+  },
+  {
+    "userId": "1941a9b9-b9ef-4889-91e4-2191e9ede574",
+    "email": "savingsteller.microfinance",
+    "username": "savingsteller.microfinance",
+    "firstName": "Savings",
+    "lastName": "Teller",
+    "institutionType": "Microfinance",
+    "institutionName": "Vision Fund England",
+    "institutionId": "332e22d5-63a1-4b5a-a47c-6f3d5823d612",
+    "roles": [
+      "SavingsTeller"
+    ],
+    "permissions": [],
+    "isActive": true,
+    "isEmailVerified": true,
+    "isPhoneVerified": true,
+    "isIdentityVerified": true,
+    "trustScore": 95,
+    "createdAt": "2023-02-09T00:00:00Z",
+    "phoneNumber": "+260977000000",
+    "gender": "Other",
+    "nationality": "Zambian"
+  },
+  {
+    "userId": "6c6c70d7-3ca1-4610-b84e-e9a0b96e7a41",
+    "email": "socialperformance.microfinance",
+    "username": "socialperformance.microfinance",
+    "firstName": "Social Performance",
+    "lastName": "Officer",
+    "institutionType": "Microfinance",
+    "institutionName": "Vision Fund England",
+    "institutionId": "332e22d5-63a1-4b5a-a47c-6f3d5823d612",
+    "roles": [
+      "SocialPerformanceOfficer"
+    ],
+    "permissions": [],
+    "isActive": true,
+    "isEmailVerified": true,
+    "isPhoneVerified": true,
+    "isIdentityVerified": true,
+    "trustScore": 95,
+    "createdAt": "2023-02-09T00:00:00Z",
+    "phoneNumber": "+260977000000",
+    "gender": "Other",
+    "nationality": "Zambian"
+  }
+]

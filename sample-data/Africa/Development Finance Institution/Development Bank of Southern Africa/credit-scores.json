@@ -1,0 +1,5 @@
+[
+  {"customerId":"dbsa-c001-1234-5678-abcd-ef1234567890","customerName":"City of Johannesburg Metropolitan Municipality","creditScore":700,"creditRating":"BBB","riskCategory":"Medium","lastAssessmentDate":"2025-12-01T00:00:00Z","debtToGdpRatio":"N/A"},
+  {"customerId":"dbsa-c003-3456-7890-cdef-123456789012","customerName":"Republic of Mozambique","creditScore":580,"creditRating":"CCC","riskCategory":"High","lastAssessmentDate":"2025-12-01T00:00:00Z","debtToGdpRatio":"102.3%"},
+  {"customerId":"dbsa-c005-5678-9012-efab-345678901234","customerName":"Eskom Holdings SOC Limited","creditScore":550,"creditRating":"CCC-","riskCategory":"Very High","lastAssessmentDate":"2025-12-01T00:00:00Z","debtToGdpRatio":"N/A"}
+]

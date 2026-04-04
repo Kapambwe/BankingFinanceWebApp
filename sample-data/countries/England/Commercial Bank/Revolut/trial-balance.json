@@ -1,0 +1,128 @@
+[
+  {
+    "accountCode": "1010",
+    "accountName": "Cash \u2014 Operating Account",
+    "accountType": "Asset",
+    "debit": 820000000.0,
+    "credit": 0
+  },
+  {
+    "accountCode": "1020",
+    "accountName": "Cash \u2014 Customer Float",
+    "accountType": "Asset",
+    "debit": 1640000000.0,
+    "credit": 0
+  },
+  {
+    "accountCode": "1040",
+    "accountName": "Accounts Receivable",
+    "accountType": "Asset",
+    "debit": 985000000.0,
+    "credit": 0
+  },
+  {
+    "accountCode": "1110",
+    "accountName": "Property and Equipment (Net)",
+    "accountType": "Asset",
+    "debit": 246000000.0,
+    "credit": 0
+  },
+  {
+    "accountCode": "1130",
+    "accountName": "Intangible Assets",
+    "accountType": "Asset",
+    "debit": 492000000.0,
+    "credit": 0
+  },
+  {
+    "accountCode": "2010",
+    "accountName": "Accounts Payable",
+    "accountType": "Liability",
+    "debit": 0,
+    "credit": 984000000.0
+  },
+  {
+    "accountCode": "2020",
+    "accountName": "Short-Term Borrowings",
+    "accountType": "Liability",
+    "debit": 0,
+    "credit": 1312000000.0
+  },
+  {
+    "accountCode": "2030",
+    "accountName": "Accrued Expenses",
+    "accountType": "Liability",
+    "debit": 0,
+    "credit": 492000000.0
+  },
+  {
+    "accountCode": "2050",
+    "accountName": "Customer Deposits",
+    "accountType": "Liability",
+    "debit": 0,
+    "credit": 4100000000.0
+  },
+  {
+    "accountCode": "3010",
+    "accountName": "Share Capital",
+    "accountType": "Equity",
+    "debit": 0,
+    "credit": 1640000000.0
+  },
+  {
+    "accountCode": "3020",
+    "accountName": "Retained Earnings",
+    "accountType": "Equity",
+    "debit": 0,
+    "credit": 1312000000.0
+  },
+  {
+    "accountCode": "4010",
+    "accountName": "Subscription Revenue",
+    "accountType": "Revenue",
+    "debit": 0,
+    "credit": 850000000.0
+  },
+  {
+    "accountCode": "4020",
+    "accountName": "FX Commission Income",
+    "accountType": "Revenue",
+    "debit": 0,
+    "credit": 620000000.0
+  },
+  {
+    "accountCode": "4030",
+    "accountName": "Interchange Revenue",
+    "accountType": "Revenue",
+    "debit": 0,
+    "credit": 320000000.0
+  },
+  {
+    "accountCode": "5010",
+    "accountName": "Salaries and Wages",
+    "accountType": "Expenses",
+    "debit": 672000000.0,
+    "credit": 0
+  },
+  {
+    "accountCode": "5020",
+    "accountName": "Technology Infrastructure",
+    "accountType": "Expenses",
+    "debit": 198000000.0,
+    "credit": 0
+  },
+  {
+    "accountCode": "5030",
+    "accountName": "Depreciation and Amortisation",
+    "accountType": "Expenses",
+    "debit": 82000000.0,
+    "credit": 0
+  },
+  {
+    "accountCode": "5040",
+    "accountName": "Marketing and Advertising",
+    "accountType": "Expenses",
+    "debit": 121000000.0,
+    "credit": 0
+  }
+]

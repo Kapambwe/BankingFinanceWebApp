@@ -1,0 +1,152 @@
+[
+  {
+    "section": "Revenue",
+    "accountCode": "4010",
+    "accountName": "Investment Returns",
+    "amount": 15093750000.0
+  },
+  {
+    "section": "Revenue",
+    "accountCode": "4020",
+    "accountName": "Brokerage Commissions",
+    "amount": 15093750000.0
+  },
+  {
+    "section": "Revenue",
+    "accountCode": "4030",
+    "accountName": "Capital Gains",
+    "amount": 15093750000.0
+  },
+  {
+    "section": "Revenue",
+    "accountCode": "4040",
+    "accountName": "Other Income",
+    "amount": 2156250000.0
+  },
+  {
+    "section": "GrossProfit",
+    "accountCode": "GP",
+    "accountName": "Gross Revenue",
+    "amount": 47437500000.0
+  },
+  {
+    "section": "CostOfRevenue",
+    "accountCode": "5005",
+    "accountName": "Cost of Services",
+    "amount": 6468750000.0
+  },
+  {
+    "section": "CostOfRevenue",
+    "accountCode": "5006",
+    "accountName": "Cost of Funds",
+    "amount": 8625000000.0
+  },
+  {
+    "section": "GrossProfit",
+    "accountCode": "GROSS",
+    "accountName": "Gross Profit",
+    "amount": 32343750000.0
+  },
+  {
+    "section": "OperatingExpenses",
+    "accountCode": "5010",
+    "accountName": "Salaries and Wages",
+    "amount": 10781250000.0
+  },
+  {
+    "section": "OperatingExpenses",
+    "accountCode": "5020",
+    "accountName": "Rent and Occupancy",
+    "amount": 2587500000.0
+  },
+  {
+    "section": "OperatingExpenses",
+    "accountCode": "5030",
+    "accountName": "Depreciation and Amortisation",
+    "amount": 1725000000.0
+  },
+  {
+    "section": "OperatingExpenses",
+    "accountCode": "5040",
+    "accountName": "IT and Technology",
+    "amount": 2156250000.0
+  },
+  {
+    "section": "OperatingExpenses",
+    "accountCode": "5050",
+    "accountName": "Marketing and Advertising",
+    "amount": 1293750000.0
+  },
+  {
+    "section": "OperatingExpenses",
+    "accountCode": "5060",
+    "accountName": "Professional Fees",
+    "amount": 862500000.0
+  },
+  {
+    "section": "OperatingExpenses",
+    "accountCode": "5070",
+    "accountName": "Other Operating Expenses",
+    "amount": 1725000000.0
+  },
+  {
+    "section": "OperatingExpenses",
+    "accountCode": "5075",
+    "accountName": "Regulatory and Compliance Costs",
+    "amount": 646875000.0
+  },
+  {
+    "section": "OperatingExpenses",
+    "accountCode": "5076",
+    "accountName": "Insurance Expense",
+    "amount": 431250000.0
+  },
+  {
+    "section": "OperatingExpenses",
+    "accountCode": "5077",
+    "accountName": "Training and Development",
+    "amount": 345000000.0
+  },
+  {
+    "section": "OperatingExpenses",
+    "accountCode": "5078",
+    "accountName": "Security Expense",
+    "amount": 301875000.0
+  },
+  {
+    "section": "OperatingProfit",
+    "accountCode": "EBIT",
+    "accountName": "Operating Profit (EBIT)",
+    "amount": 11212500000.0
+  },
+  {
+    "section": "OtherIncome",
+    "accountCode": "4050",
+    "accountName": "Interest Received",
+    "amount": 1293750000.0
+  },
+  {
+    "section": "OtherExpenses",
+    "accountCode": "5080",
+    "accountName": "Interest Expense",
+    "amount": 2156250000.0
+  },
+  {
+    "section": "ProfitBeforeTax",
+    "accountCode": "PBT",
+    "accountName": "Profit Before Tax",
+    "amount": 10350000000.0
+  },
+  {
+    "section": "TaxExpense",
+    "accountCode": "5090",
+    "accountName": "Income Tax Expense",
+    "amount": 3018750000.0
+  },
+  {
+    "section": "NetProfit",
+    "accountCode": "PAT",
+    "accountName": "Net Profit After Tax",
+    "amount": 7331250000.0
+  }
+]

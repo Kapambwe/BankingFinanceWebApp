@@ -1,0 +1,94 @@
+[
+  {
+    "userId": "cf0e06e4-6de7-4b8f-ae08-d4558191d977",
+    "email": "admin.assetmanagement",
+    "username": "admin.assetmanagement",
+    "firstName": "Asset Management",
+    "lastName": "Admin",
+    "institutionType": "Asset Management",
+    "institutionName": "African Alliance UAE",
+    "institutionId": "709ee661-f4f4-4c1f-92db-b5f1b030bc10",
+    "roles": [
+      "AssetManagementAdmin"
+    ],
+    "permissions": [],
+    "isActive": true,
+    "isEmailVerified": true,
+    "isPhoneVerified": true,
+    "isIdentityVerified": true,
+    "trustScore": 95,
+    "createdAt": "2025-03-14T00:00:00Z",
+    "phoneNumber": "+260977000000",
+    "gender": "Other",
+    "nationality": "Zambian"
+  },
+  {
+    "userId": "9bb4be2c-ec70-4106-9979-dd3b9871eb31",
+    "email": "portfoliomanager.assetmanagement",
+    "username": "portfoliomanager.assetmanagement",
+    "firstName": "Asset Portfolio",
+    "lastName": "Manager",
+    "institutionType": "Asset Management",
+    "institutionName": "African Alliance UAE",
+    "institutionId": "709ee661-f4f4-4c1f-92db-b5f1b030bc10",
+    "roles": [
+      "AssetPortfolioManager"
+    ],
+    "permissions": [],
+    "isActive": true,
+    "isEmailVerified": true,
+    "isPhoneVerified": true,
+    "isIdentityVerified": true,
+    "trustScore": 95,
+    "createdAt": "2025-03-14T00:00:00Z",
+    "phoneNumber": "+260977000000",
+    "gender": "Other",
+    "nationality": "Zambian"
+  },
+  {
+    "userId": "225aef26-4a8d-4b02-9ee9-646411023ca2",
+    "email": "clientservices.assetmanagement",
+    "username": "clientservices.assetmanagement",
+    "firstName": "Client Services",
+    "lastName": "Officer",
+    "institutionType": "Asset Management",
+    "institutionName": "African Alliance UAE",
+    "institutionId": "709ee661-f4f4-4c1f-92db-b5f1b030bc10",
+    "roles": [
+      "ClientServicesOfficer"
+    ],
+    "permissions": [],
+    "isActive": true,
+    "isEmailVerified": true,
+    "isPhoneVerified": true,
+    "isIdentityVerified": true,
+    "trustScore": 95,
+    "createdAt": "2025-03-14T00:00:00Z",
+    "phoneNumber": "+260977000000",
+    "gender": "Other",
+    "nationality": "Zambian"
+  },
+  {
+    "userId": "9d02fc38-18d1-4dc7-99bc-6513cfd2ef87",
+    "email": "performance.assetmanagement",
+    "username": "performance.assetmanagement",
+    "firstName": "Performance",
+    "lastName": "Analyst",
+    "institutionType": "Asset Management",
+    "institutionName": "African Alliance UAE",
+    "institutionId": "709ee661-f4f4-4c1f-92db-b5f1b030bc10",
+    "roles": [
+      "PerformanceAnalyst"
+    ],
+    "permissions": [],
+    "isActive": true,
+    "isEmailVerified": true,
+    "isPhoneVerified": true,
+    "isIdentityVerified": true,
+    "trustScore": 95,
+    "createdAt": "2025-03-14T00:00:00Z",
+    "phoneNumber": "+260977000000",
+    "gender": "Other",
+    "nationality": "Zambian"
+  }
+]

@@ -1,0 +1,166 @@
+[
+  {
+    "partnerId": "RP-ANG-001",
+    "businessName": "Kero Supermercado Angola Ltd",
+    "brandName": "Kero Supermercado",
+    "partnerType": "Supermarket",
+    "country": "Angola",
+    "currency": "AOA",
+    "contactPerson": "Partner Manager 1",
+    "email": "banking@kerosupermer.an",
+    "phoneNumber": "+911-866-501022",
+    "servicesOffered": [
+      "AccountOpening",
+      "MoneyTransfer",
+      "CashDeposit",
+      "LoanPayment",
+      "AirtimePurchase",
+      "BillPayment"
+    ],
+    "acceptedPaymentMethods": [
+      "USSD",
+      "PhoneNumber",
+      "AccountNumber",
+      "QRCode",
+      "CardTap"
+    ],
+    "totalStores": 179,
+    "activeStores": 174,
+    "storeLocations": [
+      "Benguela",
+      "Luanda",
+      "Lobito",
+      "Huambo"
+    ],
+    "monthlyTransactionVolume": 1263972.17,
+    "monthlyTransactionCount": 35597,
+    "averageTransactionSize": 129.43,
+    "commissionRate": 1.01,
+    "monthlyRevenue": 11428.2,
+    "partnershipStartDate": "2025-06-20T18:10:28Z",
+    "status": "Active",
+    "brandColor": "#aa7e6a",
+    "isIntegrated": true,
+    "lastSyncDate": "2026-03-02T18:10:28Z"
+  },
+  {
+    "partnerId": "RP-ANG-002",
+    "businessName": "Shop 'n' Dine Angola Ltd",
+    "brandName": "Shop 'n' Dine",
+    "partnerType": "ConvenienceStore",
+    "country": "Angola",
+    "currency": "AOA",
+    "contactPerson": "Partner Manager 2",
+    "email": "banking@shop'n'dine.an",
+    "phoneNumber": "+708-686-938473",
+    "servicesOffered": [
+      "AccountOpening",
+      "CashDeposit",
+      "LoanPayment"
+    ],
+    "acceptedPaymentMethods": [
+      "AccountNumber",
+      "CardTap"
+    ],
+    "totalStores": 200,
+    "activeStores": 189,
+    "storeLocations": [
+      "Huambo",
+      "Luanda",
+      "Lobito",
+      "Benguela"
+    ],
+    "monthlyTransactionVolume": 7639097.54,
+    "monthlyTransactionCount": 8987,
+    "averageTransactionSize": 830.88,
+    "commissionRate": 1.24,
+    "monthlyRevenue": 64706.06,
+    "partnershipStartDate": "2022-03-25T18:10:28Z",
+    "status": "Active",
+    "brandColor": "#20fae4",
+    "isIntegrated": true,
+    "lastSyncDate": "2026-03-02T18:10:28Z"
+  },
+  {
+    "partnerId": "RP-ANG-003",
+    "businessName": "Jumbo Mercado Angola Ltd",
+    "brandName": "Jumbo Mercado",
+    "partnerType": "SmallShop",
+    "country": "Angola",
+    "currency": "AOA",
+    "contactPerson": "Partner Manager 3",
+    "email": "banking@jumbomercado.an",
+    "phoneNumber": "+824-458-192665",
+    "servicesOffered": [
+      "BillPayment",
+      "CashWithdrawal",
+      "CashDeposit",
+      "LoanPayment",
+      "AirtimePurchase"
+    ],
+    "acceptedPaymentMethods": [
+      "AccountNumber",
+      "QRCode",
+      "PhoneNumber"
+    ],
+    "totalStores": 70,
+    "activeStores": 70,
+    "storeLocations": [
+      "Huambo",
+      "Benguela",
+      "Lobito",
+      "Luanda"
+    ],
+    "monthlyTransactionVolume": 2070004.62,
+    "monthlyTransactionCount": 25410,
+    "averageTransactionSize": 612.79,
+    "commissionRate": 0.79,
+    "monthlyRevenue": 6922.42,
+    "partnershipStartDate": "2021-09-26T18:10:28Z",
+    "status": "Active",
+    "brandColor": "#465477",
+    "isIntegrated": true,
+    "lastSyncDate": "2026-03-02T18:10:28Z"
+  },
+  {
+    "partnerId": "RP-ANG-004",
+    "businessName": "Shoprite Angola Angola Ltd",
+    "brandName": "Shoprite Angola",
+    "partnerType": "Pharmacy",
+    "country": "Angola",
+    "currency": "AOA",
+    "contactPerson": "Partner Manager 4",
+    "email": "banking@shopriteango.an",
+    "phoneNumber": "+904-365-314158",
+    "servicesOffered": [
+      "CashDeposit",
+      "AirtimePurchase",
+      "BillPayment"
+    ],
+    "acceptedPaymentMethods": [
+      "PhoneNumber",
+      "USSD",
+      "Cash",
+      "AccountNumber",
+      "CardTap",
+      "QRCode"
+    ],
+    "totalStores": 179,
+    "activeStores": 168,
+    "storeLocations": [
+      "Huambo",
+      "Luanda",
+      "Lobito"
+    ],
+    "monthlyTransactionVolume": 381181.49,
+    "monthlyTransactionCount": 35289,
+    "averageTransactionSize": 11.27,
+    "commissionRate": 1.88,
+    "monthlyRevenue": 3168.98,
+    "partnershipStartDate": "2021-03-28T18:10:28Z",
+    "status": "PendingApproval",
+    "brandColor": "#5be9d1",
+    "isIntegrated": true,
+    "lastSyncDate": "2026-03-04T18:10:28Z"
+  }
+]

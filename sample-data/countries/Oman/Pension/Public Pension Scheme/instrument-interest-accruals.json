@@ -1,0 +1,68 @@
+[
+  {
+    "instrumentId": "LOAN-001",
+    "instrumentReference": "Mohammed \u2014 Public Pension ",
+    "instrumentType": "Loan",
+    "outstandingBalance": 1900000.0,
+    "nominalRate": 0.095,
+    "effectiveInterestRate": 0.095,
+    "accruedAmount": 494.52,
+    "accrualDate": "2026-02-28T00:00:00Z",
+    "journalEntryId": null
+  },
+  {
+    "instrumentId": "LOAN-002",
+    "instrumentReference": "SME Loan \u2014 Ali Trading Ltd",
+    "instrumentType": "Loan",
+    "outstandingBalance": 7700000.0,
+    "nominalRate": 0.085,
+    "effectiveInterestRate": 0.085,
+    "accruedAmount": 1793.15,
+    "accrualDate": "2026-02-28T00:00:00Z",
+    "journalEntryId": null
+  },
+  {
+    "instrumentId": "DEP-001",
+    "instrumentReference": "Fixed Deposit \u2014 Noora Savings Group",
+    "instrumentType": "Deposit",
+    "outstandingBalance": 19200000.0,
+    "nominalRate": 0.07,
+    "effectiveInterestRate": 0.07,
+    "accruedAmount": 3682.19,
+    "accrualDate": "2026-02-28T00:00:00Z",
+    "journalEntryId": null
+  },
+  {
+    "instrumentId": "LOAN-003",
+    "instrumentReference": "Mortgage \u2014 Noora",
+    "instrumentType": "Loan",
+    "outstandingBalance": 3100000.0,
+    "nominalRate": 0.09,
+    "effectiveInterestRate": 0.09,
+    "accruedAmount": 764.38,
+    "accrualDate": "2026-02-28T00:00:00Z",
+    "journalEntryId": null
+  },
+  {
+    "instrumentId": "DEP-002",
+    "instrumentReference": "Call Deposit \u2014 Public Pension  Fund",
+    "instrumentType": "Deposit",
+    "outstandingBalance": 5800000.0,
+    "nominalRate": 0.065,
+    "effectiveInterestRate": 0.065,
+    "accruedAmount": 1032.88,
+    "accrualDate": "2026-02-28T00:00:00Z",
+    "journalEntryId": null
+  },
+  {
+    "instrumentId": "LOAN-004",
+    "instrumentReference": "Corporate Bond \u2014 Public Pension ",
+    "instrumentType": "Loan",
+    "outstandingBalance": 11600000.0,
+    "nominalRate": 0.1,
+    "effectiveInterestRate": 0.1,
+    "accruedAmount": 3178.08,
+    "accrualDate": "2026-02-28T00:00:00Z",
+    "journalEntryId": null
+  }
+]

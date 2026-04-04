@@ -1,0 +1,26 @@
+[
+  {
+    "templateId": "it500000-0001",
+    "templateName": "Government Subvention Invoice",
+    "description": "Template for government subvention billing",
+    "defaultCurrency": "KES",
+    "isActive": true,
+    "createdAt": "2025-01-01T00:00:00Z"
+  },
+  {
+    "templateId": "it500000-0002",
+    "templateName": "Employer Contribution Invoice",
+    "description": "Template for employer group billing",
+    "defaultCurrency": "KES",
+    "isActive": true,
+    "createdAt": "2025-01-01T00:00:00Z"
+  },
+  {
+    "templateId": "it500000-0003",
+    "templateName": "Service Fee Invoice",
+    "description": "Template for service fees",
+    "defaultCurrency": "KES",
+    "isActive": true,
+    "createdAt": "2025-01-01T00:00:00Z"
+  }
+]

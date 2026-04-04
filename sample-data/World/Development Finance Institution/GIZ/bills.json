@@ -1,0 +1,6 @@
+[
+  {"billId":"GIZ-BILL-001","customerId":"giz-c001-1111-2222-aaaa-bb1234567890","amount":125000.00,"currency":"EUR","dueDate":"2026-03-31T00:00:00Z","status":"Pending","description":"Project Audit and Monitoring Fees - Zambia Q1 2026","issuedDate":"2026-01-01T00:00:00Z"},
+  {"billId":"GIZ-BILL-002","customerId":"giz-c002-2222-3333-bbbb-cc2345678901","amount":98000.00,"currency":"EUR","dueDate":"2026-03-31T00:00:00Z","status":"Pending","description":"Technical Advisory Services Fee - Kenya Q1 2026","issuedDate":"2026-01-10T00:00:00Z"},
+  {"billId":"GIZ-BILL-003","customerId":"giz-c003-3333-4444-cccc-dd3456789012","amount":145000.00,"currency":"EUR","dueDate":"2026-06-30T00:00:00Z","status":"Pending","description":"Capacity Development Training Costs - Ethiopia H1 2026","issuedDate":"2026-01-15T00:00:00Z"},
+  {"billId":"GIZ-BILL-004","customerId":"giz-c008-8888-9999-1111-228901234567","amount":112000.00,"currency":"EUR","dueDate":"2026-04-30T00:00:00Z","status":"Pending","description":"Vocational Training Programme Expenses - Bangladesh Q1 2026","issuedDate":"2026-01-20T00:00:00Z"}
+]

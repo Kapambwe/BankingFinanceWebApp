@@ -1,0 +1,94 @@
+[
+  {
+    "userId": "c6e80670-acb4-4a9e-8c3d-a6b4067a69da",
+    "email": "admin.assetmanagement",
+    "username": "admin.assetmanagement",
+    "firstName": "Asset Management",
+    "lastName": "Admin",
+    "institutionType": "Asset Management",
+    "institutionName": "African Alliance Malawi",
+    "institutionId": "709ee661-f4f4-4c1f-92db-b5f1b030bc10",
+    "roles": [
+      "AssetManagementAdmin"
+    ],
+    "permissions": [],
+    "isActive": true,
+    "isEmailVerified": true,
+    "isPhoneVerified": true,
+    "isIdentityVerified": true,
+    "trustScore": 95,
+    "createdAt": "2025-03-14T00:00:00Z",
+    "phoneNumber": "+260977000000",
+    "gender": "Other",
+    "nationality": "Zambian"
+  },
+  {
+    "userId": "7bbbb882-2def-44db-824e-fe4b4c74b7f4",
+    "email": "portfoliomanager.assetmanagement",
+    "username": "portfoliomanager.assetmanagement",
+    "firstName": "Asset Portfolio",
+    "lastName": "Manager",
+    "institutionType": "Asset Management",
+    "institutionName": "African Alliance Malawi",
+    "institutionId": "709ee661-f4f4-4c1f-92db-b5f1b030bc10",
+    "roles": [
+      "AssetPortfolioManager"
+    ],
+    "permissions": [],
+    "isActive": true,
+    "isEmailVerified": true,
+    "isPhoneVerified": true,
+    "isIdentityVerified": true,
+    "trustScore": 95,
+    "createdAt": "2025-03-14T00:00:00Z",
+    "phoneNumber": "+260977000000",
+    "gender": "Other",
+    "nationality": "Zambian"
+  },
+  {
+    "userId": "1e66322a-43c8-4844-8dbd-fe750e54e68a",
+    "email": "clientservices.assetmanagement",
+    "username": "clientservices.assetmanagement",
+    "firstName": "Client Services",
+    "lastName": "Officer",
+    "institutionType": "Asset Management",
+    "institutionName": "African Alliance Malawi",
+    "institutionId": "709ee661-f4f4-4c1f-92db-b5f1b030bc10",
+    "roles": [
+      "ClientServicesOfficer"
+    ],
+    "permissions": [],
+    "isActive": true,
+    "isEmailVerified": true,
+    "isPhoneVerified": true,
+    "isIdentityVerified": true,
+    "trustScore": 95,
+    "createdAt": "2025-03-14T00:00:00Z",
+    "phoneNumber": "+260977000000",
+    "gender": "Other",
+    "nationality": "Zambian"
+  },
+  {
+    "userId": "9bc8d0ea-e1d4-4f6c-b8e0-d59e858cdc3a",
+    "email": "performance.assetmanagement",
+    "username": "performance.assetmanagement",
+    "firstName": "Performance",
+    "lastName": "Analyst",
+    "institutionType": "Asset Management",
+    "institutionName": "African Alliance Malawi",
+    "institutionId": "709ee661-f4f4-4c1f-92db-b5f1b030bc10",
+    "roles": [
+      "PerformanceAnalyst"
+    ],
+    "permissions": [],
+    "isActive": true,
+    "isEmailVerified": true,
+    "isPhoneVerified": true,
+    "isIdentityVerified": true,
+    "trustScore": 95,
+    "createdAt": "2025-03-14T00:00:00Z",
+    "phoneNumber": "+260977000000",
+    "gender": "Other",
+    "nationality": "Zambian"
+  }
+]

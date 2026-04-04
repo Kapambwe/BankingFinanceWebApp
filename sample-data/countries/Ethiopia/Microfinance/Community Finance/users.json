@@ -1,0 +1,163 @@
+[
+  {
+    "userId": "45fa9555-577a-447a-94c4-3d41d466cfd8",
+    "email": "admin.microfinance",
+    "username": "admin.microfinance",
+    "firstName": "Microfinance",
+    "lastName": "Admin",
+    "institutionType": "Microfinance",
+    "institutionName": "Vision Fund Ethiopia",
+    "institutionId": "332e22d5-63a1-4b5a-a47c-6f3d5823d612",
+    "roles": [
+      "MicrofinanceAdmin"
+    ],
+    "permissions": [],
+    "isActive": true,
+    "isEmailVerified": true,
+    "isPhoneVerified": true,
+    "isIdentityVerified": true,
+    "trustScore": 95,
+    "createdAt": "2023-02-09T00:00:00Z",
+    "phoneNumber": "+260977000000",
+    "gender": "Other",
+    "nationality": "Zambian"
+  },
+  {
+    "userId": "116c7787-5aa5-491a-b759-1749a9ae377b",
+    "email": "branchmanager.microfinance",
+    "username": "branchmanager.microfinance",
+    "firstName": "MFI Branch",
+    "lastName": "Manager",
+    "institutionType": "Microfinance",
+    "institutionName": "Vision Fund Ethiopia",
+    "institutionId": "332e22d5-63a1-4b5a-a47c-6f3d5823d612",
+    "roles": [
+      "MFIBranchManager"
+    ],
+    "permissions": [],
+    "isActive": true,
+    "isEmailVerified": true,
+    "isPhoneVerified": true,
+    "isIdentityVerified": true,
+    "trustScore": 95,
+    "createdAt": "2023-02-09T00:00:00Z",
+    "phoneNumber": "+260977000000",
+    "gender": "Other",
+    "nationality": "Zambian"
+  },
+  {
+    "userId": "5d0423e4-62b4-4b19-be25-acf30df5aa3a",
+    "email": "loanofficer.microfinance",
+    "username": "loanofficer.microfinance",
+    "firstName": "MFI Loan",
+    "lastName": "Officer",
+    "institutionType": "Microfinance",
+    "institutionName": "Vision Fund Ethiopia",
+    "institutionId": "332e22d5-63a1-4b5a-a47c-6f3d5823d612",
+    "roles": [
+      "MFILoanOfficer"
+    ],
+    "permissions": [],
+    "isActive": true,
+    "isEmailVerified": true,
+    "isPhoneVerified": true,
+    "isIdentityVerified": true,
+    "trustScore": 95,
+    "createdAt": "2023-02-09T00:00:00Z",
+    "phoneNumber": "+260977000000",
+    "gender": "Other",
+    "nationality": "Zambian"
+  },
+  {
+    "userId": "64e8feab-a3b6-4127-9d5f-1727f962bb87",
+    "email": "grouplending.microfinance",
+    "username": "grouplending.microfinance",
+    "firstName": "Group Lending",
+    "lastName": "Officer",
+    "institutionType": "Microfinance",
+    "institutionName": "Vision Fund Ethiopia",
+    "institutionId": "332e22d5-63a1-4b5a-a47c-6f3d5823d612",
+    "roles": [
+      "GroupLendingOfficer"
+    ],
+    "permissions": [],
+    "isActive": true,
+    "isEmailVerified": true,
+    "isPhoneVerified": true,
+    "isIdentityVerified": true,
+    "trustScore": 95,
+    "createdAt": "2023-02-09T00:00:00Z",
+    "phoneNumber": "+260977000000",
+    "gender": "Other",
+    "nationality": "Zambian"
+  },
+  {
+    "userId": "b41656c1-065a-437a-b3a6-91ba2f87e10a",
+    "email": "fieldofficer.microfinance",
+    "username": "fieldofficer.microfinance",
+    "firstName": "Field",
+    "lastName": "Officer",
+    "institutionType": "Microfinance",
+    "institutionName": "Vision Fund Ethiopia",
+    "institutionId": "332e22d5-63a1-4b5a-a47c-6f3d5823d612",
+    "roles": [
+      "FieldOfficer"
+    ],
+    "permissions": [],
+    "isActive": true,
+    "isEmailVerified": true,
+    "isPhoneVerified": true,
+    "isIdentityVerified": true,
+    "trustScore": 95,
+    "createdAt": "2023-02-09T00:00:00Z",
+    "phoneNumber": "+260977000000",
+    "gender": "Other",
+    "nationality": "Zambian"
+  },
+  {
+    "userId": "7988cfc6-aa96-4051-99ec-7fea0d7c1190",
+    "email": "savingsteller.microfinance",
+    "username": "savingsteller.microfinance",
+    "firstName": "Savings",
+    "lastName": "Teller",
+    "institutionType": "Microfinance",
+    "institutionName": "Vision Fund Ethiopia",
+    "institutionId": "332e22d5-63a1-4b5a-a47c-6f3d5823d612",
+    "roles": [
+      "SavingsTeller"
+    ],
+    "permissions": [],
+    "isActive": true,
+    "isEmailVerified": true,
+    "isPhoneVerified": true,
+    "isIdentityVerified": true,
+    "trustScore": 95,
+    "createdAt": "2023-02-09T00:00:00Z",
+    "phoneNumber": "+260977000000",
+    "gender": "Other",
+    "nationality": "Zambian"
+  },
+  {
+    "userId": "a57e0e9f-fb11-4596-a33d-4507f344a833",
+    "email": "socialperformance.microfinance",
+    "username": "socialperformance.microfinance",
+    "firstName": "Social Performance",
+    "lastName": "Officer",
+    "institutionType": "Microfinance",
+    "institutionName": "Vision Fund Ethiopia",
+    "institutionId": "332e22d5-63a1-4b5a-a47c-6f3d5823d612",
+    "roles": [
+      "SocialPerformanceOfficer"
+    ],
+    "permissions": [],
+    "isActive": true,
+    "isEmailVerified": true,
+    "isPhoneVerified": true,
+    "isIdentityVerified": true,
+    "trustScore": 95,
+    "createdAt": "2023-02-09T00:00:00Z",
+    "phoneNumber": "+260977000000",
+    "gender": "Other",
+    "nationality": "Zambian"
+  }
+]

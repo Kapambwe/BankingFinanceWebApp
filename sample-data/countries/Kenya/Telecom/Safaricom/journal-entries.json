@@ -1,0 +1,677 @@
+[
+  {
+    "journalEntryId": "JE-SAF-00001",
+    "entryDate": "2026-08-07T22:51:16Z",
+    "description": "Accrual \u2014 Safaricom period reconciliation",
+    "reference": "REF-SAF-198595",
+    "status": "Pending",
+    "entryType": "Accrual",
+    "currency": "KES",
+    "totalDebits": 453763.58,
+    "totalCredits": 453763.58,
+    "createdBy": "AccountingBot",
+    "postedBy": "Finance Officer 3",
+    "lines": [
+      {
+        "accountCode": "1167",
+        "accountName": "Accrual Account",
+        "debit": 453763.58,
+        "credit": 0.0
+      },
+      {
+        "accountCode": "5965",
+        "accountName": "Settlement/Clearing Account",
+        "debit": 0.0,
+        "credit": 453763.58
+      }
+    ]
+  },
+  {
+    "journalEntryId": "JE-SAF-00002",
+    "entryDate": "2025-02-15T22:33:54Z",
+    "description": "Adjustment \u2014 Safaricom period reconciliation",
+    "reference": "REF-SAF-815873",
+    "status": "Posted",
+    "entryType": "Adjustment",
+    "currency": "KES",
+    "totalDebits": 351459.4,
+    "totalCredits": 351459.4,
+    "createdBy": "AccountingBot",
+    "postedBy": "Finance Officer 1",
+    "lines": [
+      {
+        "accountCode": "2380",
+        "accountName": "Adjustment Account",
+        "debit": 351459.4,
+        "credit": 0.0
+      },
+      {
+        "accountCode": "1014",
+        "accountName": "Settlement/Clearing Account",
+        "debit": 0.0,
+        "credit": 351459.4
+      }
+    ]
+  },
+  {
+    "journalEntryId": "JE-SAF-00003",
+    "entryDate": "2025-01-10T18:28:47Z",
+    "description": "Adjustment \u2014 Safaricom period reconciliation",
+    "reference": "REF-SAF-104887",
+    "status": "Posted",
+    "entryType": "Adjustment",
+    "currency": "KES",
+    "totalDebits": 4819818.79,
+    "totalCredits": 4819818.79,
+    "createdBy": "AccountingBot",
+    "postedBy": "Finance Officer 4",
+    "lines": [
+      {
+        "accountCode": "3508",
+        "accountName": "Adjustment Account",
+        "debit": 4819818.79,
+        "credit": 0.0
+      },
+      {
+        "accountCode": "1226",
+        "accountName": "Settlement/Clearing Account",
+        "debit": 0.0,
+        "credit": 4819818.79
+      }
+    ]
+  },
+  {
+    "journalEntryId": "JE-SAF-00004",
+    "entryDate": "2026-03-14T13:52:45Z",
+    "description": "Adjustment \u2014 Safaricom period reconciliation",
+    "reference": "REF-SAF-493044",
+    "status": "Posted",
+    "entryType": "Adjustment",
+    "currency": "KES",
+    "totalDebits": 4010188.96,
+    "totalCredits": 4010188.96,
+    "createdBy": "AccountingBot",
+    "postedBy": "Finance Officer 2",
+    "lines": [
+      {
+        "accountCode": "2544",
+        "accountName": "Adjustment Account",
+        "debit": 4010188.96,
+        "credit": 0.0
+      },
+      {
+        "accountCode": "5081",
+        "accountName": "Settlement/Clearing Account",
+        "debit": 0.0,
+        "credit": 4010188.96
+      }
+    ]
+  },
+  {
+    "journalEntryId": "JE-SAF-00005",
+    "entryDate": "2025-09-26T03:53:18Z",
+    "description": "Expense \u2014 Safaricom period reconciliation",
+    "reference": "REF-SAF-201675",
+    "status": "Posted",
+    "entryType": "Expense",
+    "currency": "KES",
+    "totalDebits": 949844.19,
+    "totalCredits": 949844.19,
+    "createdBy": "AccountingBot",
+    "postedBy": "Finance Officer 5",
+    "lines": [
+      {
+        "accountCode": "4065",
+        "accountName": "Expense Account",
+        "debit": 949844.19,
+        "credit": 0.0
+      },
+      {
+        "accountCode": "5702",
+        "accountName": "Settlement/Clearing Account",
+        "debit": 0.0,
+        "credit": 949844.19
+      }
+    ]
+  },
+  {
+    "journalEntryId": "JE-SAF-00006",
+    "entryDate": "2026-07-03T15:38:44Z",
+    "description": "Accrual \u2014 Safaricom period reconciliation",
+    "reference": "REF-SAF-987067",
+    "status": "Posted",
+    "entryType": "Accrual",
+    "currency": "KES",
+    "totalDebits": 925795.03,
+    "totalCredits": 925795.03,
+    "createdBy": "AccountingBot",
+    "postedBy": "Finance Officer 5",
+    "lines": [
+      {
+        "accountCode": "2219",
+        "accountName": "Accrual Account",
+        "debit": 925795.03,
+        "credit": 0.0
+      },
+      {
+        "accountCode": "4646",
+        "accountName": "Settlement/Clearing Account",
+        "debit": 0.0,
+        "credit": 925795.03
+      }
+    ]
+  },
+  {
+    "journalEntryId": "JE-SAF-00007",
+    "entryDate": "2026-12-28T11:07:33Z",
+    "description": "Revenue \u2014 Safaricom period reconciliation",
+    "reference": "REF-SAF-663703",
+    "status": "Posted",
+    "entryType": "Revenue",
+    "currency": "KES",
+    "totalDebits": 200191.25,
+    "totalCredits": 200191.25,
+    "createdBy": "AccountingBot",
+    "postedBy": "Finance Officer 3",
+    "lines": [
+      {
+        "accountCode": "3387",
+        "accountName": "Revenue Account",
+        "debit": 200191.25,
+        "credit": 0.0
+      },
+      {
+        "accountCode": "1882",
+        "accountName": "Settlement/Clearing Account",
+        "debit": 0.0,
+        "credit": 200191.25
+      }
+    ]
+  },
+  {
+    "journalEntryId": "JE-SAF-00008",
+    "entryDate": "2026-04-04T08:22:45Z",
+    "description": "Expense \u2014 Safaricom period reconciliation",
+    "reference": "REF-SAF-643674",
+    "status": "Posted",
+    "entryType": "Expense",
+    "currency": "KES",
+    "totalDebits": 1777817.41,
+    "totalCredits": 1777817.41,
+    "createdBy": "AccountingBot",
+    "postedBy": "Finance Officer 1",
+    "lines": [
+      {
+        "accountCode": "5076",
+        "accountName": "Expense Account",
+        "debit": 1777817.41,
+        "credit": 0.0
+      },
+      {
+        "accountCode": "2582",
+        "accountName": "Settlement/Clearing Account",
+        "debit": 0.0,
+        "credit": 1777817.41
+      }
+    ]
+  },
+  {
+    "journalEntryId": "JE-SAF-00009",
+    "entryDate": "2026-12-16T14:01:37Z",
+    "description": "Adjustment \u2014 Safaricom period reconciliation",
+    "reference": "REF-SAF-453786",
+    "status": "Draft",
+    "entryType": "Adjustment",
+    "currency": "KES",
+    "totalDebits": 3037341.68,
+    "totalCredits": 3037341.68,
+    "createdBy": "AccountingBot",
+    "postedBy": "Finance Officer 5",
+    "lines": [
+      {
+        "accountCode": "4185",
+        "accountName": "Adjustment Account",
+        "debit": 3037341.68,
+        "credit": 0.0
+      },
+      {
+        "accountCode": "4669",
+        "accountName": "Settlement/Clearing Account",
+        "debit": 0.0,
+        "credit": 3037341.68
+      }
+    ]
+  },
+  {
+    "journalEntryId": "JE-SAF-00010",
+    "entryDate": "2026-03-07T15:55:04Z",
+    "description": "Tax \u2014 Safaricom period reconciliation",
+    "reference": "REF-SAF-168643",
+    "status": "Posted",
+    "entryType": "Tax",
+    "currency": "KES",
+    "totalDebits": 4722854.95,
+    "totalCredits": 4722854.95,
+    "createdBy": "AccountingBot",
+    "postedBy": "Finance Officer 2",
+    "lines": [
+      {
+        "accountCode": "3995",
+        "accountName": "Tax Account",
+        "debit": 4722854.95,
+        "credit": 0.0
+      },
+      {
+        "accountCode": "2158",
+        "accountName": "Settlement/Clearing Account",
+        "debit": 0.0,
+        "credit": 4722854.95
+      }
+    ]
+  },
+  {
+    "journalEntryId": "JE-SAF-00011",
+    "entryDate": "2026-01-17T04:34:53Z",
+    "description": "Commission \u2014 Safaricom period reconciliation",
+    "reference": "REF-SAF-297488",
+    "status": "Draft",
+    "entryType": "Commission",
+    "currency": "KES",
+    "totalDebits": 1235284.21,
+    "totalCredits": 1235284.21,
+    "createdBy": "AccountingBot",
+    "postedBy": "Finance Officer 1",
+    "lines": [
+      {
+        "accountCode": "3935",
+        "accountName": "Commission Account",
+        "debit": 1235284.21,
+        "credit": 0.0
+      },
+      {
+        "accountCode": "1480",
+        "accountName": "Settlement/Clearing Account",
+        "debit": 0.0,
+        "credit": 1235284.21
+      }
+    ]
+  },
+  {
+    "journalEntryId": "JE-SAF-00012",
+    "entryDate": "2026-09-22T20:24:31Z",
+    "description": "Accrual \u2014 Safaricom period reconciliation",
+    "reference": "REF-SAF-984580",
+    "status": "Pending",
+    "entryType": "Accrual",
+    "currency": "KES",
+    "totalDebits": 4587221.98,
+    "totalCredits": 4587221.98,
+    "createdBy": "AccountingBot",
+    "postedBy": "Finance Officer 1",
+    "lines": [
+      {
+        "accountCode": "5258",
+        "accountName": "Accrual Account",
+        "debit": 4587221.98,
+        "credit": 0.0
+      },
+      {
+        "accountCode": "1745",
+        "accountName": "Settlement/Clearing Account",
+        "debit": 0.0,
+        "credit": 4587221.98
+      }
+    ]
+  },
+  {
+    "journalEntryId": "JE-SAF-00013",
+    "entryDate": "2026-12-10T06:26:00Z",
+    "description": "Settlement \u2014 Safaricom period reconciliation",
+    "reference": "REF-SAF-652953",
+    "status": "Pending",
+    "entryType": "Settlement",
+    "currency": "KES",
+    "totalDebits": 3334387.37,
+    "totalCredits": 3334387.37,
+    "createdBy": "AccountingBot",
+    "postedBy": "Finance Officer 5",
+    "lines": [
+      {
+        "accountCode": "5357",
+        "accountName": "Settlement Account",
+        "debit": 3334387.37,
+        "credit": 0.0
+      },
+      {
+        "accountCode": "5273",
+        "accountName": "Settlement/Clearing Account",
+        "debit": 0.0,
+        "credit": 3334387.37
+      }
+    ]
+  },
+  {
+    "journalEntryId": "JE-SAF-00014",
+    "entryDate": "2026-05-15T14:05:21Z",
+    "description": "Adjustment \u2014 Safaricom period reconciliation",
+    "reference": "REF-SAF-310692",
+    "status": "Posted",
+    "entryType": "Adjustment",
+    "currency": "KES",
+    "totalDebits": 2001215.33,
+    "totalCredits": 2001215.33,
+    "createdBy": "AccountingBot",
+    "postedBy": "Finance Officer 3",
+    "lines": [
+      {
+        "accountCode": "2109",
+        "accountName": "Adjustment Account",
+        "debit": 2001215.33,
+        "credit": 0.0
+      },
+      {
+        "accountCode": "4669",
+        "accountName": "Settlement/Clearing Account",
+        "debit": 0.0,
+        "credit": 2001215.33
+      }
+    ]
+  },
+  {
+    "journalEntryId": "JE-SAF-00015",
+    "entryDate": "2026-05-02T11:48:37Z",
+    "description": "Settlement \u2014 Safaricom period reconciliation",
+    "reference": "REF-SAF-547028",
+    "status": "Draft",
+    "entryType": "Settlement",
+    "currency": "KES",
+    "totalDebits": 3829436.93,
+    "totalCredits": 3829436.93,
+    "createdBy": "AccountingBot",
+    "postedBy": "Finance Officer 4",
+    "lines": [
+      {
+        "accountCode": "4088",
+        "accountName": "Settlement Account",
+        "debit": 3829436.93,
+        "credit": 0.0
+      },
+      {
+        "accountCode": "1674",
+        "accountName": "Settlement/Clearing Account",
+        "debit": 0.0,
+        "credit": 3829436.93
+      }
+    ]
+  },
+  {
+    "journalEntryId": "JE-SAF-00016",
+    "entryDate": "2024-05-29T08:27:41Z",
+    "description": "Expense \u2014 Safaricom period 16",
+    "reference": "REF-SAF-133364",
+    "status": "Posted",
+    "entryType": "Expense",
+    "currency": "KES",
+    "totalDebits": 1987754.71,
+    "totalCredits": 1987754.71,
+    "createdBy": "AccountingBot",
+    "postedBy": "Finance Officer 4",
+    "lines": [
+      {
+        "accountCode": "2102",
+        "accountName": "Expense Account",
+        "debit": 1987754.71,
+        "credit": 0.0
+      },
+      {
+        "accountCode": "1847",
+        "accountName": "Settlement/Clearing Account",
+        "debit": 0.0,
+        "credit": 1987754.71
+      }
+    ]
+  },
+  {
+    "journalEntryId": "JE-SAF-00017",
+    "entryDate": "2024-01-11T18:39:24Z",
+    "description": "Settlement \u2014 Safaricom period 17",
+    "reference": "REF-SAF-199589",
+    "status": "Posted",
+    "entryType": "Settlement",
+    "currency": "KES",
+    "totalDebits": 5021658.29,
+    "totalCredits": 5021658.29,
+    "createdBy": "AccountingBot",
+    "postedBy": "Finance Officer 6",
+    "lines": [
+      {
+        "accountCode": "4047",
+        "accountName": "Settlement Account",
+        "debit": 5021658.29,
+        "credit": 0.0
+      },
+      {
+        "accountCode": "5152",
+        "accountName": "Settlement/Clearing Account",
+        "debit": 0.0,
+        "credit": 5021658.29
+      }
+    ]
+  },
+  {
+    "journalEntryId": "JE-SAF-00018",
+    "entryDate": "2024-05-31T09:56:53Z",
+    "description": "Accrual \u2014 Safaricom period 18",
+    "reference": "REF-SAF-702741",
+    "status": "Posted",
+    "entryType": "Accrual",
+    "currency": "KES",
+    "totalDebits": 5924068.75,
+    "totalCredits": 5924068.75,
+    "createdBy": "AccountingBot",
+    "postedBy": "Finance Officer 2",
+    "lines": [
+      {
+        "accountCode": "3212",
+        "accountName": "Accrual Account",
+        "debit": 5924068.75,
+        "credit": 0.0
+      },
+      {
+        "accountCode": "2706",
+        "accountName": "Settlement/Clearing Account",
+        "debit": 0.0,
+        "credit": 5924068.75
+      }
+    ]
+  },
+  {
+    "journalEntryId": "JE-SAF-00019",
+    "entryDate": "2024-04-01T15:05:07Z",
+    "description": "Adjustment \u2014 Safaricom period 19",
+    "reference": "REF-SAF-620461",
+    "status": "Posted",
+    "entryType": "Adjustment",
+    "currency": "KES",
+    "totalDebits": 685377.77,
+    "totalCredits": 685377.77,
+    "createdBy": "AccountingBot",
+    "postedBy": "Finance Officer 7",
+    "lines": [
+      {
+        "accountCode": "1490",
+        "accountName": "Adjustment Account",
+        "debit": 685377.77,
+        "credit": 0.0
+      },
+      {
+        "accountCode": "1706",
+        "accountName": "Settlement/Clearing Account",
+        "debit": 0.0,
+        "credit": 685377.77
+      }
+    ]
+  },
+  {
+    "journalEntryId": "JE-SAF-00020",
+    "entryDate": "2024-01-20T04:29:51Z",
+    "description": "Tax \u2014 Safaricom period 20",
+    "reference": "REF-SAF-878894",
+    "status": "Draft",
+    "entryType": "Tax",
+    "currency": "KES",
+    "totalDebits": 6939180.12,
+    "totalCredits": 6939180.12,
+    "createdBy": "AccountingBot",
+    "postedBy": "Finance Officer 3",
+    "lines": [
+      {
+        "accountCode": "5221",
+        "accountName": "Tax Account",
+        "debit": 6939180.12,
+        "credit": 0.0
+      },
+      {
+        "accountCode": "5865",
+        "accountName": "Settlement/Clearing Account",
+        "debit": 0.0,
+        "credit": 6939180.12
+      }
+    ]
+  },
+  {
+    "journalEntryId": "JE-SAF-00021",
+    "entryDate": "2025-05-18T12:33:16Z",
+    "description": "Commission \u2014 Safaricom period 21",
+    "reference": "REF-SAF-573170",
+    "status": "Posted",
+    "entryType": "Commission",
+    "currency": "KES",
+    "totalDebits": 3647589.38,
+    "totalCredits": 3647589.38,
+    "createdBy": "AccountingBot",
+    "postedBy": "Finance Officer 2",
+    "lines": [
+      {
+        "accountCode": "3319",
+        "accountName": "Commission Account",
+        "debit": 3647589.38,
+        "credit": 0.0
+      },
+      {
+        "accountCode": "2092",
+        "accountName": "Settlement/Clearing Account",
+        "debit": 0.0,
+        "credit": 3647589.38
+      }
+    ]
+  },
+  {
+    "journalEntryId": "JE-SAF-00022",
+    "entryDate": "2024-09-24T07:27:10Z",
+    "description": "Depreciation \u2014 Safaricom period 22",
+    "reference": "REF-SAF-110912",
+    "status": "Posted",
+    "entryType": "Depreciation",
+    "currency": "KES",
+    "totalDebits": 4581187.93,
+    "totalCredits": 4581187.93,
+    "createdBy": "AccountingBot",
+    "postedBy": "Finance Officer 1",
+    "lines": [
+      {
+        "accountCode": "5013",
+        "accountName": "Depreciation Account",
+        "debit": 4581187.93,
+        "credit": 0.0
+      },
+      {
+        "accountCode": "3206",
+        "accountName": "Settlement/Clearing Account",
+        "debit": 0.0,
+        "credit": 4581187.93
+      }
+    ]
+  },
+  {
+    "journalEntryId": "JE-SAF-00023",
+    "entryDate": "2025-10-21T21:31:16Z",
+    "description": "Provision \u2014 Safaricom period 23",
+    "reference": "REF-SAF-784507",
+    "status": "Draft",
+    "entryType": "Provision",
+    "currency": "KES",
+    "totalDebits": 801295.17,
+    "totalCredits": 801295.17,
+    "createdBy": "AccountingBot",
+    "postedBy": "Finance Officer 1",
+    "lines": [
+      {
+        "accountCode": "2121",
+        "accountName": "Provision Account",
+        "debit": 801295.17,
+        "credit": 0.0
+      },
+      {
+        "accountCode": "4107",
+        "accountName": "Settlement/Clearing Account",
+        "debit": 0.0,
+        "credit": 801295.17
+      }
+    ]
+  },
+  {
+    "journalEntryId": "JE-SAF-00024",
+    "entryDate": "2024-02-15T04:47:53Z",
+    "description": "Revaluation \u2014 Safaricom period 24",
+    "reference": "REF-SAF-544378",
+    "status": "Draft",
+    "entryType": "Revaluation",
+    "currency": "KES",
+    "totalDebits": 5804100.08,
+    "totalCredits": 5804100.08,
+    "createdBy": "AccountingBot",
+    "postedBy": "Finance Officer 7",
+    "lines": [
+      {
+        "accountCode": "5795",
+        "accountName": "Revaluation Account",
+        "debit": 5804100.08,
+        "credit": 0.0
+      },
+      {
+        "accountCode": "1387",
+        "accountName": "Settlement/Clearing Account",
+        "debit": 0.0,
+        "credit": 5804100.08
+      }
+    ]
+  },
+  {
+    "journalEntryId": "JE-SAF-00025",
+    "entryDate": "2025-05-04T11:08:09Z",
+    "description": "Intercompany \u2014 Safaricom period 25",
+    "reference": "REF-SAF-623135",
+    "status": "Posted",
+    "entryType": "Intercompany",
+    "currency": "KES",
+    "totalDebits": 2916598.16,
+    "totalCredits": 2916598.16,
+    "createdBy": "AccountingBot",
+    "postedBy": "Finance Officer 7",
+    "lines": [
+      {
+        "accountCode": "2058",
+        "accountName": "Intercompany Account",
+        "debit": 2916598.16,
+        "credit": 0.0
+      },
+      {
+        "accountCode": "4399",
+        "accountName": "Settlement/Clearing Account",
+        "debit": 0.0,
+        "credit": 2916598.16
+      }
+    ]
+  }
+]

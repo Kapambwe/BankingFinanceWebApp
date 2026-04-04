@@ -1,0 +1,163 @@
+[
+  {
+    "userId": "2cec1264-fe62-456f-8f9c-6283816155bc",
+    "email": "admin.microfinance",
+    "username": "admin.microfinance",
+    "firstName": "Microfinance",
+    "lastName": "Admin",
+    "institutionType": "Microfinance",
+    "institutionName": "Christian Empowerment Microfinance",
+    "institutionId": "bc0de242-d8e9-4bcd-bf1d-241d47879ceb",
+    "roles": [
+      "MicrofinanceAdmin"
+    ],
+    "permissions": [],
+    "isActive": true,
+    "isEmailVerified": true,
+    "isPhoneVerified": true,
+    "isIdentityVerified": true,
+    "trustScore": 95,
+    "createdAt": "2023-07-17T00:00:00Z",
+    "phoneNumber": "+260977000000",
+    "gender": "Other",
+    "nationality": "Zambian"
+  },
+  {
+    "userId": "de0c976d-7059-4212-b1f4-720a0bf39564",
+    "email": "branchmanager.microfinance",
+    "username": "branchmanager.microfinance",
+    "firstName": "MFI Branch",
+    "lastName": "Manager",
+    "institutionType": "Microfinance",
+    "institutionName": "Christian Empowerment Microfinance",
+    "institutionId": "bc0de242-d8e9-4bcd-bf1d-241d47879ceb",
+    "roles": [
+      "MFIBranchManager"
+    ],
+    "permissions": [],
+    "isActive": true,
+    "isEmailVerified": true,
+    "isPhoneVerified": true,
+    "isIdentityVerified": true,
+    "trustScore": 95,
+    "createdAt": "2023-07-17T00:00:00Z",
+    "phoneNumber": "+260977000000",
+    "gender": "Other",
+    "nationality": "Zambian"
+  },
+  {
+    "userId": "f1ca3a14-802a-4ec8-8920-2ff7c214f34f",
+    "email": "loanofficer.microfinance",
+    "username": "loanofficer.microfinance",
+    "firstName": "MFI Loan",
+    "lastName": "Officer",
+    "institutionType": "Microfinance",
+    "institutionName": "Christian Empowerment Microfinance",
+    "institutionId": "bc0de242-d8e9-4bcd-bf1d-241d47879ceb",
+    "roles": [
+      "MFILoanOfficer"
+    ],
+    "permissions": [],
+    "isActive": true,
+    "isEmailVerified": true,
+    "isPhoneVerified": true,
+    "isIdentityVerified": true,
+    "trustScore": 95,
+    "createdAt": "2023-07-17T00:00:00Z",
+    "phoneNumber": "+260977000000",
+    "gender": "Other",
+    "nationality": "Zambian"
+  },
+  {
+    "userId": "d3fe83cc-e132-43a0-ba9b-4d125c4ed275",
+    "email": "grouplending.microfinance",
+    "username": "grouplending.microfinance",
+    "firstName": "Group Lending",
+    "lastName": "Officer",
+    "institutionType": "Microfinance",
+    "institutionName": "Christian Empowerment Microfinance",
+    "institutionId": "bc0de242-d8e9-4bcd-bf1d-241d47879ceb",
+    "roles": [
+      "GroupLendingOfficer"
+    ],
+    "permissions": [],
+    "isActive": true,
+    "isEmailVerified": true,
+    "isPhoneVerified": true,
+    "isIdentityVerified": true,
+    "trustScore": 95,
+    "createdAt": "2023-07-17T00:00:00Z",
+    "phoneNumber": "+260977000000",
+    "gender": "Other",
+    "nationality": "Zambian"
+  },
+  {
+    "userId": "14ba729a-2b4d-4177-896c-7aee19194773",
+    "email": "fieldofficer.microfinance",
+    "username": "fieldofficer.microfinance",
+    "firstName": "Field",
+    "lastName": "Officer",
+    "institutionType": "Microfinance",
+    "institutionName": "Christian Empowerment Microfinance",
+    "institutionId": "bc0de242-d8e9-4bcd-bf1d-241d47879ceb",
+    "roles": [
+      "FieldOfficer"
+    ],
+    "permissions": [],
+    "isActive": true,
+    "isEmailVerified": true,
+    "isPhoneVerified": true,
+    "isIdentityVerified": true,
+    "trustScore": 95,
+    "createdAt": "2023-07-17T00:00:00Z",
+    "phoneNumber": "+260977000000",
+    "gender": "Other",
+    "nationality": "Zambian"
+  },
+  {
+    "userId": "73e7a0e9-bc51-44e8-b085-62e3774bde1d",
+    "email": "savingsteller.microfinance",
+    "username": "savingsteller.microfinance",
+    "firstName": "Savings",
+    "lastName": "Teller",
+    "institutionType": "Microfinance",
+    "institutionName": "Christian Empowerment Microfinance",
+    "institutionId": "bc0de242-d8e9-4bcd-bf1d-241d47879ceb",
+    "roles": [
+      "SavingsTeller"
+    ],
+    "permissions": [],
+    "isActive": true,
+    "isEmailVerified": true,
+    "isPhoneVerified": true,
+    "isIdentityVerified": true,
+    "trustScore": 95,
+    "createdAt": "2023-07-17T00:00:00Z",
+    "phoneNumber": "+260977000000",
+    "gender": "Other",
+    "nationality": "Zambian"
+  },
+  {
+    "userId": "0761c693-876c-4c76-8589-5319cdbb2454",
+    "email": "socialperformance.microfinance",
+    "username": "socialperformance.microfinance",
+    "firstName": "Social Performance",
+    "lastName": "Officer",
+    "institutionType": "Microfinance",
+    "institutionName": "Christian Empowerment Microfinance",
+    "institutionId": "bc0de242-d8e9-4bcd-bf1d-241d47879ceb",
+    "roles": [
+      "SocialPerformanceOfficer"
+    ],
+    "permissions": [],
+    "isActive": true,
+    "isEmailVerified": true,
+    "isPhoneVerified": true,
+    "isIdentityVerified": true,
+    "trustScore": 95,
+    "createdAt": "2023-07-17T00:00:00Z",
+    "phoneNumber": "+260977000000",
+    "gender": "Other",
+    "nationality": "Zambian"
+  }
+]

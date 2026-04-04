@@ -1,0 +1,57 @@
+[
+  {
+    "userId": "usr300000-0001",
+    "username": "nomvula.mthembu",
+    "fullName": "Nomvula Mthembu",
+    "email": "nomvula.mthembu@nhi.gov.za",
+    "role": "Admin",
+    "department": "Information Technology",
+    "isActive": true,
+    "lastLogin": "2025-12-21T08:00:00Z",
+    "createdAt": "2025-01-01T00:00:00Z"
+  },
+  {
+    "userId": "usr300000-0002",
+    "username": "sipho.zulu",
+    "fullName": "Sipho Zulu",
+    "email": "sipho.zulu@nhi.gov.za",
+    "role": "Manager",
+    "department": "Claims Administration",
+    "isActive": true,
+    "lastLogin": "2025-12-22T08:00:00Z",
+    "createdAt": "2025-01-01T00:00:00Z"
+  },
+  {
+    "userId": "usr300000-0003",
+    "username": "lerato.mokoena",
+    "fullName": "Lerato Mokoena",
+    "email": "lerato.mokoena@nhi.gov.za",
+    "role": "Operator",
+    "department": "Member Services",
+    "isActive": true,
+    "lastLogin": "2025-12-23T08:00:00Z",
+    "createdAt": "2025-01-01T00:00:00Z"
+  },
+  {
+    "userId": "usr300000-0004",
+    "username": "nkosi.sithole",
+    "fullName": "Nkosi Sithole",
+    "email": "nkosi.sithole@nhi.gov.za",
+    "role": "Manager",
+    "department": "Finance & Accounts",
+    "isActive": true,
+    "lastLogin": "2025-12-24T08:00:00Z",
+    "createdAt": "2025-01-01T00:00:00Z"
+  },
+  {
+    "userId": "usr300000-0005",
+    "username": "zanele.van_der_merwe",
+    "fullName": "Zanele van der Merwe",
+    "email": "zanele.van_der_merwe@nhi.gov.za",
+    "role": "Operator",
+    "department": "Enrollment & Registration",
+    "isActive": true,
+    "lastLogin": "2025-12-25T08:00:00Z",
+    "createdAt": "2025-01-01T00:00:00Z"
+  }
+]

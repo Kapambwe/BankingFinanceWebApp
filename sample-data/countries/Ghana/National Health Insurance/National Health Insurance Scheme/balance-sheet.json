@@ -1,0 +1,107 @@
+[
+  {
+    "section": "CurrentAssets",
+    "accountCode": "1001",
+    "accountName": "Cash and Bank Balances",
+    "balance": 9.0,
+    "currency": "GHS"
+  },
+  {
+    "section": "CurrentAssets",
+    "accountCode": "1002",
+    "accountName": "Member Contribution Receivable",
+    "balance": 6.0,
+    "currency": "GHS"
+  },
+  {
+    "section": "CurrentAssets",
+    "accountCode": "1003",
+    "accountName": "Government Subvention Receivable",
+    "balance": 4.0,
+    "currency": "GHS"
+  },
+  {
+    "section": "CurrentAssets",
+    "accountCode": "1004",
+    "accountName": "Short-Term Investments",
+    "balance": 7.0,
+    "currency": "GHS"
+  },
+  {
+    "section": "CurrentAssets",
+    "accountCode": "1005",
+    "accountName": "Prepaid Expenses",
+    "balance": 1.0,
+    "currency": "GHS"
+  },
+  {
+    "section": "NonCurrentAssets",
+    "accountCode": "1101",
+    "accountName": "Property and Equipment",
+    "balance": 25.0,
+    "currency": "GHS"
+  },
+  {
+    "section": "NonCurrentAssets",
+    "accountCode": "1102",
+    "accountName": "Claims Management System",
+    "balance": 6.0,
+    "currency": "GHS"
+  },
+  {
+    "section": "NonCurrentAssets",
+    "accountCode": "1103",
+    "accountName": "Long-Term Investments",
+    "balance": 14.0,
+    "currency": "GHS"
+  },
+  {
+    "section": "CurrentLiabilities",
+    "accountCode": "2001",
+    "accountName": "Outstanding Claims Payable",
+    "balance": 7.0,
+    "currency": "GHS"
+  },
+  {
+    "section": "CurrentLiabilities",
+    "accountCode": "2002",
+    "accountName": "Accrued Staff Costs",
+    "balance": 3.0,
+    "currency": "GHS"
+  },
+  {
+    "section": "CurrentLiabilities",
+    "accountCode": "2003",
+    "accountName": "Provider Fees Payable",
+    "balance": 2.0,
+    "currency": "GHS"
+  },
+  {
+    "section": "NonCurrentLiabilities",
+    "accountCode": "2101",
+    "accountName": "Claims Reserve",
+    "balance": 18.0,
+    "currency": "GHS"
+  },
+  {
+    "section": "NonCurrentLiabilities",
+    "accountCode": "2102",
+    "accountName": "IBNR Reserve",
+    "balance": 7.0,
+    "currency": "GHS"
+  },
+  {
+    "section": "Equity",
+    "accountCode": "3001",
+    "accountName": "Government Capital Contribution",
+    "balance": 22.0,
+    "currency": "GHS"
+  },
+  {
+    "section": "Equity",
+    "accountCode": "3002",
+    "accountName": "Retained Surplus",
+    "balance": 7.0,
+    "currency": "GHS"
+  }
+]

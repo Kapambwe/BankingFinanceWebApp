@@ -1,0 +1,125 @@
+[
+  {
+    "partnerId": "RP-NAM-001",
+    "businessName": "Shoprite Namibia Namibia Ltd",
+    "brandName": "Shoprite Namibia",
+    "partnerType": "Supermarket",
+    "country": "Namibia",
+    "currency": "NAD",
+    "contactPerson": "Partner Manager 1",
+    "email": "banking@shopritenami.na",
+    "phoneNumber": "+753-726-871630",
+    "servicesOffered": [
+      "CashDeposit",
+      "MoneyTransfer",
+      "BillPayment",
+      "LoanPayment"
+    ],
+    "acceptedPaymentMethods": [
+      "Cash",
+      "USSD"
+    ],
+    "totalStores": 215,
+    "activeStores": 209,
+    "storeLocations": [
+      "Windhoek",
+      "Walvis Bay",
+      "Swakopmund"
+    ],
+    "monthlyTransactionVolume": 533066.94,
+    "monthlyTransactionCount": 42310,
+    "averageTransactionSize": 110.16,
+    "commissionRate": 1.7,
+    "monthlyRevenue": 4641.71,
+    "partnershipStartDate": "2023-06-16T18:10:28Z",
+    "status": "PendingApproval",
+    "brandColor": "#24f815",
+    "isIntegrated": false,
+    "lastSyncDate": null
+  },
+  {
+    "partnerId": "RP-NAM-002",
+    "businessName": "Pick n Pay Namibia Namibia Ltd",
+    "brandName": "Pick n Pay Namibia",
+    "partnerType": "ConvenienceStore",
+    "country": "Namibia",
+    "currency": "NAD",
+    "contactPerson": "Partner Manager 2",
+    "email": "banking@picknpaynami.na",
+    "phoneNumber": "+971-888-495985",
+    "servicesOffered": [
+      "BillPayment",
+      "MoneyTransfer",
+      "CashDeposit",
+      "LoanPayment",
+      "CashWithdrawal",
+      "AccountOpening"
+    ],
+    "acceptedPaymentMethods": [
+      "QRCode",
+      "CardTap"
+    ],
+    "totalStores": 11,
+    "activeStores": 10,
+    "storeLocations": [
+      "Windhoek",
+      "Swakopmund",
+      "Oshakati",
+      "Walvis Bay"
+    ],
+    "monthlyTransactionVolume": 2425651.69,
+    "monthlyTransactionCount": 43613,
+    "averageTransactionSize": 84.15,
+    "commissionRate": 0.3,
+    "monthlyRevenue": 28153.87,
+    "partnershipStartDate": "2024-10-07T18:10:28Z",
+    "status": "Active",
+    "brandColor": "#2ddcf5",
+    "isIntegrated": false,
+    "lastSyncDate": "2026-03-04T18:10:28Z"
+  },
+  {
+    "partnerId": "RP-NAM-003",
+    "businessName": "Spar Namibia Namibia Ltd",
+    "brandName": "Spar Namibia",
+    "partnerType": "SmallShop",
+    "country": "Namibia",
+    "currency": "NAD",
+    "contactPerson": "Partner Manager 3",
+    "email": "banking@sparnamibia.na",
+    "phoneNumber": "+298-677-880247",
+    "servicesOffered": [
+      "AccountOpening",
+      "AirtimePurchase",
+      "LoanPayment",
+      "BillPayment",
+      "MoneyTransfer",
+      "CashWithdrawal"
+    ],
+    "acceptedPaymentMethods": [
+      "PhoneNumber",
+      "QRCode",
+      "CardTap",
+      "AccountNumber",
+      "Cash",
+      "USSD"
+    ],
+    "totalStores": 175,
+    "activeStores": 161,
+    "storeLocations": [
+      "Walvis Bay",
+      "Windhoek",
+      "Swakopmund"
+    ],
+    "monthlyTransactionVolume": 4188646.92,
+    "monthlyTransactionCount": 4870,
+    "averageTransactionSize": 122.65,
+    "commissionRate": 1.83,
+    "monthlyRevenue": 49651.25,
+    "partnershipStartDate": "2022-04-28T18:10:28Z",
+    "status": "Active",
+    "brandColor": "#38c29c",
+    "isIntegrated": false,
+    "lastSyncDate": "2026-03-02T18:10:28Z"
+  }
+]

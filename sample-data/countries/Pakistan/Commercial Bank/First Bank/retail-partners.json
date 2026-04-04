@@ -1,0 +1,123 @@
+[
+  {
+    "partnerId": "RP-PAK-001",
+    "businessName": "Carrefour Pakistan Pakistan Ltd",
+    "brandName": "Carrefour Pakistan",
+    "partnerType": "Supermarket",
+    "country": "Pakistan",
+    "currency": "PKR",
+    "contactPerson": "Partner Manager 1",
+    "email": "banking@carrefourpak.pa",
+    "phoneNumber": "+761-508-375311",
+    "servicesOffered": [
+      "AirtimePurchase",
+      "MoneyTransfer",
+      "LoanPayment"
+    ],
+    "acceptedPaymentMethods": [
+      "CardTap",
+      "Cash",
+      "USSD",
+      "PhoneNumber",
+      "AccountNumber"
+    ],
+    "totalStores": 118,
+    "activeStores": 107,
+    "storeLocations": [
+      "Lahore",
+      "Rawalpindi"
+    ],
+    "monthlyTransactionVolume": 3483888.58,
+    "monthlyTransactionCount": 37154,
+    "averageTransactionSize": 258.39,
+    "commissionRate": 1.13,
+    "monthlyRevenue": 37720.0,
+    "partnershipStartDate": "2025-01-27T18:10:28Z",
+    "status": "Active",
+    "brandColor": "#346a91",
+    "isIntegrated": true,
+    "lastSyncDate": "2026-03-03T18:10:28Z"
+  },
+  {
+    "partnerId": "RP-PAK-002",
+    "businessName": "Metro Cash Pakistan Ltd",
+    "brandName": "Metro Cash",
+    "partnerType": "SmallShop",
+    "country": "Pakistan",
+    "currency": "PKR",
+    "contactPerson": "Partner Manager 2",
+    "email": "banking@metrocash.pa",
+    "phoneNumber": "+651-145-957915",
+    "servicesOffered": [
+      "CashWithdrawal",
+      "AccountOpening",
+      "BillPayment",
+      "LoanPayment"
+    ],
+    "acceptedPaymentMethods": [
+      "Cash",
+      "PhoneNumber",
+      "USSD",
+      "AccountNumber",
+      "CardTap",
+      "QRCode"
+    ],
+    "totalStores": 102,
+    "activeStores": 101,
+    "storeLocations": [
+      "Karachi",
+      "Rawalpindi"
+    ],
+    "monthlyTransactionVolume": 2599869.98,
+    "monthlyTransactionCount": 41198,
+    "averageTransactionSize": 255.44,
+    "commissionRate": 1.78,
+    "monthlyRevenue": 33386.51,
+    "partnershipStartDate": "2026-02-04T18:10:28Z",
+    "status": "Active",
+    "brandColor": "#b17038",
+    "isIntegrated": true,
+    "lastSyncDate": "2026-03-03T18:10:28Z"
+  },
+  {
+    "partnerId": "RP-PAK-003",
+    "businessName": "Imtiaz Super Market Pakistan Ltd",
+    "brandName": "Imtiaz Super Market",
+    "partnerType": "Supermarket",
+    "country": "Pakistan",
+    "currency": "PKR",
+    "contactPerson": "Partner Manager 3",
+    "email": "banking@imtiazsuperm.pa",
+    "phoneNumber": "+461-274-163029",
+    "servicesOffered": [
+      "CashWithdrawal",
+      "AccountOpening",
+      "MoneyTransfer",
+      "BillPayment",
+      "CashDeposit"
+    ],
+    "acceptedPaymentMethods": [
+      "Cash",
+      "PhoneNumber",
+      "QRCode"
+    ],
+    "totalStores": 285,
+    "activeStores": 271,
+    "storeLocations": [
+      "Karachi",
+      "Rawalpindi",
+      "Lahore",
+      "Islamabad"
+    ],
+    "monthlyTransactionVolume": 3890059.33,
+    "monthlyTransactionCount": 43949,
+    "averageTransactionSize": 88.9,
+    "commissionRate": 0.91,
+    "monthlyRevenue": 16706.63,
+    "partnershipStartDate": "2024-07-13T18:10:28Z",
+    "status": "PendingApproval",
+    "brandColor": "#36f15d",
+    "isIntegrated": false,
+    "lastSyncDate": null
+  }
+]

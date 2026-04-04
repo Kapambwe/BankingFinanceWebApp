@@ -1,0 +1,35 @@
+[
+  {
+    "recurringInvoiceId": "ri500000-0001",
+    "name": "Monthly Government Subvention",
+    "customer": "Ministry of Health Kenya",
+    "amount": 3674.0,
+    "currency": "KES",
+    "frequency": "Monthly",
+    "nextInvoiceDate": "2026-01-01",
+    "status": "Active",
+    "createdAt": "2025-01-01T00:00:00Z"
+  },
+  {
+    "recurringInvoiceId": "ri500000-0002",
+    "name": "Monthly Employer Contributions",
+    "customer": "Safaricom PLC",
+    "amount": 1224.0,
+    "currency": "KES",
+    "frequency": "Monthly",
+    "nextInvoiceDate": "2026-01-01",
+    "status": "Active",
+    "createdAt": "2025-01-01T00:00:00Z"
+  },
+  {
+    "recurringInvoiceId": "ri500000-0003",
+    "name": "Quarterly Employer Group Billing",
+    "customer": "Kenya Commercial Bank",
+    "amount": 980.0,
+    "currency": "KES",
+    "frequency": "Quarterly",
+    "nextInvoiceDate": "2026-01-01",
+    "status": "Active",
+    "createdAt": "2025-01-01T00:00:00Z"
+  }
+]

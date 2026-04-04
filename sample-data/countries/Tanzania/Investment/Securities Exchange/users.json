@@ -1,0 +1,71 @@
+[
+  {
+    "userId": "4327d7d7-cdff-4c75-97d8-b7611cd8d789",
+    "email": "admin.investment",
+    "username": "admin.investment",
+    "firstName": "Investment",
+    "lastName": "Admin",
+    "institutionType": "Investment",
+    "institutionName": "Stockbrokers Tanzania",
+    "institutionId": "b9789734-2fe9-40d3-bd18-65ebed4ef22b",
+    "roles": [
+      "InvestmentAdmin"
+    ],
+    "permissions": [],
+    "isActive": true,
+    "isEmailVerified": true,
+    "isPhoneVerified": true,
+    "isIdentityVerified": true,
+    "trustScore": 95,
+    "createdAt": "2025-07-31T00:00:00Z",
+    "phoneNumber": "+260977000000",
+    "gender": "Other",
+    "nationality": "Zambian"
+  },
+  {
+    "userId": "925a6a77-fa45-4a9d-86c6-c405933b94e3",
+    "email": "portfoliomanager.investment",
+    "username": "portfoliomanager.investment",
+    "firstName": "Portfolio",
+    "lastName": "Manager",
+    "institutionType": "Investment",
+    "institutionName": "Stockbrokers Tanzania",
+    "institutionId": "b9789734-2fe9-40d3-bd18-65ebed4ef22b",
+    "roles": [
+      "PortfolioManager"
+    ],
+    "permissions": [],
+    "isActive": true,
+    "isEmailVerified": true,
+    "isPhoneVerified": true,
+    "isIdentityVerified": true,
+    "trustScore": 95,
+    "createdAt": "2025-07-31T00:00:00Z",
+    "phoneNumber": "+260977000000",
+    "gender": "Other",
+    "nationality": "Zambian"
+  },
+  {
+    "userId": "62d8a866-bd49-4785-8077-e41e8be94063",
+    "email": "trader.investment",
+    "username": "trader.investment",
+    "firstName": "Investment",
+    "lastName": "Trader",
+    "institutionType": "Investment",
+    "institutionName": "Stockbrokers Tanzania",
+    "institutionId": "b9789734-2fe9-40d3-bd18-65ebed4ef22b",
+    "roles": [
+      "Trader"
+    ],
+    "permissions": [],
+    "isActive": true,
+    "isEmailVerified": true,
+    "isPhoneVerified": true,
+    "isIdentityVerified": true,
+    "trustScore": 95,
+    "createdAt": "2025-07-31T00:00:00Z",
+    "phoneNumber": "+260977000000",
+    "gender": "Other",
+    "nationality": "Zambian"
+  }
+]

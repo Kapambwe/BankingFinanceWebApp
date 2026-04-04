@@ -1,0 +1,7 @@
+[
+  {"entryId":"AX-JE-001","date":"2025-09-10T00:00:00Z","description":"Trade Finance Disbursement - Nigeria Cocoa Exports","debitAccount":"1100","creditAccount":"1000","amount":350000000.00,"currency":"USD","status":"Posted"},
+  {"entryId":"AX-JE-002","date":"2025-10-15T00:00:00Z","description":"Export Credit Disbursement - Cote d'Ivoire","debitAccount":"1200","creditAccount":"1000","amount":120000000.00,"currency":"USD","status":"Posted"},
+  {"entryId":"AX-JE-003","date":"2025-11-20T00:00:00Z","description":"Repayment Received - Tanzania Mining","debitAccount":"1000","creditAccount":"1100","amount":85000000.00,"currency":"USD","status":"Posted"},
+  {"entryId":"AX-JE-004","date":"2025-12-31T00:00:00Z","description":"Interest Income Accrual - Q4 2025","debitAccount":"1300","creditAccount":"4000","amount":412500000.00,"currency":"USD","status":"Posted"},
+  {"entryId":"AX-JE-005","date":"2025-12-31T00:00:00Z","description":"Provision for Credit Losses - Q4 2025","debitAccount":"5100","creditAccount":"2100","amount":30000000.00,"currency":"USD","status":"Posted"}
+]

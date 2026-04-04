@@ -1,0 +1,7 @@
+[
+  {"customerId":"ebrd-c001-1a2b-3c4d-5e6f-7a8b9c0d1e2f","customerName":"Arab Republic of Egypt","creditScore":640,"creditRating":"B","riskCategory":"Medium-High","lastAssessmentDate":"2025-12-01T00:00:00Z","debtToGdpRatio":"92.8%"},
+  {"customerId":"ebrd-c002-2b3c-4d5e-6f7a-8b9c0d1e2f3a","customerName":"Kingdom of Morocco","creditScore":700,"creditRating":"BB+","riskCategory":"Medium","lastAssessmentDate":"2025-12-01T00:00:00Z","debtToGdpRatio":"69.5%"},
+  {"customerId":"ebrd-c003-3c4d-5e6f-7a8b-9c0d1e2f3a4b","customerName":"Republic of Tunisia","creditScore":620,"creditRating":"B-","riskCategory":"High","lastAssessmentDate":"2025-12-01T00:00:00Z","debtToGdpRatio":"82.4%"},
+  {"customerId":"ebrd-c004-4d5e-6f7a-8b9c-0d1e2f3a4b5c","customerName":"Federal Republic of Nigeria","creditScore":680,"creditRating":"BBB-","riskCategory":"Medium","lastAssessmentDate":"2025-12-01T00:00:00Z","debtToGdpRatio":"38.5%"},
+  {"customerId":"ebrd-c005-5e6f-7a8b-9c0d-1e2f3a4b5c6d","customerName":"Republic of South Africa","creditScore":710,"creditRating":"BB-","riskCategory":"Medium","lastAssessmentDate":"2025-12-01T00:00:00Z","debtToGdpRatio":"73.1%"}
+]

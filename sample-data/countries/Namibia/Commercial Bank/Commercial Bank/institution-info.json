@@ -1,0 +1,17 @@
+{
+  "registrationNumber": "REG-22501",
+  "contactEmail": "accessbankNamibia@example.zm",
+  "createdAt": "2025-07-25T00:00:00Z",
+  "branches": 5,
+  "institutionType": "Commercial Bank",
+  "institutionName": "Access Bank Namibia",
+  "country": "Namibia",
+  "established": 1987,
+  "employees": 3311,
+  "contactPhone": "+260-903-555269",
+  "headquarters": "Walvis Bay",
+  "institutionId": "3a1fd426-a9d7-40dc-92f6-6ba3496c65a9",
+  "currency": "NAD",
+  "status": "Active",
+  "website": "https://www.accessbankNamibia.co.zm"
+}

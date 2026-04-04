@@ -1,0 +1,7 @@
+[
+  {"entryId":"EIB-JE-001","date":"2025-08-20T00:00:00Z","description":"Global Gateway Disbursement - Morocco Renewable Energy","debitAccount":"1100","creditAccount":"1000","amount":600000000.00,"currency":"EUR","status":"Posted"},
+  {"entryId":"EIB-JE-002","date":"2025-09-15T00:00:00Z","description":"Climate Finance Disbursement - Tunisia Water Desalination","debitAccount":"1200","creditAccount":"1000","amount":350000000.00,"currency":"EUR","status":"Posted"},
+  {"entryId":"EIB-JE-003","date":"2025-10-10T00:00:00Z","description":"Infrastructure Loan Disbursement - Kenya Transport","debitAccount":"1300","creditAccount":"1000","amount":280000000.00,"currency":"EUR","status":"Posted"},
+  {"entryId":"EIB-JE-004","date":"2025-11-01T00:00:00Z","description":"Loan Repayment Received - Morocco","debitAccount":"1000","creditAccount":"1100","amount":85000000.00,"currency":"EUR","status":"Posted"},
+  {"entryId":"EIB-JE-005","date":"2025-12-31T00:00:00Z","description":"Interest Income Accrual - Q4 2025","debitAccount":"1400","creditAccount":"4000","amount":3550000000.00,"currency":"EUR","status":"Posted"}
+]

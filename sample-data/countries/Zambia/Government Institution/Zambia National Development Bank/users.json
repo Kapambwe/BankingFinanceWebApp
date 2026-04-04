@@ -1,0 +1,163 @@
+[
+  {
+    "userId": "219b542b-d77b-4486-9620-5ec16eb9357b",
+    "email": "admin.government",
+    "username": "admin.government",
+    "firstName": "Government",
+    "lastName": "Admin",
+    "institutionType": "Government Institution",
+    "institutionName": "Zambia National Development Bank",
+    "institutionId": "c858b0e7-fca9-414b-9a41-6b3459b97464",
+    "roles": [
+      "GovernmentAdmin"
+    ],
+    "permissions": [],
+    "isActive": true,
+    "isEmailVerified": true,
+    "isPhoneVerified": true,
+    "isIdentityVerified": true,
+    "trustScore": 95,
+    "createdAt": "2025-12-21T00:00:00Z",
+    "phoneNumber": "+260977000000",
+    "gender": "Other",
+    "nationality": "Zambian"
+  },
+  {
+    "userId": "f1117427-5050-4c92-961f-43e2cffd836a",
+    "email": "projectfinance.government",
+    "username": "projectfinance.government",
+    "firstName": "Project Finance",
+    "lastName": "Manager",
+    "institutionType": "Government Institution",
+    "institutionName": "Zambia National Development Bank",
+    "institutionId": "c858b0e7-fca9-414b-9a41-6b3459b97464",
+    "roles": [
+      "ProjectFinanceManager"
+    ],
+    "permissions": [],
+    "isActive": true,
+    "isEmailVerified": true,
+    "isPhoneVerified": true,
+    "isIdentityVerified": true,
+    "trustScore": 95,
+    "createdAt": "2025-12-21T00:00:00Z",
+    "phoneNumber": "+260977000000",
+    "gender": "Other",
+    "nationality": "Zambian"
+  },
+  {
+    "userId": "b4fe5b8d-5bb2-4f23-9da3-1d76837db78b",
+    "email": "loansclerk.government",
+    "username": "loansclerk.government",
+    "firstName": "Loans",
+    "lastName": "Clerk",
+    "institutionType": "Government Institution",
+    "institutionName": "Zambia National Development Bank",
+    "institutionId": "c858b0e7-fca9-414b-9a41-6b3459b97464",
+    "roles": [
+      "LoansClerk"
+    ],
+    "permissions": [],
+    "isActive": true,
+    "isEmailVerified": true,
+    "isPhoneVerified": true,
+    "isIdentityVerified": true,
+    "trustScore": 95,
+    "createdAt": "2025-12-21T00:00:00Z",
+    "phoneNumber": "+260977000000",
+    "gender": "Other",
+    "nationality": "Zambian"
+  },
+  {
+    "userId": "4e599009-e959-4070-a57b-39c0b9dfae4b",
+    "email": "socialprotection.government",
+    "username": "socialprotection.government",
+    "firstName": "Social Protection",
+    "lastName": "Officer",
+    "institutionType": "Government Institution",
+    "institutionName": "Zambia National Development Bank",
+    "institutionId": "c858b0e7-fca9-414b-9a41-6b3459b97464",
+    "roles": [
+      "SocialProtectionOfficer"
+    ],
+    "permissions": [],
+    "isActive": true,
+    "isEmailVerified": true,
+    "isPhoneVerified": true,
+    "isIdentityVerified": true,
+    "trustScore": 95,
+    "createdAt": "2025-12-21T00:00:00Z",
+    "phoneNumber": "+260977000000",
+    "gender": "Other",
+    "nationality": "Zambian"
+  },
+  {
+    "userId": "64979c3e-a3bb-479f-8377-35ae91670d31",
+    "email": "me.government",
+    "username": "me.government",
+    "firstName": "M&E",
+    "lastName": "Officer",
+    "institutionType": "Government Institution",
+    "institutionName": "Zambia National Development Bank",
+    "institutionId": "c858b0e7-fca9-414b-9a41-6b3459b97464",
+    "roles": [
+      "MEOfficer"
+    ],
+    "permissions": [],
+    "isActive": true,
+    "isEmailVerified": true,
+    "isPhoneVerified": true,
+    "isIdentityVerified": true,
+    "trustScore": 95,
+    "createdAt": "2025-12-21T00:00:00Z",
+    "phoneNumber": "+260977000000",
+    "gender": "Other",
+    "nationality": "Zambian"
+  },
+  {
+    "userId": "48606c5b-6b9d-4c20-a56e-1a65f21b8521",
+    "email": "procurement.government",
+    "username": "procurement.government",
+    "firstName": "Procurement",
+    "lastName": "Officer",
+    "institutionType": "Government Institution",
+    "institutionName": "Zambia National Development Bank",
+    "institutionId": "c858b0e7-fca9-414b-9a41-6b3459b97464",
+    "roles": [
+      "ProcurementOfficer"
+    ],
+    "permissions": [],
+    "isActive": true,
+    "isEmailVerified": true,
+    "isPhoneVerified": true,
+    "isIdentityVerified": true,
+    "trustScore": 95,
+    "createdAt": "2025-12-21T00:00:00Z",
+    "phoneNumber": "+260977000000",
+    "gender": "Other",
+    "nationality": "Zambian"
+  },
+  {
+    "userId": "540a0631-79e9-40f0-9089-14d70395318d",
+    "email": "financeclerk.government",
+    "username": "financeclerk.government",
+    "firstName": "Finance",
+    "lastName": "Clerk",
+    "institutionType": "Government Institution",
+    "institutionName": "Zambia National Development Bank",
+    "institutionId": "c858b0e7-fca9-414b-9a41-6b3459b97464",
+    "roles": [
+      "GovernmentFinanceClerk"
+    ],
+    "permissions": [],
+    "isActive": true,
+    "isEmailVerified": true,
+    "isPhoneVerified": true,
+    "isIdentityVerified": true,
+    "trustScore": 95,
+    "createdAt": "2025-12-21T00:00:00Z",
+    "phoneNumber": "+260977000000",
+    "gender": "Other",
+    "nationality": "Zambian"
+  }
+]

@@ -1,0 +1,5 @@
+[
+  {"billId":"SHAF-BILL-001","customerId":"sh-c001-1234-5678-abcd-ef1234567890","amount":875000.00,"currency":"USD","dueDate":"2026-03-31T00:00:00Z","status":"Pending","description":"Housing Loan Interest Q1 2026","issuedDate":"2026-01-01T00:00:00Z"},
+  {"billId":"SHAF-BILL-002","customerId":"sh-c003-3456-7890-cdef-123456789012","amount":450000.00,"currency":"USD","dueDate":"2026-04-15T00:00:00Z","status":"Pending","description":"Construction Finance Interest","issuedDate":"2026-01-15T00:00:00Z"},
+  {"billId":"SHAF-BILL-003","customerId":"sh-c004-4567-8901-defa-234567890123","amount":625000.00,"currency":"USD","dueDate":"2026-06-30T00:00:00Z","status":"Pending","description":"Real Estate Loan Service H1 2026","issuedDate":"2026-01-20T00:00:00Z"}
+]

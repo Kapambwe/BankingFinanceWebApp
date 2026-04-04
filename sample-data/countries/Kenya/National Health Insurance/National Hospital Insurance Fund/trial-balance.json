@@ -1,0 +1,114 @@
+[
+  {
+    "accountCode": "1001",
+    "accountName": "Cash and Bank Balances",
+    "accountType": "Asset",
+    "debit": 88.0,
+    "credit": 0,
+    "currency": "KES"
+  },
+  {
+    "accountCode": "1002",
+    "accountName": "Member Contribution Receivable",
+    "accountType": "Asset",
+    "debit": 59.0,
+    "credit": 0,
+    "currency": "KES"
+  },
+  {
+    "accountCode": "1101",
+    "accountName": "Property and Equipment",
+    "accountType": "Asset",
+    "debit": 257.0,
+    "credit": 0,
+    "currency": "KES"
+  },
+  {
+    "accountCode": "1103",
+    "accountName": "Long-Term Investments",
+    "accountType": "Asset",
+    "debit": 147.0,
+    "credit": 0,
+    "currency": "KES"
+  },
+  {
+    "accountCode": "2001",
+    "accountName": "Outstanding Claims Payable",
+    "accountType": "Liability",
+    "debit": 0,
+    "credit": 66.0,
+    "currency": "KES"
+  },
+  {
+    "accountCode": "2101",
+    "accountName": "Claims Reserve",
+    "accountType": "Liability",
+    "debit": 0,
+    "credit": 184.0,
+    "currency": "KES"
+  },
+  {
+    "accountCode": "3001",
+    "accountName": "Government Capital Contribution",
+    "accountType": "Equity",
+    "debit": 0,
+    "credit": 220.0,
+    "currency": "KES"
+  },
+  {
+    "accountCode": "4001",
+    "accountName": "Member Contributions",
+    "accountType": "Revenue",
+    "debit": 0,
+    "credit": 404.0,
+    "currency": "KES"
+  },
+  {
+    "accountCode": "4002",
+    "accountName": "Government Subvention",
+    "accountType": "Revenue",
+    "debit": 0,
+    "credit": 220.0,
+    "currency": "KES"
+  },
+  {
+    "accountCode": "5001",
+    "accountName": "Claims Paid",
+    "accountType": "Expense",
+    "debit": 426.0,
+    "credit": 0,
+    "currency": "KES"
+  },
+  {
+    "accountCode": "5002",
+    "accountName": "Staff Costs",
+    "accountType": "Expense",
+    "debit": 132.0,
+    "credit": 0,
+    "currency": "KES"
+  },
+  {
+    "accountCode": "5003",
+    "accountName": "Administrative Expenses",
+    "accountType": "Expense",
+    "debit": 59.0,
+    "credit": 0,
+    "currency": "KES"
+  },
+  {
+    "accountCode": "3002",
+    "accountName": "Retained Surplus",
+    "accountType": "Equity",
+    "debit": 0,
+    "credit": 74.0,
+    "currency": "KES"
+  },
+  {
+    "accountCode": "TOTAL",
+    "accountName": "TOTAL",
+    "accountType": "Summary",
+    "debit": 1168.0,
+    "credit": 1168.0,
+    "currency": "KES"
+  }
+]

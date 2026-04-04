@@ -1,0 +1,17 @@
+{
+  "registrationNumber": "REG-89459",
+  "contactEmail": "fincaIndia@example.zm",
+  "createdAt": "2023-08-03T00:00:00Z",
+  "branches": 8,
+  "institutionType": "Microfinance",
+  "institutionName": "FINCA India",
+  "country": "India",
+  "established": 1980,
+  "employees": 4170,
+  "contactPhone": "+260-953-808905",
+  "headquarters": "Mumbai",
+  "institutionId": "4ffe374f-f49d-4a0a-9c26-9bf64d47d25f",
+  "currency": "INR",
+  "status": "Active",
+  "website": "https://www.fincaIndia.co.zm"
+}

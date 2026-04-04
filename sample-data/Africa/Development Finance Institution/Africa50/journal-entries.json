@@ -1,0 +1,6 @@
+[
+  {"entryId":"AF50-JE-001","date":"2025-09-20T00:00:00Z","description":"Equity Investment - Noor Midelt Solar Phase 3","debitAccount":"1200","creditAccount":"1000","amount":80000000.00,"currency":"USD","status":"Posted"},
+  {"entryId":"AF50-JE-002","date":"2025-10-15T00:00:00Z","description":"Project Finance Disbursement - Expressway","debitAccount":"1100","creditAccount":"1000","amount":120000000.00,"currency":"USD","status":"Posted"},
+  {"entryId":"AF50-JE-003","date":"2025-12-20T00:00:00Z","description":"Revenue Share Received - Solar Project","debitAccount":"1000","creditAccount":"4000","amount":15000000.00,"currency":"USD","status":"Posted"},
+  {"entryId":"AF50-JE-004","date":"2025-12-31T00:00:00Z","description":"Interest Income Accrual - Q4 2025","debitAccount":"1300","creditAccount":"4000","amount":46250000.00,"currency":"USD","status":"Posted"}
+]

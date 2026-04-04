@@ -1,0 +1,163 @@
+[
+  {
+    "userId": "177e3fb4-48dc-4307-b3fb-3fa94f4a866f",
+    "email": "admin.microfinance",
+    "username": "admin.microfinance",
+    "firstName": "Microfinance",
+    "lastName": "Admin",
+    "institutionType": "Microfinance",
+    "institutionName": "Public Service Micro Finance Company",
+    "institutionId": "5cee823f-3fa2-47fe-990c-c508bfce0e35",
+    "roles": [
+      "MicrofinanceAdmin"
+    ],
+    "permissions": [],
+    "isActive": true,
+    "isEmailVerified": true,
+    "isPhoneVerified": true,
+    "isIdentityVerified": true,
+    "trustScore": 95,
+    "createdAt": "2023-09-30T00:00:00Z",
+    "phoneNumber": "+260977000000",
+    "gender": "Other",
+    "nationality": "Zambian"
+  },
+  {
+    "userId": "bc3d2ea5-41dc-4b76-be50-b9c548287cf1",
+    "email": "branchmanager.microfinance",
+    "username": "branchmanager.microfinance",
+    "firstName": "MFI Branch",
+    "lastName": "Manager",
+    "institutionType": "Microfinance",
+    "institutionName": "Public Service Micro Finance Company",
+    "institutionId": "5cee823f-3fa2-47fe-990c-c508bfce0e35",
+    "roles": [
+      "MFIBranchManager"
+    ],
+    "permissions": [],
+    "isActive": true,
+    "isEmailVerified": true,
+    "isPhoneVerified": true,
+    "isIdentityVerified": true,
+    "trustScore": 95,
+    "createdAt": "2023-09-30T00:00:00Z",
+    "phoneNumber": "+260977000000",
+    "gender": "Other",
+    "nationality": "Zambian"
+  },
+  {
+    "userId": "9e2cb3f6-078f-42cd-9a7c-3477ba650a87",
+    "email": "loanofficer.microfinance",
+    "username": "loanofficer.microfinance",
+    "firstName": "MFI Loan",
+    "lastName": "Officer",
+    "institutionType": "Microfinance",
+    "institutionName": "Public Service Micro Finance Company",
+    "institutionId": "5cee823f-3fa2-47fe-990c-c508bfce0e35",
+    "roles": [
+      "MFILoanOfficer"
+    ],
+    "permissions": [],
+    "isActive": true,
+    "isEmailVerified": true,
+    "isPhoneVerified": true,
+    "isIdentityVerified": true,
+    "trustScore": 95,
+    "createdAt": "2023-09-30T00:00:00Z",
+    "phoneNumber": "+260977000000",
+    "gender": "Other",
+    "nationality": "Zambian"
+  },
+  {
+    "userId": "faea6f0f-5877-45d2-b0e9-12c6d6478c8b",
+    "email": "grouplending.microfinance",
+    "username": "grouplending.microfinance",
+    "firstName": "Group Lending",
+    "lastName": "Officer",
+    "institutionType": "Microfinance",
+    "institutionName": "Public Service Micro Finance Company",
+    "institutionId": "5cee823f-3fa2-47fe-990c-c508bfce0e35",
+    "roles": [
+      "GroupLendingOfficer"
+    ],
+    "permissions": [],
+    "isActive": true,
+    "isEmailVerified": true,
+    "isPhoneVerified": true,
+    "isIdentityVerified": true,
+    "trustScore": 95,
+    "createdAt": "2023-09-30T00:00:00Z",
+    "phoneNumber": "+260977000000",
+    "gender": "Other",
+    "nationality": "Zambian"
+  },
+  {
+    "userId": "6e289778-94b2-4034-9236-21d0aed7f530",
+    "email": "fieldofficer.microfinance",
+    "username": "fieldofficer.microfinance",
+    "firstName": "Field",
+    "lastName": "Officer",
+    "institutionType": "Microfinance",
+    "institutionName": "Public Service Micro Finance Company",
+    "institutionId": "5cee823f-3fa2-47fe-990c-c508bfce0e35",
+    "roles": [
+      "FieldOfficer"
+    ],
+    "permissions": [],
+    "isActive": true,
+    "isEmailVerified": true,
+    "isPhoneVerified": true,
+    "isIdentityVerified": true,
+    "trustScore": 95,
+    "createdAt": "2023-09-30T00:00:00Z",
+    "phoneNumber": "+260977000000",
+    "gender": "Other",
+    "nationality": "Zambian"
+  },
+  {
+    "userId": "3a9a5d3f-9d5f-4101-b6f4-ea3f60621e5d",
+    "email": "savingsteller.microfinance",
+    "username": "savingsteller.microfinance",
+    "firstName": "Savings",
+    "lastName": "Teller",
+    "institutionType": "Microfinance",
+    "institutionName": "Public Service Micro Finance Company",
+    "institutionId": "5cee823f-3fa2-47fe-990c-c508bfce0e35",
+    "roles": [
+      "SavingsTeller"
+    ],
+    "permissions": [],
+    "isActive": true,
+    "isEmailVerified": true,
+    "isPhoneVerified": true,
+    "isIdentityVerified": true,
+    "trustScore": 95,
+    "createdAt": "2023-09-30T00:00:00Z",
+    "phoneNumber": "+260977000000",
+    "gender": "Other",
+    "nationality": "Zambian"
+  },
+  {
+    "userId": "c546d670-cbc1-4b16-9111-49a4dbb2ea85",
+    "email": "socialperformance.microfinance",
+    "username": "socialperformance.microfinance",
+    "firstName": "Social Performance",
+    "lastName": "Officer",
+    "institutionType": "Microfinance",
+    "institutionName": "Public Service Micro Finance Company",
+    "institutionId": "5cee823f-3fa2-47fe-990c-c508bfce0e35",
+    "roles": [
+      "SocialPerformanceOfficer"
+    ],
+    "permissions": [],
+    "isActive": true,
+    "isEmailVerified": true,
+    "isPhoneVerified": true,
+    "isIdentityVerified": true,
+    "trustScore": 95,
+    "createdAt": "2023-09-30T00:00:00Z",
+    "phoneNumber": "+260977000000",
+    "gender": "Other",
+    "nationality": "Zambian"
+  }
+]

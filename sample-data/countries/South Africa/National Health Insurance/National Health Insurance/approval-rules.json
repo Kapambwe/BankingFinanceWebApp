@@ -1,0 +1,62 @@
+[
+  {
+    "ruleId": "ar300000-0001",
+    "ruleName": "ClaimApproval Rule",
+    "ruleType": "ClaimApproval",
+    "department": "Claims Administration",
+    "initiatedBy": "Claims Officer",
+    "approvedBy": "Head of Claims",
+    "threshold": 410000,
+    "currency": "ZAR",
+    "isActive": true,
+    "createdAt": "2025-01-01T00:00:00Z"
+  },
+  {
+    "ruleId": "ar300000-0002",
+    "ruleName": "MemberEnrollment Rule",
+    "ruleType": "MemberEnrollment",
+    "department": "Enrollment & Registration",
+    "initiatedBy": "Enrollment Officer",
+    "approvedBy": "Member Services Manager",
+    "threshold": null,
+    "currency": null,
+    "isActive": true,
+    "createdAt": "2025-01-01T00:00:00Z"
+  },
+  {
+    "ruleId": "ar300000-0003",
+    "ruleName": "VendorPayment Rule",
+    "ruleType": "VendorPayment",
+    "department": "Finance & Accounts",
+    "initiatedBy": "Finance Manager",
+    "approvedBy": "Chief Finance Officer",
+    "threshold": 1025000,
+    "currency": "ZAR",
+    "isActive": true,
+    "createdAt": "2025-01-01T00:00:00Z"
+  },
+  {
+    "ruleId": "ar300000-0004",
+    "ruleName": "BudgetVariance Rule",
+    "ruleType": "BudgetVariance",
+    "department": "Finance & Accounts",
+    "initiatedBy": "Finance Manager",
+    "approvedBy": "Chief Executive Officer",
+    "threshold": 2050000,
+    "currency": "ZAR",
+    "isActive": true,
+    "createdAt": "2025-01-01T00:00:00Z"
+  },
+  {
+    "ruleId": "ar300000-0005",
+    "ruleName": "StaffRecruitment Rule",
+    "ruleType": "StaffRecruitment",
+    "department": "Human Resources",
+    "initiatedBy": "HR Manager",
+    "approvedBy": "Chief Executive Officer",
+    "threshold": null,
+    "currency": null,
+    "isActive": true,
+    "createdAt": "2025-01-01T00:00:00Z"
+  }
+]

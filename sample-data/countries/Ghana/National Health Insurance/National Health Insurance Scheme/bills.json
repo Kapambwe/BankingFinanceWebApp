@@ -1,0 +1,67 @@
+[
+  {
+    "billId": "bill2000-0001",
+    "billNumber": "BILL-2-2025-0001",
+    "vendorName": "IBM Ghana",
+    "billType": "IT Services",
+    "billDate": "2025-10-01",
+    "dueDate": "2025-11-01",
+    "amount": 12.0,
+    "currency": "GHS",
+    "status": "Paid",
+    "paidDate": "2025-10-15",
+    "createdAt": "2025-10-01T00:00:00Z"
+  },
+  {
+    "billId": "bill2000-0002",
+    "billNumber": "BILL-2-2025-0002",
+    "vendorName": "Microsoft Ghana",
+    "billType": "IT Maintenance",
+    "billDate": "2025-10-02",
+    "dueDate": "2025-11-02",
+    "amount": 9.0,
+    "currency": "GHS",
+    "status": "Paid",
+    "paidDate": "2025-10-16",
+    "createdAt": "2025-10-02T00:00:00Z"
+  },
+  {
+    "billId": "bill2000-0003",
+    "billNumber": "BILL-2-2025-0003",
+    "vendorName": "Huawei Ghana",
+    "billType": "Software Licensing",
+    "billDate": "2025-10-03",
+    "dueDate": "2025-11-03",
+    "amount": 6.0,
+    "currency": "GHS",
+    "status": "Pending",
+    "paidDate": null,
+    "createdAt": "2025-10-03T00:00:00Z"
+  },
+  {
+    "billId": "bill2000-0004",
+    "billNumber": "BILL-2-2025-0004",
+    "vendorName": "Prime Properties Accra",
+    "billType": "Office Rent",
+    "billDate": "2025-10-04",
+    "dueDate": "2025-11-04",
+    "amount": 15.0,
+    "currency": "GHS",
+    "status": "Paid",
+    "paidDate": "2025-10-18",
+    "createdAt": "2025-10-04T00:00:00Z"
+  },
+  {
+    "billId": "bill2000-0005",
+    "billNumber": "BILL-2-2025-0005",
+    "vendorName": "National Utilities Ghana",
+    "billType": "Utilities",
+    "billDate": "2025-10-05",
+    "dueDate": "2025-11-05",
+    "amount": 3.0,
+    "currency": "GHS",
+    "status": "Pending",
+    "paidDate": null,
+    "createdAt": "2025-10-05T00:00:00Z"
+  }
+]

@@ -1,0 +1,59 @@
+[
+  {
+    "templateId": "jt200000-0001",
+    "templateName": "Monthly Contribution Receipt",
+    "description": "Template for recording monthly member contributions",
+    "lines": [
+      {
+        "accountCode": "1001",
+        "accountName": "Cash",
+        "lineType": "Debit"
+      },
+      {
+        "accountCode": "4001",
+        "accountName": "Member Contributions",
+        "lineType": "Credit"
+      }
+    ],
+    "isActive": true,
+    "createdAt": "2025-01-01T00:00:00Z"
+  },
+  {
+    "templateId": "jt200000-0002",
+    "templateName": "Claims Payment",
+    "description": "Template for recording claims disbursements",
+    "lines": [
+      {
+        "accountCode": "5001",
+        "accountName": "Claims Paid",
+        "lineType": "Debit"
+      },
+      {
+        "accountCode": "2001",
+        "accountName": "Claims Payable",
+        "lineType": "Credit"
+      }
+    ],
+    "isActive": true,
+    "createdAt": "2025-01-01T00:00:00Z"
+  },
+  {
+    "templateId": "jt200000-0003",
+    "templateName": "Salary Accrual",
+    "description": "Template for monthly salary accrual",
+    "lines": [
+      {
+        "accountCode": "5002",
+        "accountName": "Staff Costs",
+        "lineType": "Debit"
+      },
+      {
+        "accountCode": "2002",
+        "accountName": "Accrued Staff Costs",
+        "lineType": "Credit"
+      }
+    ],
+    "isActive": true,
+    "createdAt": "2025-01-01T00:00:00Z"
+  }
+]

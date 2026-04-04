@@ -1,0 +1,6 @@
+[
+  {"billId":"IMF-BILL-001","customerId":"imf-c001-1a2b-3c4d-5e6f-a1b2c3d4e5f6","amount":46000000.00,"currency":"SDR","dueDate":"2026-06-01T00:00:00Z","status":"Pending","description":"ECF Semi-Annual Repurchase Obligation - Ghana","issuedDate":"2026-01-01T00:00:00Z"},
+  {"billId":"IMF-BILL-002","customerId":"imf-c002-2b3c-4d5e-6f7a-b2c3d4e5f6a7","amount":82500000.00,"currency":"SDR","dueDate":"2026-03-31T00:00:00Z","status":"Pending","description":"SBA Charges and Service Fees Q1 2026 - Kenya","issuedDate":"2026-01-10T00:00:00Z"},
+  {"billId":"IMF-BILL-003","customerId":"imf-c003-3c4d-5e6f-7a8b-c3d4e5f6a7b8","amount":24500000.00,"currency":"SDR","dueDate":"2026-04-15T00:00:00Z","status":"Pending","description":"ECF Scheduled Repurchase and Charges - Zambia","issuedDate":"2026-01-15T00:00:00Z"},
+  {"billId":"IMF-BILL-004","customerId":"imf-c004-4d5e-6f7a-8b9c-d4e5f6a7b8c9","amount":13750000.00,"currency":"SDR","dueDate":"2026-06-30T00:00:00Z","status":"Pending","description":"ECF Service Charges H1 2026 - Ethiopia","issuedDate":"2026-01-20T00:00:00Z"}
+]

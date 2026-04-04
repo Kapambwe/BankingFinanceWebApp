@@ -1,0 +1,17 @@
+{
+  "registrationNumber": "REG-62354",
+  "contactEmail": "madisonassetmanagement@example.zm",
+  "createdAt": "2025-04-29T00:00:00Z",
+  "branches": 12,
+  "institutionType": "Asset Management",
+  "institutionName": "Madison Asset Management",
+  "country": "Kenya",
+  "established": 1984,
+  "employees": 1926,
+  "contactPhone": "+260-996-117940",
+  "headquarters": "Nakuru",
+  "institutionId": "30cfa575-cb23-412a-b506-d5458c0c5da8",
+  "currency": "KES",
+  "status": "Active",
+  "website": "https://www.madisonassetmanagement.co.zm"
+}

@@ -1,0 +1,44 @@
+[
+  {
+    "onboardingId": "ob100000-0001-0000-0000-0000000001001",
+    "employeeId": "e1000000-0008-0000-0000-0000000001008",
+    "employeeName": "Tembo Mwamba",
+    "startDate": "2025-10-01",
+    "department": "Legal & Compliance",
+    "hrBuddy": "Lubinda Mutale",
+    "totalTasks": 20,
+    "completedTasks": 14,
+    "pendingTasks": 6,
+    "status": "Completed",
+    "expectedCompletionDate": "2025-11-30",
+    "createdAt": "2025-10-01T00:00:00Z"
+  },
+  {
+    "onboardingId": "ob100000-0002-0000-0000-0000000001002",
+    "employeeId": "e1000000-0009-0000-0000-0000000001009",
+    "employeeName": "Chanda Mutale",
+    "startDate": "2025-11-01",
+    "department": "Provider Management",
+    "hrBuddy": "Bwalya Mwansa",
+    "totalTasks": 20,
+    "completedTasks": 10,
+    "pendingTasks": 10,
+    "status": "InProgress",
+    "expectedCompletionDate": "2025-12-30",
+    "createdAt": "2025-11-01T00:00:00Z"
+  },
+  {
+    "onboardingId": "ob100000-0003-0000-0000-0000000001003",
+    "employeeId": "e1000000-0010-0000-0000-0000000001010",
+    "employeeName": "Mutale Mwansa",
+    "startDate": "2025-12-01",
+    "department": "Executive Office",
+    "hrBuddy": "Tembo Mulenga",
+    "totalTasks": 20,
+    "completedTasks": 5,
+    "pendingTasks": 15,
+    "status": "InProgress",
+    "expectedCompletionDate": "2025-13-30",
+    "createdAt": "2025-12-01T00:00:00Z"
+  }
+]

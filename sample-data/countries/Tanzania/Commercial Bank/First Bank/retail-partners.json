@@ -1,0 +1,159 @@
+[
+  {
+    "partnerId": "RP-TAN-001",
+    "businessName": "Shoprite Tanzania Tanzania Ltd",
+    "brandName": "Shoprite Tanzania",
+    "partnerType": "ConvenienceStore",
+    "country": "Tanzania",
+    "currency": "TZS",
+    "contactPerson": "Partner Manager 1",
+    "email": "banking@shopritetanz.ta",
+    "phoneNumber": "+504-475-384783",
+    "servicesOffered": [
+      "AirtimePurchase",
+      "BillPayment",
+      "MoneyTransfer"
+    ],
+    "acceptedPaymentMethods": [
+      "PhoneNumber",
+      "QRCode"
+    ],
+    "totalStores": 86,
+    "activeStores": 79,
+    "storeLocations": [
+      "Dodoma",
+      "Mwanza",
+      "Dar es Salaam",
+      "Arusha"
+    ],
+    "monthlyTransactionVolume": 5858449.1,
+    "monthlyTransactionCount": 18133,
+    "averageTransactionSize": 216.23,
+    "commissionRate": 1.01,
+    "monthlyRevenue": 79050.13,
+    "partnershipStartDate": "2024-05-19T18:10:28Z",
+    "status": "Active",
+    "brandColor": "#c56a74",
+    "isIntegrated": true,
+    "lastSyncDate": null
+  },
+  {
+    "partnerId": "RP-TAN-002",
+    "businessName": "Nakumatt Tanzania Ltd",
+    "brandName": "Nakumatt",
+    "partnerType": "Pharmacy",
+    "country": "Tanzania",
+    "currency": "TZS",
+    "contactPerson": "Partner Manager 2",
+    "email": "banking@nakumatt.ta",
+    "phoneNumber": "+345-343-822253",
+    "servicesOffered": [
+      "AirtimePurchase",
+      "MoneyTransfer",
+      "CashDeposit",
+      "LoanPayment"
+    ],
+    "acceptedPaymentMethods": [
+      "USSD",
+      "Cash",
+      "CardTap",
+      "PhoneNumber",
+      "AccountNumber",
+      "QRCode"
+    ],
+    "totalStores": 208,
+    "activeStores": 207,
+    "storeLocations": [
+      "Mwanza",
+      "Dodoma"
+    ],
+    "monthlyTransactionVolume": 490447.2,
+    "monthlyTransactionCount": 29691,
+    "averageTransactionSize": 12.43,
+    "commissionRate": 0.56,
+    "monthlyRevenue": 2263.41,
+    "partnershipStartDate": "2023-06-14T18:10:28Z",
+    "status": "Active",
+    "brandColor": "#4a5b97",
+    "isIntegrated": true,
+    "lastSyncDate": "2026-03-02T18:10:28Z"
+  },
+  {
+    "partnerId": "RP-TAN-003",
+    "businessName": "Uchumi Tanzania Ltd",
+    "brandName": "Uchumi",
+    "partnerType": "ConvenienceStore",
+    "country": "Tanzania",
+    "currency": "TZS",
+    "contactPerson": "Partner Manager 3",
+    "email": "banking@uchumi.ta",
+    "phoneNumber": "+275-685-237044",
+    "servicesOffered": [
+      "CashDeposit",
+      "MoneyTransfer",
+      "CashWithdrawal"
+    ],
+    "acceptedPaymentMethods": [
+      "AccountNumber",
+      "QRCode",
+      "CardTap",
+      "PhoneNumber",
+      "USSD"
+    ],
+    "totalStores": 59,
+    "activeStores": 55,
+    "storeLocations": [
+      "Mwanza",
+      "Dar es Salaam",
+      "Arusha",
+      "Dodoma"
+    ],
+    "monthlyTransactionVolume": 4545695.4,
+    "monthlyTransactionCount": 46704,
+    "averageTransactionSize": 441.76,
+    "commissionRate": 1.95,
+    "monthlyRevenue": 38181.84,
+    "partnershipStartDate": "2026-02-25T18:10:28Z",
+    "status": "Active",
+    "brandColor": "#9dc989",
+    "isIntegrated": true,
+    "lastSyncDate": "2026-03-02T18:10:28Z"
+  },
+  {
+    "partnerId": "RP-TAN-004",
+    "businessName": "Jumbo Stores Tanzania Ltd",
+    "brandName": "Jumbo Stores",
+    "partnerType": "SmallShop",
+    "country": "Tanzania",
+    "currency": "TZS",
+    "contactPerson": "Partner Manager 4",
+    "email": "banking@jumbostores.ta",
+    "phoneNumber": "+818-761-565181",
+    "servicesOffered": [
+      "BillPayment",
+      "MoneyTransfer",
+      "CashWithdrawal"
+    ],
+    "acceptedPaymentMethods": [
+      "PhoneNumber",
+      "QRCode"
+    ],
+    "totalStores": 195,
+    "activeStores": 195,
+    "storeLocations": [
+      "Mwanza",
+      "Dodoma",
+      "Arusha"
+    ],
+    "monthlyTransactionVolume": 7320160.45,
+    "monthlyTransactionCount": 46112,
+    "averageTransactionSize": 944.05,
+    "commissionRate": 1.99,
+    "monthlyRevenue": 106567.38,
+    "partnershipStartDate": "2025-02-22T18:10:28Z",
+    "status": "Active",
+    "brandColor": "#873665",
+    "isIntegrated": true,
+    "lastSyncDate": "2026-03-02T18:10:28Z"
+  }
+]

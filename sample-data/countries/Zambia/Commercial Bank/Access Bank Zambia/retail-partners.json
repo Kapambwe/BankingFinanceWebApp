@@ -1,0 +1,168 @@
+[
+  {
+    "partnerId": "RP-ZAM-001",
+    "businessName": "Shoprite Zambia Zambia Ltd",
+    "brandName": "Shoprite Zambia",
+    "partnerType": "Pharmacy",
+    "country": "Zambia",
+    "currency": "ZMW",
+    "contactPerson": "Partner Manager 1",
+    "email": "banking@shopritezamb.za",
+    "phoneNumber": "+502-828-186192",
+    "servicesOffered": [
+      "LoanPayment",
+      "BillPayment",
+      "CashWithdrawal",
+      "CashDeposit",
+      "AccountOpening"
+    ],
+    "acceptedPaymentMethods": [
+      "Cash",
+      "PhoneNumber"
+    ],
+    "totalStores": 74,
+    "activeStores": 73,
+    "storeLocations": [
+      "Livingstone",
+      "Lusaka"
+    ],
+    "monthlyTransactionVolume": 3199252.9,
+    "monthlyTransactionCount": 18677,
+    "averageTransactionSize": 166.17,
+    "commissionRate": 0.9,
+    "monthlyRevenue": 32282.29,
+    "partnershipStartDate": "2021-04-23T18:10:28Z",
+    "status": "PendingApproval",
+    "brandColor": "#e57431",
+    "isIntegrated": false,
+    "lastSyncDate": "2026-03-04T18:10:28Z"
+  },
+  {
+    "partnerId": "RP-ZAM-002",
+    "businessName": "Pick n Pay Zambia Zambia Ltd",
+    "brandName": "Pick n Pay Zambia",
+    "partnerType": "Pharmacy",
+    "country": "Zambia",
+    "currency": "ZMW",
+    "contactPerson": "Partner Manager 2",
+    "email": "banking@picknpayzamb.za",
+    "phoneNumber": "+368-737-553127",
+    "servicesOffered": [
+      "CashDeposit",
+      "LoanPayment",
+      "AccountOpening",
+      "MoneyTransfer",
+      "BillPayment",
+      "AirtimePurchase"
+    ],
+    "acceptedPaymentMethods": [
+      "CardTap",
+      "Cash",
+      "AccountNumber",
+      "QRCode"
+    ],
+    "totalStores": 67,
+    "activeStores": 61,
+    "storeLocations": [
+      "Kitwe",
+      "Ndola",
+      "Livingstone",
+      "Chipata"
+    ],
+    "monthlyTransactionVolume": 5484024.95,
+    "monthlyTransactionCount": 39805,
+    "averageTransactionSize": 137.8,
+    "commissionRate": 1.14,
+    "monthlyRevenue": 65077.36,
+    "partnershipStartDate": "2023-02-17T18:10:28Z",
+    "status": "Active",
+    "brandColor": "#dbab81",
+    "isIntegrated": true,
+    "lastSyncDate": "2026-03-04T18:10:28Z"
+  },
+  {
+    "partnerId": "RP-ZAM-003",
+    "businessName": "Choppies Zambia Zambia Ltd",
+    "brandName": "Choppies Zambia",
+    "partnerType": "Pharmacy",
+    "country": "Zambia",
+    "currency": "ZMW",
+    "contactPerson": "Partner Manager 3",
+    "email": "banking@choppieszamb.za",
+    "phoneNumber": "+647-324-639984",
+    "servicesOffered": [
+      "AirtimePurchase",
+      "BillPayment",
+      "MoneyTransfer",
+      "CashDeposit"
+    ],
+    "acceptedPaymentMethods": [
+      "AccountNumber",
+      "CardTap",
+      "QRCode",
+      "USSD",
+      "Cash",
+      "PhoneNumber"
+    ],
+    "totalStores": 71,
+    "activeStores": 68,
+    "storeLocations": [
+      "Lusaka",
+      "Ndola"
+    ],
+    "monthlyTransactionVolume": 969048.79,
+    "monthlyTransactionCount": 11469,
+    "averageTransactionSize": 76.29,
+    "commissionRate": 0.69,
+    "monthlyRevenue": 9908.51,
+    "partnershipStartDate": "2024-09-10T18:10:28Z",
+    "status": "Active",
+    "brandColor": "#e74314",
+    "isIntegrated": false,
+    "lastSyncDate": "2026-03-02T18:10:28Z"
+  },
+  {
+    "partnerId": "RP-ZAM-004",
+    "businessName": "Bwalya Shop Zambia Ltd",
+    "brandName": "Bwalya Shop",
+    "partnerType": "Supermarket",
+    "country": "Zambia",
+    "currency": "ZMW",
+    "contactPerson": "Partner Manager 4",
+    "email": "banking@bwalyashop.za",
+    "phoneNumber": "+670-118-331924",
+    "servicesOffered": [
+      "AirtimePurchase",
+      "LoanPayment",
+      "BillPayment",
+      "AccountOpening",
+      "CashDeposit",
+      "MoneyTransfer"
+    ],
+    "acceptedPaymentMethods": [
+      "QRCode",
+      "USSD",
+      "Cash",
+      "CardTap",
+      "AccountNumber",
+      "PhoneNumber"
+    ],
+    "totalStores": 116,
+    "activeStores": 106,
+    "storeLocations": [
+      "Livingstone",
+      "Ndola",
+      "Lusaka"
+    ],
+    "monthlyTransactionVolume": 6390568.67,
+    "monthlyTransactionCount": 36520,
+    "averageTransactionSize": 600.9,
+    "commissionRate": 0.5,
+    "monthlyRevenue": 93331.99,
+    "partnershipStartDate": "2021-10-04T18:10:28Z",
+    "status": "Active",
+    "brandColor": "#1d3d6f",
+    "isIntegrated": true,
+    "lastSyncDate": "2026-03-03T18:10:28Z"
+  }
+]

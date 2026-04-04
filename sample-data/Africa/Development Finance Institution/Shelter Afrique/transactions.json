@@ -1,0 +1,8 @@
+[
+  {"transactionType":"Disbursement","currency":"USD","status":"Completed","transactionId":"sh-tx-001","amount":12000000.00,"description":"Affordable Housing Units - Nairobi Phase 2","balance":35000000.00,"transactionDate":"2025-09-15T10:00:00Z","accountId":"sh01-a001-4579-a281-6d898272fbc5"},
+  {"transactionType":"Disbursement","currency":"USD","status":"Completed","transactionId":"sh-tx-002","amount":20000000.00,"description":"Social Housing Estate - Abuja","balance":50000000.00,"transactionDate":"2025-10-20T10:00:00Z","accountId":"sh01-a002-4579-a281-6d898272fbc6"},
+  {"transactionType":"Disbursement","currency":"USD","status":"Completed","transactionId":"sh-tx-003","amount":8000000.00,"description":"Student Housing Construction","balance":18000000.00,"transactionDate":"2025-11-10T10:00:00Z","accountId":"sh01-a003-4579-a281-6d898272fbc7"},
+  {"transactionType":"Disbursement","currency":"USD","status":"Completed","transactionId":"sh-tx-004","amount":10000000.00,"description":"Mixed-Use Development - Lagos","balance":25000000.00,"transactionDate":"2025-12-05T10:00:00Z","accountId":"sh01-a004-4579-a281-6d898272fbc8"},
+  {"transactionType":"Repayment","currency":"USD","status":"Completed","transactionId":"sh-tx-005","amount":3500000.00,"description":"Quarterly Housing Loan Repayment","balance":31500000.00,"transactionDate":"2025-12-20T10:00:00Z","accountId":"sh01-a001-4579-a281-6d898272fbc5"},
+  {"transactionType":"Grant","currency":"USD","status":"Completed","transactionId":"sh-tx-006","amount":1500000.00,"description":"Urban Planning Technical Assistance","balance":1500000.00,"transactionDate":"2025-11-25T10:00:00Z","accountId":"sh01-a002-4579-a281-6d898272fbc6"}
+]

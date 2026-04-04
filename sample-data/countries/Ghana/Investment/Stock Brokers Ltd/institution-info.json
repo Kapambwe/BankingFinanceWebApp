@@ -1,0 +1,17 @@
+{
+  "registrationNumber": "REG-75555",
+  "contactEmail": "lusesecurities@example.zm",
+  "createdAt": "2023-09-28T00:00:00Z",
+  "branches": 21,
+  "institutionType": "Investment",
+  "institutionName": "LuSE Securities",
+  "country": "Ghana",
+  "established": 1978,
+  "employees": 1703,
+  "contactPhone": "+260-249-891811",
+  "headquarters": "Tamale",
+  "institutionId": "37aa45ff-bac1-4a8d-8d9a-a77f22c8050b",
+  "currency": "GHS",
+  "status": "Active",
+  "website": "https://www.lusesecurities.co.zm"
+}

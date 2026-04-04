@@ -1,0 +1,93 @@
+[
+  {
+    "description": "Net Profit / (Loss)",
+    "accountCode": "NET",
+    "amount": 339200000.0,
+    "isSubtotal": false,
+    "category": "Operating"
+  },
+  {
+    "description": "Depreciation and Amortisation",
+    "accountCode": "5030",
+    "amount": 82000000.0,
+    "isSubtotal": false,
+    "category": "Operating"
+  },
+  {
+    "description": "Increase in Customer Deposits",
+    "accountCode": "2050",
+    "amount": 1200000000.0,
+    "isSubtotal": false,
+    "category": "Operating"
+  },
+  {
+    "description": "Increase in Accounts Receivable",
+    "accountCode": "1040",
+    "amount": -120000000.0,
+    "isSubtotal": false,
+    "category": "Operating"
+  },
+  {
+    "description": "Net Cash from Operating Activities",
+    "accountCode": "CFO",
+    "amount": 1501200000.0,
+    "isSubtotal": true,
+    "category": "Operating"
+  },
+  {
+    "description": "Purchase of Fixed Assets",
+    "accountCode": "1110",
+    "amount": -45000000.0,
+    "isSubtotal": false,
+    "category": "Investing"
+  },
+  {
+    "description": "Purchase of Investments",
+    "accountCode": "1120",
+    "amount": -280000000.0,
+    "isSubtotal": false,
+    "category": "Investing"
+  },
+  {
+    "description": "Proceeds from Asset Sales",
+    "accountCode": "4060",
+    "amount": 12000000.0,
+    "isSubtotal": false,
+    "category": "Investing"
+  },
+  {
+    "description": "Net Cash from Investing Activities",
+    "accountCode": "CFI",
+    "amount": -313000000.0,
+    "isSubtotal": true,
+    "category": "Investing"
+  },
+  {
+    "description": "Proceeds from Share Issuance",
+    "accountCode": "3010",
+    "amount": 500000000.0,
+    "isSubtotal": false,
+    "category": "Financing"
+  },
+  {
+    "description": "Repayment of Borrowings",
+    "accountCode": "2020",
+    "amount": -180000000.0,
+    "isSubtotal": false,
+    "category": "Financing"
+  },
+  {
+    "description": "Net Cash from Financing Activities",
+    "accountCode": "CFF",
+    "amount": 320000000.0,
+    "isSubtotal": true,
+    "category": "Financing"
+  },
+  {
+    "description": "Net Increase in Cash",
+    "accountCode": "NCASH",
+    "amount": 1508200000.0,
+    "isSubtotal": true,
+    "category": "Summary"
+  }
+]

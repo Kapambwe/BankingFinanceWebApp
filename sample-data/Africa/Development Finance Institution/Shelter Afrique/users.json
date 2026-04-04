@@ -1,0 +1,163 @@
+[
+  {
+    "userId": "5d181777-6bea-4df1-947a-2110738840ff",
+    "email": "admin.government",
+    "username": "admin.government",
+    "firstName": "Government",
+    "lastName": "Admin",
+    "institutionType": "Development Finance Institution",
+    "institutionName": "Shelter Afrique",
+    "institutionId": "shaf-0001-2c0d-6e1f-9a0b1c2d3e4f",
+    "roles": [
+      "GovernmentAdmin"
+    ],
+    "permissions": [],
+    "isActive": true,
+    "isEmailVerified": true,
+    "isPhoneVerified": true,
+    "isIdentityVerified": true,
+    "trustScore": 95,
+    "createdAt": "1982-05-01T00:00:00Z",
+    "phoneNumber": "+260977000000",
+    "gender": "Other",
+    "nationality": "Zambian"
+  },
+  {
+    "userId": "9a201609-f267-475b-af51-389e6de95b40",
+    "email": "projectfinance.government",
+    "username": "projectfinance.government",
+    "firstName": "Project Finance",
+    "lastName": "Manager",
+    "institutionType": "Development Finance Institution",
+    "institutionName": "Shelter Afrique",
+    "institutionId": "shaf-0001-2c0d-6e1f-9a0b1c2d3e4f",
+    "roles": [
+      "ProjectFinanceManager"
+    ],
+    "permissions": [],
+    "isActive": true,
+    "isEmailVerified": true,
+    "isPhoneVerified": true,
+    "isIdentityVerified": true,
+    "trustScore": 95,
+    "createdAt": "1982-05-01T00:00:00Z",
+    "phoneNumber": "+260977000000",
+    "gender": "Other",
+    "nationality": "Zambian"
+  },
+  {
+    "userId": "f8851443-493a-44e6-b45e-4f989fcc1a4e",
+    "email": "loansclerk.government",
+    "username": "loansclerk.government",
+    "firstName": "Loans",
+    "lastName": "Clerk",
+    "institutionType": "Development Finance Institution",
+    "institutionName": "Shelter Afrique",
+    "institutionId": "shaf-0001-2c0d-6e1f-9a0b1c2d3e4f",
+    "roles": [
+      "LoansClerk"
+    ],
+    "permissions": [],
+    "isActive": true,
+    "isEmailVerified": true,
+    "isPhoneVerified": true,
+    "isIdentityVerified": true,
+    "trustScore": 95,
+    "createdAt": "1982-05-01T00:00:00Z",
+    "phoneNumber": "+260977000000",
+    "gender": "Other",
+    "nationality": "Zambian"
+  },
+  {
+    "userId": "f94a2a01-e4c3-4a62-b448-49e27249211f",
+    "email": "socialprotection.government",
+    "username": "socialprotection.government",
+    "firstName": "Social Protection",
+    "lastName": "Officer",
+    "institutionType": "Development Finance Institution",
+    "institutionName": "Shelter Afrique",
+    "institutionId": "shaf-0001-2c0d-6e1f-9a0b1c2d3e4f",
+    "roles": [
+      "SocialProtectionOfficer"
+    ],
+    "permissions": [],
+    "isActive": true,
+    "isEmailVerified": true,
+    "isPhoneVerified": true,
+    "isIdentityVerified": true,
+    "trustScore": 95,
+    "createdAt": "1982-05-01T00:00:00Z",
+    "phoneNumber": "+260977000000",
+    "gender": "Other",
+    "nationality": "Zambian"
+  },
+  {
+    "userId": "e3d686ce-01a0-49e0-9ca6-5ef84a8727ac",
+    "email": "me.government",
+    "username": "me.government",
+    "firstName": "M&E",
+    "lastName": "Officer",
+    "institutionType": "Development Finance Institution",
+    "institutionName": "Shelter Afrique",
+    "institutionId": "shaf-0001-2c0d-6e1f-9a0b1c2d3e4f",
+    "roles": [
+      "MEOfficer"
+    ],
+    "permissions": [],
+    "isActive": true,
+    "isEmailVerified": true,
+    "isPhoneVerified": true,
+    "isIdentityVerified": true,
+    "trustScore": 95,
+    "createdAt": "1982-05-01T00:00:00Z",
+    "phoneNumber": "+260977000000",
+    "gender": "Other",
+    "nationality": "Zambian"
+  },
+  {
+    "userId": "7e2550e5-7d96-43f7-9fd4-b77c2feb73c6",
+    "email": "procurement.government",
+    "username": "procurement.government",
+    "firstName": "Procurement",
+    "lastName": "Officer",
+    "institutionType": "Development Finance Institution",
+    "institutionName": "Shelter Afrique",
+    "institutionId": "shaf-0001-2c0d-6e1f-9a0b1c2d3e4f",
+    "roles": [
+      "ProcurementOfficer"
+    ],
+    "permissions": [],
+    "isActive": true,
+    "isEmailVerified": true,
+    "isPhoneVerified": true,
+    "isIdentityVerified": true,
+    "trustScore": 95,
+    "createdAt": "1982-05-01T00:00:00Z",
+    "phoneNumber": "+260977000000",
+    "gender": "Other",
+    "nationality": "Zambian"
+  },
+  {
+    "userId": "f6a5c034-fd53-4c21-94fe-9e3fd6a86382",
+    "email": "financeclerk.government",
+    "username": "financeclerk.government",
+    "firstName": "Finance",
+    "lastName": "Clerk",
+    "institutionType": "Development Finance Institution",
+    "institutionName": "Shelter Afrique",
+    "institutionId": "shaf-0001-2c0d-6e1f-9a0b1c2d3e4f",
+    "roles": [
+      "GovernmentFinanceClerk"
+    ],
+    "permissions": [],
+    "isActive": true,
+    "isEmailVerified": true,
+    "isPhoneVerified": true,
+    "isIdentityVerified": true,
+    "trustScore": 95,
+    "createdAt": "1982-05-01T00:00:00Z",
+    "phoneNumber": "+260977000000",
+    "gender": "Other",
+    "nationality": "Zambian"
+  }
+]

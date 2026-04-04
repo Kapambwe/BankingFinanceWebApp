@@ -1,0 +1,71 @@
+[
+  {
+    "userId": "fc789e9c-1945-43c6-8bc2-08f7cbaf6883",
+    "email": "admin.investment",
+    "username": "admin.investment",
+    "firstName": "Investment",
+    "lastName": "Admin",
+    "institutionType": "Investment",
+    "institutionName": "Investrust Bank",
+    "institutionId": "f72cebc0-7806-4899-a930-8e03d8c50896",
+    "roles": [
+      "InvestmentAdmin"
+    ],
+    "permissions": [],
+    "isActive": true,
+    "isEmailVerified": true,
+    "isPhoneVerified": true,
+    "isIdentityVerified": true,
+    "trustScore": 95,
+    "createdAt": "2023-01-07T00:00:00Z",
+    "phoneNumber": "+260977000000",
+    "gender": "Other",
+    "nationality": "Zambian"
+  },
+  {
+    "userId": "45032a48-6561-4b1a-9921-1d8e6d5f19e3",
+    "email": "portfoliomanager.investment",
+    "username": "portfoliomanager.investment",
+    "firstName": "Portfolio",
+    "lastName": "Manager",
+    "institutionType": "Investment",
+    "institutionName": "Investrust Bank",
+    "institutionId": "f72cebc0-7806-4899-a930-8e03d8c50896",
+    "roles": [
+      "PortfolioManager"
+    ],
+    "permissions": [],
+    "isActive": true,
+    "isEmailVerified": true,
+    "isPhoneVerified": true,
+    "isIdentityVerified": true,
+    "trustScore": 95,
+    "createdAt": "2023-01-07T00:00:00Z",
+    "phoneNumber": "+260977000000",
+    "gender": "Other",
+    "nationality": "Zambian"
+  },
+  {
+    "userId": "2b5f9c41-32bf-46aa-b32c-8941932138a2",
+    "email": "trader.investment",
+    "username": "trader.investment",
+    "firstName": "Investment",
+    "lastName": "Trader",
+    "institutionType": "Investment",
+    "institutionName": "Investrust Bank",
+    "institutionId": "f72cebc0-7806-4899-a930-8e03d8c50896",
+    "roles": [
+      "Trader"
+    ],
+    "permissions": [],
+    "isActive": true,
+    "isEmailVerified": true,
+    "isPhoneVerified": true,
+    "isIdentityVerified": true,
+    "trustScore": 95,
+    "createdAt": "2023-01-07T00:00:00Z",
+    "phoneNumber": "+260977000000",
+    "gender": "Other",
+    "nationality": "Zambian"
+  }
+]

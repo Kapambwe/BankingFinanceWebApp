@@ -1,0 +1,80 @@
+[
+  {
+    "ruleId": 1,
+    "ruleName": "Bills GBP 7,900\u201379,000 require Branch Manager approval",
+    "type": "Bill",
+    "minAmount": 7900,
+    "maxAmount": 79000,
+    "approverId": "manager@commercialba.co",
+    "approverName": "Branch Manager",
+    "level": 1,
+    "isActive": true,
+    "autoApproveBelow": false,
+    "notes": "Standard operational expenditure threshold"
+  },
+  {
+    "ruleId": 2,
+    "ruleName": "Bills above GBP 79,000 require Chief Financial Officer approval",
+    "type": "Bill",
+    "minAmount": 79000,
+    "maxAmount": null,
+    "approverId": "cfo@commercialba.co",
+    "approverName": "Chief Financial Officer",
+    "level": 2,
+    "isActive": true,
+    "autoApproveBelow": false,
+    "notes": "Capital expenditure and large operational bills"
+  },
+  {
+    "ruleId": 3,
+    "ruleName": "Bills above GBP 400,000 require Chief Executive Officer approval",
+    "type": "Bill",
+    "minAmount": 400000,
+    "maxAmount": null,
+    "approverId": "ceo@commercialba.co",
+    "approverName": "Chief Executive Officer",
+    "level": 3,
+    "isActive": true,
+    "autoApproveBelow": false,
+    "notes": "Strategic vendor contracts and major capital expenditure"
+  },
+  {
+    "ruleId": 4,
+    "ruleName": "Journal entries above GBP 39,500 require Chief Financial Officer approval",
+    "type": "JournalEntry",
+    "minAmount": 39500.0,
+    "maxAmount": null,
+    "approverId": "controller@commercialba.co",
+    "approverName": "Financial Controller",
+    "level": 1,
+    "isActive": true,
+    "autoApproveBelow": false,
+    "notes": "SOX control \u2014 manual journal entries above threshold"
+  },
+  {
+    "ruleId": 5,
+    "ruleName": "Payments below GBP 4,000 auto-approved",
+    "type": "Payment",
+    "minAmount": 0,
+    "maxAmount": 4000,
+    "approverId": "system@commercialba.co",
+    "approverName": "System",
+    "level": 1,
+    "isActive": true,
+    "autoApproveBelow": true,
+    "notes": "Petty cash and minor operational payments"
+  },
+  {
+    "ruleId": 6,
+    "ruleName": "Budget changes above GBP 79,000 require Chief Financial Officer approval",
+    "type": "BudgetChange",
+    "minAmount": 79000,
+    "maxAmount": null,
+    "approverId": "cfo@commercialba.co",
+    "approverName": "Chief Financial Officer",
+    "level": 2,
+    "isActive": true,
+    "autoApproveBelow": false,
+    "notes": "Budget revisions require justification memo"
+  }
+]

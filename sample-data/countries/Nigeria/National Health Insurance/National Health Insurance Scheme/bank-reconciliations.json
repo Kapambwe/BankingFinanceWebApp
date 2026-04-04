@@ -1,0 +1,50 @@
+[
+  {
+    "reconciliationId": "br400000-0001",
+    "bankName": "GTBank",
+    "accountNumber": "ACC-400000001",
+    "statementDate": "2025-10-31",
+    "bankBalance": 227.0,
+    "glBalance": 230.0,
+    "outstandingDeposits": 5.0,
+    "outstandingCheques": 2.0,
+    "reconciledBalance": 227.0,
+    "difference": 0,
+    "status": "Reconciled",
+    "currency": "NGN",
+    "preparedBy": "Tunde Nwosu",
+    "createdAt": "2025-10-31T00:00:00Z"
+  },
+  {
+    "reconciliationId": "br400000-0002",
+    "bankName": "GTBank",
+    "accountNumber": "ACC-400000002",
+    "statementDate": "2025-11-30",
+    "bankBalance": 245.0,
+    "glBalance": 248.0,
+    "outstandingDeposits": 5.0,
+    "outstandingCheques": 2.0,
+    "reconciledBalance": 245.0,
+    "difference": 0,
+    "status": "Reconciled",
+    "currency": "NGN",
+    "preparedBy": "Tunde Nwosu",
+    "createdAt": "2025-11-30T00:00:00Z"
+  },
+  {
+    "reconciliationId": "br400000-0003",
+    "bankName": "GTBank",
+    "accountNumber": "ACC-400000003",
+    "statementDate": "2025-12-31",
+    "bankBalance": 262.0,
+    "glBalance": 265.0,
+    "outstandingDeposits": 5.0,
+    "outstandingCheques": 2.0,
+    "reconciledBalance": 262.0,
+    "difference": 0,
+    "status": "Reconciled",
+    "currency": "NGN",
+    "preparedBy": "Tunde Nwosu",
+    "createdAt": "2025-12-31T00:00:00Z"
+  }
+]

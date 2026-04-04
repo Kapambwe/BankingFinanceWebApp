@@ -1,0 +1,140 @@
+[
+  {
+    "userId": "6e7cbe13-0731-4fae-8ea4-ece7a8b40cd7",
+    "email": "admin.mortgage",
+    "username": "admin.mortgage",
+    "firstName": "Mortgage",
+    "lastName": "Admin",
+    "institutionType": "Mortgage Company",
+    "institutionName": "First Alliance Bank Mortgage",
+    "institutionId": "97b91263-2965-4743-b61c-c01820488b7f",
+    "roles": [
+      "MortgageAdmin"
+    ],
+    "permissions": [],
+    "isActive": true,
+    "isEmailVerified": true,
+    "isPhoneVerified": true,
+    "isIdentityVerified": true,
+    "trustScore": 95,
+    "createdAt": "2025-10-16T00:00:00Z",
+    "phoneNumber": "+260977000000",
+    "gender": "Other",
+    "nationality": "Zambian"
+  },
+  {
+    "userId": "de777ffd-c258-43c7-a5b1-e2e134b015e1",
+    "email": "mortgagemanager.mortgage",
+    "username": "mortgagemanager.mortgage",
+    "firstName": "Mortgage",
+    "lastName": "Manager",
+    "institutionType": "Mortgage Company",
+    "institutionName": "First Alliance Bank Mortgage",
+    "institutionId": "97b91263-2965-4743-b61c-c01820488b7f",
+    "roles": [
+      "MortgageManager"
+    ],
+    "permissions": [],
+    "isActive": true,
+    "isEmailVerified": true,
+    "isPhoneVerified": true,
+    "isIdentityVerified": true,
+    "trustScore": 95,
+    "createdAt": "2025-10-16T00:00:00Z",
+    "phoneNumber": "+260977000000",
+    "gender": "Other",
+    "nationality": "Zambian"
+  },
+  {
+    "userId": "1c7f6a0f-f8b2-4d2c-85b4-e57c5511ab69",
+    "email": "loanofficer.mortgage",
+    "username": "loanofficer.mortgage",
+    "firstName": "Mortgage Loan",
+    "lastName": "Officer",
+    "institutionType": "Mortgage Company",
+    "institutionName": "First Alliance Bank Mortgage",
+    "institutionId": "97b91263-2965-4743-b61c-c01820488b7f",
+    "roles": [
+      "MortgageLoanOfficer"
+    ],
+    "permissions": [],
+    "isActive": true,
+    "isEmailVerified": true,
+    "isPhoneVerified": true,
+    "isIdentityVerified": true,
+    "trustScore": 95,
+    "createdAt": "2025-10-16T00:00:00Z",
+    "phoneNumber": "+260977000000",
+    "gender": "Other",
+    "nationality": "Zambian"
+  },
+  {
+    "userId": "4fabd092-f07f-4e6e-bde0-3da9455fa656",
+    "email": "valuation.mortgage",
+    "username": "valuation.mortgage",
+    "firstName": "Valuation",
+    "lastName": "Officer",
+    "institutionType": "Mortgage Company",
+    "institutionName": "First Alliance Bank Mortgage",
+    "institutionId": "97b91263-2965-4743-b61c-c01820488b7f",
+    "roles": [
+      "ValuationOfficer"
+    ],
+    "permissions": [],
+    "isActive": true,
+    "isEmailVerified": true,
+    "isPhoneVerified": true,
+    "isIdentityVerified": true,
+    "trustScore": 95,
+    "createdAt": "2025-10-16T00:00:00Z",
+    "phoneNumber": "+260977000000",
+    "gender": "Other",
+    "nationality": "Zambian"
+  },
+  {
+    "userId": "ae31f390-0387-4dec-bd3c-deb03958e5ac",
+    "email": "collections.mortgage",
+    "username": "collections.mortgage",
+    "firstName": "Collections",
+    "lastName": "Officer",
+    "institutionType": "Mortgage Company",
+    "institutionName": "First Alliance Bank Mortgage",
+    "institutionId": "97b91263-2965-4743-b61c-c01820488b7f",
+    "roles": [
+      "CollectionsOfficer"
+    ],
+    "permissions": [],
+    "isActive": true,
+    "isEmailVerified": true,
+    "isPhoneVerified": true,
+    "isIdentityVerified": true,
+    "trustScore": 95,
+    "createdAt": "2025-10-16T00:00:00Z",
+    "phoneNumber": "+260977000000",
+    "gender": "Other",
+    "nationality": "Zambian"
+  },
+  {
+    "userId": "1871caa0-8b90-4cb8-a84e-44d32430c0b9",
+    "email": "compliance.mortgage",
+    "username": "compliance.mortgage",
+    "firstName": "Mortgage Compliance",
+    "lastName": "Officer",
+    "institutionType": "Mortgage Company",
+    "institutionName": "First Alliance Bank Mortgage",
+    "institutionId": "97b91263-2965-4743-b61c-c01820488b7f",
+    "roles": [
+      "MortgageComplianceOfficer"
+    ],
+    "permissions": [],
+    "isActive": true,
+    "isEmailVerified": true,
+    "isPhoneVerified": true,
+    "isIdentityVerified": true,
+    "trustScore": 95,
+    "createdAt": "2025-10-16T00:00:00Z",
+    "phoneNumber": "+260977000000",
+    "gender": "Other",
+    "nationality": "Zambian"
+  }
+]

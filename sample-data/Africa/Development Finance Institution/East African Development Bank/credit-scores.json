@@ -1,0 +1,5 @@
+[
+  {"customerId":"ea-c001-1234-5678-abcd-ef1234567890","customerName":"Republic of Uganda","creditScore":640,"creditRating":"B","riskCategory":"Medium-High","lastAssessmentDate":"2025-12-01T00:00:00Z","debtToGdpRatio":"48.5%"},
+  {"customerId":"ea-c002-2345-6789-bcde-f12345678901","customerName":"Republic of Rwanda","creditScore":700,"creditRating":"B+","riskCategory":"Medium","lastAssessmentDate":"2025-12-01T00:00:00Z","debtToGdpRatio":"62.1%"},
+  {"customerId":"ea-c003-3456-7890-cdef-123456789012","customerName":"Kampala Agro Processing Ltd","creditScore":650,"creditRating":"BB-","riskCategory":"Medium","lastAssessmentDate":"2025-12-01T00:00:00Z","debtToGdpRatio":"N/A"}
+]

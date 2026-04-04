@@ -1,0 +1,68 @@
+[
+  {
+    "instrumentId": "LOAN-001",
+    "instrumentReference": "Fahad \u2014 Investment Mana",
+    "instrumentType": "Loan",
+    "outstandingBalance": 70000000.0,
+    "nominalRate": 0.18,
+    "effectiveInterestRate": 0.1987,
+    "accruedAmount": 38106.85,
+    "accrualDate": "2026-02-28T00:00:00Z",
+    "journalEntryId": null
+  },
+  {
+    "instrumentId": "LOAN-002",
+    "instrumentReference": "SME Loan \u2014 Bilal Trading Ltd",
+    "instrumentType": "Loan",
+    "outstandingBalance": 420000000.0,
+    "nominalRate": 0.16,
+    "effectiveInterestRate": 0.1735,
+    "accruedAmount": 199643.84,
+    "accrualDate": "2026-02-28T00:00:00Z",
+    "journalEntryId": null
+  },
+  {
+    "instrumentId": "DEP-001",
+    "instrumentReference": "Fixed Deposit \u2014 Zainab Savings Group",
+    "instrumentType": "Deposit",
+    "outstandingBalance": 1400000000.0,
+    "nominalRate": 0.085,
+    "effectiveInterestRate": 0.085,
+    "accruedAmount": 326027.4,
+    "accrualDate": "2026-02-28T00:00:00Z",
+    "journalEntryId": null
+  },
+  {
+    "instrumentId": "LOAN-003",
+    "instrumentReference": "Mortgage \u2014 Zainab",
+    "instrumentType": "Loan",
+    "outstandingBalance": 336000000.0,
+    "nominalRate": 0.155,
+    "effectiveInterestRate": 0.1621,
+    "accruedAmount": 149220.82,
+    "accrualDate": "2026-02-28T00:00:00Z",
+    "journalEntryId": null
+  },
+  {
+    "instrumentId": "DEP-002",
+    "instrumentReference": "Call Deposit \u2014 Investment Mana Fund",
+    "instrumentType": "Deposit",
+    "outstandingBalance": 840000000.0,
+    "nominalRate": 0.07,
+    "effectiveInterestRate": 0.07,
+    "accruedAmount": 161095.89,
+    "accrualDate": "2026-02-28T00:00:00Z",
+    "journalEntryId": null
+  },
+  {
+    "instrumentId": "LOAN-004",
+    "instrumentReference": "Corporate Bond \u2014 Investment Mana",
+    "instrumentType": "Loan",
+    "outstandingBalance": 2240000000.0,
+    "nominalRate": 0.19,
+    "effectiveInterestRate": 0.2045,
+    "accruedAmount": 1255013.7,
+    "accrualDate": "2026-02-28T00:00:00Z",
+    "journalEntryId": null
+  }
+]

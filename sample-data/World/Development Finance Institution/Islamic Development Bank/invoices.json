@@ -1,0 +1,6 @@
+[
+  {"invoiceId":"IsDB-INV-001","customerId":"isdb-c001-1111-aaaa-2222-bbbbccccdddd","amount":45000000.00,"currency":"ID","status":"Paid","description":"Senegal Dakar BRT System Istisna'a Disbursement","issuedDate":"2025-07-05T00:00:00Z","paidDate":"2025-07-15T00:00:00Z"},
+  {"invoiceId":"IsDB-INV-002","customerId":"isdb-c004-4444-dddd-5555-eeeeffff0000","amount":80000000.00,"currency":"ID","status":"Paid","description":"Morocco Nador Port Equipment Ijarah Disbursement","issuedDate":"2025-09-15T00:00:00Z","paidDate":"2025-09-25T00:00:00Z"},
+  {"invoiceId":"IsDB-INV-003","customerId":"isdb-c005-5555-eeee-6666-ffff00001111","amount":60000000.00,"currency":"ID","status":"Paid","description":"Egypt New Alamein Water Infrastructure Istisna'a Disbursement","issuedDate":"2025-10-05T00:00:00Z","paidDate":"2025-10-15T00:00:00Z"},
+  {"invoiceId":"IsDB-INV-004","customerId":"isdb-c006-6666-ffff-7777-000011112222","amount":50000000.00,"currency":"ID","status":"Paid","description":"Nigeria Abuja-Kano Highway Murabaha Disbursement","issuedDate":"2025-10-25T00:00:00Z","paidDate":"2025-11-05T00:00:00Z"}
+]

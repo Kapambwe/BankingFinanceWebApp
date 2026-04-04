@@ -1,0 +1,218 @@
+[
+  {
+    "totalValue": 455936627263.0,
+    "currency": "AOA",
+    "returnRate": 2069967307.0,
+    "portfolioName": "Income Portfolio",
+    "clientId": "ff9c31fd-059e-4514-ac40-10ca94246c95",
+    "riskLevel": "Low",
+    "portfolioId": "52a4578b-6c4e-44fa-a82b-adb98b87aeb9",
+    "clientName": "Ana Manuel",
+    "assetAllocation": {
+      "other": 4,
+      "stocks": 51,
+      "cash": 10,
+      "bonds": 14
+    },
+    "lastRebalanced": "2026-01-14T14:39:25Z",
+    "createdDate": "2020-01-27T00:00:00Z"
+  },
+  {
+    "totalValue": 667892977696.0,
+    "currency": "AOA",
+    "returnRate": 1500431360.0,
+    "portfolioName": "Growth Portfolio",
+    "clientId": "a3be8780-897c-4828-ae55-119339b6cd56",
+    "riskLevel": "Medium",
+    "portfolioId": "78643464-6de9-46b0-8983-85a0373eb900",
+    "clientName": "Fernanda Ana",
+    "assetAllocation": {
+      "other": 14,
+      "stocks": 53,
+      "cash": 18,
+      "bonds": 28
+    },
+    "lastRebalanced": "2025-12-01T14:39:25Z",
+    "createdDate": "2021-07-03T00:00:00Z"
+  },
+  {
+    "totalValue": 2141516362567.0,
+    "currency": "AOA",
+    "returnRate": 1648072229.0,
+    "portfolioName": "Growth Portfolio",
+    "clientId": "ed8721c2-493a-4429-a7a6-c62c6f6fac06",
+    "riskLevel": "High",
+    "portfolioId": "85491811-6d8c-4d01-a23a-2fc01b396d3b",
+    "clientName": "Carlos Fernanda",
+    "assetAllocation": {
+      "other": 1,
+      "stocks": 63,
+      "cash": 16,
+      "bonds": 31
+    },
+    "lastRebalanced": "2026-01-18T14:39:25Z",
+    "createdDate": "2020-11-01T00:00:00Z"
+  },
+  {
+    "totalValue": 493420548512.0,
+    "currency": "AOA",
+    "returnRate": 182364133.0,
+    "portfolioName": "Growth Portfolio",
+    "clientId": "432a16b1-403c-4857-a5f7-754ecc77a301",
+    "riskLevel": "Low",
+    "portfolioId": "327ca894-23dd-43ca-94ab-ecaa813d4da7",
+    "clientName": "Carlos Ana",
+    "assetAllocation": {
+      "other": 10,
+      "stocks": 42,
+      "cash": 8,
+      "bonds": 16
+    },
+    "lastRebalanced": "2025-11-17T14:39:25Z",
+    "createdDate": "2022-09-19T00:00:00Z"
+  },
+  {
+    "totalValue": 609150262775.0,
+    "currency": "AOA",
+    "returnRate": 828467862.0,
+    "portfolioName": "Aggressive Portfolio",
+    "clientId": "7c8be9bc-1ce0-49e5-bed1-25c1b6bab651",
+    "riskLevel": "Low",
+    "portfolioId": "2a1f4ecc-e8b2-4d50-b7e8-7991b304e47a",
+    "clientName": "Benguela Mwale",
+    "assetAllocation": {
+      "other": 13,
+      "stocks": 47,
+      "cash": 5,
+      "bonds": 12
+    },
+    "lastRebalanced": "2025-12-29T14:39:25Z",
+    "createdDate": "2022-04-26T00:00:00Z"
+  },
+  {
+    "totalValue": 1576641139068.0,
+    "currency": "AOA",
+    "returnRate": 1630376927.0,
+    "portfolioName": "Income Portfolio",
+    "clientId": "19ee0822-24df-4f38-98dc-7c254b063dc6",
+    "riskLevel": "High",
+    "portfolioId": "fd8dd269-775d-4ea7-a67a-cf0db3c1b465",
+    "clientName": "Isabel João",
+    "assetAllocation": {
+      "other": 1,
+      "stocks": 24,
+      "cash": 19,
+      "bonds": 13
+    },
+    "lastRebalanced": "2025-12-13T14:39:25Z",
+    "createdDate": "2020-01-17T00:00:00Z"
+  },
+  {
+    "totalValue": 1267074363603.0,
+    "currency": "AOA",
+    "returnRate": 871700420.0,
+    "portfolioName": "Growth Portfolio",
+    "clientId": "b63fbf76-f1b4-41b9-82a5-6700a016f72c",
+    "riskLevel": "Medium",
+    "portfolioId": "9a9933ab-fe56-4cea-a6d1-8099c588ca35",
+    "clientName": "António Manuel",
+    "assetAllocation": {
+      "other": 5,
+      "stocks": 49,
+      "cash": 14,
+      "bonds": 28
+    },
+    "lastRebalanced": "2026-01-24T14:39:25Z",
+    "createdDate": "2023-02-13T00:00:00Z"
+  },
+  {
+    "totalValue": 1234787277219.0,
+    "currency": "AOA",
+    "returnRate": 1548536454.0,
+    "portfolioName": "Conservative Portfolio",
+    "clientId": "7da175c0-0aa4-456e-9695-c6feece20eef",
+    "riskLevel": "High",
+    "portfolioId": "ced43554-cbd9-4b02-9c88-69f33f91c866",
+    "clientName": "Manuel Maria",
+    "assetAllocation": {
+      "other": 6,
+      "stocks": 30,
+      "cash": 9,
+      "bonds": 23
+    },
+    "lastRebalanced": "2026-01-23T14:39:25Z",
+    "createdDate": "2021-02-19T00:00:00Z"
+  },
+  {
+    "totalValue": 149449294375.0,
+    "currency": "AOA",
+    "returnRate": 1622998150.0,
+    "portfolioName": "Conservative Portfolio",
+    "clientId": "4c4df439-cf15-496f-9bf4-907a8c12cd7a",
+    "riskLevel": "Medium",
+    "portfolioId": "bfcb6d2f-2dfa-48a6-8cda-0b4c8fa76df8",
+    "clientName": "António Manuel",
+    "assetAllocation": {
+      "other": 11,
+      "stocks": 37,
+      "cash": 14,
+      "bonds": 12
+    },
+    "lastRebalanced": "2025-12-02T14:39:25Z",
+    "createdDate": "2021-06-18T00:00:00Z"
+  },
+  {
+    "totalValue": 1272394435310.0,
+    "currency": "AOA",
+    "returnRate": 809964689.0,
+    "portfolioName": "Balanced Portfolio",
+    "clientId": "d5085688-f740-4a73-976d-1878b5e3f6b3",
+    "riskLevel": "High",
+    "portfolioId": "990f110d-9f3a-44bf-9d77-900019a510e2",
+    "clientName": "Phiri Mulenga",
+    "assetAllocation": {
+      "other": 13,
+      "stocks": 29,
+      "cash": 12,
+      "bonds": 19
+    },
+    "lastRebalanced": "2025-12-16T14:39:25Z",
+    "createdDate": "2021-02-09T00:00:00Z"
+  },
+  {
+    "totalValue": 740411681300.0,
+    "currency": "AOA",
+    "returnRate": 572752431.0,
+    "portfolioName": "Aggressive Portfolio",
+    "clientId": "5ebcfb70-894d-4f92-a350-8c7b6e77937c",
+    "riskLevel": "High",
+    "portfolioId": "0d31fbf0-bf3f-4476-beb0-4090e5fdb2cb",
+    "clientName": "Manuel Manuel",
+    "assetAllocation": {
+      "other": 7,
+      "stocks": 57,
+      "cash": 15,
+      "bonds": 37
+    },
+    "lastRebalanced": "2025-12-03T14:39:25Z",
+    "createdDate": "2020-05-09T00:00:00Z"
+  },
+  {
+    "totalValue": 1973358600027.0,
+    "currency": "AOA",
+    "returnRate": 536622424.0,
+    "portfolioName": "Aggressive Portfolio",
+    "clientId": "1143a387-9882-471b-8b13-d78e0cd69c5d",
+    "riskLevel": "Low",
+    "portfolioId": "7f78c0bc-0d1c-4292-b75a-2e785141dc7c",
+    "clientName": "Sakala Mulenga",
+    "assetAllocation": {
+      "other": 5,
+      "stocks": 37,
+      "cash": 15,
+      "bonds": 10
+    },
+    "lastRebalanced": "2025-12-10T14:39:25Z",
+    "createdDate": "2023-07-11T00:00:00Z"
+  }
+]

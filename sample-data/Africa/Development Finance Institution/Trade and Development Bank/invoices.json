@@ -1,0 +1,5 @@
+[
+  {"invoiceId":"TDB-INV-001","customerId":"tdb-c001-1234-5678-abcd-ef1234567890","amount":120000000.00,"currency":"USD","status":"Paid","description":"Coffee Export Finance Disbursement","issuedDate":"2025-09-05T00:00:00Z","paidDate":"2025-09-15T00:00:00Z"},
+  {"invoiceId":"TDB-INV-002","customerId":"tdb-c002-2345-6789-bcde-f12345678901","amount":65000000.00,"currency":"USD","status":"Paid","description":"Mining Infrastructure Project","issuedDate":"2025-10-10T00:00:00Z","paidDate":"2025-10-20T00:00:00Z"},
+  {"invoiceId":"TDB-INV-003","customerId":"tdb-c003-3456-7890-cdef-123456789012","amount":50000000.00,"currency":"USD","status":"Paid","description":"Correspondent Line Drawdown","issuedDate":"2025-08-15T00:00:00Z","paidDate":"2025-08-25T00:00:00Z"}
+]

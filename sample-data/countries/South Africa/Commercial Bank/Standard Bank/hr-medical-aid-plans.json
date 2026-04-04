@@ -1,0 +1,63 @@
+[
+  {
+    "PlanId": "samap001-0001-0001-0001-000000000001",
+    "PlanName": "Executive Plan",
+    "Provider": "Discovery Health",
+    "Option": "Comprehensive",
+    "MemberPremium": 4200.00,
+    "SpousePremium": 3150.00,
+    "ChildPremium": 1260.00,
+    "InpatientLimit": 0.00,
+    "OutpatientLimit": 48000.00,
+    "Currency": "ZAR",
+    "EnrolledMembers": 18,
+    "IsActive": true,
+    "CreatedAt": "2010-01-01T00:00:00",
+    "_note": "Unlimited in-hospital cover via DSP network; R48,000 p.a. outpatient threshold"
+  },
+  {
+    "PlanId": "samap001-0001-0001-0001-000000000002",
+    "PlanName": "Essential Saver",
+    "Provider": "Discovery Health",
+    "Option": "Standard",
+    "MemberPremium": 2550.00,
+    "SpousePremium": 2000.00,
+    "ChildPremium": 950.00,
+    "InpatientLimit": 0.00,
+    "OutpatientLimit": 18000.00,
+    "Currency": "ZAR",
+    "EnrolledMembers": 52,
+    "IsActive": true,
+    "CreatedAt": "2010-01-01T00:00:00"
+  },
+  {
+    "PlanId": "samap001-0001-0001-0001-000000000003",
+    "PlanName": "BonEssential",
+    "Provider": "Bonitas",
+    "Option": "Essential",
+    "MemberPremium": 1800.00,
+    "SpousePremium": 1500.00,
+    "ChildPremium": 700.00,
+    "InpatientLimit": 0.00,
+    "OutpatientLimit": 12000.00,
+    "Currency": "ZAR",
+    "EnrolledMembers": 34,
+    "IsActive": true,
+    "CreatedAt": "2010-01-01T00:00:00"
+  },
+  {
+    "PlanId": "samap001-0001-0001-0001-000000000004",
+    "PlanName": "Beat2",
+    "Provider": "Bestmed",
+    "Option": "Standard",
+    "MemberPremium": 3100.00,
+    "SpousePremium": 2450.00,
+    "ChildPremium": 1100.00,
+    "InpatientLimit": 0.00,
+    "OutpatientLimit": 22000.00,
+    "Currency": "ZAR",
+    "EnrolledMembers": 27,
+    "IsActive": true,
+    "CreatedAt": "2015-01-01T00:00:00"
+  }
+]

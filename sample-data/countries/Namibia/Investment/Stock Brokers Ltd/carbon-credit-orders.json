@@ -1,0 +1,74 @@
+[
+  {
+    "orderId": "CC-ORD-20240111-001",
+    "creditId": "VCS-NA-001",
+    "symbol": "SOLAR-SA",
+    "side": "Retire",
+    "quantity": 72,
+    "price": 24.73,
+    "totalAmount": 1780.56,
+    "purpose": "Corporate Offsetting",
+    "status": "Completed",
+    "timestamp": "2024-01-11T13:00:00Z"
+  },
+  {
+    "orderId": "CC-ORD-20240212-002",
+    "creditId": "VCS-NA-001",
+    "symbol": "SOLAR-SA",
+    "side": "Retire",
+    "quantity": 138,
+    "price": 24.34,
+    "totalAmount": 3358.92,
+    "purpose": "ESG Portfolio Diversification",
+    "status": "Completed",
+    "timestamp": "2024-02-12T15:00:00Z"
+  },
+  {
+    "orderId": "CC-ORD-20240320-003",
+    "creditId": "GOL-NA-002",
+    "symbol": "WIND-SA",
+    "side": "Buy",
+    "quantity": 133,
+    "price": 20.87,
+    "totalAmount": 2775.71,
+    "purpose": "Social Impact Investment",
+    "status": "Completed",
+    "timestamp": "2024-03-20T10:00:00Z"
+  },
+  {
+    "orderId": "CC-ORD-20240417-004",
+    "creditId": "GOL-NA-002",
+    "symbol": "WIND-SA",
+    "side": "Retire",
+    "quantity": 143,
+    "price": 20.98,
+    "totalAmount": 3000.14,
+    "purpose": "Corporate Offsetting",
+    "status": "Completed",
+    "timestamp": "2024-04-17T09:00:00Z"
+  },
+  {
+    "orderId": "CC-ORD-20240505-005",
+    "creditId": "VCS-NA-003",
+    "symbol": "REDD-SA",
+    "side": "Retire",
+    "quantity": 132,
+    "price": 19.7,
+    "totalAmount": 2600.4,
+    "purpose": "Regulatory Compliance",
+    "status": "Completed",
+    "timestamp": "2024-05-05T08:00:00Z"
+  },
+  {
+    "orderId": "CC-ORD-20240620-006",
+    "creditId": "VCS-NA-003",
+    "symbol": "REDD-SA",
+    "side": "Buy",
+    "quantity": 142,
+    "price": 19.18,
+    "totalAmount": 2723.56,
+    "purpose": "Social Impact Investment",
+    "status": "Completed",
+    "timestamp": "2024-06-20T10:00:00Z"
+  }
+]

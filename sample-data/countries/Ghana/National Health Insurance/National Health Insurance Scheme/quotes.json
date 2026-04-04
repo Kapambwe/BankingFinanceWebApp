@@ -1,0 +1,44 @@
+[
+  {
+    "quoteId": "qt200000-0001",
+    "quoteNumber": "QT-2-2025-00001",
+    "employerName": "Ghana Commercial Bank",
+    "packageType": "Standard",
+    "numberOfEmployees": 500,
+    "monthlyPremiumPerEmployee": 490.0,
+    "totalMonthlyPremium": 245000.0,
+    "currency": "GHS",
+    "quoteDate": "2025-10-01",
+    "validUntil": "2025-11-30",
+    "status": "Accepted",
+    "createdAt": "2025-10-01T00:00:00Z"
+  },
+  {
+    "quoteId": "qt200000-0002",
+    "quoteNumber": "QT-2-2025-00002",
+    "employerName": "Tullow Oil Ghana",
+    "packageType": "Enhanced",
+    "numberOfEmployees": 1200,
+    "monthlyPremiumPerEmployee": 700.0,
+    "totalMonthlyPremium": 840000.0,
+    "currency": "GHS",
+    "quoteDate": "2025-11-01",
+    "validUntil": "2025-12-30",
+    "status": "Pending",
+    "createdAt": "2025-11-01T00:00:00Z"
+  },
+  {
+    "quoteId": "qt200000-0003",
+    "quoteNumber": "QT-2-2025-00003",
+    "employerName": "AngloGold Ashanti Ghana",
+    "packageType": "Basic",
+    "numberOfEmployees": 250,
+    "monthlyPremiumPerEmployee": 280.0,
+    "totalMonthlyPremium": 70000.0,
+    "currency": "GHS",
+    "quoteDate": "2025-12-01",
+    "validUntil": "2025-13-30",
+    "status": "Declined",
+    "createdAt": "2025-12-01T00:00:00Z"
+  }
+]

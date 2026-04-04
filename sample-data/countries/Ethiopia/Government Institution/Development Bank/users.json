@@ -1,0 +1,163 @@
+[
+  {
+    "userId": "f193d1e0-ce64-49f3-9631-4289659900d2",
+    "email": "admin.government",
+    "username": "admin.government",
+    "firstName": "Government",
+    "lastName": "Admin",
+    "institutionType": "Government Institution",
+    "institutionName": "Ethiopia National Development Bank",
+    "institutionId": "c858b0e7-fca9-414b-9a41-6b3459b97464",
+    "roles": [
+      "GovernmentAdmin"
+    ],
+    "permissions": [],
+    "isActive": true,
+    "isEmailVerified": true,
+    "isPhoneVerified": true,
+    "isIdentityVerified": true,
+    "trustScore": 95,
+    "createdAt": "2025-12-21T00:00:00Z",
+    "phoneNumber": "+260977000000",
+    "gender": "Other",
+    "nationality": "Zambian"
+  },
+  {
+    "userId": "d15240eb-54d0-4bbe-9b3d-ee64d4101998",
+    "email": "projectfinance.government",
+    "username": "projectfinance.government",
+    "firstName": "Project Finance",
+    "lastName": "Manager",
+    "institutionType": "Government Institution",
+    "institutionName": "Ethiopia National Development Bank",
+    "institutionId": "c858b0e7-fca9-414b-9a41-6b3459b97464",
+    "roles": [
+      "ProjectFinanceManager"
+    ],
+    "permissions": [],
+    "isActive": true,
+    "isEmailVerified": true,
+    "isPhoneVerified": true,
+    "isIdentityVerified": true,
+    "trustScore": 95,
+    "createdAt": "2025-12-21T00:00:00Z",
+    "phoneNumber": "+260977000000",
+    "gender": "Other",
+    "nationality": "Zambian"
+  },
+  {
+    "userId": "618d21e1-e2ec-41a5-8eec-d7587c694df9",
+    "email": "loansclerk.government",
+    "username": "loansclerk.government",
+    "firstName": "Loans",
+    "lastName": "Clerk",
+    "institutionType": "Government Institution",
+    "institutionName": "Ethiopia National Development Bank",
+    "institutionId": "c858b0e7-fca9-414b-9a41-6b3459b97464",
+    "roles": [
+      "LoansClerk"
+    ],
+    "permissions": [],
+    "isActive": true,
+    "isEmailVerified": true,
+    "isPhoneVerified": true,
+    "isIdentityVerified": true,
+    "trustScore": 95,
+    "createdAt": "2025-12-21T00:00:00Z",
+    "phoneNumber": "+260977000000",
+    "gender": "Other",
+    "nationality": "Zambian"
+  },
+  {
+    "userId": "b4907927-1720-4c63-b7e2-e046741f7993",
+    "email": "socialprotection.government",
+    "username": "socialprotection.government",
+    "firstName": "Social Protection",
+    "lastName": "Officer",
+    "institutionType": "Government Institution",
+    "institutionName": "Ethiopia National Development Bank",
+    "institutionId": "c858b0e7-fca9-414b-9a41-6b3459b97464",
+    "roles": [
+      "SocialProtectionOfficer"
+    ],
+    "permissions": [],
+    "isActive": true,
+    "isEmailVerified": true,
+    "isPhoneVerified": true,
+    "isIdentityVerified": true,
+    "trustScore": 95,
+    "createdAt": "2025-12-21T00:00:00Z",
+    "phoneNumber": "+260977000000",
+    "gender": "Other",
+    "nationality": "Zambian"
+  },
+  {
+    "userId": "5d74f15a-11ed-4ae0-b5e3-b61c3663b163",
+    "email": "me.government",
+    "username": "me.government",
+    "firstName": "M&E",
+    "lastName": "Officer",
+    "institutionType": "Government Institution",
+    "institutionName": "Ethiopia National Development Bank",
+    "institutionId": "c858b0e7-fca9-414b-9a41-6b3459b97464",
+    "roles": [
+      "MEOfficer"
+    ],
+    "permissions": [],
+    "isActive": true,
+    "isEmailVerified": true,
+    "isPhoneVerified": true,
+    "isIdentityVerified": true,
+    "trustScore": 95,
+    "createdAt": "2025-12-21T00:00:00Z",
+    "phoneNumber": "+260977000000",
+    "gender": "Other",
+    "nationality": "Zambian"
+  },
+  {
+    "userId": "e707424e-cb90-4d41-a95b-618f3eb2c376",
+    "email": "procurement.government",
+    "username": "procurement.government",
+    "firstName": "Procurement",
+    "lastName": "Officer",
+    "institutionType": "Government Institution",
+    "institutionName": "Ethiopia National Development Bank",
+    "institutionId": "c858b0e7-fca9-414b-9a41-6b3459b97464",
+    "roles": [
+      "ProcurementOfficer"
+    ],
+    "permissions": [],
+    "isActive": true,
+    "isEmailVerified": true,
+    "isPhoneVerified": true,
+    "isIdentityVerified": true,
+    "trustScore": 95,
+    "createdAt": "2025-12-21T00:00:00Z",
+    "phoneNumber": "+260977000000",
+    "gender": "Other",
+    "nationality": "Zambian"
+  },
+  {
+    "userId": "2713ffa0-afd9-493b-97cd-c2d3ea2b88a4",
+    "email": "financeclerk.government",
+    "username": "financeclerk.government",
+    "firstName": "Finance",
+    "lastName": "Clerk",
+    "institutionType": "Government Institution",
+    "institutionName": "Ethiopia National Development Bank",
+    "institutionId": "c858b0e7-fca9-414b-9a41-6b3459b97464",
+    "roles": [
+      "GovernmentFinanceClerk"
+    ],
+    "permissions": [],
+    "isActive": true,
+    "isEmailVerified": true,
+    "isPhoneVerified": true,
+    "isIdentityVerified": true,
+    "trustScore": 95,
+    "createdAt": "2025-12-21T00:00:00Z",
+    "phoneNumber": "+260977000000",
+    "gender": "Other",
+    "nationality": "Zambian"
+  }
+]

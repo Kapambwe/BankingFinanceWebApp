@@ -1,0 +1,222 @@
+[
+  {
+    "transactionType": "Transfer",
+    "currency": "GBP",
+    "status": "Completed",
+    "transactionId": "679ab29c-6439-42f7-bce5-ea9716bdf686",
+    "amount": 50.0,
+    "description": "Subscription Payment",
+    "balance": 1000.0,
+    "transactionDate": "2025-01-01T13:41:36Z",
+    "accountId": "36e520a5-caec-4a34-bed9-b2eab1e8e42e"
+  },
+  {
+    "transactionType": "Payment",
+    "currency": "GBP",
+    "status": "Pending",
+    "transactionId": "c99d72f1-80aa-4b59-8d9b-ca5799d3d42a",
+    "amount": 200.75,
+    "description": "FX Conversion",
+    "balance": 1250.0,
+    "transactionDate": "2025-02-02T13:41:36Z",
+    "accountId": "04553868-02c7-42a0-9cbb-0f45c570a261"
+  },
+  {
+    "transactionType": "Withdrawal",
+    "currency": "GBP",
+    "status": "Failed",
+    "transactionId": "659f43e3-b8f9-4357-aa1b-fd788ee33b57",
+    "amount": 351.5,
+    "description": "ATM Withdrawal",
+    "balance": 1500.0,
+    "transactionDate": "2025-03-03T13:41:36Z",
+    "accountId": "5f98e706-af38-423b-81f5-af51cf9e5c87"
+  },
+  {
+    "transactionType": "Fee",
+    "currency": "GBP",
+    "status": "Completed",
+    "transactionId": "96d1334a-c5e2-4183-89bd-23fbb7eb766e",
+    "amount": 502.25,
+    "description": "Monthly Fee",
+    "balance": 1750.0,
+    "transactionDate": "2025-04-04T13:41:36Z",
+    "accountId": "cf640a53-ba2f-49d8-a365-b107e91b00f7"
+  },
+  {
+    "transactionType": "Deposit",
+    "currency": "GBP",
+    "status": "Pending",
+    "transactionId": "524a129f-46f3-4eb0-be6d-1504f8305d83",
+    "amount": 653.0,
+    "description": "Salary Deposit",
+    "balance": 2000.0,
+    "transactionDate": "2025-05-05T13:41:36Z",
+    "accountId": "adaa1510-d82b-48e4-b162-0580706854c5"
+  },
+  {
+    "transactionType": "FX Exchange",
+    "currency": "GBP",
+    "status": "Failed",
+    "transactionId": "467e01b9-11dc-45ee-8b7a-d850b7ba52e1",
+    "amount": 803.75,
+    "description": "EUR to GBP Exchange",
+    "balance": 2250.0,
+    "transactionDate": "2025-06-06T13:41:36Z",
+    "accountId": "8cda6c5c-fbd0-4f00-bd74-1703d3dc938e"
+  },
+  {
+    "transactionType": "Crypto Purchase",
+    "currency": "GBP",
+    "status": "Completed",
+    "transactionId": "556217db-2d22-4549-adb4-1664074f6c4d",
+    "amount": 954.5,
+    "description": "Bitcoin Purchase",
+    "balance": 2500.0,
+    "transactionDate": "2025-07-07T13:41:36Z",
+    "accountId": "c42b9a34-82cb-4c26-b9ba-379398a87035"
+  },
+  {
+    "transactionType": "Card Payment",
+    "currency": "GBP",
+    "status": "Pending",
+    "transactionId": "48f9db48-959f-4a07-9997-fa7574039f58",
+    "amount": 1105.25,
+    "description": "Contactless Payment",
+    "balance": 2750.0,
+    "transactionDate": "2025-08-08T13:41:36Z",
+    "accountId": "200a6f5a-d598-40f7-bb72-09c94d31dfae"
+  },
+  {
+    "transactionType": "Transfer",
+    "currency": "GBP",
+    "status": "Failed",
+    "transactionId": "869699d0-9b4d-4711-b7da-eb1bffd53ce5",
+    "amount": 1256.0,
+    "description": "Bank Transfer",
+    "balance": 3000.0,
+    "transactionDate": "2025-09-09T13:41:36Z",
+    "accountId": "da115406-c2e7-4251-ac08-cedc6b26e75e"
+  },
+  {
+    "transactionType": "Payment",
+    "currency": "GBP",
+    "status": "Completed",
+    "transactionId": "dd44ea5f-802f-4d8a-990a-5ae09133083a",
+    "amount": 1406.75,
+    "description": "Bill Payment",
+    "balance": 3250.0,
+    "transactionDate": "2025-10-10T13:41:36Z",
+    "accountId": "c99e26ab-1a20-4b2c-8b9b-4082fec0a594"
+  },
+  {
+    "transactionType": "Withdrawal",
+    "currency": "GBP",
+    "status": "Pending",
+    "transactionId": "fb071939-1506-41cc-bce2-48bdd058cc61",
+    "amount": 1557.5,
+    "description": "Refund",
+    "balance": 3500.0,
+    "transactionDate": "2025-11-11T13:41:36Z",
+    "accountId": "a7a5e005-6537-4a6a-9cc8-891e6b34075a"
+  },
+  {
+    "transactionType": "Fee",
+    "currency": "GBP",
+    "status": "Failed",
+    "transactionId": "3257d983-fa57-4eca-9612-cc5913f72863",
+    "amount": 1708.25,
+    "description": "Reversal",
+    "balance": 3750.0,
+    "transactionDate": "2025-12-12T13:41:36Z",
+    "accountId": "dfc48d11-5121-4220-8117-e87a2a02f594"
+  },
+  {
+    "transactionType": "Deposit",
+    "currency": "GBP",
+    "status": "Completed",
+    "transactionId": "b2ab2824-ea08-4749-b4d9-5519f3249fed",
+    "amount": 1859.0,
+    "description": "Interest Credit",
+    "balance": 4000.0,
+    "transactionDate": "2025-01-13T13:41:36Z",
+    "accountId": "b5f713b7-da48-4e79-a17c-6fa86c7349af"
+  },
+  {
+    "transactionType": "FX Exchange",
+    "currency": "GBP",
+    "status": "Pending",
+    "transactionId": "ac87e58c-8515-490a-ac55-e333e0e7c62b",
+    "amount": 2009.75,
+    "description": "Cashback",
+    "balance": 4250.0,
+    "transactionDate": "2025-02-14T13:41:36Z",
+    "accountId": "b79f1787-d2ae-49a8-bf79-eae1f816ae0b"
+  },
+  {
+    "transactionType": "Crypto Purchase",
+    "currency": "GBP",
+    "status": "Failed",
+    "transactionId": "7aa4b6b6-a2d8-4e2a-b27a-c140ff61f257",
+    "amount": 2160.5,
+    "description": "Direct Debit",
+    "balance": 4500.0,
+    "transactionDate": "2025-03-15T13:41:36Z",
+    "accountId": "61b1546a-480d-40ce-aaeb-c57cbe6e2bad"
+  },
+  {
+    "transactionType": "Card Payment",
+    "currency": "GBP",
+    "status": "Completed",
+    "transactionId": "31f8446f-95bc-40a3-bdb4-484d923cc415",
+    "amount": 2311.25,
+    "description": "Subscription Payment",
+    "balance": 4750.0,
+    "transactionDate": "2025-04-16T13:41:36Z",
+    "accountId": "e0e97b4e-7939-4b0f-bcad-4e1cc71ad156"
+  },
+  {
+    "transactionType": "Transfer",
+    "currency": "GBP",
+    "status": "Pending",
+    "transactionId": "9900493d-4874-4631-b648-1391fb47a375",
+    "amount": 2462.0,
+    "description": "FX Conversion",
+    "balance": 5000.0,
+    "transactionDate": "2025-05-17T13:41:36Z",
+    "accountId": "9bef3a79-f0a1-4732-87f4-98dcd8934c08"
+  },
+  {
+    "transactionType": "Payment",
+    "currency": "GBP",
+    "status": "Failed",
+    "transactionId": "64353143-0582-41f1-97ea-546c146313d4",
+    "amount": 2612.75,
+    "description": "ATM Withdrawal",
+    "balance": 5250.0,
+    "transactionDate": "2025-06-18T13:41:36Z",
+    "accountId": "b342eebf-36c5-4f60-b8db-acb1e37446c2"
+  },
+  {
+    "transactionType": "Withdrawal",
+    "currency": "GBP",
+    "status": "Completed",
+    "transactionId": "919b5972-7dee-45e5-a67a-2ec792d66a26",
+    "amount": 2763.5,
+    "description": "Monthly Fee",
+    "balance": 5500.0,
+    "transactionDate": "2025-07-19T13:41:36Z",
+    "accountId": "cb5d192b-ac92-4911-ba51-8823c9bd1eb6"
+  },
+  {
+    "transactionType": "Fee",
+    "currency": "GBP",
+    "status": "Pending",
+    "transactionId": "703bda53-c64b-4823-94a3-3b7c7c1a4918",
+    "amount": 2914.25,
+    "description": "Salary Deposit",
+    "balance": 5750.0,
+    "transactionDate": "2025-08-20T13:41:36Z",
+    "accountId": "b47d43b5-37a1-4bc7-8329-e8c9a329db2c"
+  }
+]

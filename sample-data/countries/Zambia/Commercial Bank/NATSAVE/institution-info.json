@@ -1,0 +1,17 @@
+{
+  "registrationNumber": "REG-60978",
+  "contactEmail": "natsave@example.zm",
+  "createdAt": "2023-09-13T00:00:00Z",
+  "branches": 46,
+  "institutionType": "Commercial Bank",
+  "institutionName": "NATSAVE",
+  "country": "Zambia",
+  "established": 2017,
+  "employees": 3941,
+  "contactPhone": "+260-393-173351",
+  "headquarters": "Lusaka",
+  "institutionId": "66a087c3-b2f1-46d4-b62f-d290d9e61be4",
+  "currency": "ZMW",
+  "status": "Active",
+  "website": "https://www.natsave.co.zm"
+}

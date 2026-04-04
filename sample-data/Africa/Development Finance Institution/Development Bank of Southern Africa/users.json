@@ -1,0 +1,163 @@
+[
+  {
+    "userId": "5c6b7db1-7988-4b21-9c79-6fce1e51d32d",
+    "email": "admin.government",
+    "username": "admin.government",
+    "firstName": "Government",
+    "lastName": "Admin",
+    "institutionType": "Development Finance Institution",
+    "institutionName": "Development Bank of Southern Africa",
+    "institutionId": "dbsa-0001-7d5e-1f6a-4b5c6d7e8f9a",
+    "roles": [
+      "GovernmentAdmin"
+    ],
+    "permissions": [],
+    "isActive": true,
+    "isEmailVerified": true,
+    "isPhoneVerified": true,
+    "isIdentityVerified": true,
+    "trustScore": 95,
+    "createdAt": "1983-06-01T00:00:00Z",
+    "phoneNumber": "+260977000000",
+    "gender": "Other",
+    "nationality": "Zambian"
+  },
+  {
+    "userId": "3001c8b2-d13d-440b-a3e8-06c3345a3914",
+    "email": "projectfinance.government",
+    "username": "projectfinance.government",
+    "firstName": "Project Finance",
+    "lastName": "Manager",
+    "institutionType": "Development Finance Institution",
+    "institutionName": "Development Bank of Southern Africa",
+    "institutionId": "dbsa-0001-7d5e-1f6a-4b5c6d7e8f9a",
+    "roles": [
+      "ProjectFinanceManager"
+    ],
+    "permissions": [],
+    "isActive": true,
+    "isEmailVerified": true,
+    "isPhoneVerified": true,
+    "isIdentityVerified": true,
+    "trustScore": 95,
+    "createdAt": "1983-06-01T00:00:00Z",
+    "phoneNumber": "+260977000000",
+    "gender": "Other",
+    "nationality": "Zambian"
+  },
+  {
+    "userId": "5cea9586-f8e7-4c86-81e8-9d6e6e479178",
+    "email": "loansclerk.government",
+    "username": "loansclerk.government",
+    "firstName": "Loans",
+    "lastName": "Clerk",
+    "institutionType": "Development Finance Institution",
+    "institutionName": "Development Bank of Southern Africa",
+    "institutionId": "dbsa-0001-7d5e-1f6a-4b5c6d7e8f9a",
+    "roles": [
+      "LoansClerk"
+    ],
+    "permissions": [],
+    "isActive": true,
+    "isEmailVerified": true,
+    "isPhoneVerified": true,
+    "isIdentityVerified": true,
+    "trustScore": 95,
+    "createdAt": "1983-06-01T00:00:00Z",
+    "phoneNumber": "+260977000000",
+    "gender": "Other",
+    "nationality": "Zambian"
+  },
+  {
+    "userId": "7cadeced-ffe7-4ba7-8bff-d6f8eeba3f8c",
+    "email": "socialprotection.government",
+    "username": "socialprotection.government",
+    "firstName": "Social Protection",
+    "lastName": "Officer",
+    "institutionType": "Development Finance Institution",
+    "institutionName": "Development Bank of Southern Africa",
+    "institutionId": "dbsa-0001-7d5e-1f6a-4b5c6d7e8f9a",
+    "roles": [
+      "SocialProtectionOfficer"
+    ],
+    "permissions": [],
+    "isActive": true,
+    "isEmailVerified": true,
+    "isPhoneVerified": true,
+    "isIdentityVerified": true,
+    "trustScore": 95,
+    "createdAt": "1983-06-01T00:00:00Z",
+    "phoneNumber": "+260977000000",
+    "gender": "Other",
+    "nationality": "Zambian"
+  },
+  {
+    "userId": "8cdaec8c-1647-4cab-ae8b-b39e8c04daf0",
+    "email": "me.government",
+    "username": "me.government",
+    "firstName": "M&E",
+    "lastName": "Officer",
+    "institutionType": "Development Finance Institution",
+    "institutionName": "Development Bank of Southern Africa",
+    "institutionId": "dbsa-0001-7d5e-1f6a-4b5c6d7e8f9a",
+    "roles": [
+      "MEOfficer"
+    ],
+    "permissions": [],
+    "isActive": true,
+    "isEmailVerified": true,
+    "isPhoneVerified": true,
+    "isIdentityVerified": true,
+    "trustScore": 95,
+    "createdAt": "1983-06-01T00:00:00Z",
+    "phoneNumber": "+260977000000",
+    "gender": "Other",
+    "nationality": "Zambian"
+  },
+  {
+    "userId": "bfa4965e-b417-412b-bea4-b9cc9cb1ba05",
+    "email": "procurement.government",
+    "username": "procurement.government",
+    "firstName": "Procurement",
+    "lastName": "Officer",
+    "institutionType": "Development Finance Institution",
+    "institutionName": "Development Bank of Southern Africa",
+    "institutionId": "dbsa-0001-7d5e-1f6a-4b5c6d7e8f9a",
+    "roles": [
+      "ProcurementOfficer"
+    ],
+    "permissions": [],
+    "isActive": true,
+    "isEmailVerified": true,
+    "isPhoneVerified": true,
+    "isIdentityVerified": true,
+    "trustScore": 95,
+    "createdAt": "1983-06-01T00:00:00Z",
+    "phoneNumber": "+260977000000",
+    "gender": "Other",
+    "nationality": "Zambian"
+  },
+  {
+    "userId": "d2090117-d43c-42c8-afa5-01568e3dd837",
+    "email": "financeclerk.government",
+    "username": "financeclerk.government",
+    "firstName": "Finance",
+    "lastName": "Clerk",
+    "institutionType": "Development Finance Institution",
+    "institutionName": "Development Bank of Southern Africa",
+    "institutionId": "dbsa-0001-7d5e-1f6a-4b5c6d7e8f9a",
+    "roles": [
+      "GovernmentFinanceClerk"
+    ],
+    "permissions": [],
+    "isActive": true,
+    "isEmailVerified": true,
+    "isPhoneVerified": true,
+    "isIdentityVerified": true,
+    "trustScore": 95,
+    "createdAt": "1983-06-01T00:00:00Z",
+    "phoneNumber": "+260977000000",
+    "gender": "Other",
+    "nationality": "Zambian"
+  }
+]

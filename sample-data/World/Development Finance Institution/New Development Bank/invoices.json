@@ -1,0 +1,6 @@
+[
+  {"invoiceId":"NDB-INV-001","customerId":"ndb-c001-1111-aaaa-2222-bbbbccccdddd","amount":300000000.00,"currency":"USD","status":"Paid","description":"South Africa Renewable Energy IPP Program Phase V Disbursement","issuedDate":"2025-07-10T00:00:00Z","paidDate":"2025-07-20T00:00:00Z"},
+  {"invoiceId":"NDB-INV-002","customerId":"ndb-c002-2222-bbbb-3333-ccccddddeeee","amount":250000000.00,"currency":"USD","status":"Paid","description":"Egypt New Administrative Capital Transport Disbursement","issuedDate":"2025-08-05T00:00:00Z","paidDate":"2025-08-15T00:00:00Z"},
+  {"invoiceId":"NDB-INV-003","customerId":"ndb-c004-4444-dddd-5555-eeeeffff0000","amount":200000000.00,"currency":"USD","status":"Paid","description":"Eskom Battery Energy Storage Green Bond Disbursement","issuedDate":"2025-09-25T00:00:00Z","paidDate":"2025-10-05T00:00:00Z"},
+  {"invoiceId":"NDB-INV-004","customerId":"ndb-c003-3333-cccc-4444-ddddeeeeffff","amount":150000000.00,"currency":"USD","status":"Paid","description":"Ethiopia Emergency Economic Stabilization Disbursement","issuedDate":"2025-09-01T00:00:00Z","paidDate":"2025-09-10T00:00:00Z"}
+]

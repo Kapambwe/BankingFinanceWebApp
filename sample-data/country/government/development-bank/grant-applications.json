@@ -1,0 +1,42 @@
+[
+  {
+    "applicationId": "850e8400-e29b-41d4-a716-446655440001",
+    "programId": "750e8400-e29b-41d4-a716-446655440001",
+    "programName": "Youth Agricultural Development Grant",
+    "applicationNumber": "GA-2025-0001",
+    "applicantName": "John Banda",
+    "applicantNationalID": "556677/10/1",
+    "businessName": "Banda Fish Farm",
+    "sector": "Agriculture",
+    "province": "Luapula",
+    "district": "Mansa",
+    "requestedAmount": 25000,
+    "approvedAmount": 20000,
+    "projectDescription": "Establishing a modern fish farming operation",
+    "currency": "USD",
+    "status": "Approved",
+    "submissionDate": "2025-02-10T00:00:00Z",
+    "approvalDate": "2025-03-05T00:00:00Z",
+    "createdAt": "2025-02-10T00:00:00Z"
+  },
+  {
+    "applicationId": "850e8400-e29b-41d4-a716-446655440002",
+    "programId": "750e8400-e29b-41d4-a716-446655440002",
+    "programName": "Women in Business Grant Program",
+    "applicationNumber": "GA-2025-0002",
+    "applicantName": "Mary Mwanza",
+    "applicantNationalID": "667788/10/1",
+    "businessName": "Mwanza Tailoring Services",
+    "sector": "Manufacturing",
+    "province": "Lusaka",
+    "district": "Lusaka",
+    "requestedAmount": 15000,
+    "approvedAmount": 0,
+    "projectDescription": "Expanding tailoring business with new equipment",
+    "currency": "USD",
+    "status": "UnderReview",
+    "submissionDate": "2025-03-15T00:00:00Z",
+    "approvalDate": null,
+    "createdAt": "2025-03-15T00:00:00Z"
+  }
+]

@@ -1,0 +1,159 @@
+[
+  {
+    "partnerId": "RP-UGA-001",
+    "businessName": "Shoprite Uganda Uganda Ltd",
+    "brandName": "Shoprite Uganda",
+    "partnerType": "ConvenienceStore",
+    "country": "Uganda",
+    "currency": "UGX",
+    "contactPerson": "Partner Manager 1",
+    "email": "banking@shopriteugan.ug",
+    "phoneNumber": "+556-528-104792",
+    "servicesOffered": [
+      "CashWithdrawal",
+      "CashDeposit",
+      "MoneyTransfer",
+      "AccountOpening"
+    ],
+    "acceptedPaymentMethods": [
+      "Cash",
+      "PhoneNumber",
+      "CardTap",
+      "USSD",
+      "QRCode",
+      "AccountNumber"
+    ],
+    "totalStores": 127,
+    "activeStores": 118,
+    "storeLocations": [
+      "Entebbe",
+      "Mbarara",
+      "Kampala"
+    ],
+    "monthlyTransactionVolume": 7507812.4,
+    "monthlyTransactionCount": 18615,
+    "averageTransactionSize": 1887.81,
+    "commissionRate": 0.63,
+    "monthlyRevenue": 94293.29,
+    "partnershipStartDate": "2022-05-01T18:10:28Z",
+    "status": "PendingApproval",
+    "brandColor": "#72e053",
+    "isIntegrated": true,
+    "lastSyncDate": "2026-03-03T18:10:28Z"
+  },
+  {
+    "partnerId": "RP-UGA-002",
+    "businessName": "Nakumatt Uganda Ltd",
+    "brandName": "Nakumatt",
+    "partnerType": "SmallShop",
+    "country": "Uganda",
+    "currency": "UGX",
+    "contactPerson": "Partner Manager 2",
+    "email": "banking@nakumatt.ug",
+    "phoneNumber": "+229-596-639915",
+    "servicesOffered": [
+      "CashDeposit",
+      "CashWithdrawal",
+      "AirtimePurchase"
+    ],
+    "acceptedPaymentMethods": [
+      "AccountNumber",
+      "CardTap"
+    ],
+    "totalStores": 27,
+    "activeStores": 25,
+    "storeLocations": [
+      "Jinja",
+      "Entebbe",
+      "Kampala",
+      "Mbarara"
+    ],
+    "monthlyTransactionVolume": 880147.74,
+    "monthlyTransactionCount": 15577,
+    "averageTransactionSize": 114.05,
+    "commissionRate": 0.85,
+    "monthlyRevenue": 3676.17,
+    "partnershipStartDate": "2022-01-14T18:10:28Z",
+    "status": "PendingApproval",
+    "brandColor": "#d6377e",
+    "isIntegrated": true,
+    "lastSyncDate": null
+  },
+  {
+    "partnerId": "RP-UGA-003",
+    "businessName": "Game Uganda Uganda Ltd",
+    "brandName": "Game Uganda",
+    "partnerType": "ConvenienceStore",
+    "country": "Uganda",
+    "currency": "UGX",
+    "contactPerson": "Partner Manager 3",
+    "email": "banking@gameuganda.ug",
+    "phoneNumber": "+476-307-452207",
+    "servicesOffered": [
+      "CashDeposit",
+      "AccountOpening",
+      "MoneyTransfer",
+      "LoanPayment"
+    ],
+    "acceptedPaymentMethods": [
+      "CardTap",
+      "QRCode",
+      "Cash",
+      "USSD"
+    ],
+    "totalStores": 237,
+    "activeStores": 229,
+    "storeLocations": [
+      "Kampala",
+      "Entebbe"
+    ],
+    "monthlyTransactionVolume": 1465583.09,
+    "monthlyTransactionCount": 30553,
+    "averageTransactionSize": 52.51,
+    "commissionRate": 0.59,
+    "monthlyRevenue": 10439.22,
+    "partnershipStartDate": "2021-03-15T18:10:28Z",
+    "status": "Active",
+    "brandColor": "#9ca92f",
+    "isIntegrated": true,
+    "lastSyncDate": null
+  },
+  {
+    "partnerId": "RP-UGA-004",
+    "businessName": "Cleanpay Uganda Ltd",
+    "brandName": "Cleanpay",
+    "partnerType": "ConvenienceStore",
+    "country": "Uganda",
+    "currency": "UGX",
+    "contactPerson": "Partner Manager 4",
+    "email": "banking@cleanpay.ug",
+    "phoneNumber": "+214-847-548906",
+    "servicesOffered": [
+      "CashWithdrawal",
+      "BillPayment",
+      "AirtimePurchase",
+      "LoanPayment"
+    ],
+    "acceptedPaymentMethods": [
+      "AccountNumber",
+      "QRCode",
+      "Cash"
+    ],
+    "totalStores": 272,
+    "activeStores": 254,
+    "storeLocations": [
+      "Kampala",
+      "Entebbe"
+    ],
+    "monthlyTransactionVolume": 3939246.52,
+    "monthlyTransactionCount": 3398,
+    "averageTransactionSize": 1260.56,
+    "commissionRate": 1.99,
+    "monthlyRevenue": 46489.87,
+    "partnershipStartDate": "2023-05-07T18:10:28Z",
+    "status": "Active",
+    "brandColor": "#66cb17",
+    "isIntegrated": true,
+    "lastSyncDate": "2026-03-04T18:10:28Z"
+  }
+]

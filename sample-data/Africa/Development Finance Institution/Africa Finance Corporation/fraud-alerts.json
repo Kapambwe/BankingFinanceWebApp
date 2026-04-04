@@ -1,0 +1,3 @@
+[
+  {"alertId":"AFC-FA-001","alertType":"Environmental Compliance","severity":"Medium","status":"Under Investigation","dateDetected":"2025-11-10T00:00:00Z","description":"Environmental impact assessment discrepancies in mining project","accountId":"afc1-a001-4579-a281-6d898272fbc5","customerId":"afc-c001-1234-5678-abcd-ef1234567890","amountInvolved":5000000.00,"currency":"USD"}
+]

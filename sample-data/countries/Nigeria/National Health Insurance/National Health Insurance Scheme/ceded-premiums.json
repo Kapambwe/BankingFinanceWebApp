@@ -1,0 +1,38 @@
+[
+  {
+    "cedingId": "cp400000-0001",
+    "treatyName": "NHIS-NG Stop-Loss Treaty 2025",
+    "reinsurer": "Continental Reinsurance",
+    "grossPremiumEarned": 89.0,
+    "cededPremium": 5.0,
+    "retainedPremium": 84.0,
+    "cessionRate": 0.06,
+    "currency": "NGN",
+    "period": "FY2025",
+    "createdAt": "2025-12-31T00:00:00Z"
+  },
+  {
+    "cedingId": "cp400000-0002",
+    "treatyName": "NHIS-NG Quota Share Treaty 2025",
+    "reinsurer": "African Reinsurance Corporation",
+    "grossPremiumEarned": 89.0,
+    "cededPremium": 3.0,
+    "retainedPremium": 86.0,
+    "cessionRate": 0.04,
+    "currency": "NGN",
+    "period": "FY2025",
+    "createdAt": "2025-12-31T00:00:00Z"
+  },
+  {
+    "cedingId": "cp400000-0003",
+    "treatyName": "NHIS-NG Stop-Loss Treaty 2026",
+    "reinsurer": "Continental Reinsurance",
+    "grossPremiumEarned": 10.0,
+    "cededPremium": 1.0,
+    "retainedPremium": 10.0,
+    "cessionRate": 0.06,
+    "currency": "NGN",
+    "period": "Q1 2026",
+    "createdAt": "2026-01-01T00:00:00Z"
+  }
+]

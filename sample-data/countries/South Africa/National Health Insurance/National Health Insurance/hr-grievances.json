@@ -1,0 +1,41 @@
+[
+  {
+    "grievanceId": "gr300000-0001-0000-0000-0000000003001",
+    "grievanceNumber": "GRIEV-3-2025-001",
+    "employeeId": "e3000000-0003-0000-0000-0000000003003",
+    "employeeName": "Sipho Zulu",
+    "category": "Working Conditions",
+    "description": "Grievance raised by Sipho Zulu regarding working conditions.",
+    "filingDate": "2025-04-10",
+    "status": "Resolved",
+    "resolvedDate": "2025-06-30",
+    "hrOfficer": "Nomvula Mthembu",
+    "createdAt": "2025-04-10T00:00:00Z"
+  },
+  {
+    "grievanceId": "gr300000-0002-0000-0000-0000000003002",
+    "grievanceNumber": "GRIEV-3-2025-002",
+    "employeeId": "e3000000-0004-0000-0000-0000000003004",
+    "employeeName": "Lerato Mokoena",
+    "category": "Pay Dispute",
+    "description": "Grievance raised by Lerato Mokoena regarding pay dispute.",
+    "filingDate": "2025-05-11",
+    "status": "Under Investigation",
+    "resolvedDate": null,
+    "hrOfficer": "Sipho Zulu",
+    "createdAt": "2025-05-11T00:00:00Z"
+  },
+  {
+    "grievanceId": "gr300000-0003-0000-0000-0000000003003",
+    "grievanceNumber": "GRIEV-3-2025-003",
+    "employeeId": "e3000000-0005-0000-0000-0000000003005",
+    "employeeName": "Nkosi Sithole",
+    "category": "Harassment",
+    "description": "Grievance raised by Nkosi Sithole regarding harassment.",
+    "filingDate": "2025-06-12",
+    "status": "Mediation",
+    "resolvedDate": null,
+    "hrOfficer": "Lerato Mokoena",
+    "createdAt": "2025-06-12T00:00:00Z"
+  }
+]

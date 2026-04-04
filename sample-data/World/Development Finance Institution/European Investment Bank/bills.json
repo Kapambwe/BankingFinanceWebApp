@@ -1,0 +1,6 @@
+[
+  {"billId":"EIB-BILL-001","customerId":"eib-c001-1a2b-3c4d-5e6f-7a8b9c0d1e2f","amount":48000000.00,"currency":"EUR","dueDate":"2026-03-31T00:00:00Z","status":"Pending","description":"Global Gateway Loan Interest Payment Q1 2026 - Morocco","issuedDate":"2026-01-05T00:00:00Z"},
+  {"billId":"EIB-BILL-002","customerId":"eib-c002-2b3c-4d5e-6f7a-8b9c0d1e2f3a","amount":36000000.00,"currency":"EUR","dueDate":"2026-04-15T00:00:00Z","status":"Pending","description":"Climate Finance Interest Payment - Tunisia","issuedDate":"2026-01-10T00:00:00Z"},
+  {"billId":"EIB-BILL-003","customerId":"eib-c003-3c4d-5e6f-7a8b-9c0d1e2f3a4b","amount":24000000.00,"currency":"EUR","dueDate":"2026-06-30T00:00:00Z","status":"Pending","description":"Infrastructure Loan Principal + Interest - Kenya","issuedDate":"2026-01-15T00:00:00Z"},
+  {"billId":"EIB-BILL-004","customerId":"eib-c004-4d5e-6f7a-8b9c-0d1e2f3a4b5c","amount":19000000.00,"currency":"EUR","dueDate":"2026-06-30T00:00:00Z","status":"Pending","description":"Global Gateway Loan Interest - Senegal","issuedDate":"2026-01-20T00:00:00Z"}
+]

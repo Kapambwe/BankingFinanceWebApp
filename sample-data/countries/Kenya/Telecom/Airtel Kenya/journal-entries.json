@@ -1,0 +1,677 @@
+[
+  {
+    "journalEntryId": "JE-AIR-00001",
+    "entryDate": "2026-01-22T04:57:57Z",
+    "description": "Adjustment \u2014 Airtel Kenya period reconciliation",
+    "reference": "REF-AIR-853443",
+    "status": "Posted",
+    "entryType": "Adjustment",
+    "currency": "KES",
+    "totalDebits": 4580825.47,
+    "totalCredits": 4580825.47,
+    "createdBy": "AccountingBot",
+    "postedBy": "Finance Officer 2",
+    "lines": [
+      {
+        "accountCode": "3622",
+        "accountName": "Adjustment Account",
+        "debit": 4580825.47,
+        "credit": 0.0
+      },
+      {
+        "accountCode": "5228",
+        "accountName": "Settlement/Clearing Account",
+        "debit": 0.0,
+        "credit": 4580825.47
+      }
+    ]
+  },
+  {
+    "journalEntryId": "JE-AIR-00002",
+    "entryDate": "2026-08-06T08:37:22Z",
+    "description": "Accrual \u2014 Airtel Kenya period reconciliation",
+    "reference": "REF-AIR-140034",
+    "status": "Pending",
+    "entryType": "Accrual",
+    "currency": "KES",
+    "totalDebits": 2905181.16,
+    "totalCredits": 2905181.16,
+    "createdBy": "AccountingBot",
+    "postedBy": "Finance Officer 3",
+    "lines": [
+      {
+        "accountCode": "5295",
+        "accountName": "Accrual Account",
+        "debit": 2905181.16,
+        "credit": 0.0
+      },
+      {
+        "accountCode": "1005",
+        "accountName": "Settlement/Clearing Account",
+        "debit": 0.0,
+        "credit": 2905181.16
+      }
+    ]
+  },
+  {
+    "journalEntryId": "JE-AIR-00003",
+    "entryDate": "2026-06-14T23:42:56Z",
+    "description": "Expense \u2014 Airtel Kenya period reconciliation",
+    "reference": "REF-AIR-755569",
+    "status": "Posted",
+    "entryType": "Expense",
+    "currency": "KES",
+    "totalDebits": 2023038.59,
+    "totalCredits": 2023038.59,
+    "createdBy": "AccountingBot",
+    "postedBy": "Finance Officer 3",
+    "lines": [
+      {
+        "accountCode": "1424",
+        "accountName": "Expense Account",
+        "debit": 2023038.59,
+        "credit": 0.0
+      },
+      {
+        "accountCode": "3206",
+        "accountName": "Settlement/Clearing Account",
+        "debit": 0.0,
+        "credit": 2023038.59
+      }
+    ]
+  },
+  {
+    "journalEntryId": "JE-AIR-00004",
+    "entryDate": "2026-11-26T22:43:43Z",
+    "description": "Tax \u2014 Airtel Kenya period reconciliation",
+    "reference": "REF-AIR-477861",
+    "status": "Draft",
+    "entryType": "Tax",
+    "currency": "KES",
+    "totalDebits": 4420951.28,
+    "totalCredits": 4420951.28,
+    "createdBy": "AccountingBot",
+    "postedBy": "Finance Officer 4",
+    "lines": [
+      {
+        "accountCode": "3718",
+        "accountName": "Tax Account",
+        "debit": 4420951.28,
+        "credit": 0.0
+      },
+      {
+        "accountCode": "4740",
+        "accountName": "Settlement/Clearing Account",
+        "debit": 0.0,
+        "credit": 4420951.28
+      }
+    ]
+  },
+  {
+    "journalEntryId": "JE-AIR-00005",
+    "entryDate": "2026-06-07T17:50:20Z",
+    "description": "Revenue \u2014 Airtel Kenya period reconciliation",
+    "reference": "REF-AIR-230889",
+    "status": "Posted",
+    "entryType": "Revenue",
+    "currency": "KES",
+    "totalDebits": 2867507.74,
+    "totalCredits": 2867507.74,
+    "createdBy": "AccountingBot",
+    "postedBy": "Finance Officer 3",
+    "lines": [
+      {
+        "accountCode": "5438",
+        "accountName": "Revenue Account",
+        "debit": 2867507.74,
+        "credit": 0.0
+      },
+      {
+        "accountCode": "2441",
+        "accountName": "Settlement/Clearing Account",
+        "debit": 0.0,
+        "credit": 2867507.74
+      }
+    ]
+  },
+  {
+    "journalEntryId": "JE-AIR-00006",
+    "entryDate": "2026-10-25T03:24:31Z",
+    "description": "Settlement \u2014 Airtel Kenya period reconciliation",
+    "reference": "REF-AIR-492722",
+    "status": "Posted",
+    "entryType": "Settlement",
+    "currency": "KES",
+    "totalDebits": 3902976.45,
+    "totalCredits": 3902976.45,
+    "createdBy": "AccountingBot",
+    "postedBy": "Finance Officer 3",
+    "lines": [
+      {
+        "accountCode": "2495",
+        "accountName": "Settlement Account",
+        "debit": 3902976.45,
+        "credit": 0.0
+      },
+      {
+        "accountCode": "5289",
+        "accountName": "Settlement/Clearing Account",
+        "debit": 0.0,
+        "credit": 3902976.45
+      }
+    ]
+  },
+  {
+    "journalEntryId": "JE-AIR-00007",
+    "entryDate": "2025-11-03T01:56:29Z",
+    "description": "Adjustment \u2014 Airtel Kenya period reconciliation",
+    "reference": "REF-AIR-305633",
+    "status": "Posted",
+    "entryType": "Adjustment",
+    "currency": "KES",
+    "totalDebits": 1996208.15,
+    "totalCredits": 1996208.15,
+    "createdBy": "AccountingBot",
+    "postedBy": "Finance Officer 3",
+    "lines": [
+      {
+        "accountCode": "3409",
+        "accountName": "Adjustment Account",
+        "debit": 1996208.15,
+        "credit": 0.0
+      },
+      {
+        "accountCode": "2521",
+        "accountName": "Settlement/Clearing Account",
+        "debit": 0.0,
+        "credit": 1996208.15
+      }
+    ]
+  },
+  {
+    "journalEntryId": "JE-AIR-00008",
+    "entryDate": "2025-04-14T09:07:29Z",
+    "description": "Tax \u2014 Airtel Kenya period reconciliation",
+    "reference": "REF-AIR-816728",
+    "status": "Pending",
+    "entryType": "Tax",
+    "currency": "KES",
+    "totalDebits": 3209591.03,
+    "totalCredits": 3209591.03,
+    "createdBy": "AccountingBot",
+    "postedBy": "Finance Officer 5",
+    "lines": [
+      {
+        "accountCode": "3205",
+        "accountName": "Tax Account",
+        "debit": 3209591.03,
+        "credit": 0.0
+      },
+      {
+        "accountCode": "4206",
+        "accountName": "Settlement/Clearing Account",
+        "debit": 0.0,
+        "credit": 3209591.03
+      }
+    ]
+  },
+  {
+    "journalEntryId": "JE-AIR-00009",
+    "entryDate": "2026-11-04T20:51:20Z",
+    "description": "Expense \u2014 Airtel Kenya period reconciliation",
+    "reference": "REF-AIR-304019",
+    "status": "Pending",
+    "entryType": "Expense",
+    "currency": "KES",
+    "totalDebits": 4160026.43,
+    "totalCredits": 4160026.43,
+    "createdBy": "AccountingBot",
+    "postedBy": "Finance Officer 5",
+    "lines": [
+      {
+        "accountCode": "1844",
+        "accountName": "Expense Account",
+        "debit": 4160026.43,
+        "credit": 0.0
+      },
+      {
+        "accountCode": "3786",
+        "accountName": "Settlement/Clearing Account",
+        "debit": 0.0,
+        "credit": 4160026.43
+      }
+    ]
+  },
+  {
+    "journalEntryId": "JE-AIR-00010",
+    "entryDate": "2025-03-03T19:58:51Z",
+    "description": "Settlement \u2014 Airtel Kenya period reconciliation",
+    "reference": "REF-AIR-817718",
+    "status": "Posted",
+    "entryType": "Settlement",
+    "currency": "KES",
+    "totalDebits": 2054260.24,
+    "totalCredits": 2054260.24,
+    "createdBy": "AccountingBot",
+    "postedBy": "Finance Officer 2",
+    "lines": [
+      {
+        "accountCode": "5366",
+        "accountName": "Settlement Account",
+        "debit": 2054260.24,
+        "credit": 0.0
+      },
+      {
+        "accountCode": "3767",
+        "accountName": "Settlement/Clearing Account",
+        "debit": 0.0,
+        "credit": 2054260.24
+      }
+    ]
+  },
+  {
+    "journalEntryId": "JE-AIR-00011",
+    "entryDate": "2025-05-19T04:16:11Z",
+    "description": "Accrual \u2014 Airtel Kenya period reconciliation",
+    "reference": "REF-AIR-460029",
+    "status": "Draft",
+    "entryType": "Accrual",
+    "currency": "KES",
+    "totalDebits": 3625983.16,
+    "totalCredits": 3625983.16,
+    "createdBy": "AccountingBot",
+    "postedBy": "Finance Officer 2",
+    "lines": [
+      {
+        "accountCode": "5714",
+        "accountName": "Accrual Account",
+        "debit": 3625983.16,
+        "credit": 0.0
+      },
+      {
+        "accountCode": "2407",
+        "accountName": "Settlement/Clearing Account",
+        "debit": 0.0,
+        "credit": 3625983.16
+      }
+    ]
+  },
+  {
+    "journalEntryId": "JE-AIR-00012",
+    "entryDate": "2025-06-22T03:53:42Z",
+    "description": "Adjustment \u2014 Airtel Kenya period reconciliation",
+    "reference": "REF-AIR-828338",
+    "status": "Posted",
+    "entryType": "Adjustment",
+    "currency": "KES",
+    "totalDebits": 2048074.47,
+    "totalCredits": 2048074.47,
+    "createdBy": "AccountingBot",
+    "postedBy": "Finance Officer 3",
+    "lines": [
+      {
+        "accountCode": "5339",
+        "accountName": "Adjustment Account",
+        "debit": 2048074.47,
+        "credit": 0.0
+      },
+      {
+        "accountCode": "5980",
+        "accountName": "Settlement/Clearing Account",
+        "debit": 0.0,
+        "credit": 2048074.47
+      }
+    ]
+  },
+  {
+    "journalEntryId": "JE-AIR-00013",
+    "entryDate": "2025-03-21T09:31:56Z",
+    "description": "Settlement \u2014 Airtel Kenya period reconciliation",
+    "reference": "REF-AIR-334412",
+    "status": "Pending",
+    "entryType": "Settlement",
+    "currency": "KES",
+    "totalDebits": 3919328.76,
+    "totalCredits": 3919328.76,
+    "createdBy": "AccountingBot",
+    "postedBy": "Finance Officer 1",
+    "lines": [
+      {
+        "accountCode": "5586",
+        "accountName": "Settlement Account",
+        "debit": 3919328.76,
+        "credit": 0.0
+      },
+      {
+        "accountCode": "4204",
+        "accountName": "Settlement/Clearing Account",
+        "debit": 0.0,
+        "credit": 3919328.76
+      }
+    ]
+  },
+  {
+    "journalEntryId": "JE-AIR-00014",
+    "entryDate": "2026-05-17T14:58:22Z",
+    "description": "Revenue \u2014 Airtel Kenya period reconciliation",
+    "reference": "REF-AIR-613416",
+    "status": "Pending",
+    "entryType": "Revenue",
+    "currency": "KES",
+    "totalDebits": 1877695.57,
+    "totalCredits": 1877695.57,
+    "createdBy": "AccountingBot",
+    "postedBy": "Finance Officer 3",
+    "lines": [
+      {
+        "accountCode": "4164",
+        "accountName": "Revenue Account",
+        "debit": 1877695.57,
+        "credit": 0.0
+      },
+      {
+        "accountCode": "5576",
+        "accountName": "Settlement/Clearing Account",
+        "debit": 0.0,
+        "credit": 1877695.57
+      }
+    ]
+  },
+  {
+    "journalEntryId": "JE-AIR-00015",
+    "entryDate": "2025-09-06T21:27:39Z",
+    "description": "Adjustment \u2014 Airtel Kenya period reconciliation",
+    "reference": "REF-AIR-892710",
+    "status": "Draft",
+    "entryType": "Adjustment",
+    "currency": "KES",
+    "totalDebits": 1655662.94,
+    "totalCredits": 1655662.94,
+    "createdBy": "AccountingBot",
+    "postedBy": "Finance Officer 3",
+    "lines": [
+      {
+        "accountCode": "3143",
+        "accountName": "Adjustment Account",
+        "debit": 1655662.94,
+        "credit": 0.0
+      },
+      {
+        "accountCode": "2836",
+        "accountName": "Settlement/Clearing Account",
+        "debit": 0.0,
+        "credit": 1655662.94
+      }
+    ]
+  },
+  {
+    "journalEntryId": "JE-AIR-00016",
+    "entryDate": "2025-01-17T11:33:07Z",
+    "description": "Expense \u2014 Airtel Kenya period 16",
+    "reference": "REF-AIR-330884",
+    "status": "Posted",
+    "entryType": "Expense",
+    "currency": "KES",
+    "totalDebits": 4780005.97,
+    "totalCredits": 4780005.97,
+    "createdBy": "AccountingBot",
+    "postedBy": "Finance Officer 7",
+    "lines": [
+      {
+        "accountCode": "4862",
+        "accountName": "Expense Account",
+        "debit": 4780005.97,
+        "credit": 0.0
+      },
+      {
+        "accountCode": "3717",
+        "accountName": "Settlement/Clearing Account",
+        "debit": 0.0,
+        "credit": 4780005.97
+      }
+    ]
+  },
+  {
+    "journalEntryId": "JE-AIR-00017",
+    "entryDate": "2025-03-11T23:04:20Z",
+    "description": "Settlement \u2014 Airtel Kenya period 17",
+    "reference": "REF-AIR-752990",
+    "status": "Posted",
+    "entryType": "Settlement",
+    "currency": "KES",
+    "totalDebits": 6004602.46,
+    "totalCredits": 6004602.46,
+    "createdBy": "AccountingBot",
+    "postedBy": "Finance Officer 3",
+    "lines": [
+      {
+        "accountCode": "2046",
+        "accountName": "Settlement Account",
+        "debit": 6004602.46,
+        "credit": 0.0
+      },
+      {
+        "accountCode": "1223",
+        "accountName": "Settlement/Clearing Account",
+        "debit": 0.0,
+        "credit": 6004602.46
+      }
+    ]
+  },
+  {
+    "journalEntryId": "JE-AIR-00018",
+    "entryDate": "2025-07-08T20:14:13Z",
+    "description": "Accrual \u2014 Airtel Kenya period 18",
+    "reference": "REF-AIR-297292",
+    "status": "Draft",
+    "entryType": "Accrual",
+    "currency": "KES",
+    "totalDebits": 4557620.84,
+    "totalCredits": 4557620.84,
+    "createdBy": "AccountingBot",
+    "postedBy": "Finance Officer 6",
+    "lines": [
+      {
+        "accountCode": "1062",
+        "accountName": "Accrual Account",
+        "debit": 4557620.84,
+        "credit": 0.0
+      },
+      {
+        "accountCode": "2763",
+        "accountName": "Settlement/Clearing Account",
+        "debit": 0.0,
+        "credit": 4557620.84
+      }
+    ]
+  },
+  {
+    "journalEntryId": "JE-AIR-00019",
+    "entryDate": "2025-03-20T04:24:14Z",
+    "description": "Adjustment \u2014 Airtel Kenya period 19",
+    "reference": "REF-AIR-433423",
+    "status": "Posted",
+    "entryType": "Adjustment",
+    "currency": "KES",
+    "totalDebits": 5620375.93,
+    "totalCredits": 5620375.93,
+    "createdBy": "AccountingBot",
+    "postedBy": "Finance Officer 7",
+    "lines": [
+      {
+        "accountCode": "3025",
+        "accountName": "Adjustment Account",
+        "debit": 5620375.93,
+        "credit": 0.0
+      },
+      {
+        "accountCode": "3545",
+        "accountName": "Settlement/Clearing Account",
+        "debit": 0.0,
+        "credit": 5620375.93
+      }
+    ]
+  },
+  {
+    "journalEntryId": "JE-AIR-00020",
+    "entryDate": "2024-10-17T20:46:55Z",
+    "description": "Tax \u2014 Airtel Kenya period 20",
+    "reference": "REF-AIR-476234",
+    "status": "Draft",
+    "entryType": "Tax",
+    "currency": "KES",
+    "totalDebits": 6541830.17,
+    "totalCredits": 6541830.17,
+    "createdBy": "AccountingBot",
+    "postedBy": "Finance Officer 6",
+    "lines": [
+      {
+        "accountCode": "1518",
+        "accountName": "Tax Account",
+        "debit": 6541830.17,
+        "credit": 0.0
+      },
+      {
+        "accountCode": "5276",
+        "accountName": "Settlement/Clearing Account",
+        "debit": 0.0,
+        "credit": 6541830.17
+      }
+    ]
+  },
+  {
+    "journalEntryId": "JE-AIR-00021",
+    "entryDate": "2025-05-28T08:48:07Z",
+    "description": "Commission \u2014 Airtel Kenya period 21",
+    "reference": "REF-AIR-541627",
+    "status": "Pending",
+    "entryType": "Commission",
+    "currency": "KES",
+    "totalDebits": 5460450.1,
+    "totalCredits": 5460450.1,
+    "createdBy": "AccountingBot",
+    "postedBy": "Finance Officer 7",
+    "lines": [
+      {
+        "accountCode": "4306",
+        "accountName": "Commission Account",
+        "debit": 5460450.1,
+        "credit": 0.0
+      },
+      {
+        "accountCode": "5381",
+        "accountName": "Settlement/Clearing Account",
+        "debit": 0.0,
+        "credit": 5460450.1
+      }
+    ]
+  },
+  {
+    "journalEntryId": "JE-AIR-00022",
+    "entryDate": "2025-08-21T00:21:57Z",
+    "description": "Depreciation \u2014 Airtel Kenya period 22",
+    "reference": "REF-AIR-910181",
+    "status": "Draft",
+    "entryType": "Depreciation",
+    "currency": "KES",
+    "totalDebits": 7706203.71,
+    "totalCredits": 7706203.71,
+    "createdBy": "AccountingBot",
+    "postedBy": "Finance Officer 7",
+    "lines": [
+      {
+        "accountCode": "3953",
+        "accountName": "Depreciation Account",
+        "debit": 7706203.71,
+        "credit": 0.0
+      },
+      {
+        "accountCode": "2002",
+        "accountName": "Settlement/Clearing Account",
+        "debit": 0.0,
+        "credit": 7706203.71
+      }
+    ]
+  },
+  {
+    "journalEntryId": "JE-AIR-00023",
+    "entryDate": "2025-01-22T01:13:23Z",
+    "description": "Provision \u2014 Airtel Kenya period 23",
+    "reference": "REF-AIR-788182",
+    "status": "Posted",
+    "entryType": "Provision",
+    "currency": "KES",
+    "totalDebits": 3823795.56,
+    "totalCredits": 3823795.56,
+    "createdBy": "AccountingBot",
+    "postedBy": "Finance Officer 2",
+    "lines": [
+      {
+        "accountCode": "3408",
+        "accountName": "Provision Account",
+        "debit": 3823795.56,
+        "credit": 0.0
+      },
+      {
+        "accountCode": "4235",
+        "accountName": "Settlement/Clearing Account",
+        "debit": 0.0,
+        "credit": 3823795.56
+      }
+    ]
+  },
+  {
+    "journalEntryId": "JE-AIR-00024",
+    "entryDate": "2024-08-27T07:45:25Z",
+    "description": "Revaluation \u2014 Airtel Kenya period 24",
+    "reference": "REF-AIR-234627",
+    "status": "Pending",
+    "entryType": "Revaluation",
+    "currency": "KES",
+    "totalDebits": 7607021.86,
+    "totalCredits": 7607021.86,
+    "createdBy": "AccountingBot",
+    "postedBy": "Finance Officer 4",
+    "lines": [
+      {
+        "accountCode": "1273",
+        "accountName": "Revaluation Account",
+        "debit": 7607021.86,
+        "credit": 0.0
+      },
+      {
+        "accountCode": "2355",
+        "accountName": "Settlement/Clearing Account",
+        "debit": 0.0,
+        "credit": 7607021.86
+      }
+    ]
+  },
+  {
+    "journalEntryId": "JE-AIR-00025",
+    "entryDate": "2025-05-09T14:00:29Z",
+    "description": "Intercompany \u2014 Airtel Kenya period 25",
+    "reference": "REF-AIR-828744",
+    "status": "Posted",
+    "entryType": "Intercompany",
+    "currency": "KES",
+    "totalDebits": 1167804.53,
+    "totalCredits": 1167804.53,
+    "createdBy": "AccountingBot",
+    "postedBy": "Finance Officer 7",
+    "lines": [
+      {
+        "accountCode": "2512",
+        "accountName": "Intercompany Account",
+        "debit": 1167804.53,
+        "credit": 0.0
+      },
+      {
+        "accountCode": "4492",
+        "accountName": "Settlement/Clearing Account",
+        "debit": 0.0,
+        "credit": 1167804.53
+      }
+    ]
+  }
+]

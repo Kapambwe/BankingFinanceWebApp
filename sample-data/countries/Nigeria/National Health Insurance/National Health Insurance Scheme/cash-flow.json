@@ -1,0 +1,93 @@
+[
+  {
+    "description": "Member Contributions Received",
+    "accountCode": "4001",
+    "amount": 2883.0,
+    "isSubtotal": false,
+    "category": "Operating"
+  },
+  {
+    "description": "Government Subvention Received",
+    "accountCode": "4002",
+    "amount": 1572.0,
+    "isSubtotal": false,
+    "category": "Operating"
+  },
+  {
+    "description": "Claims Payments Made",
+    "accountCode": "5001",
+    "amount": -3040.0,
+    "isSubtotal": false,
+    "category": "Operating"
+  },
+  {
+    "description": "Staff Costs Paid",
+    "accountCode": "5002",
+    "amount": -943.0,
+    "isSubtotal": false,
+    "category": "Operating"
+  },
+  {
+    "description": "Administrative Expenses Paid",
+    "accountCode": "5003",
+    "amount": -419.0,
+    "isSubtotal": false,
+    "category": "Operating"
+  },
+  {
+    "description": "Net Cash from Operating Activities",
+    "accountCode": "CF01",
+    "amount": 52.0,
+    "isSubtotal": true,
+    "category": "Operating"
+  },
+  {
+    "description": "Purchase of Fixed Assets",
+    "accountCode": "1101",
+    "amount": -262.0,
+    "isSubtotal": false,
+    "category": "Investing"
+  },
+  {
+    "description": "Investment in Treasury Bills",
+    "accountCode": "1103",
+    "amount": -210.0,
+    "isSubtotal": false,
+    "category": "Investing"
+  },
+  {
+    "description": "Investment Income Received",
+    "accountCode": "4004",
+    "amount": 262.0,
+    "isSubtotal": false,
+    "category": "Investing"
+  },
+  {
+    "description": "Net Cash from Investing Activities",
+    "accountCode": "CF02",
+    "amount": -210.0,
+    "isSubtotal": true,
+    "category": "Investing"
+  },
+  {
+    "description": "Government Capital Injection",
+    "accountCode": "3001",
+    "amount": 157.0,
+    "isSubtotal": false,
+    "category": "Financing"
+  },
+  {
+    "description": "Net Cash from Financing Activities",
+    "accountCode": "CF03",
+    "amount": 157.0,
+    "isSubtotal": true,
+    "category": "Financing"
+  },
+  {
+    "description": "Net Change in Cash",
+    "accountCode": "CF04",
+    "amount": 0.0,
+    "isSubtotal": true,
+    "category": "Summary"
+  }
+]

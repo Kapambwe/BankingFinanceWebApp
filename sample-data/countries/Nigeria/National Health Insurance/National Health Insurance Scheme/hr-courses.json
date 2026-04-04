@@ -1,0 +1,57 @@
+[
+  {
+    "courseId": "cr400000-0001-0000-0000-0000000004001",
+    "courseCode": "NHI-4-001",
+    "courseTitle": "Claims Processing & Fraud Detection",
+    "department": "Claims Administration",
+    "duration": "16 hours",
+    "deliveryMode": "Online",
+    "provider": "National Health Insurance Scheme Training Centre",
+    "isActive": true,
+    "createdAt": "2025-01-01T00:00:00Z"
+  },
+  {
+    "courseId": "cr400000-0002-0000-0000-0000000004002",
+    "courseCode": "NHI-4-002",
+    "courseTitle": "Member Enrollment Best Practices",
+    "department": "Enrollment & Registration",
+    "duration": "8 hours",
+    "deliveryMode": "In-Person",
+    "provider": "National Health Insurance Scheme Training Centre",
+    "isActive": true,
+    "createdAt": "2025-01-01T00:00:00Z"
+  },
+  {
+    "courseId": "cr400000-0003-0000-0000-0000000004003",
+    "courseCode": "NHI-4-003",
+    "courseTitle": "Medical Coding Fundamentals",
+    "department": "Medical Affairs",
+    "duration": "24 hours",
+    "deliveryMode": "Online",
+    "provider": "National Health Insurance Scheme Training Centre",
+    "isActive": true,
+    "createdAt": "2025-01-01T00:00:00Z"
+  },
+  {
+    "courseId": "cr400000-0004-0000-0000-0000000004004",
+    "courseCode": "NHI-4-004",
+    "courseTitle": "Health Insurance Regulatory Compliance",
+    "department": "Legal & Compliance",
+    "duration": "12 hours",
+    "deliveryMode": "In-Person",
+    "provider": "National Health Insurance Scheme Training Centre",
+    "isActive": true,
+    "createdAt": "2025-01-01T00:00:00Z"
+  },
+  {
+    "courseId": "cr400000-0005-0000-0000-0000000004005",
+    "courseCode": "NHI-4-005",
+    "courseTitle": "Provider Relations Management",
+    "department": "Provider Management",
+    "duration": "10 hours",
+    "deliveryMode": "Blended",
+    "provider": "National Health Insurance Scheme Training Centre",
+    "isActive": true,
+    "createdAt": "2025-01-01T00:00:00Z"
+  }
+]

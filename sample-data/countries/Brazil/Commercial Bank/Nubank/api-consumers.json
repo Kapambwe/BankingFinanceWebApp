@@ -1,0 +1,93 @@
+[
+  {
+    "ConsumerId": "a1b2c3d4-1111-4000-8000-000000000001",
+    "ApplicationName": "PagSeguro Integration",
+    "DeveloperName": "Carlos Mendes",
+    "DeveloperEmail": "carlos@pagseguro.com.br",
+    "ApiKey": "ps_live_abc123def456",
+    "CallbackUrl": "https://api.pagseguro.com.br/webhook",
+    "Status": "Active",
+    "GrantedScopes": [
+      "accounts:read",
+      "payments:initiate",
+      "balances:read"
+    ],
+    "RequestsPerMinute": 200,
+    "RequestsPerDay": 100000,
+    "BurstLimit": 400,
+    "CreatedAt": "2025-01-15T08:00:00Z",
+    "LastAccessedAt": "2026-02-15T10:00:00Z"
+  },
+  {
+    "ConsumerId": "a1b2c3d4-1111-4000-8000-000000000002",
+    "ApplicationName": "Mercado Pago Connect",
+    "DeveloperName": "Ana Ferreira",
+    "DeveloperEmail": "ana@mercadopago.com.br",
+    "ApiKey": "mp_live_xyz789uvw012",
+    "CallbackUrl": "https://api.mercadopago.com.br/webhook",
+    "Status": "Active",
+    "GrantedScopes": [
+      "payments:initiate",
+      "transactions:read"
+    ],
+    "RequestsPerMinute": 300,
+    "RequestsPerDay": 150000,
+    "BurstLimit": 600,
+    "CreatedAt": "2025-03-10T09:00:00Z",
+    "LastAccessedAt": "2026-02-14T15:30:00Z"
+  },
+  {
+    "ConsumerId": "a1b2c3d4-1111-4000-8000-000000000003",
+    "ApplicationName": "iFood Finance",
+    "DeveloperName": "Pedro Costa",
+    "DeveloperEmail": "pedro@ifood.com.br",
+    "ApiKey": "if_live_mno345pqr678",
+    "CallbackUrl": "https://api.ifood.com.br/banking/webhook",
+    "Status": "Active",
+    "GrantedScopes": [
+      "accounts:read",
+      "payments:initiate"
+    ],
+    "RequestsPerMinute": 150,
+    "RequestsPerDay": 75000,
+    "BurstLimit": 300,
+    "CreatedAt": "2025-06-01T10:00:00Z",
+    "LastAccessedAt": "2026-02-13T12:00:00Z"
+  },
+  {
+    "ConsumerId": "a1b2c3d4-1111-4000-8000-000000000004",
+    "ApplicationName": "Rappi Pay",
+    "DeveloperName": "João Lima",
+    "DeveloperEmail": "joao@rappi.com.br",
+    "ApiKey": "rp_live_stu901vwx234",
+    "CallbackUrl": "https://api.rappi.com.br/webhook",
+    "Status": "Active",
+    "GrantedScopes": [
+      "payments:initiate",
+      "balances:read"
+    ],
+    "RequestsPerMinute": 120,
+    "RequestsPerDay": 60000,
+    "BurstLimit": 240,
+    "CreatedAt": "2025-08-15T11:00:00Z",
+    "LastAccessedAt": "2026-02-12T09:45:00Z"
+  },
+  {
+    "ConsumerId": "a1b2c3d4-1111-4000-8000-000000000005",
+    "ApplicationName": "Conta Azul ERP",
+    "DeveloperName": "Maria Souza",
+    "DeveloperEmail": "maria@contaazul.com.br",
+    "ApiKey": "ca_live_yza567bcd890",
+    "CallbackUrl": "https://api.contaazul.com.br/nubank/webhook",
+    "Status": "Suspended",
+    "GrantedScopes": [
+      "accounts:read",
+      "transactions:read"
+    ],
+    "RequestsPerMinute": 60,
+    "RequestsPerDay": 30000,
+    "BurstLimit": 120,
+    "CreatedAt": "2025-02-20T14:00:00Z",
+    "LastAccessedAt": "2026-01-30T16:00:00Z"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "headcountBudgetId": "hb100000-0001-0000-0000-0000000001001",
+    "fiscalYear": 2026,
+    "department": "Member Services",
+    "budgetedHeadcount": 216,
+    "currentHeadcount": 198,
+    "variance": 17,
+    "recruitmentPlan": 17,
+    "currency": "ZMW",
+    "approvedBy": "Mwamba Phiri",
+    "createdAt": "2025-10-01T00:00:00Z"
+  },
+  {
+    "headcountBudgetId": "hb100000-0002-0000-0000-0000000001002",
+    "fiscalYear": 2026,
+    "department": "Claims Administration",
+    "budgetedHeadcount": 180,
+    "currentHeadcount": 165,
+    "variance": 14,
+    "recruitmentPlan": 14,
+    "currency": "ZMW",
+    "approvedBy": "Mwamba Phiri",
+    "createdAt": "2025-10-01T00:00:00Z"
+  },
+  {
+    "headcountBudgetId": "hb100000-0003-0000-0000-0000000001003",
+    "fiscalYear": 2026,
+    "department": "Provider Management",
+    "budgetedHeadcount": 144,
+    "currentHeadcount": 132,
+    "variance": 11,
+    "recruitmentPlan": 11,
+    "currency": "ZMW",
+    "approvedBy": "Mwamba Phiri",
+    "createdAt": "2025-10-01T00:00:00Z"
+  },
+  {
+    "headcountBudgetId": "hb100000-0004-0000-0000-0000000001004",
+    "fiscalYear": 2026,
+    "department": "Finance & Accounts",
+    "budgetedHeadcount": 120,
+    "currentHeadcount": 110,
+    "variance": 9,
+    "recruitmentPlan": 9,
+    "currency": "ZMW",
+    "approvedBy": "Mwamba Phiri",
+    "createdAt": "2025-10-01T00:00:00Z"
+  },
+  {
+    "headcountBudgetId": "hb100000-0005-0000-0000-0000000001005",
+    "fiscalYear": 2026,
+    "department": "Information Technology",
+    "budgetedHeadcount": 96,
+    "currentHeadcount": 88,
+    "variance": 7,
+    "recruitmentPlan": 7,
+    "currency": "ZMW",
+    "approvedBy": "Mwamba Phiri",
+    "createdAt": "2025-10-01T00:00:00Z"
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "instrumentId": "LOAN-001",
+    "instrumentReference": "Fahad \u2014 Community Finan",
+    "instrumentType": "Loan",
+    "outstandingBalance": 1400000.0,
+    "nominalRate": 0.36,
+    "effectiveInterestRate": 0.396,
+    "accruedAmount": 1518.9,
+    "accrualDate": "2026-02-28T00:00:00Z",
+    "journalEntryId": null
+  },
+  {
+    "instrumentId": "LOAN-002",
+    "instrumentReference": "SME Loan \u2014 Bilal Trading Ltd",
+    "instrumentType": "Loan",
+    "outstandingBalance": 7000000.0,
+    "nominalRate": 0.3,
+    "effectiveInterestRate": 0.33,
+    "accruedAmount": 6328.77,
+    "accrualDate": "2026-02-28T00:00:00Z",
+    "journalEntryId": null
+  },
+  {
+    "instrumentId": "DEP-001",
+    "instrumentReference": "Fixed Deposit \u2014 Zainab Savings Group",
+    "instrumentType": "Deposit",
+    "outstandingBalance": 42000000.0,
+    "nominalRate": 0.06,
+    "effectiveInterestRate": 0.06,
+    "accruedAmount": 6904.11,
+    "accrualDate": "2026-02-28T00:00:00Z",
+    "journalEntryId": null
+  },
+  {
+    "instrumentId": "LOAN-003",
+    "instrumentReference": "Mortgage \u2014 Zainab",
+    "instrumentType": "Loan",
+    "outstandingBalance": 2800000.0,
+    "nominalRate": 0.32,
+    "effectiveInterestRate": 0.352,
+    "accruedAmount": 2700.27,
+    "accrualDate": "2026-02-28T00:00:00Z",
+    "journalEntryId": null
+  },
+  {
+    "instrumentId": "DEP-002",
+    "instrumentReference": "Call Deposit \u2014 Community Finan Fund",
+    "instrumentType": "Deposit",
+    "outstandingBalance": 14000000.0,
+    "nominalRate": 0.05,
+    "effectiveInterestRate": 0.05,
+    "accruedAmount": 1917.81,
+    "accrualDate": "2026-02-28T00:00:00Z",
+    "journalEntryId": null
+  },
+  {
+    "instrumentId": "LOAN-004",
+    "instrumentReference": "Corporate Bond \u2014 Community Finan",
+    "instrumentType": "Loan",
+    "outstandingBalance": 56000000.0,
+    "nominalRate": 0.28,
+    "effectiveInterestRate": 0.308,
+    "accruedAmount": 47254.79,
+    "accrualDate": "2026-02-28T00:00:00Z",
+    "journalEntryId": null
+  }
+]

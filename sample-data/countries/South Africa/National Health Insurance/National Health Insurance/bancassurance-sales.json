@@ -1,0 +1,72 @@
+[
+  {
+    "saleId": "bs300000-0001",
+    "partnerId": "bp300000-0001",
+    "partnerName": "ABSA",
+    "memberName": "Thabo Ndlovu",
+    "memberSchemeNumber": "MBR-3-000001",
+    "contributionAmount": 7175.0,
+    "currency": "ZAR",
+    "paymentDate": "2025-10-01",
+    "collectionMethod": "Direct Debit",
+    "status": "Collected",
+    "commissionPaid": 108.0,
+    "createdAt": "2025-10-01T00:00:00Z"
+  },
+  {
+    "saleId": "bs300000-0002",
+    "partnerId": "bp300000-0002",
+    "partnerName": "Standard Bank South Africa",
+    "memberName": "Nomvula Mthembu",
+    "memberSchemeNumber": "MBR-3-000002",
+    "contributionAmount": 8610.0,
+    "currency": "ZAR",
+    "paymentDate": "2025-10-01",
+    "collectionMethod": "Standing Order",
+    "status": "Collected",
+    "commissionPaid": 103.0,
+    "createdAt": "2025-10-01T00:00:00Z"
+  },
+  {
+    "saleId": "bs300000-0003",
+    "partnerId": "bp300000-0003",
+    "partnerName": "Nedbank",
+    "memberName": "Sipho Zulu",
+    "memberSchemeNumber": "MBR-3-000003",
+    "contributionAmount": 5740.0,
+    "currency": "ZAR",
+    "paymentDate": "2025-10-01",
+    "collectionMethod": "Mobile Banking",
+    "status": "Collected",
+    "commissionPaid": 57.0,
+    "createdAt": "2025-10-01T00:00:00Z"
+  },
+  {
+    "saleId": "bs300000-0004",
+    "partnerId": "bp300000-0001",
+    "partnerName": "ABSA",
+    "memberName": "Lerato Mokoena",
+    "memberSchemeNumber": "MBR-3-000004",
+    "contributionAmount": 10763.0,
+    "currency": "ZAR",
+    "paymentDate": "2025-11-01",
+    "collectionMethod": "Direct Debit",
+    "status": "Collected",
+    "commissionPaid": 161.0,
+    "createdAt": "2025-11-01T00:00:00Z"
+  },
+  {
+    "saleId": "bs300000-0005",
+    "partnerId": "bp300000-0002",
+    "partnerName": "Standard Bank South Africa",
+    "memberName": "Nkosi Sithole",
+    "memberSchemeNumber": "MBR-3-000005",
+    "contributionAmount": 6458.0,
+    "currency": "ZAR",
+    "paymentDate": "2025-11-01",
+    "collectionMethod": "Standing Order",
+    "status": "Collected",
+    "commissionPaid": 77.0,
+    "createdAt": "2025-11-01T00:00:00Z"
+  }
+]

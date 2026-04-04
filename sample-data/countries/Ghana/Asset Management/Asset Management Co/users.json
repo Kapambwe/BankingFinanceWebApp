@@ -1,0 +1,94 @@
+[
+  {
+    "userId": "0c3b8ba6-ae07-43fc-92ef-b1b400c9861d",
+    "email": "admin.assetmanagement",
+    "username": "admin.assetmanagement",
+    "firstName": "Asset Management",
+    "lastName": "Admin",
+    "institutionType": "Asset Management",
+    "institutionName": "Pangaea Securities",
+    "institutionId": "3d15ef79-db96-484c-bd3e-5383410409a0",
+    "roles": [
+      "AssetManagementAdmin"
+    ],
+    "permissions": [],
+    "isActive": true,
+    "isEmailVerified": true,
+    "isPhoneVerified": true,
+    "isIdentityVerified": true,
+    "trustScore": 95,
+    "createdAt": "2024-05-27T00:00:00Z",
+    "phoneNumber": "+260977000000",
+    "gender": "Other",
+    "nationality": "Zambian"
+  },
+  {
+    "userId": "c104e9ce-205e-46df-af77-c348b72f0fce",
+    "email": "portfoliomanager.assetmanagement",
+    "username": "portfoliomanager.assetmanagement",
+    "firstName": "Asset Portfolio",
+    "lastName": "Manager",
+    "institutionType": "Asset Management",
+    "institutionName": "Pangaea Securities",
+    "institutionId": "3d15ef79-db96-484c-bd3e-5383410409a0",
+    "roles": [
+      "AssetPortfolioManager"
+    ],
+    "permissions": [],
+    "isActive": true,
+    "isEmailVerified": true,
+    "isPhoneVerified": true,
+    "isIdentityVerified": true,
+    "trustScore": 95,
+    "createdAt": "2024-05-27T00:00:00Z",
+    "phoneNumber": "+260977000000",
+    "gender": "Other",
+    "nationality": "Zambian"
+  },
+  {
+    "userId": "ba36c932-1b5b-4d23-9c08-8cb16cabedc6",
+    "email": "clientservices.assetmanagement",
+    "username": "clientservices.assetmanagement",
+    "firstName": "Client Services",
+    "lastName": "Officer",
+    "institutionType": "Asset Management",
+    "institutionName": "Pangaea Securities",
+    "institutionId": "3d15ef79-db96-484c-bd3e-5383410409a0",
+    "roles": [
+      "ClientServicesOfficer"
+    ],
+    "permissions": [],
+    "isActive": true,
+    "isEmailVerified": true,
+    "isPhoneVerified": true,
+    "isIdentityVerified": true,
+    "trustScore": 95,
+    "createdAt": "2024-05-27T00:00:00Z",
+    "phoneNumber": "+260977000000",
+    "gender": "Other",
+    "nationality": "Zambian"
+  },
+  {
+    "userId": "80a5612f-3f4e-4944-9e04-2dee50dfdd35",
+    "email": "performance.assetmanagement",
+    "username": "performance.assetmanagement",
+    "firstName": "Performance",
+    "lastName": "Analyst",
+    "institutionType": "Asset Management",
+    "institutionName": "Pangaea Securities",
+    "institutionId": "3d15ef79-db96-484c-bd3e-5383410409a0",
+    "roles": [
+      "PerformanceAnalyst"
+    ],
+    "permissions": [],
+    "isActive": true,
+    "isEmailVerified": true,
+    "isPhoneVerified": true,
+    "isIdentityVerified": true,
+    "trustScore": 95,
+    "createdAt": "2024-05-27T00:00:00Z",
+    "phoneNumber": "+260977000000",
+    "gender": "Other",
+    "nationality": "Zambian"
+  }
+]

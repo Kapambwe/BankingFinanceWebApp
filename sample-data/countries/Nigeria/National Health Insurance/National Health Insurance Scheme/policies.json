@@ -1,0 +1,72 @@
+[
+  {
+    "policyId": "pol40000-0001",
+    "policyNumber": "POL-4-2025-00001",
+    "memberId": "MBR-4-000001",
+    "memberName": "Chukwuemeka Okafor",
+    "productCode": "NHIS-NG-BASIC",
+    "coverType": "Basic",
+    "premiumAmount": 22400.0,
+    "currency": "NGN",
+    "startDate": "2025-01-01",
+    "endDate": "2025-11-30",
+    "status": "Active",
+    "createdAt": "2025-01-01T00:00:00Z"
+  },
+  {
+    "policyId": "pol40000-0002",
+    "policyNumber": "POL-4-2025-00002",
+    "memberId": "MBR-4-000002",
+    "memberName": "Amaka Nwosu",
+    "productCode": "NHIS-NG-STD",
+    "coverType": "Standard",
+    "premiumAmount": 39200.0,
+    "currency": "NGN",
+    "startDate": "2025-02-01",
+    "endDate": "2025-11-30",
+    "status": "Active",
+    "createdAt": "2025-02-01T00:00:00Z"
+  },
+  {
+    "policyId": "pol40000-0003",
+    "policyNumber": "POL-4-2025-00003",
+    "memberId": "MBR-4-000003",
+    "memberName": "Tunde Abiodun",
+    "productCode": "NHIS-NG-ENH",
+    "coverType": "Enhanced",
+    "premiumAmount": 56000.0,
+    "currency": "NGN",
+    "startDate": "2025-03-01",
+    "endDate": "2025-11-30",
+    "status": "Active",
+    "createdAt": "2025-03-01T00:00:00Z"
+  },
+  {
+    "policyId": "pol40000-0004",
+    "policyNumber": "POL-4-2025-00004",
+    "memberId": "MBR-4-000004",
+    "memberName": "Ngozi Eze",
+    "productCode": "NHIS-NG-BASIC",
+    "coverType": "Basic",
+    "premiumAmount": 22400.0,
+    "currency": "NGN",
+    "startDate": "2025-04-01",
+    "endDate": "2025-11-30",
+    "status": "Lapsed",
+    "createdAt": "2025-04-01T00:00:00Z"
+  },
+  {
+    "policyId": "pol40000-0005",
+    "policyNumber": "POL-4-2025-00005",
+    "memberId": "MBR-4-000005",
+    "memberName": "Emeka Chukwu",
+    "productCode": "NHIS-NG-STD",
+    "coverType": "Standard",
+    "premiumAmount": 39200.0,
+    "currency": "NGN",
+    "startDate": "2025-05-01",
+    "endDate": "2025-11-30",
+    "status": "Active",
+    "createdAt": "2025-05-01T00:00:00Z"
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "billId": "bill3000-0001",
+    "billNumber": "BILL-3-2025-0001",
+    "vendorName": "IBM South Africa",
+    "billType": "IT Services",
+    "billDate": "2025-10-01",
+    "dueDate": "2025-11-01",
+    "amount": 144.0,
+    "currency": "ZAR",
+    "status": "Paid",
+    "paidDate": "2025-10-15",
+    "createdAt": "2025-10-01T00:00:00Z"
+  },
+  {
+    "billId": "bill3000-0002",
+    "billNumber": "BILL-3-2025-0002",
+    "vendorName": "Microsoft South Africa",
+    "billType": "IT Maintenance",
+    "billDate": "2025-10-02",
+    "dueDate": "2025-11-02",
+    "amount": 108.0,
+    "currency": "ZAR",
+    "status": "Paid",
+    "paidDate": "2025-10-16",
+    "createdAt": "2025-10-02T00:00:00Z"
+  },
+  {
+    "billId": "bill3000-0003",
+    "billNumber": "BILL-3-2025-0003",
+    "vendorName": "Oracle South Africa",
+    "billType": "Software Licensing",
+    "billDate": "2025-10-03",
+    "dueDate": "2025-11-03",
+    "amount": 72.0,
+    "currency": "ZAR",
+    "status": "Pending",
+    "paidDate": null,
+    "createdAt": "2025-10-03T00:00:00Z"
+  },
+  {
+    "billId": "bill3000-0004",
+    "billNumber": "BILL-3-2025-0004",
+    "vendorName": "Prime Properties Pretoria",
+    "billType": "Office Rent",
+    "billDate": "2025-10-04",
+    "dueDate": "2025-11-04",
+    "amount": 179.0,
+    "currency": "ZAR",
+    "status": "Paid",
+    "paidDate": "2025-10-18",
+    "createdAt": "2025-10-04T00:00:00Z"
+  },
+  {
+    "billId": "bill3000-0005",
+    "billNumber": "BILL-3-2025-0005",
+    "vendorName": "National Utilities South Africa",
+    "billType": "Utilities",
+    "billDate": "2025-10-05",
+    "dueDate": "2025-11-05",
+    "amount": 36.0,
+    "currency": "ZAR",
+    "status": "Pending",
+    "paidDate": null,
+    "createdAt": "2025-10-05T00:00:00Z"
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "instrumentId": "LOAN-001",
+    "instrumentReference": "Omar \u2014 National Insura",
+    "instrumentType": "Loan",
+    "outstandingBalance": 920000.0,
+    "nominalRate": 0.18,
+    "effectiveInterestRate": 0.1987,
+    "accruedAmount": 500.83,
+    "accrualDate": "2026-02-28T00:00:00Z",
+    "journalEntryId": null
+  },
+  {
+    "instrumentId": "LOAN-002",
+    "instrumentReference": "SME Loan \u2014 Mohammed Trading Ltd",
+    "instrumentType": "Loan",
+    "outstandingBalance": 5500000.0,
+    "nominalRate": 0.16,
+    "effectiveInterestRate": 0.1735,
+    "accruedAmount": 2614.38,
+    "accrualDate": "2026-02-28T00:00:00Z",
+    "journalEntryId": null
+  },
+  {
+    "instrumentId": "DEP-001",
+    "instrumentReference": "Fixed Deposit \u2014 Mariam Savings Group",
+    "instrumentType": "Deposit",
+    "outstandingBalance": 18400000.0,
+    "nominalRate": 0.085,
+    "effectiveInterestRate": 0.085,
+    "accruedAmount": 4284.93,
+    "accrualDate": "2026-02-28T00:00:00Z",
+    "journalEntryId": null
+  },
+  {
+    "instrumentId": "LOAN-003",
+    "instrumentReference": "Mortgage \u2014 Mariam",
+    "instrumentType": "Loan",
+    "outstandingBalance": 4400000.0,
+    "nominalRate": 0.155,
+    "effectiveInterestRate": 0.1621,
+    "accruedAmount": 1954.08,
+    "accrualDate": "2026-02-28T00:00:00Z",
+    "journalEntryId": null
+  },
+  {
+    "instrumentId": "DEP-002",
+    "instrumentReference": "Call Deposit \u2014 National Insura Fund",
+    "instrumentType": "Deposit",
+    "outstandingBalance": 11000000.0,
+    "nominalRate": 0.07,
+    "effectiveInterestRate": 0.07,
+    "accruedAmount": 2109.59,
+    "accrualDate": "2026-02-28T00:00:00Z",
+    "journalEntryId": null
+  },
+  {
+    "instrumentId": "LOAN-004",
+    "instrumentReference": "Corporate Bond \u2014 National Insura",
+    "instrumentType": "Loan",
+    "outstandingBalance": 29400000.0,
+    "nominalRate": 0.19,
+    "effectiveInterestRate": 0.2045,
+    "accruedAmount": 16472.05,
+    "accrualDate": "2026-02-28T00:00:00Z",
+    "journalEntryId": null
+  }
+]

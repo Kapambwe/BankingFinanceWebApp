@@ -1,0 +1,17 @@
+{
+  "registrationNumber": "REG-TELECOM-13687",
+  "contactEmail": "info@airteluganda.ug",
+  "createdAt": "1995-01-01T00:00:00Z",
+  "branches": 126,
+  "institutionType": "Telecom",
+  "institutionName": "Airtel Uganda",
+  "country": "Uganda",
+  "established": 1995,
+  "employees": 6271,
+  "contactPhone": "+256294741",
+  "headquarters": "Kampala",
+  "institutionId": "86fa422c-f8ff-156e-edaf-3b1dce68c173",
+  "currency": "UGX",
+  "status": "Active",
+  "website": "https://www.airtel.co.ug"
+}

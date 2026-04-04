@@ -1,0 +1,67 @@
+[
+  {
+    "enrollmentId": "enr00001-0001-0001-0001-000000000001",
+    "courseId": "88888888-8888-8888-8888-000000000001",
+    "courseCode": "AML-001",
+    "courseTitle": "Prevenção à Lavagem de Dinheiro",
+    "employeeId": "a1b2c3d4-0001-0001-0001-000000000001",
+    "employeeName": "Carlos Silva",
+    "enrolledDate": "2026-01-05T00:00:00",
+    "completedDate": "2026-01-10T00:00:00",
+    "status": "Completed",
+    "score": 92.5,
+    "currency": "BRL"
+  },
+  {
+    "enrollmentId": "enr00001-0001-0001-0001-000000000002",
+    "courseId": "88888888-8888-8888-8888-000000000002",
+    "courseCode": "SEC-002",
+    "courseTitle": "Segurança da Informação e LGPD",
+    "employeeId": "a1b2c3d4-0001-0001-0001-000000000002",
+    "employeeName": "Ana Santos",
+    "enrolledDate": "2026-01-08T00:00:00",
+    "completedDate": null,
+    "status": "InProgress",
+    "score": null,
+    "currency": "BRL"
+  },
+  {
+    "enrollmentId": "enr00001-0001-0001-0001-000000000003",
+    "courseId": "88888888-8888-8888-8888-000000000003",
+    "courseCode": "LEAD-003",
+    "courseTitle": "Liderança Ágil",
+    "employeeId": "a1b2c3d4-0001-0001-0001-000000000003",
+    "employeeName": "João Oliveira",
+    "enrolledDate": "2025-11-01T00:00:00",
+    "completedDate": "2025-12-15T00:00:00",
+    "status": "Completed",
+    "score": 88.0,
+    "currency": "BRL"
+  },
+  {
+    "enrollmentId": "enr00001-0001-0001-0001-000000000004",
+    "courseId": "88888888-8888-8888-8888-000000000005",
+    "courseCode": "TECH-005",
+    "courseTitle": "Go & Kotlin para Serviços Financeiros",
+    "employeeId": "a1b2c3d4-0001-0001-0001-000000000005",
+    "employeeName": "Pedro Rodrigues",
+    "enrolledDate": "2026-02-01T00:00:00",
+    "completedDate": null,
+    "status": "InProgress",
+    "score": null,
+    "currency": "BRL"
+  },
+  {
+    "enrollmentId": "enr00001-0001-0001-0001-000000000005",
+    "courseId": "88888888-8888-8888-8888-000000000004",
+    "courseCode": "RISK-004",
+    "courseTitle": "Gestão de Risco de Crédito Digital",
+    "employeeId": "a1b2c3d4-0001-0001-0001-000000000004",
+    "employeeName": "Maria Souza",
+    "enrolledDate": "2026-01-20T00:00:00",
+    "completedDate": "2026-02-18T00:00:00",
+    "status": "Completed",
+    "score": 95.0,
+    "currency": "BRL"
+  }
+]

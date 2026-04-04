@@ -1,0 +1,19 @@
+[
+  {
+    "dashboardId": "e50e8400-e29b-41d4-a716-446655440001",
+    "period": "2025-Q1",
+    "reportDate": "2025-03-31T00:00:00Z",
+    "totalBeneficiaries": 1280,
+    "youthBeneficiaries": 620,
+    "womenBeneficiaries": 480,
+    "pwdBeneficiaries": 180,
+    "jobsCreated": 3450,
+    "businessesSupported": 1120,
+    "totalInvestment": 125000000,
+    "successRate": 0.78,
+    "provinceBreakdown": "Lusaka: 35%, Copperbelt: 25%, Others: 40%",
+    "sectorBreakdown": "Agriculture: 40%, Manufacturing: 25%, Services: 35%",
+    "currency": "USD",
+    "createdAt": "2025-04-01T00:00:00Z"
+  }
+]

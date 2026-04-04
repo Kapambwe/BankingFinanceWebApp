@@ -1,0 +1,36 @@
+[
+  {
+    "alertId": "WB-FA-001",
+    "alertType": "Procurement Fraud — False Invoicing",
+    "severity": "High",
+    "status": "Under Investigation",
+    "dateDetected": "2024-08-22T00:00:00Z",
+    "description": "Nigeria Human Capital Development Program Phase II — Suspected false invoicing scheme in Lagos State education subcomponent. 47 invoices totalling $2.3M submitted by Edu-Build Nigeria Ltd for school rehabilitation works not verified by independent engineers. Third-party monitoring agent flagged discrepancy. INT (Integrity Vice Presidency) formally referred Sep 2024. Forensic accounting engaged.",
+    "accountId": "wb01-a001-4579-a281-6d898272fbc5",
+    "customerId": "wb-c001-1234-5678-abcd-ef1234567890",
+    "amountInvolved": 2300000.00,
+    "currency": "USD",
+    "suspectedParty": "Edu-Build Nigeria Ltd (contractor)",
+    "intReferralDate": "2024-09-05T00:00:00Z",
+    "intCaseNumber": "INT-2024-NGA-0047",
+    "reportedBy": "Third-Party Monitoring Agent (KPMG Nigeria)",
+    "investigatingUnit": "INT — Integrity Vice Presidency, World Bank Group"
+  },
+  {
+    "alertId": "WB-FA-002",
+    "alertType": "Procurement Collusion",
+    "severity": "Medium",
+    "status": "Active Review",
+    "dateDetected": "2024-11-10T00:00:00Z",
+    "description": "Pakistan Energy Sector Transformation Programme — Suspected bid-rigging and collusion between two consulting firms (Karachi-based) in the technical advisory services procurement under Component 2 (renewable energy regulatory reform). Identical technical proposal sections detected by automated plagiarism review. $850K contract award under hold. Pakistan procurement team notified. INT preliminary review initiated Dec 2024.",
+    "accountId": "wb01-a013-4579-a281-6d898272fbd1",
+    "customerId": "wb-c012-2345-5678-lmno-123456789012",
+    "amountInvolved": 850000.00,
+    "currency": "USD",
+    "suspectedParty": "Two consulting firms (identities withheld — INT investigation)",
+    "intReferralDate": "2024-12-03T00:00:00Z",
+    "intCaseNumber": "INT-2024-PAK-0098",
+    "reportedBy": "World Bank Pakistan Procurement Team (automated bid analysis tool)",
+    "investigatingUnit": "INT — Integrity Vice Presidency, World Bank Group"
+  }
+]

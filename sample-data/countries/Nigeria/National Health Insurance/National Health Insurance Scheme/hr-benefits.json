@@ -1,0 +1,67 @@
+[
+  {
+    "benefitId": "bn400000-0001-0000-0000-0000000004001",
+    "employeeId": "e4000000-0001-0000-0000-0000000004001",
+    "employeeName": "Chukwuemeka Nwosu",
+    "benefitType": "MedicalAid",
+    "provider": "Hygeia HMO",
+    "contributionEmployee": 33000,
+    "contributionEmployer": 66000,
+    "currency": "NGN",
+    "effectiveDate": "2025-01-01",
+    "isActive": true,
+    "createdAt": "2025-01-01T00:00:00Z"
+  },
+  {
+    "benefitId": "bn400000-0002-0000-0000-0000000004002",
+    "employeeId": "e4000000-0002-0000-0000-0000000004002",
+    "employeeName": "Amaka Abiodun",
+    "benefitType": "Pension",
+    "provider": "Total Health Trust",
+    "contributionEmployee": 37560,
+    "contributionEmployer": 75120,
+    "currency": "NGN",
+    "effectiveDate": "2025-01-01",
+    "isActive": true,
+    "createdAt": "2025-01-01T00:00:00Z"
+  },
+  {
+    "benefitId": "bn400000-0003-0000-0000-0000000004003",
+    "employeeId": "e4000000-0003-0000-0000-0000000004003",
+    "employeeName": "Tunde Eze",
+    "benefitType": "LifeInsurance",
+    "provider": "AXA Mansard Health",
+    "contributionEmployee": 42120,
+    "contributionEmployer": 84240,
+    "currency": "NGN",
+    "effectiveDate": "2025-01-01",
+    "isActive": true,
+    "createdAt": "2025-01-01T00:00:00Z"
+  },
+  {
+    "benefitId": "bn400000-0004-0000-0000-0000000004004",
+    "employeeId": "e4000000-0004-0000-0000-0000000004004",
+    "employeeName": "Ngozi Chukwu",
+    "benefitType": "HousingAllowance",
+    "provider": "PenCom",
+    "contributionEmployee": 46680,
+    "contributionEmployer": 93360,
+    "currency": "NGN",
+    "effectiveDate": "2025-01-01",
+    "isActive": true,
+    "createdAt": "2025-01-01T00:00:00Z"
+  },
+  {
+    "benefitId": "bn400000-0005-0000-0000-0000000004005",
+    "employeeId": "e4000000-0005-0000-0000-0000000004005",
+    "employeeName": "Emeka Ibrahim",
+    "benefitType": "TransportAllowance",
+    "provider": "Life Assurance Co",
+    "contributionEmployee": 51240,
+    "contributionEmployer": 102480,
+    "currency": "NGN",
+    "effectiveDate": "2025-01-01",
+    "isActive": true,
+    "createdAt": "2025-01-01T00:00:00Z"
+  }
+]

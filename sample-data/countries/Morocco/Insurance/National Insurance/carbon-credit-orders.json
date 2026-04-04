@@ -1,0 +1,74 @@
+[
+  {
+    "orderId": "CC-ORD-20240107-001",
+    "creditId": "GOL-MO-001",
+    "symbol": "SOLAR-ME",
+    "side": "Retire",
+    "quantity": 72,
+    "price": 23.82,
+    "totalAmount": 1715.04,
+    "purpose": "ESG Portfolio Diversification",
+    "status": "Completed",
+    "timestamp": "2024-01-07T16:00:00Z"
+  },
+  {
+    "orderId": "CC-ORD-20240226-002",
+    "creditId": "GOL-MO-001",
+    "symbol": "SOLAR-ME",
+    "side": "Retire",
+    "quantity": 69,
+    "price": 24.58,
+    "totalAmount": 1696.02,
+    "purpose": "ESG Portfolio Diversification",
+    "status": "Completed",
+    "timestamp": "2024-02-26T16:00:00Z"
+  },
+  {
+    "orderId": "CC-ORD-20240313-003",
+    "creditId": "VCS-MO-002",
+    "symbol": "WIND-ME",
+    "side": "Buy",
+    "quantity": 133,
+    "price": 19.12,
+    "totalAmount": 2542.96,
+    "purpose": "Corporate Offsetting",
+    "status": "Completed",
+    "timestamp": "2024-03-13T12:00:00Z"
+  },
+  {
+    "orderId": "CC-ORD-20240407-004",
+    "creditId": "VCS-MO-002",
+    "symbol": "WIND-ME",
+    "side": "Retire",
+    "quantity": 149,
+    "price": 19.2,
+    "totalAmount": 2860.8,
+    "purpose": "Corporate Offsetting",
+    "status": "Completed",
+    "timestamp": "2024-04-07T08:00:00Z"
+  },
+  {
+    "orderId": "CC-ORD-20240519-005",
+    "creditId": "CDM-MO-003",
+    "symbol": "EFF-ME",
+    "side": "Retire",
+    "quantity": 54,
+    "price": 17.81,
+    "totalAmount": 961.74,
+    "purpose": "Social Impact Investment",
+    "status": "Completed",
+    "timestamp": "2024-05-19T08:00:00Z"
+  },
+  {
+    "orderId": "CC-ORD-20240606-006",
+    "creditId": "CDM-MO-003",
+    "symbol": "EFF-ME",
+    "side": "Buy",
+    "quantity": 47,
+    "price": 18.26,
+    "totalAmount": 858.22,
+    "purpose": "Regulatory Compliance",
+    "status": "Completed",
+    "timestamp": "2024-06-06T11:00:00Z"
+  }
+]

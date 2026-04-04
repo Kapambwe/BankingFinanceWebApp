@@ -1,0 +1,6 @@
+[
+  {"billId":"NDB-BILL-001","customerId":"ndb-c001-1111-aaaa-2222-bbbbccccdddd","amount":42000000.00,"currency":"USD","dueDate":"2026-03-31T00:00:00Z","status":"Pending","description":"Sovereign Loan Interest Q1 2026 - South Africa","issuedDate":"2026-01-01T00:00:00Z"},
+  {"billId":"NDB-BILL-002","customerId":"ndb-c004-4444-dddd-5555-eeeeffff0000","amount":11250000.00,"currency":"USD","dueDate":"2026-04-15T00:00:00Z","status":"Pending","description":"Green Bond Facility Interest - Eskom","issuedDate":"2026-01-10T00:00:00Z"},
+  {"billId":"NDB-BILL-003","customerId":"ndb-c002-2222-bbbb-3333-ccccddddeeee","amount":7500000.00,"currency":"USD","dueDate":"2026-06-30T00:00:00Z","status":"Pending","description":"Infrastructure Loan Semi-Annual Interest - Egypt","issuedDate":"2026-01-15T00:00:00Z"},
+  {"billId":"NDB-BILL-004","customerId":"ndb-c003-3333-cccc-4444-ddddeeeeffff","amount":4500000.00,"currency":"USD","dueDate":"2026-06-30T00:00:00Z","status":"Pending","description":"Emergency Facility Interest - Ethiopia","issuedDate":"2026-01-20T00:00:00Z"}
+]

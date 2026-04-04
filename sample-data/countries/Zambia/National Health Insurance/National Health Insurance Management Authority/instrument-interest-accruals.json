@@ -1,0 +1,41 @@
+[
+  {
+    "accrualId": "ia100000-0001",
+    "instrumentType": "Treasury Bill",
+    "instrumentRef": "TB-ZM-2025-001",
+    "faceValue": 16.0,
+    "interestRate": 0.085,
+    "accrualPeriod": "Q4 2025",
+    "accruedInterest": 0.0,
+    "currency": "ZMW",
+    "maturityDate": "2026-03-31",
+    "status": "Accrued",
+    "createdAt": "2025-10-01T00:00:00Z"
+  },
+  {
+    "accrualId": "ia100000-0002",
+    "instrumentType": "Government Bond",
+    "instrumentRef": "GB-ZM-2024-005",
+    "faceValue": 33.0,
+    "interestRate": 0.11,
+    "accrualPeriod": "Q4 2025",
+    "accruedInterest": 1.0,
+    "currency": "ZMW",
+    "maturityDate": "2027-06-30",
+    "status": "Accrued",
+    "createdAt": "2025-10-01T00:00:00Z"
+  },
+  {
+    "accrualId": "ia100000-0003",
+    "instrumentType": "Fixed Deposit",
+    "instrumentRef": "FD-Zanaco-2025-010",
+    "faceValue": 8.0,
+    "interestRate": 0.095,
+    "accrualPeriod": "Q4 2025",
+    "accruedInterest": 0.0,
+    "currency": "ZMW",
+    "maturityDate": "2026-01-31",
+    "status": "Accrued",
+    "createdAt": "2025-10-01T00:00:00Z"
+  }
+]

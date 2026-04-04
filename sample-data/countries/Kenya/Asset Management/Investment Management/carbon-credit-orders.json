@@ -1,0 +1,74 @@
+[
+  {
+    "orderId": "CC-ORD-20240113-001",
+    "creditId": "VCS-KE-001",
+    "symbol": "REDD-EA",
+    "side": "Retire",
+    "quantity": 40,
+    "price": 21.27,
+    "totalAmount": 850.8,
+    "purpose": "ESG Portfolio Diversification",
+    "status": "Completed",
+    "timestamp": "2024-01-13T16:00:00Z"
+  },
+  {
+    "orderId": "CC-ORD-20240221-002",
+    "creditId": "VCS-KE-001",
+    "symbol": "REDD-EA",
+    "side": "Retire",
+    "quantity": 108,
+    "price": 21.19,
+    "totalAmount": 2288.52,
+    "purpose": "Regulatory Compliance",
+    "status": "Completed",
+    "timestamp": "2024-02-21T09:00:00Z"
+  },
+  {
+    "orderId": "CC-ORD-20240311-003",
+    "creditId": "GOL-KE-002",
+    "symbol": "GEOTH-EA",
+    "side": "Buy",
+    "quantity": 50,
+    "price": 24.61,
+    "totalAmount": 1230.5,
+    "purpose": "Social Impact Investment",
+    "status": "Completed",
+    "timestamp": "2024-03-11T12:00:00Z"
+  },
+  {
+    "orderId": "CC-ORD-20240407-004",
+    "creditId": "GOL-KE-002",
+    "symbol": "GEOTH-EA",
+    "side": "Buy",
+    "quantity": 111,
+    "price": 24.48,
+    "totalAmount": 2717.28,
+    "purpose": "Regulatory Compliance",
+    "status": "Completed",
+    "timestamp": "2024-04-07T09:00:00Z"
+  },
+  {
+    "orderId": "CC-ORD-20240509-005",
+    "creditId": "GOL-KE-003",
+    "symbol": "SOLAR-EA",
+    "side": "Buy",
+    "quantity": 20,
+    "price": 21.33,
+    "totalAmount": 426.6,
+    "purpose": "Social Impact Investment",
+    "status": "Completed",
+    "timestamp": "2024-05-09T08:00:00Z"
+  },
+  {
+    "orderId": "CC-ORD-20240613-006",
+    "creditId": "GOL-KE-003",
+    "symbol": "SOLAR-EA",
+    "side": "Buy",
+    "quantity": 115,
+    "price": 20.91,
+    "totalAmount": 2404.65,
+    "purpose": "ESG Portfolio Diversification",
+    "status": "Completed",
+    "timestamp": "2024-06-13T17:00:00Z"
+  }
+]

@@ -1,0 +1,7 @@
+[
+  {"billId":"AFDB-BILL-001","customerId":"a1b2c3d4-e5f6-7890-abcd-ef1234567890","amount":12500000.00,"currency":"USD","dueDate":"2026-03-31T00:00:00Z","status":"Pending","description":"Interest Payment - Infrastructure Loan Q1 2026","issuedDate":"2026-01-01T00:00:00Z"},
+  {"billId":"AFDB-BILL-002","customerId":"b2c3d4e5-f6a7-8901-bcde-f12345678901","amount":8750000.00,"currency":"USD","dueDate":"2026-06-30T00:00:00Z","status":"Pending","description":"Interest Payment - Transport Loan H1 2026","issuedDate":"2026-01-15T00:00:00Z"},
+  {"billId":"AFDB-BILL-003","customerId":"c3d4e5f6-a7b8-9012-cdef-123456789012","amount":18000000.00,"currency":"USD","dueDate":"2026-03-15T00:00:00Z","status":"Pending","description":"Principal + Interest - Water Program","issuedDate":"2025-12-15T00:00:00Z"},
+  {"billId":"AFDB-BILL-004","customerId":"f6a7b8c9-d0e1-2345-fabc-456789012345","amount":3750000.00,"currency":"USD","dueDate":"2026-04-20T00:00:00Z","status":"Pending","description":"Commitment Fee - Private Sector Facility","issuedDate":"2026-01-20T00:00:00Z"},
+  {"billId":"AFDB-BILL-005","customerId":"d4e5f6a7-b8c9-0123-defa-234567890123","amount":22000000.00,"currency":"USD","dueDate":"2026-02-28T00:00:00Z","status":"Overdue","description":"Principal Repayment - Energy Program","issuedDate":"2025-11-28T00:00:00Z"}
+]

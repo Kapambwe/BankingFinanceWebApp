@@ -1,0 +1,35 @@
+[
+  {
+    "recurringInvoiceId": "ri100000-0001",
+    "name": "Monthly Government Subvention",
+    "customer": "Ministry of Health Zambia",
+    "amount": 407.0,
+    "currency": "ZMW",
+    "frequency": "Monthly",
+    "nextInvoiceDate": "2026-01-01",
+    "status": "Active",
+    "createdAt": "2025-01-01T00:00:00Z"
+  },
+  {
+    "recurringInvoiceId": "ri100000-0002",
+    "name": "Monthly Employer Contributions",
+    "customer": "Zambia National Commercial Bank",
+    "amount": 136.0,
+    "currency": "ZMW",
+    "frequency": "Monthly",
+    "nextInvoiceDate": "2026-01-01",
+    "status": "Active",
+    "createdAt": "2025-01-01T00:00:00Z"
+  },
+  {
+    "recurringInvoiceId": "ri100000-0003",
+    "name": "Quarterly Employer Group Billing",
+    "customer": "Zambeef Products PLC",
+    "amount": 108.0,
+    "currency": "ZMW",
+    "frequency": "Quarterly",
+    "nextInvoiceDate": "2026-01-01",
+    "status": "Active",
+    "createdAt": "2025-01-01T00:00:00Z"
+  }
+]

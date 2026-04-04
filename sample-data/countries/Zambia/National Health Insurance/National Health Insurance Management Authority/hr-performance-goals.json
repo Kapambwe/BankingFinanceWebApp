@@ -1,0 +1,62 @@
+[
+  {
+    "goalId": "pg100000-0001-0000-0000-0000000001001",
+    "employeeId": "e1000000-0001-0000-0000-0000000001001",
+    "employeeName": "Chanda Mutale",
+    "goalTitle": "Enroll 50,000 new members",
+    "department": "Enrollment & Registration",
+    "targetDate": "2025-12-31",
+    "status": "InProgress",
+    "weightPercentage": 20,
+    "progressPercentage": 60,
+    "createdAt": "2025-01-15T00:00:00Z"
+  },
+  {
+    "goalId": "pg100000-0002-0000-0000-0000000001002",
+    "employeeId": "e1000000-0002-0000-0000-0000000001002",
+    "employeeName": "Mutale Mwansa",
+    "goalTitle": "Reduce claims processing time to 5 days",
+    "department": "Claims Administration",
+    "targetDate": "2025-09-30",
+    "status": "Completed",
+    "weightPercentage": 20,
+    "progressPercentage": 100,
+    "createdAt": "2025-01-15T00:00:00Z"
+  },
+  {
+    "goalId": "pg100000-0003-0000-0000-0000000001003",
+    "employeeId": "e1000000-0003-0000-0000-0000000001003",
+    "employeeName": "Mwamba Mulenga",
+    "goalTitle": "Achieve 95% provider payment accuracy",
+    "department": "Provider Management",
+    "targetDate": "2025-12-31",
+    "status": "InProgress",
+    "weightPercentage": 20,
+    "progressPercentage": 45,
+    "createdAt": "2025-01-15T00:00:00Z"
+  },
+  {
+    "goalId": "pg100000-0004-0000-0000-0000000001004",
+    "employeeId": "e1000000-0004-0000-0000-0000000001004",
+    "employeeName": "Mwansa Musonda",
+    "goalTitle": "Implement digital member self-service portal",
+    "department": "Information Technology",
+    "targetDate": "2025-06-30",
+    "status": "NotStarted",
+    "weightPercentage": 20,
+    "progressPercentage": 0,
+    "createdAt": "2025-01-15T00:00:00Z"
+  },
+  {
+    "goalId": "pg100000-0005-0000-0000-0000000001005",
+    "employeeId": "e1000000-0005-0000-0000-0000000001005",
+    "employeeName": "Chileshe Nkosi",
+    "goalTitle": "Train 200 staff on health insurance regulations",
+    "department": "Human Resources",
+    "targetDate": "2025-08-31",
+    "status": "InProgress",
+    "weightPercentage": 20,
+    "progressPercentage": 70,
+    "createdAt": "2025-01-15T00:00:00Z"
+  }
+]

@@ -1,0 +1,6 @@
+[
+  {"billId":"FAO-BILL-001","customerId":"fao-c001-1111-2222-aaaa-bb1234567890","amount":185000.00,"currency":"USD","dueDate":"2026-03-31T00:00:00Z","status":"Pending","description":"SIFAZ Programme Monitoring & Evaluation Costs - Zambia Q1 2026","issuedDate":"2026-01-01T00:00:00Z"},
+  {"billId":"FAO-BILL-002","customerId":"fao-c003-3333-4444-cccc-dd3456789012","amount":240000.00,"currency":"USD","dueDate":"2026-03-31T00:00:00Z","status":"Pending","description":"Ethiopia Emergency Recovery Field Operations Q1 2026","issuedDate":"2026-01-10T00:00:00Z"},
+  {"billId":"FAO-BILL-003","customerId":"fao-c009-9999-0000-2222-339012345678","amount":165000.00,"currency":"USD","dueDate":"2026-06-30T00:00:00Z","status":"Pending","description":"India Digital Agriculture Programme Licensing and Support H1 2026","issuedDate":"2026-01-15T00:00:00Z"},
+  {"billId":"FAO-BILL-004","customerId":"fao-c005-5555-6666-eeee-ff5678901234","amount":118000.00,"currency":"USD","dueDate":"2026-04-30T00:00:00Z","status":"Pending","description":"Tanzania Fisheries Assessment and Capacity Training Q1 2026","issuedDate":"2026-01-20T00:00:00Z"}
+]

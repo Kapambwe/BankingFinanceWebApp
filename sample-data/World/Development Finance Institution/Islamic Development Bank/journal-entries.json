@@ -1,0 +1,7 @@
+[
+  {"entryId":"IsDB-JE-001","date":"2025-07-15T00:00:00Z","description":"Istisna'a Disbursement - Senegal Dakar BRT System","debitAccount":"1100","creditAccount":"1000","amount":45000000.00,"currency":"ID","status":"Posted"},
+  {"entryId":"IsDB-JE-002","date":"2025-09-25T00:00:00Z","description":"Ijarah Asset Acquisition - Morocco Nador Port Equipment","debitAccount":"1300","creditAccount":"1000","amount":80000000.00,"currency":"ID","status":"Posted"},
+  {"entryId":"IsDB-JE-003","date":"2025-10-15T00:00:00Z","description":"Istisna'a Disbursement - Egypt Water Infrastructure","debitAccount":"1100","creditAccount":"1000","amount":60000000.00,"currency":"ID","status":"Posted"},
+  {"entryId":"IsDB-JE-004","date":"2025-11-30T00:00:00Z","description":"Murabaha Markup Repayment Received - Mali","debitAccount":"1000","creditAccount":"4000","amount":12000000.00,"currency":"ID","status":"Posted"},
+  {"entryId":"IsDB-JE-005","date":"2025-12-31T00:00:00Z","description":"Ijarah Rental Income Accrual - Q4 2025","debitAccount":"2100","creditAccount":"4100","amount":155000000.00,"currency":"ID","status":"Posted"}
+]

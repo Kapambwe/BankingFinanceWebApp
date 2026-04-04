@@ -1,0 +1,80 @@
+[
+  {
+    "ruleId": 1,
+    "ruleName": "Bills CAD 690\u20136,900 require Branch Coordinator approval",
+    "type": "Bill",
+    "minAmount": 690,
+    "maxAmount": 6900,
+    "approverId": "manager@microfinance.co",
+    "approverName": "Branch Coordinator",
+    "level": 1,
+    "isActive": true,
+    "autoApproveBelow": false,
+    "notes": "Standard operational expenditure threshold"
+  },
+  {
+    "ruleId": 2,
+    "ruleName": "Bills above CAD 6,900 require Chief Finance Officer approval",
+    "type": "Bill",
+    "minAmount": 6900,
+    "maxAmount": null,
+    "approverId": "cfo@microfinance.co",
+    "approverName": "Chief Finance Officer",
+    "level": 2,
+    "isActive": true,
+    "autoApproveBelow": false,
+    "notes": "Capital expenditure and large operational bills"
+  },
+  {
+    "ruleId": 3,
+    "ruleName": "Bills above CAD 34,000 require Executive Director approval",
+    "type": "Bill",
+    "minAmount": 34000,
+    "maxAmount": null,
+    "approverId": "ceo@microfinance.co",
+    "approverName": "Executive Director",
+    "level": 3,
+    "isActive": true,
+    "autoApproveBelow": false,
+    "notes": "Strategic vendor contracts and major capital expenditure"
+  },
+  {
+    "ruleId": 4,
+    "ruleName": "Journal entries above CAD 3,450 require Chief Finance Officer approval",
+    "type": "JournalEntry",
+    "minAmount": 3450.0,
+    "maxAmount": null,
+    "approverId": "controller@microfinance.co",
+    "approverName": "Financial Controller",
+    "level": 1,
+    "isActive": true,
+    "autoApproveBelow": false,
+    "notes": "SOX control \u2014 manual journal entries above threshold"
+  },
+  {
+    "ruleId": 5,
+    "ruleName": "Payments below CAD 345 auto-approved",
+    "type": "Payment",
+    "minAmount": 0,
+    "maxAmount": 345,
+    "approverId": "system@microfinance.co",
+    "approverName": "System",
+    "level": 1,
+    "isActive": true,
+    "autoApproveBelow": true,
+    "notes": "Petty cash and minor operational payments"
+  },
+  {
+    "ruleId": 6,
+    "ruleName": "Budget changes above CAD 6,900 require Chief Finance Officer approval",
+    "type": "BudgetChange",
+    "minAmount": 6900,
+    "maxAmount": null,
+    "approverId": "cfo@microfinance.co",
+    "approverName": "Chief Finance Officer",
+    "level": 2,
+    "isActive": true,
+    "autoApproveBelow": false,
+    "notes": "Budget revisions require justification memo"
+  }
+]
