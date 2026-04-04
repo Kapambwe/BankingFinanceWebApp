@@ -1,0 +1,198 @@
+/* Company Theme CSS Variables */
+:root {
+    /* Primary colors */
+    --theme-primary-color: #1b6ec2;
+    --theme-secondary-color: #0071c1;
+    
+    /* State colors */
+    --theme-success-color: #10b981;
+    --theme-warning-color: #f59e0b;
+    --theme-danger-color: #ef4444;
+    --theme-info-color: #3b82f6;
+    
+    /* Card gradient colors */
+    --theme-card1-gradient-start: #f59e0b;
+    --theme-card1-gradient-end: #d97706;
+    --theme-card2-gradient-start: #10b981;
+    --theme-card2-gradient-end: #059669;
+    --theme-card3-gradient-start: #3b82f6;
+    --theme-card3-gradient-end: #2563eb;
+    --theme-card4-gradient-start: #8b5cf6;
+    --theme-card4-gradient-end: #7c3aed;
+    
+    /* UI colors */
+    --theme-border-color: #e5e7eb;
+    --theme-text-primary-color: #111827;
+    --theme-text-secondary-color: #6b7280;
+    --theme-background-color: #ffffff;
+    --theme-card-background-color: #ffffff;
+    
+    /* Typography and spacing */
+    --theme-font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    --theme-border-radius: 0.5rem;
+}
+
+/* Apply theme to common elements */
+body {
+    font-family: var(--theme-font-family);
+    background-color: var(--theme-background-color);
+    color: var(--theme-text-primary-color);
+}
+
+/* Primary button styling with theme */
+.btn-primary {
+    background-color: var(--theme-primary-color);
+    border-color: var(--theme-primary-color);
+}
+
+.btn-primary:hover {
+    background-color: var(--theme-secondary-color);
+    border-color: var(--theme-secondary-color);
+}
+
+/* Links with theme color */
+a:not(.btn) {
+    color: var(--theme-primary-color);
+}
+
+a:not(.btn):hover {
+    color: var(--theme-secondary-color);
+}
+
+/* Card gradients - Summary cards */
+.theme-card-gradient-1 {
+    background: linear-gradient(135deg, var(--theme-card1-gradient-start) 0%, var(--theme-card1-gradient-end) 100%);
+}
+
+.theme-card-gradient-2 {
+    background: linear-gradient(135deg, var(--theme-card2-gradient-start) 0%, var(--theme-card2-gradient-end) 100%);
+}
+
+.theme-card-gradient-3 {
+    background: linear-gradient(135deg, var(--theme-card3-gradient-start) 0%, var(--theme-card3-gradient-end) 100%);
+}
+
+.theme-card-gradient-4 {
+    background: linear-gradient(135deg, var(--theme-card4-gradient-start) 0%, var(--theme-card4-gradient-end) 100%);
+}
+
+/* Themed text colors */
+.text-theme-primary {
+    color: var(--theme-primary-color);
+}
+
+.text-theme-secondary {
+    color: var(--theme-text-secondary-color);
+}
+
+.text-theme-success {
+    color: var(--theme-success-color);
+}
+
+.text-theme-warning {
+    color: var(--theme-warning-color);
+}
+
+.text-theme-danger {
+    color: var(--theme-danger-color);
+}
+
+.text-theme-info {
+    color: var(--theme-info-color);
+}
+
+/* Themed background colors */
+.bg-theme-primary {
+    background-color: var(--theme-primary-color);
+}
+
+.bg-theme-success {
+    background-color: var(--theme-success-color);
+}
+
+.bg-theme-warning {
+    background-color: var(--theme-warning-color);
+}
+
+.bg-theme-danger {
+    background-color: var(--theme-danger-color);
+}
+
+.bg-theme-info {
+    background-color: var(--theme-info-color);
+}
+
+/* Themed borders */
+.border-theme {
+    border-color: var(--theme-border-color);
+}
+
+.border-theme-primary {
+    border-color: var(--theme-primary-color);
+}
+
+/* Themed cards */
+.theme-card {
+    background-color: var(--theme-card-background-color);
+    border-radius: var(--theme-border-radius);
+    border: 1px solid var(--theme-border-color);
+}
+
+/* Summary card styling with theme */
+.theme-summary-card {
+    transition: transform 0.2s;
+    border-left: 4px solid var(--theme-primary-color);
+    background-color: var(--theme-card-background-color);
+}
+
+.theme-summary-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* Icon colors based on theme */
+.icon-theme-primary {
+    color: var(--theme-primary-color);
+}
+
+.icon-theme-warning {
+    color: var(--theme-warning-color);
+}
+
+.icon-theme-success {
+    color: var(--theme-success-color);
+}
+
+.icon-theme-info {
+    color: var(--theme-info-color);
+}
+
+.icon-theme-danger {
+    color: var(--theme-danger-color);
+}
+
+/* Radzen overrides for theming */
+.rz-button.rz-button-sm.rz-variant-flat.rz-primary,
+.rz-button.rz-variant-flat.rz-primary {
+    background-color: var(--theme-primary-color);
+}
+
+.rz-button.rz-button-sm.rz-variant-flat.rz-success,
+.rz-button.rz-variant-flat.rz-success {
+    background-color: var(--theme-success-color);
+}
+
+.rz-button.rz-button-sm.rz-variant-flat.rz-warning,
+.rz-button.rz-variant-flat.rz-warning {
+    background-color: var(--theme-warning-color);
+}
+
+.rz-button.rz-button-sm.rz-variant-flat.rz-danger,
+.rz-button.rz-variant-flat.rz-danger {
+    background-color: var(--theme-danger-color);
+}
+
+.rz-button.rz-button-sm.rz-variant-flat.rz-info,
+.rz-button.rz-variant-flat.rz-info {
+    background-color: var(--theme-info-color);
+}
