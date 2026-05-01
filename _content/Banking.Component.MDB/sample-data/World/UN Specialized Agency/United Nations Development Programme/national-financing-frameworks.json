@@ -1,0 +1,34 @@
+[
+  {
+    "frameworkId": "f6d00001-0000-0000-0000-000000000001",
+    "frameworkCode": "UNDP-ZM-INFF-2025",
+    "title": "Zambia Integrated National Financing Framework Support",
+    "leadInstitution": "United Nations Development Programme",
+    "countryCode": "ZM",
+    "countryName": "Zambia",
+    "region": "Southern Africa",
+    "frameworkType": "IntegratedNationalFinancingFramework",
+    "stage": "Implementation",
+    "totalSDGOrDevelopmentFinancingNeed": 25000000000,
+    "publicDomesticFinancing": 11000000000,
+    "internationalPublicFinancing": 4200000000,
+    "privateDomesticFinancing": 6500000000,
+    "internationalPrivateFinancing": 1700000000,
+    "climateFinancingNeed": 3800000000,
+    "currency": "USD",
+    "financingGap": 1600000000,
+    "pillars": [
+      { "pillarName": "Domestic resource mobilisation", "pillarType": "DomesticPublicFinance", "keyActions": ["Tax policy review", "Revenue digitalisation"], "responsibleActors": ["Ministry of Finance"], "progress": "InProgress" },
+      { "pillarName": "Blended finance", "pillarType": "PrivateFinanceAndBlending", "keyActions": ["Pipeline structuring", "De-risking instruments"], "responsibleActors": ["UNDP", "Private sector"], "progress": "InProgress" }
+    ],
+    "governmentCounterparts": ["Ministry of Finance", "Ministry of National Planning"],
+    "supportingInstitutions": ["UNDP", "UN Women", "UNICEF"],
+    "frameworkLead": "UNDP Zambia",
+    "isLinkedToNationalDevelopmentPlan": true,
+    "isLinkedToNDC": true,
+    "status": "Active",
+    "assessmentDate": "2025-02-01T00:00:00Z",
+    "nextUpdateDate": "2026-02-01T00:00:00Z",
+    "createdAt": "2025-02-01T00:00:00Z"
+  }
+]

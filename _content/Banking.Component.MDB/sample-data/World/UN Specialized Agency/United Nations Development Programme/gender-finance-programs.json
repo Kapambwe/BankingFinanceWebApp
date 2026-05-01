@@ -1,0 +1,23 @@
+[
+  {
+    "programId": "f1d00001-0000-0000-0000-000000000001",
+    "programCode": "UNDP-ZM-GEN-2025-001",
+    "programName": "Women-led Enterprise Finance and Market Access",
+    "institutionName": "United Nations Development Programme",
+    "countryCode": "ZM",
+    "countryName": "Zambia",
+    "programType": "FinancialInstitutionSupport",
+    "facilityAmount": 12000000,
+    "guaranteeComponent": 3000000,
+    "technicalAssistanceComponent": 1500000,
+    "currency": "USD",
+    "financialIntermediaryPartner": "Stanbic Bank Zambia",
+    "womenBeneficiaries": 4200,
+    "loansExtendedToWomen": 8400000,
+    "targetSectors": ["Agribusiness", "Trade", "Services"],
+    "status": "Active",
+    "eligibilityCriteria": ["Women-owned or women-led business", "Viable business plan", "Formal or semi-formal enterprise"],
+    "startDate": "2025-04-01T00:00:00Z",
+    "createdAt": "2025-04-01T00:00:00Z"
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "reviewId": "e9d00001-0000-0000-0000-000000000001",
+    "reviewCode": "UNDP-ZM-CPR-2025",
+    "institutionName": "United Nations Development Programme",
+    "countryCode": "ZM",
+    "countryName": "Zambia",
+    "reviewYear": 2025,
+    "totalActiveOperations": 5,
+    "totalActivePortfolioValue": 82400000,
+    "totalDisbursed": 46900000,
+    "averageDisbursementRatio": 56.9,
+    "currency": "USD",
+    "projectsAtRisk": 1,
+    "projectsPotentiallyProblematic": 0,
+    "keyIssues": [
+      {
+        "issueTitle": "District-level implementation delays",
+        "category": "Implementation",
+        "projectsAffected": 1,
+        "description": "Procurement and field deployment delays in one climate resilience district cluster.",
+        "recommendedAction": "Accelerate district support and re-sequence field activities.",
+        "severity": "Moderate"
+      }
+    ],
+    "actionPlan": ["Strengthen district implementation support", "Expand digital M&E reporting", "Prioritize health supply chain roll-out"],
+    "overallRating": "Satisfactory",
+    "reviewTeamLead": "UNDP Zambia Portfolio Lead",
+    "status": "Finalised",
+    "reviewDate": "2025-11-30T00:00:00Z",
+    "createdAt": "2025-11-30T00:00:00Z"
+  }
+]
