@@ -1,0 +1,43 @@
+﻿{
+    "institutionType":  "Asset Management",
+    "country":  "Zambia",
+    "description":  "Role-to-permission mapping for Asset Management tenants in Zambia. Matches the role structure used by the African Alliance Zambia institution sample data.",
+    "version":  "1.0.0",
+    "roles":  [
+                  {
+                      "roleName":  "AssetManagementAdmin",
+                      "permissions":  [
+                                          "Banking.Investment.View",
+                                          "Banking.Investment.Dashboard",
+                                          "Banking.Investment.Portfolio.View",
+                                          "Banking.Investment.Funds.View",
+                                          "Banking.Investment.Clients.View",
+                                          "Banking.Investment.Clients.ManageClients"
+                                      ]
+                  },
+                  {
+                      "roleName":  "ClientServicesOfficer",
+                      "permissions":  [
+                                          "Banking.Investment.Clients.View",
+                                          "Banking.Investment.Clients.ManageClients",
+                                          "Banking.CRM.ViewCustomers"
+                                      ]
+                  },
+                  {
+                      "roleName":  "PerformanceAnalyst",
+                      "permissions":  [
+                                          "Banking.Analytics.View",
+                                          "Banking.Analytics.ViewAdvanced",
+                                          "Banking.Investment.Portfolio.View"
+                                      ]
+                  },
+                  {
+                      "roleName":  "PortfolioManager",
+                      "permissions":  [
+                                          "Banking.Investment.Portfolio.View",
+                                          "Banking.Investment.Portfolio.Manage",
+                                          "Banking.Analytics.View"
+                                      ]
+                  }
+              ]
+}

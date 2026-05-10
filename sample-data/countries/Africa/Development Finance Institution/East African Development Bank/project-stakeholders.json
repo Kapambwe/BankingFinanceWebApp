@@ -1,0 +1,32 @@
+[
+  {
+    "stakeholderId": "eadb40001-0000-0000-0000-000000000001",
+    "projectId": "eadb0001-0000-0000-0000-000000000001",
+    "projectCode": "EADB-UG-AGRI-2025",
+    "name": "Ministry of Agriculture, Animal Industry and Fisheries",
+    "organisationName": "Government of Uganda",
+    "type": "ImplementingAgency",
+    "influence": "High",
+    "interest": "High",
+    "engagementLevel": "Collaborate",
+    "contactPerson": "Director of Agribusiness",
+    "email": "agribusiness@maaif.go.ug",
+    "notes": "Policy and extension coordination for agro-processing and trade support.",
+    "createdAt": "2025-03-01T00:00:00Z"
+  },
+  {
+    "stakeholderId": "eadb40001-0000-0000-0000-000000000002",
+    "projectId": "eadb0001-0000-0000-0000-000000000001",
+    "projectCode": "EADB-UG-AGRI-2025",
+    "name": "Uganda National Agro-Processors Association",
+    "organisationName": "Private Sector Association",
+    "type": "PrivateSector",
+    "influence": "Medium",
+    "interest": "High",
+    "engagementLevel": "Consult",
+    "contactPerson": "Secretary General",
+    "email": "info@unapa.ug",
+    "notes": "Represents processors and small businesses linked to the value chain.",
+    "createdAt": "2025-03-05T00:00:00Z"
+  }
+]

@@ -1,140 +1,152 @@
-[
-  {
-    "userId": "460cb6a0-4ccb-45a4-9fd4-7814bf3358bb",
-    "email": "admin.mortgage",
-    "username": "admin.mortgage",
-    "firstName": "Mortgage",
-    "lastName": "Admin",
-    "institutionType": "Mortgage Company",
-    "institutionName": "First Alliance Bank Mortgage",
-    "institutionId": "97b91263-2965-4743-b61c-c01820488b7f",
-    "roles": [
-      "MortgageAdmin"
-    ],
-    "permissions": [],
-    "isActive": true,
-    "isEmailVerified": true,
-    "isPhoneVerified": true,
-    "isIdentityVerified": true,
-    "trustScore": 95,
-    "createdAt": "2025-10-16T00:00:00Z",
-    "phoneNumber": "+260977000000",
-    "gender": "Other",
-    "nationality": "Zambian"
-  },
-  {
-    "userId": "c6ddb820-79ad-4928-b7c9-64000e7dcdd1",
-    "email": "mortgagemanager.mortgage",
-    "username": "mortgagemanager.mortgage",
-    "firstName": "Mortgage",
-    "lastName": "Manager",
-    "institutionType": "Mortgage Company",
-    "institutionName": "First Alliance Bank Mortgage",
-    "institutionId": "97b91263-2965-4743-b61c-c01820488b7f",
-    "roles": [
-      "MortgageManager"
-    ],
-    "permissions": [],
-    "isActive": true,
-    "isEmailVerified": true,
-    "isPhoneVerified": true,
-    "isIdentityVerified": true,
-    "trustScore": 95,
-    "createdAt": "2025-10-16T00:00:00Z",
-    "phoneNumber": "+260977000000",
-    "gender": "Other",
-    "nationality": "Zambian"
-  },
-  {
-    "userId": "9786b47c-4fa9-418f-a805-04f5b1030066",
-    "email": "loanofficer.mortgage",
-    "username": "loanofficer.mortgage",
-    "firstName": "Mortgage Loan",
-    "lastName": "Officer",
-    "institutionType": "Mortgage Company",
-    "institutionName": "First Alliance Bank Mortgage",
-    "institutionId": "97b91263-2965-4743-b61c-c01820488b7f",
-    "roles": [
-      "MortgageLoanOfficer"
-    ],
-    "permissions": [],
-    "isActive": true,
-    "isEmailVerified": true,
-    "isPhoneVerified": true,
-    "isIdentityVerified": true,
-    "trustScore": 95,
-    "createdAt": "2025-10-16T00:00:00Z",
-    "phoneNumber": "+260977000000",
-    "gender": "Other",
-    "nationality": "Zambian"
-  },
-  {
-    "userId": "a4a364b6-cbba-4412-a9e4-6775a9dd8f81",
-    "email": "valuation.mortgage",
-    "username": "valuation.mortgage",
-    "firstName": "Valuation",
-    "lastName": "Officer",
-    "institutionType": "Mortgage Company",
-    "institutionName": "First Alliance Bank Mortgage",
-    "institutionId": "97b91263-2965-4743-b61c-c01820488b7f",
-    "roles": [
-      "ValuationOfficer"
-    ],
-    "permissions": [],
-    "isActive": true,
-    "isEmailVerified": true,
-    "isPhoneVerified": true,
-    "isIdentityVerified": true,
-    "trustScore": 95,
-    "createdAt": "2025-10-16T00:00:00Z",
-    "phoneNumber": "+260977000000",
-    "gender": "Other",
-    "nationality": "Zambian"
-  },
-  {
-    "userId": "3cde1ef7-9175-40e1-9f74-33185bd92eaf",
-    "email": "collections.mortgage",
-    "username": "collections.mortgage",
-    "firstName": "Collections",
-    "lastName": "Officer",
-    "institutionType": "Mortgage Company",
-    "institutionName": "First Alliance Bank Mortgage",
-    "institutionId": "97b91263-2965-4743-b61c-c01820488b7f",
-    "roles": [
-      "CollectionsOfficer"
-    ],
-    "permissions": [],
-    "isActive": true,
-    "isEmailVerified": true,
-    "isPhoneVerified": true,
-    "isIdentityVerified": true,
-    "trustScore": 95,
-    "createdAt": "2025-10-16T00:00:00Z",
-    "phoneNumber": "+260977000000",
-    "gender": "Other",
-    "nationality": "Zambian"
-  },
-  {
-    "userId": "4e47c79a-47b3-4eb2-bdb8-82d89900993d",
-    "email": "compliance.mortgage",
-    "username": "compliance.mortgage",
-    "firstName": "Mortgage Compliance",
-    "lastName": "Officer",
-    "institutionType": "Mortgage Company",
-    "institutionName": "First Alliance Bank Mortgage",
-    "institutionId": "97b91263-2965-4743-b61c-c01820488b7f",
-    "roles": [
-      "MortgageComplianceOfficer"
-    ],
-    "permissions": [],
-    "isActive": true,
-    "isEmailVerified": true,
-    "isPhoneVerified": true,
-    "isIdentityVerified": true,
-    "trustScore": 95,
-    "createdAt": "2025-10-16T00:00:00Z",
-    "phoneNumber": "+260977000000",
-    "gender": "Other",
-    "nationality": "Zambian"
-  }
+﻿[
+    {
+        "userId":  "1a219ab2-3213-4704-9073-a6d6e4cbd402",
+        "email":  "collectionsofficer.mortgagecompany",
+        "username":  "collectionsofficer.mortgagecompany",
+        "firstName":  "Collections",
+        "lastName":  "Officer",
+        "institutionType":  "Mortgage Company",
+        "institutionName":  "First Alliance Bank Mortgage",
+        "institutionId":  "055c7d42-229a-47eb-a5c9-eadd700d6fce",
+        "roles":  [
+                      "CollectionsOfficer"
+                  ],
+        "permissions":  [
+
+                        ],
+        "isActive":  true,
+        "isEmailVerified":  true,
+        "isPhoneVerified":  true,
+        "isIdentityVerified":  true,
+        "trustScore":  95,
+        "createdAt":  "2023-09-13T00:00:00Z",
+        "phoneNumber":  "+260977000000",
+        "gender":  "Other",
+        "nationality":  "Zambian"
+    },
+    {
+        "userId":  "0c666a4c-31cf-4b7e-8e68-7f27eaecfcf1",
+        "email":  "mortgageadmin.mortgagecompany",
+        "username":  "mortgageadmin.mortgagecompany",
+        "firstName":  "Mortgage",
+        "lastName":  "Admin",
+        "institutionType":  "Mortgage Company",
+        "institutionName":  "First Alliance Bank Mortgage",
+        "institutionId":  "0c15934b-1d58-4921-934a-fb4260a6ab37",
+        "roles":  [
+                      "MortgageAdmin"
+                  ],
+        "permissions":  [
+
+                        ],
+        "isActive":  true,
+        "isEmailVerified":  true,
+        "isPhoneVerified":  true,
+        "isIdentityVerified":  true,
+        "trustScore":  95,
+        "createdAt":  "2023-09-13T00:00:00Z",
+        "phoneNumber":  "+260977000000",
+        "gender":  "Other",
+        "nationality":  "Zambian"
+    },
+    {
+        "userId":  "15f6b80e-07a9-46aa-b108-49f1a67fd6ea",
+        "email":  "mortgagecomplianceofficer.mortgagecompany",
+        "username":  "mortgagecomplianceofficer.mortgagecompany",
+        "firstName":  "Mortgage",
+        "lastName":  "Officer",
+        "institutionType":  "Mortgage Company",
+        "institutionName":  "First Alliance Bank Mortgage",
+        "institutionId":  "52d86cda-a1bc-4b96-a062-7ca5ec77e390",
+        "roles":  [
+                      "MortgageComplianceOfficer"
+                  ],
+        "permissions":  [
+
+                        ],
+        "isActive":  true,
+        "isEmailVerified":  true,
+        "isPhoneVerified":  true,
+        "isIdentityVerified":  true,
+        "trustScore":  95,
+        "createdAt":  "2023-09-13T00:00:00Z",
+        "phoneNumber":  "+260977000000",
+        "gender":  "Other",
+        "nationality":  "Zambian"
+    },
+    {
+        "userId":  "02add3a6-98b2-4b53-9392-821d01f0bf86",
+        "email":  "mortgageloanofficer.mortgagecompany",
+        "username":  "mortgageloanofficer.mortgagecompany",
+        "firstName":  "Mortgage",
+        "lastName":  "Officer",
+        "institutionType":  "Mortgage Company",
+        "institutionName":  "First Alliance Bank Mortgage",
+        "institutionId":  "e96ee427-abc5-446a-aaa1-29149a66b44f",
+        "roles":  [
+                      "MortgageLoanOfficer"
+                  ],
+        "permissions":  [
+
+                        ],
+        "isActive":  true,
+        "isEmailVerified":  true,
+        "isPhoneVerified":  true,
+        "isIdentityVerified":  true,
+        "trustScore":  95,
+        "createdAt":  "2023-09-13T00:00:00Z",
+        "phoneNumber":  "+260977000000",
+        "gender":  "Other",
+        "nationality":  "Zambian"
+    },
+    {
+        "userId":  "087aefd0-f947-49a8-9bd6-dcbb21a2e7cc",
+        "email":  "mortgagemanager.mortgagecompany",
+        "username":  "mortgagemanager.mortgagecompany",
+        "firstName":  "Mortgage",
+        "lastName":  "Manager",
+        "institutionType":  "Mortgage Company",
+        "institutionName":  "First Alliance Bank Mortgage",
+        "institutionId":  "2064c47f-10bb-45d8-8075-f3cf7416633a",
+        "roles":  [
+                      "MortgageManager"
+                  ],
+        "permissions":  [
+
+                        ],
+        "isActive":  true,
+        "isEmailVerified":  true,
+        "isPhoneVerified":  true,
+        "isIdentityVerified":  true,
+        "trustScore":  95,
+        "createdAt":  "2023-09-13T00:00:00Z",
+        "phoneNumber":  "+260977000000",
+        "gender":  "Other",
+        "nationality":  "Zambian"
+    },
+    {
+        "userId":  "18f851a6-36e6-4c17-9945-f1484f2bfc25",
+        "email":  "valuationofficer.mortgagecompany",
+        "username":  "valuationofficer.mortgagecompany",
+        "firstName":  "Valuation",
+        "lastName":  "Officer",
+        "institutionType":  "Mortgage Company",
+        "institutionName":  "First Alliance Bank Mortgage",
+        "institutionId":  "cacaf5c2-5eac-4b2a-b195-664a35fa99b3",
+        "roles":  [
+                      "ValuationOfficer"
+                  ],
+        "permissions":  [
+
+                        ],
+        "isActive":  true,
+        "isEmailVerified":  true,
+        "isPhoneVerified":  true,
+        "isIdentityVerified":  true,
+        "trustScore":  95,
+        "createdAt":  "2023-09-13T00:00:00Z",
+        "phoneNumber":  "+260977000000",
+        "gender":  "Other",
+        "nationality":  "Zambian"
+    }
 ]

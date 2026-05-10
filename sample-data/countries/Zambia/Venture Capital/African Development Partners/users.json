@@ -1,117 +1,102 @@
-[
-  {
-    "userId": "19f8d0a5-a53e-428a-8ef8-14034717fc13",
-    "email": "admin.vc",
-    "username": "admin.vc",
-    "firstName": "VC",
-    "lastName": "Admin",
-    "institutionType": "Venture Capital",
-    "institutionName": "African Development Partners",
-    "institutionId": "d05ecc81-fbb1-4129-82d4-8600797f68ea",
-    "roles": [
-      "VCAdmin"
-    ],
-    "permissions": [],
-    "isActive": true,
-    "isEmailVerified": true,
-    "isPhoneVerified": true,
-    "isIdentityVerified": true,
-    "trustScore": 95,
-    "createdAt": "2024-06-04T00:00:00Z",
-    "phoneNumber": "+260977000000",
-    "gender": "Other",
-    "nationality": "Zambian"
-  },
-  {
-    "userId": "7dfcd0b7-e244-46aa-a4dd-70799269eb78",
-    "email": "partner.vc",
-    "username": "partner.vc",
-    "firstName": "VC",
-    "lastName": "Partner",
-    "institutionType": "Venture Capital",
-    "institutionName": "African Development Partners",
-    "institutionId": "d05ecc81-fbb1-4129-82d4-8600797f68ea",
-    "roles": [
-      "VCPartner"
-    ],
-    "permissions": [],
-    "isActive": true,
-    "isEmailVerified": true,
-    "isPhoneVerified": true,
-    "isIdentityVerified": true,
-    "trustScore": 95,
-    "createdAt": "2024-06-04T00:00:00Z",
-    "phoneNumber": "+260977000000",
-    "gender": "Other",
-    "nationality": "Zambian"
-  },
-  {
-    "userId": "12335584-e464-4b7a-9490-ef86420916f6",
-    "email": "associate.vc",
-    "username": "associate.vc",
-    "firstName": "Investment",
-    "lastName": "Associate",
-    "institutionType": "Venture Capital",
-    "institutionName": "African Development Partners",
-    "institutionId": "d05ecc81-fbb1-4129-82d4-8600797f68ea",
-    "roles": [
-      "InvestmentAssociate"
-    ],
-    "permissions": [],
-    "isActive": true,
-    "isEmailVerified": true,
-    "isPhoneVerified": true,
-    "isIdentityVerified": true,
-    "trustScore": 95,
-    "createdAt": "2024-06-04T00:00:00Z",
-    "phoneNumber": "+260977000000",
-    "gender": "Other",
-    "nationality": "Zambian"
-  },
-  {
-    "userId": "5148f749-8ffd-47a9-882c-ab008603e2c2",
-    "email": "fundcontroller.vc",
-    "username": "fundcontroller.vc",
-    "firstName": "Fund",
-    "lastName": "Controller",
-    "institutionType": "Venture Capital",
-    "institutionName": "African Development Partners",
-    "institutionId": "d05ecc81-fbb1-4129-82d4-8600797f68ea",
-    "roles": [
-      "FundController"
-    ],
-    "permissions": [],
-    "isActive": true,
-    "isEmailVerified": true,
-    "isPhoneVerified": true,
-    "isIdentityVerified": true,
-    "trustScore": 95,
-    "createdAt": "2024-06-04T00:00:00Z",
-    "phoneNumber": "+260977000000",
-    "gender": "Other",
-    "nationality": "Zambian"
-  },
-  {
-    "userId": "fae53686-dcd1-43db-8f54-a7ea1fb8448c",
-    "email": "ir.vc",
-    "username": "ir.vc",
-    "firstName": "IR",
-    "lastName": "Officer",
-    "institutionType": "Venture Capital",
-    "institutionName": "African Development Partners",
-    "institutionId": "d05ecc81-fbb1-4129-82d4-8600797f68ea",
-    "roles": [
-      "IROfficer"
-    ],
-    "permissions": [],
-    "isActive": true,
-    "isEmailVerified": true,
-    "isPhoneVerified": true,
-    "isIdentityVerified": true,
-    "trustScore": 95,
-    "createdAt": "2024-06-04T00:00:00Z",
-    "phoneNumber": "+260977000000",
-    "gender": "Other",
-    "nationality": "Zambian"
-  }
+﻿[
+    {
+        "userId":  "aea4668a-ff8e-44ae-b0ec-b2d801a1b074",
+        "email":  "fundcontroller.venturecapital",
+        "username":  "fundcontroller.venturecapital",
+        "firstName":  "Fund",
+        "lastName":  "Controller",
+        "institutionType":  "Venture Capital",
+        "institutionName":  "African Development Partners",
+        "institutionId":  "b60d41cc-eef0-4072-a15a-3e35d8277a81",
+        "roles":  [
+                      "FundController"
+                  ],
+        "permissions":  [
+
+                        ],
+        "isActive":  true,
+        "isEmailVerified":  true,
+        "isPhoneVerified":  true,
+        "isIdentityVerified":  true,
+        "trustScore":  95,
+        "createdAt":  "2023-09-13T00:00:00Z",
+        "phoneNumber":  "+260977000000",
+        "gender":  "Other",
+        "nationality":  "Zambian"
+    },
+    {
+        "userId":  "8a28453c-cd47-4968-84fe-a0c5107be906",
+        "email":  "investmentassociate.venturecapital",
+        "username":  "investmentassociate.venturecapital",
+        "firstName":  "Investment",
+        "lastName":  "Associate",
+        "institutionType":  "Venture Capital",
+        "institutionName":  "African Development Partners",
+        "institutionId":  "2625cac8-99b0-4e42-843e-2e9fa123a549",
+        "roles":  [
+                      "InvestmentAssociate"
+                  ],
+        "permissions":  [
+
+                        ],
+        "isActive":  true,
+        "isEmailVerified":  true,
+        "isPhoneVerified":  true,
+        "isIdentityVerified":  true,
+        "trustScore":  95,
+        "createdAt":  "2023-09-13T00:00:00Z",
+        "phoneNumber":  "+260977000000",
+        "gender":  "Other",
+        "nationality":  "Zambian"
+    },
+    {
+        "userId":  "6833f705-caf6-4efa-837d-1f042ad93983",
+        "email":  "irofficer.venturecapital",
+        "username":  "irofficer.venturecapital",
+        "firstName":  "I",
+        "lastName":  "IROfficer",
+        "institutionType":  "Venture Capital",
+        "institutionName":  "African Development Partners",
+        "institutionId":  "6bab5546-6fe6-4931-bba5-6311ce39c0e9",
+        "roles":  [
+                      "IROfficer"
+                  ],
+        "permissions":  [
+
+                        ],
+        "isActive":  true,
+        "isEmailVerified":  true,
+        "isPhoneVerified":  true,
+        "isIdentityVerified":  true,
+        "trustScore":  95,
+        "createdAt":  "2023-09-13T00:00:00Z",
+        "phoneNumber":  "+260977000000",
+        "gender":  "Other",
+        "nationality":  "Zambian"
+    },
+    {
+        "userId":  "924508a0-c4fd-4cc5-a6c7-009436f76ca6",
+        "email":  "venturecapitaladmin.venturecapital",
+        "username":  "venturecapitaladmin.venturecapital",
+        "firstName":  "Venture",
+        "lastName":  "Admin",
+        "institutionType":  "Venture Capital",
+        "institutionName":  "African Development Partners",
+        "institutionId":  "478efcb0-b9cf-425d-8fb7-c95cebdeb395",
+        "roles":  [
+                      "VentureCapitalAdmin"
+                  ],
+        "permissions":  [
+
+                        ],
+        "isActive":  true,
+        "isEmailVerified":  true,
+        "isPhoneVerified":  true,
+        "isIdentityVerified":  true,
+        "trustScore":  95,
+        "createdAt":  "2023-09-13T00:00:00Z",
+        "phoneNumber":  "+260977000000",
+        "gender":  "Other",
+        "nationality":  "Zambian"
+    }
 ]

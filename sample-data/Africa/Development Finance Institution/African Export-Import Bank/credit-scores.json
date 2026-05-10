@@ -1,6 +1,0 @@
-[
-  {"customerId":"ax-c001-e5f6-7890-abcd-ef1234567890","customerName":"Federal Republic of Nigeria","creditScore":680,"creditRating":"BBB-","riskCategory":"Medium","lastAssessmentDate":"2025-12-01T00:00:00Z","debtToGdpRatio":"38.5%"},
-  {"customerId":"ax-c002-f6a7-8901-bcde-f12345678901","customerName":"Republic of Cote d'Ivoire","creditScore":660,"creditRating":"BB+","riskCategory":"Medium","lastAssessmentDate":"2025-12-01T00:00:00Z","debtToGdpRatio":"52.1%"},
-  {"customerId":"ax-c004-b8c9-0123-defa-234567890123","customerName":"Zenith Bank PLC","creditScore":720,"creditRating":"A-","riskCategory":"Low","lastAssessmentDate":"2025-12-01T00:00:00Z","debtToGdpRatio":"N/A"},
-  {"customerId":"ax-c006-d0e1-2345-fabc-456789012345","customerName":"Dangote Industries Limited","creditScore":710,"creditRating":"BBB+","riskCategory":"Low-Medium","lastAssessmentDate":"2025-12-01T00:00:00Z","debtToGdpRatio":"N/A"}
-]

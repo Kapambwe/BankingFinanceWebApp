@@ -1,186 +1,177 @@
-[
-  {
-    "userId": "50b76b72-b21a-44b1-8039-67a56c14573f",
-    "email": "admin.pension",
-    "username": "admin.pension",
-    "firstName": "Pension Admin",
-    "lastName": "Admin",
-    "institutionType": "Pension",
-    "institutionName": "Public Service Pensions Fund",
-    "institutionId": "6ae54db9-f1aa-4f81-9117-a3158ef972dc",
-    "roles": [
-      "PensionAdmin"
-    ],
-    "permissions": [],
-    "isActive": true,
-    "isEmailVerified": true,
-    "isPhoneVerified": true,
-    "isIdentityVerified": true,
-    "trustScore": 95,
-    "createdAt": "2025-01-16T00:00:00Z",
-    "phoneNumber": "+260977000000",
-    "gender": "Other",
-    "nationality": "Zambian"
-  },
-  {
-    "userId": "df69d6f8-68e9-4dfa-82fc-2a1015b705e1",
-    "email": "manager.pension",
-    "username": "manager.pension",
-    "firstName": "Fund",
-    "lastName": "Manager",
-    "institutionType": "Pension",
-    "institutionName": "Public Service Pensions Fund",
-    "institutionId": "6ae54db9-f1aa-4f81-9117-a3158ef972dc",
-    "roles": [
-      "FundManager"
-    ],
-    "permissions": [],
-    "isActive": true,
-    "isEmailVerified": true,
-    "isPhoneVerified": true,
-    "isIdentityVerified": true,
-    "trustScore": 95,
-    "createdAt": "2025-01-16T00:00:00Z",
-    "phoneNumber": "+260977000000",
-    "gender": "Other",
-    "nationality": "Zambian"
-  },
-  {
-    "userId": "a586e104-4f25-46e8-be4a-e39454479e93",
-    "email": "enrollment.pension",
-    "username": "enrollment.pension",
-    "firstName": "Enrollment",
-    "lastName": "Officer",
-    "institutionType": "Pension",
-    "institutionName": "Public Service Pensions Fund",
-    "institutionId": "6ae54db9-f1aa-4f81-9117-a3158ef972dc",
-    "roles": [
-      "EnrollmentOfficer"
-    ],
-    "permissions": [],
-    "isActive": true,
-    "isEmailVerified": true,
-    "isPhoneVerified": true,
-    "isIdentityVerified": true,
-    "trustScore": 95,
-    "createdAt": "2025-01-16T00:00:00Z",
-    "phoneNumber": "+260977000000",
-    "gender": "Other",
-    "nationality": "Zambian"
-  },
-  {
-    "userId": "ad804566-2100-4191-9eb3-32a4778ac6ca",
-    "email": "contributions.pension",
-    "username": "contributions.pension",
-    "firstName": "Contributions",
-    "lastName": "Officer",
-    "institutionType": "Pension",
-    "institutionName": "Public Service Pensions Fund",
-    "institutionId": "6ae54db9-f1aa-4f81-9117-a3158ef972dc",
-    "roles": [
-      "ContributionsOfficer"
-    ],
-    "permissions": [],
-    "isActive": true,
-    "isEmailVerified": true,
-    "isPhoneVerified": true,
-    "isIdentityVerified": true,
-    "trustScore": 95,
-    "createdAt": "2025-01-16T00:00:00Z",
-    "phoneNumber": "+260977000000",
-    "gender": "Other",
-    "nationality": "Zambian"
-  },
-  {
-    "userId": "2fb277d3-af30-4d86-be19-6ad20031a5dd",
-    "email": "benefits.pension",
-    "username": "benefits.pension",
-    "firstName": "Benefits",
-    "lastName": "Officer",
-    "institutionType": "Pension",
-    "institutionName": "Public Service Pensions Fund",
-    "institutionId": "6ae54db9-f1aa-4f81-9117-a3158ef972dc",
-    "roles": [
-      "BenefitsOfficer"
-    ],
-    "permissions": [],
-    "isActive": true,
-    "isEmailVerified": true,
-    "isPhoneVerified": true,
-    "isIdentityVerified": true,
-    "trustScore": 95,
-    "createdAt": "2025-01-16T00:00:00Z",
-    "phoneNumber": "+260977000000",
-    "gender": "Other",
-    "nationality": "Zambian"
-  },
-  {
-    "userId": "db4732fb-df11-49af-906a-ba7537dbdb2d",
-    "email": "portfoliomanager.pension",
-    "username": "portfoliomanager.pension",
-    "firstName": "Pension Portfolio",
-    "lastName": "Manager",
-    "institutionType": "Pension",
-    "institutionName": "Public Service Pensions Fund",
-    "institutionId": "6ae54db9-f1aa-4f81-9117-a3158ef972dc",
-    "roles": [
-      "PensionPortfolioManager"
-    ],
-    "permissions": [],
-    "isActive": true,
-    "isEmailVerified": true,
-    "isPhoneVerified": true,
-    "isIdentityVerified": true,
-    "trustScore": 95,
-    "createdAt": "2025-01-16T00:00:00Z",
-    "phoneNumber": "+260977000000",
-    "gender": "Other",
-    "nationality": "Zambian"
-  },
-  {
-    "userId": "4faa95cb-d80b-4250-9249-0114f96090be",
-    "email": "actuarial.pension",
-    "username": "actuarial.pension",
-    "firstName": "Actuarial",
-    "lastName": "Analyst",
-    "institutionType": "Pension",
-    "institutionName": "Public Service Pensions Fund",
-    "institutionId": "6ae54db9-f1aa-4f81-9117-a3158ef972dc",
-    "roles": [
-      "ActuarialAnalyst"
-    ],
-    "permissions": [],
-    "isActive": true,
-    "isEmailVerified": true,
-    "isPhoneVerified": true,
-    "isIdentityVerified": true,
-    "trustScore": 95,
-    "createdAt": "2025-01-16T00:00:00Z",
-    "phoneNumber": "+260977000000",
-    "gender": "Other",
-    "nationality": "Zambian"
-  },
-  {
-    "userId": "a7f0cc18-c2ae-4870-8dd0-ebbe3e995660",
-    "email": "compliance.pension",
-    "username": "compliance.pension",
-    "firstName": "Pension Compliance",
-    "lastName": "Officer",
-    "institutionType": "Pension",
-    "institutionName": "Public Service Pensions Fund",
-    "institutionId": "6ae54db9-f1aa-4f81-9117-a3158ef972dc",
-    "roles": [
-      "PensionComplianceOfficer"
-    ],
-    "permissions": [],
-    "isActive": true,
-    "isEmailVerified": true,
-    "isPhoneVerified": true,
-    "isIdentityVerified": true,
-    "trustScore": 95,
-    "createdAt": "2025-01-16T00:00:00Z",
-    "phoneNumber": "+260977000000",
-    "gender": "Other",
-    "nationality": "Zambian"
-  }
+﻿[
+    {
+        "userId":  "8c22be1f-4164-469d-8dc1-4c2662a34f0f",
+        "email":  "actuarialanalyst.pension",
+        "username":  "actuarialanalyst.pension",
+        "firstName":  "Actuarial",
+        "lastName":  "Analyst",
+        "institutionType":  "Pension",
+        "institutionName":  "Public Service Pensions Fund",
+        "institutionId":  "49146022-2f63-4a82-a4c1-1695e2e5f683",
+        "roles":  [
+                      "ActuarialAnalyst"
+                  ],
+        "permissions":  [
+
+                        ],
+        "isActive":  true,
+        "isEmailVerified":  true,
+        "isPhoneVerified":  true,
+        "isIdentityVerified":  true,
+        "trustScore":  95,
+        "createdAt":  "2023-09-13T00:00:00Z",
+        "phoneNumber":  "+260977000000",
+        "gender":  "Other",
+        "nationality":  "Zambian"
+    },
+    {
+        "userId":  "fd993d6c-bf63-4d47-945c-ad8810591944",
+        "email":  "benefitsofficer.pension",
+        "username":  "benefitsofficer.pension",
+        "firstName":  "Benefits",
+        "lastName":  "Officer",
+        "institutionType":  "Pension",
+        "institutionName":  "Public Service Pensions Fund",
+        "institutionId":  "6c445bd3-b6e2-41fd-8eb0-cae2b23084de",
+        "roles":  [
+                      "BenefitsOfficer"
+                  ],
+        "permissions":  [
+
+                        ],
+        "isActive":  true,
+        "isEmailVerified":  true,
+        "isPhoneVerified":  true,
+        "isIdentityVerified":  true,
+        "trustScore":  95,
+        "createdAt":  "2023-09-13T00:00:00Z",
+        "phoneNumber":  "+260977000000",
+        "gender":  "Other",
+        "nationality":  "Zambian"
+    },
+    {
+        "userId":  "d05ff7f1-7147-4368-ad14-5f653eb4ebf5",
+        "email":  "complianceofficer.pension",
+        "username":  "complianceofficer.pension",
+        "firstName":  "Compliance",
+        "lastName":  "Officer",
+        "institutionType":  "Pension",
+        "institutionName":  "Public Service Pensions Fund",
+        "institutionId":  "a436b696-171d-4d54-89c9-cd35f30f9e5b",
+        "roles":  [
+                      "ComplianceOfficer"
+                  ],
+        "permissions":  [
+
+                        ],
+        "isActive":  true,
+        "isEmailVerified":  true,
+        "isPhoneVerified":  true,
+        "isIdentityVerified":  true,
+        "trustScore":  95,
+        "createdAt":  "2023-09-13T00:00:00Z",
+        "phoneNumber":  "+260977000000",
+        "gender":  "Other",
+        "nationality":  "Zambian"
+    },
+    {
+        "userId":  "f757ecb3-cac7-4f00-8416-98ecec80c416",
+        "email":  "contributionsofficer.pension",
+        "username":  "contributionsofficer.pension",
+        "firstName":  "Contributions",
+        "lastName":  "Officer",
+        "institutionType":  "Pension",
+        "institutionName":  "Public Service Pensions Fund",
+        "institutionId":  "4222b984-327e-4e0d-b13a-742487132ab2",
+        "roles":  [
+                      "ContributionsOfficer"
+                  ],
+        "permissions":  [
+
+                        ],
+        "isActive":  true,
+        "isEmailVerified":  true,
+        "isPhoneVerified":  true,
+        "isIdentityVerified":  true,
+        "trustScore":  95,
+        "createdAt":  "2023-09-13T00:00:00Z",
+        "phoneNumber":  "+260977000000",
+        "gender":  "Other",
+        "nationality":  "Zambian"
+    },
+    {
+        "userId":  "8b8431c4-e2e1-4505-bd80-972840e6cc92",
+        "email":  "enrollmentofficer.pension",
+        "username":  "enrollmentofficer.pension",
+        "firstName":  "Enrollment",
+        "lastName":  "Officer",
+        "institutionType":  "Pension",
+        "institutionName":  "Public Service Pensions Fund",
+        "institutionId":  "39f225e0-06fe-4325-86fd-189ba2ce2f8c",
+        "roles":  [
+                      "EnrollmentOfficer"
+                  ],
+        "permissions":  [
+
+                        ],
+        "isActive":  true,
+        "isEmailVerified":  true,
+        "isPhoneVerified":  true,
+        "isIdentityVerified":  true,
+        "trustScore":  95,
+        "createdAt":  "2023-09-13T00:00:00Z",
+        "phoneNumber":  "+260977000000",
+        "gender":  "Other",
+        "nationality":  "Zambian"
+    },
+    {
+        "userId":  "c55c0514-46a9-412a-94aa-0014f8f6a8fe",
+        "email":  "pensionadmin.pension",
+        "username":  "pensionadmin.pension",
+        "firstName":  "Pension",
+        "lastName":  "Admin",
+        "institutionType":  "Pension",
+        "institutionName":  "Public Service Pensions Fund",
+        "institutionId":  "ac27a255-dffc-40e2-b6f8-fc7b0420f745",
+        "roles":  [
+                      "PensionAdmin"
+                  ],
+        "permissions":  [
+
+                        ],
+        "isActive":  true,
+        "isEmailVerified":  true,
+        "isPhoneVerified":  true,
+        "isIdentityVerified":  true,
+        "trustScore":  95,
+        "createdAt":  "2023-09-13T00:00:00Z",
+        "phoneNumber":  "+260977000000",
+        "gender":  "Other",
+        "nationality":  "Zambian"
+    },
+    {
+        "userId":  "293acaf4-ae22-4440-a2ac-a5a9ec512592",
+        "email":  "portfoliomanager.pension",
+        "username":  "portfoliomanager.pension",
+        "firstName":  "Portfolio",
+        "lastName":  "Manager",
+        "institutionType":  "Pension",
+        "institutionName":  "Public Service Pensions Fund",
+        "institutionId":  "77aed3f7-e0a7-44ab-b34e-15995a1e446d",
+        "roles":  [
+                      "PortfolioManager"
+                  ],
+        "permissions":  [
+
+                        ],
+        "isActive":  true,
+        "isEmailVerified":  true,
+        "isPhoneVerified":  true,
+        "isIdentityVerified":  true,
+        "trustScore":  95,
+        "createdAt":  "2023-09-13T00:00:00Z",
+        "phoneNumber":  "+260977000000",
+        "gender":  "Other",
+        "nationality":  "Zambian"
+    }
 ]

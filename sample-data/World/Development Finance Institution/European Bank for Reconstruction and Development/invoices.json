@@ -1,6 +1,0 @@
-[
-  {"invoiceId":"EBRD-INV-001","customerId":"ebrd-c001-1a2b-3c4d-5e6f-7a8b9c0d1e2f","amount":500000000.00,"currency":"EUR","status":"Paid","description":"Renewable Energy Framework Disbursement - Egypt","issuedDate":"2025-08-05T00:00:00Z","paidDate":"2025-08-15T00:00:00Z"},
-  {"invoiceId":"EBRD-INV-002","customerId":"ebrd-c002-2b3c-4d5e-6f7a-8b9c0d1e2f3a","amount":300000000.00,"currency":"EUR","status":"Paid","description":"Green Economy Sustainable Agriculture - Morocco","issuedDate":"2025-09-01T00:00:00Z","paidDate":"2025-09-10T00:00:00Z"},
-  {"invoiceId":"EBRD-INV-003","customerId":"ebrd-c005-5e6f-7a8b-9c0d-1e2f3a4b5c6d","amount":400000000.00,"currency":"EUR","status":"Paid","description":"Green Hydrogen and Just Energy Transition - South Africa","issuedDate":"2025-11-10T00:00:00Z","paidDate":"2025-11-20T00:00:00Z"},
-  {"invoiceId":"EBRD-INV-004","customerId":"ebrd-c004-4d5e-6f7a-8b9c-0d1e2f3a4b5c","amount":250000000.00,"currency":"EUR","status":"Paid","description":"Fintech and Digital Banking Equity Investment - Nigeria","issuedDate":"2025-10-05T00:00:00Z","paidDate":"2025-10-15T00:00:00Z"}
-]

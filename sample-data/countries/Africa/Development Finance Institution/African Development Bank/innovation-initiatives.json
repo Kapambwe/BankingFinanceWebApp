@@ -1,0 +1,212 @@
+[
+  {
+    "initiativeId": "78a9c27b-b6b5-6a1e-098f-8c90816b08bd",
+    "initiativeName": "Zambia Transport Innovation Lab",
+    "institutionName": "African Development Bank",
+    "countryCode": "ZM",
+    "countryName": "Zambia",
+    "initiativeType": "AcceleratorLab",
+    "thematicFocus": "Transport",
+    "budgetAmount": 825000,
+    "currency": "USD",
+    "experimentsOrPilots": 4,
+    "solutionsIdentified": 8,
+    "solutionsScaled": 1,
+    "ecosystemPartners": [
+      "Local universities",
+      "Startup hub",
+      "Government innovation unit",
+      "Private sector association"
+    ],
+    "learningOutputs": [
+      "Pilot report",
+      "Open data dashboard",
+      "Scale-up concept note"
+    ],
+    "isLinkedToInvestmentPipeline": false,
+    "investmentPipelineGenerated": 3000000,
+    "status": "Active",
+    "establishedDate": "2025-02-03T22:00:00Z",
+    "createdAt": "2024-12-31T22:00:00Z"
+  },
+  {
+    "initiativeId": "a8a619a1-d759-0cbb-1f8b-b4681b56fe25",
+    "initiativeName": "Kenya Energy Innovation Lab",
+    "institutionName": "African Development Bank",
+    "countryCode": "KE",
+    "countryName": "Kenya",
+    "initiativeType": "InnovationChallenge",
+    "thematicFocus": "Energy",
+    "budgetAmount": 1000000,
+    "currency": "USD",
+    "experimentsOrPilots": 5,
+    "solutionsIdentified": 10,
+    "solutionsScaled": 2,
+    "ecosystemPartners": [
+      "Local universities",
+      "Startup hub",
+      "Government innovation unit",
+      "Private sector association"
+    ],
+    "learningOutputs": [
+      "Pilot report",
+      "Open data dashboard",
+      "Scale-up concept note"
+    ],
+    "isLinkedToInvestmentPipeline": true,
+    "investmentPipelineGenerated": 4000000,
+    "status": "Scaling",
+    "establishedDate": "2025-03-03T22:00:00Z",
+    "createdAt": "2025-01-01T22:00:00Z"
+  },
+  {
+    "initiativeId": "903dac04-e1e2-86d2-a47c-7cf421a37241",
+    "initiativeName": "Senegal Agriculture Innovation Lab",
+    "institutionName": "African Development Bank",
+    "countryCode": "SN",
+    "countryName": "Senegal",
+    "initiativeType": "MarketCreationPilot",
+    "thematicFocus": "Agriculture",
+    "budgetAmount": 1175000,
+    "currency": "USD",
+    "experimentsOrPilots": 6,
+    "solutionsIdentified": 12,
+    "solutionsScaled": 3,
+    "ecosystemPartners": [
+      "Local universities",
+      "Startup hub",
+      "Government innovation unit",
+      "Private sector association"
+    ],
+    "learningOutputs": [
+      "Pilot report",
+      "Open data dashboard",
+      "Scale-up concept note"
+    ],
+    "isLinkedToInvestmentPipeline": false,
+    "investmentPipelineGenerated": 5000000,
+    "status": "Evaluation",
+    "establishedDate": "2025-04-03T22:00:00Z",
+    "createdAt": "2025-01-02T22:00:00Z"
+  },
+  {
+    "initiativeId": "f889dc28-3cd0-3f53-1cf2-249b29f62293",
+    "initiativeName": "Ghana Water Innovation Lab",
+    "institutionName": "African Development Bank",
+    "countryCode": "GH",
+    "countryName": "Ghana",
+    "initiativeType": "RegulatoryTestbed",
+    "thematicFocus": "Water",
+    "budgetAmount": 1350000,
+    "currency": "USD",
+    "experimentsOrPilots": 7,
+    "solutionsIdentified": 14,
+    "solutionsScaled": 0,
+    "ecosystemPartners": [
+      "Local universities",
+      "Startup hub",
+      "Government innovation unit",
+      "Private sector association"
+    ],
+    "learningOutputs": [
+      "Pilot report",
+      "Open data dashboard",
+      "Scale-up concept note"
+    ],
+    "isLinkedToInvestmentPipeline": true,
+    "investmentPipelineGenerated": 6000000,
+    "status": "Design",
+    "establishedDate": "2025-05-03T22:00:00Z",
+    "createdAt": "2025-01-03T22:00:00Z"
+  },
+  {
+    "initiativeId": "10194ce6-8185-5010-f23b-8a8e2329db00",
+    "initiativeName": "Rwanda Digital Infrastructure Innovation Lab",
+    "institutionName": "African Development Bank",
+    "countryCode": "RW",
+    "countryName": "Rwanda",
+    "initiativeType": "KnowledgeHub",
+    "thematicFocus": "Digital Infrastructure",
+    "budgetAmount": 1525000,
+    "currency": "USD",
+    "experimentsOrPilots": 8,
+    "solutionsIdentified": 16,
+    "solutionsScaled": 1,
+    "ecosystemPartners": [
+      "Local universities",
+      "Startup hub",
+      "Government innovation unit",
+      "Private sector association"
+    ],
+    "learningOutputs": [
+      "Pilot report",
+      "Open data dashboard",
+      "Scale-up concept note"
+    ],
+    "isLinkedToInvestmentPipeline": false,
+    "investmentPipelineGenerated": 7000000,
+    "status": "Completed",
+    "establishedDate": "2025-06-03T22:00:00Z",
+    "createdAt": "2025-01-04T22:00:00Z"
+  },
+  {
+    "initiativeId": "c32f7ba8-f5c4-9358-6e33-d50af997d2cc",
+    "initiativeName": "Morocco Health Innovation Lab",
+    "institutionName": "African Development Bank",
+    "countryCode": "MA",
+    "countryName": "Morocco",
+    "initiativeType": "EcosystemBuilder",
+    "thematicFocus": "Health",
+    "budgetAmount": 1700000,
+    "currency": "USD",
+    "experimentsOrPilots": 9,
+    "solutionsIdentified": 18,
+    "solutionsScaled": 2,
+    "ecosystemPartners": [
+      "Local universities",
+      "Startup hub",
+      "Government innovation unit",
+      "Private sector association"
+    ],
+    "learningOutputs": [
+      "Pilot report",
+      "Open data dashboard",
+      "Scale-up concept note"
+    ],
+    "isLinkedToInvestmentPipeline": true,
+    "investmentPipelineGenerated": 8000000,
+    "status": "Active",
+    "establishedDate": "2025-07-03T22:00:00Z",
+    "createdAt": "2025-01-05T22:00:00Z"
+  },
+  {
+    "initiativeId": "25cac915-d84c-08db-87d6-4af589d918ba",
+    "initiativeName": "Cote d'Ivoire Regional Integration Innovation Lab",
+    "institutionName": "African Development Bank",
+    "countryCode": "CI",
+    "countryName": "Cote d'Ivoire",
+    "initiativeType": "ImpactLab",
+    "thematicFocus": "Regional Integration",
+    "budgetAmount": 1875000,
+    "currency": "USD",
+    "experimentsOrPilots": 10,
+    "solutionsIdentified": 20,
+    "solutionsScaled": 3,
+    "ecosystemPartners": [
+      "Local universities",
+      "Startup hub",
+      "Government innovation unit",
+      "Private sector association"
+    ],
+    "learningOutputs": [
+      "Pilot report",
+      "Open data dashboard",
+      "Scale-up concept note"
+    ],
+    "isLinkedToInvestmentPipeline": false,
+    "investmentPipelineGenerated": 9000000,
+    "status": "Scaling",
+    "establishedDate": "2025-08-03T22:00:00Z",
+    "createdAt": "2025-01-06T22:00:00Z"
+  }
+]

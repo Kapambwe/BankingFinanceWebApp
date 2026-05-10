@@ -1,6 +1,0 @@
-[
-  {"customerId":"tdb-c001-1234-5678-abcd-ef1234567890","customerName":"Federal Democratic Republic of Ethiopia","creditScore":600,"creditRating":"B-","riskCategory":"High","lastAssessmentDate":"2025-12-01T00:00:00Z","debtToGdpRatio":"55.2%"},
-  {"customerId":"tdb-c002-2345-6789-bcde-f12345678901","customerName":"Republic of Zambia","creditScore":570,"creditRating":"CCC+","riskCategory":"High","lastAssessmentDate":"2025-12-01T00:00:00Z","debtToGdpRatio":"78.4%"},
-  {"customerId":"tdb-c003-3456-7890-cdef-123456789012","customerName":"Commercial Bank of Ethiopia","creditScore":650,"creditRating":"B+","riskCategory":"Medium-High","lastAssessmentDate":"2025-12-01T00:00:00Z","debtToGdpRatio":"N/A"},
-  {"customerId":"tdb-c004-4567-8901-defa-234567890123","customerName":"Zambia Sugar PLC","creditScore":680,"creditRating":"BB","riskCategory":"Medium","lastAssessmentDate":"2025-12-01T00:00:00Z","debtToGdpRatio":"N/A"}
-]

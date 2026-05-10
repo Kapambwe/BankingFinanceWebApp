@@ -1,0 +1,95 @@
+﻿{
+    "institutionType":  "Mortgage Company",
+    "country":  "Zambia",
+    "description":  "Default role-to-permission mapping for Mortgage Company tenants in Zambia. Matches the role structure used by the Zambian Home Loans institution sample data.",
+    "version":  "1.0.0",
+    "roles":  [
+                  {
+                      "roleName":  "CollectionsOfficer",
+                      "displayName":  "C ol le ct io ns Of fi ce r",
+                      "description":  "CollectionsOfficer role for Zambian Home Loans sample data",
+                      "isSystemRole":  true,
+                      "permissions":  [
+                                          "Banking.Loans.View",
+                                          "Banking.Loans.RecordPayment",
+                                          "Banking.Loans.ViewReminders",
+                                          "Banking.CommercialBank.Loans.ManageCollections",
+                                          "Banking.Mortgage.Applications.View"
+                                      ]
+                  },
+                  {
+                      "roleName":  "MortgageAdmin",
+                      "displayName":  "M or tg ag eA dm in",
+                      "description":  "MortgageAdmin role for Zambian Home Loans sample data",
+                      "isSystemRole":  true,
+                      "permissions":  [
+                                          "Banking.Mortgage.View",
+                                          "Banking.Mortgage.Dashboard",
+                                          "Banking.Mortgage.Applications.View",
+                                          "Banking.Mortgage.Applications.ManageApplications",
+                                          "Banking.Mortgage.Applications.ApproveApplication",
+                                          "Banking.Mortgage.Properties.View",
+                                          "Banking.Mortgage.Properties.ManageProperties",
+                                          "Banking.Mortgage.Properties.ManageValuations",
+                                          "Banking.Loans.View",
+                                          "Banking.Loans.Create",
+                                          "Banking.Loans.Approve",
+                                          "Banking.Documents.Manage"
+                                      ]
+                  },
+                  {
+                      "roleName":  "MortgageComplianceOfficer",
+                      "displayName":  "M or tg ag eC om pl ia nc eO ff ic er",
+                      "description":  "MortgageComplianceOfficer role for Zambian Home Loans sample data",
+                      "isSystemRole":  true,
+                      "permissions":  [
+                                          "Banking.Risk.ViewDashboard",
+                                          "Banking.Regulatory.ViewReports",
+                                          "Banking.Documents.View",
+                                          "Banking.Documents.Approve"
+                                      ]
+                  },
+                  {
+                      "roleName":  "MortgageLoanOfficer",
+                      "displayName":  "M or tg ag eL oa nO ff ic er",
+                      "description":  "MortgageLoanOfficer role for Zambian Home Loans sample data",
+                      "isSystemRole":  true,
+                      "permissions":  [
+                                          "Banking.Mortgage.Applications.View",
+                                          "Banking.Mortgage.Applications.ManageApplications",
+                                          "Banking.Loans.View",
+                                          "Banking.Loans.Create",
+                                          "Banking.Documents.Upload"
+                                      ]
+                  },
+                  {
+                      "roleName":  "MortgageManager",
+                      "displayName":  "M or tg ag eM an ag er",
+                      "description":  "MortgageManager role for Zambian Home Loans sample data",
+                      "isSystemRole":  true,
+                      "permissions":  [
+                                          "Banking.Mortgage.Applications.View",
+                                          "Banking.Mortgage.Applications.ManageApplications",
+                                          "Banking.Mortgage.Applications.ApproveApplication",
+                                          "Banking.Mortgage.Properties.View",
+                                          "Banking.Mortgage.Properties.ManageProperties",
+                                          "Banking.Mortgage.Properties.ManageValuations",
+                                          "Banking.Loans.View",
+                                          "Banking.Loans.ViewReminders",
+                                          "Banking.Analytics.View"
+                                      ]
+                  },
+                  {
+                      "roleName":  "ValuationOfficer",
+                      "displayName":  "V al ua ti on Of fi ce r",
+                      "description":  "ValuationOfficer role for Zambian Home Loans sample data",
+                      "isSystemRole":  true,
+                      "permissions":  [
+                                          "Banking.Mortgage.Properties.View",
+                                          "Banking.Mortgage.Properties.ManageProperties",
+                                          "Banking.Mortgage.Properties.ManageValuations",
+                                          "Banking.Documents.Upload"
+                                      ]
+                  }
+              ]
+}

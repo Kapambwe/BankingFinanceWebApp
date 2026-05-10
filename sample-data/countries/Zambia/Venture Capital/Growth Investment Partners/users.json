@@ -1,117 +1,102 @@
-[
-  {
-    "userId": "301c0b74-4443-42bf-83b8-7b3a3969be09",
-    "email": "admin.vc",
-    "username": "admin.vc",
-    "firstName": "VC",
-    "lastName": "Admin",
-    "institutionType": "Venture Capital",
-    "institutionName": "Growth Investment Partners",
-    "institutionId": "d99444ca-24fd-4ba1-955c-32b2744632be",
-    "roles": [
-      "VCAdmin"
-    ],
-    "permissions": [],
-    "isActive": true,
-    "isEmailVerified": true,
-    "isPhoneVerified": true,
-    "isIdentityVerified": true,
-    "trustScore": 95,
-    "createdAt": "2024-10-30T00:00:00Z",
-    "phoneNumber": "+260977000000",
-    "gender": "Other",
-    "nationality": "Zambian"
-  },
-  {
-    "userId": "ace774d1-030e-4273-834d-a9f76931b061",
-    "email": "partner.vc",
-    "username": "partner.vc",
-    "firstName": "VC",
-    "lastName": "Partner",
-    "institutionType": "Venture Capital",
-    "institutionName": "Growth Investment Partners",
-    "institutionId": "d99444ca-24fd-4ba1-955c-32b2744632be",
-    "roles": [
-      "VCPartner"
-    ],
-    "permissions": [],
-    "isActive": true,
-    "isEmailVerified": true,
-    "isPhoneVerified": true,
-    "isIdentityVerified": true,
-    "trustScore": 95,
-    "createdAt": "2024-10-30T00:00:00Z",
-    "phoneNumber": "+260977000000",
-    "gender": "Other",
-    "nationality": "Zambian"
-  },
-  {
-    "userId": "bb79c380-8c48-4689-9e7d-29bc9b2ef527",
-    "email": "associate.vc",
-    "username": "associate.vc",
-    "firstName": "Investment",
-    "lastName": "Associate",
-    "institutionType": "Venture Capital",
-    "institutionName": "Growth Investment Partners",
-    "institutionId": "d99444ca-24fd-4ba1-955c-32b2744632be",
-    "roles": [
-      "InvestmentAssociate"
-    ],
-    "permissions": [],
-    "isActive": true,
-    "isEmailVerified": true,
-    "isPhoneVerified": true,
-    "isIdentityVerified": true,
-    "trustScore": 95,
-    "createdAt": "2024-10-30T00:00:00Z",
-    "phoneNumber": "+260977000000",
-    "gender": "Other",
-    "nationality": "Zambian"
-  },
-  {
-    "userId": "b764ac43-8250-43b2-8305-2a20ad0012d9",
-    "email": "fundcontroller.vc",
-    "username": "fundcontroller.vc",
-    "firstName": "Fund",
-    "lastName": "Controller",
-    "institutionType": "Venture Capital",
-    "institutionName": "Growth Investment Partners",
-    "institutionId": "d99444ca-24fd-4ba1-955c-32b2744632be",
-    "roles": [
-      "FundController"
-    ],
-    "permissions": [],
-    "isActive": true,
-    "isEmailVerified": true,
-    "isPhoneVerified": true,
-    "isIdentityVerified": true,
-    "trustScore": 95,
-    "createdAt": "2024-10-30T00:00:00Z",
-    "phoneNumber": "+260977000000",
-    "gender": "Other",
-    "nationality": "Zambian"
-  },
-  {
-    "userId": "dc944f63-1ab7-4209-a188-f2e505175127",
-    "email": "ir.vc",
-    "username": "ir.vc",
-    "firstName": "IR",
-    "lastName": "Officer",
-    "institutionType": "Venture Capital",
-    "institutionName": "Growth Investment Partners",
-    "institutionId": "d99444ca-24fd-4ba1-955c-32b2744632be",
-    "roles": [
-      "IROfficer"
-    ],
-    "permissions": [],
-    "isActive": true,
-    "isEmailVerified": true,
-    "isPhoneVerified": true,
-    "isIdentityVerified": true,
-    "trustScore": 95,
-    "createdAt": "2024-10-30T00:00:00Z",
-    "phoneNumber": "+260977000000",
-    "gender": "Other",
-    "nationality": "Zambian"
-  }
+﻿[
+    {
+        "userId":  "dc472dde-dc4a-421e-9f45-c97896d81fc0",
+        "email":  "fundcontroller.venturecapital",
+        "username":  "fundcontroller.venturecapital",
+        "firstName":  "Fund",
+        "lastName":  "Controller",
+        "institutionType":  "Venture Capital",
+        "institutionName":  "Growth Investment Partners",
+        "institutionId":  "62dd9adf-3b24-4cbf-9da2-3898a787ff21",
+        "roles":  [
+                      "FundController"
+                  ],
+        "permissions":  [
+
+                        ],
+        "isActive":  true,
+        "isEmailVerified":  true,
+        "isPhoneVerified":  true,
+        "isIdentityVerified":  true,
+        "trustScore":  95,
+        "createdAt":  "2023-09-13T00:00:00Z",
+        "phoneNumber":  "+260977000000",
+        "gender":  "Other",
+        "nationality":  "Zambian"
+    },
+    {
+        "userId":  "2c8e569f-8eb8-47eb-90a9-085ee4cfacab",
+        "email":  "investmentassociate.venturecapital",
+        "username":  "investmentassociate.venturecapital",
+        "firstName":  "Investment",
+        "lastName":  "Associate",
+        "institutionType":  "Venture Capital",
+        "institutionName":  "Growth Investment Partners",
+        "institutionId":  "8e1d367c-5376-46b9-b8af-cd49af760241",
+        "roles":  [
+                      "InvestmentAssociate"
+                  ],
+        "permissions":  [
+
+                        ],
+        "isActive":  true,
+        "isEmailVerified":  true,
+        "isPhoneVerified":  true,
+        "isIdentityVerified":  true,
+        "trustScore":  95,
+        "createdAt":  "2023-09-13T00:00:00Z",
+        "phoneNumber":  "+260977000000",
+        "gender":  "Other",
+        "nationality":  "Zambian"
+    },
+    {
+        "userId":  "7de7a569-475a-477a-991a-b6d8bcc8e4a3",
+        "email":  "irofficer.venturecapital",
+        "username":  "irofficer.venturecapital",
+        "firstName":  "I",
+        "lastName":  "IROfficer",
+        "institutionType":  "Venture Capital",
+        "institutionName":  "Growth Investment Partners",
+        "institutionId":  "affc4b4b-b7c0-4cdf-ad64-03bf4df23cf4",
+        "roles":  [
+                      "IROfficer"
+                  ],
+        "permissions":  [
+
+                        ],
+        "isActive":  true,
+        "isEmailVerified":  true,
+        "isPhoneVerified":  true,
+        "isIdentityVerified":  true,
+        "trustScore":  95,
+        "createdAt":  "2023-09-13T00:00:00Z",
+        "phoneNumber":  "+260977000000",
+        "gender":  "Other",
+        "nationality":  "Zambian"
+    },
+    {
+        "userId":  "0b054bef-bf9e-4062-b6f7-59e5c5a9b03d",
+        "email":  "venturecapitaladmin.venturecapital",
+        "username":  "venturecapitaladmin.venturecapital",
+        "firstName":  "Venture",
+        "lastName":  "Admin",
+        "institutionType":  "Venture Capital",
+        "institutionName":  "Growth Investment Partners",
+        "institutionId":  "9d551814-a5ed-4719-a44e-4123d9cf6acf",
+        "roles":  [
+                      "VentureCapitalAdmin"
+                  ],
+        "permissions":  [
+
+                        ],
+        "isActive":  true,
+        "isEmailVerified":  true,
+        "isPhoneVerified":  true,
+        "isIdentityVerified":  true,
+        "trustScore":  95,
+        "createdAt":  "2023-09-13T00:00:00Z",
+        "phoneNumber":  "+260977000000",
+        "gender":  "Other",
+        "nationality":  "Zambian"
+    }
 ]

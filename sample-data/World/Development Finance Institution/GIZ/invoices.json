@@ -1,9 +1,0 @@
-[
-  {"invoiceId":"GIZ-INV-001","customerId":"giz-c001-1111-2222-aaaa-bb1234567890","amount":4500000.00,"currency":"EUR","status":"Paid","description":"PFM Strengthening Programme - Zambia Q1 2025","issuedDate":"2025-01-01T00:00:00Z","paidDate":"2025-01-15T00:00:00Z"},
-  {"invoiceId":"GIZ-INV-002","customerId":"giz-c001-1111-2222-aaaa-bb1234567890","amount":3200000.00,"currency":"EUR","status":"Paid","description":"Climate-Smart Agriculture Scale-Up - Zambia Q1 2025","issuedDate":"2025-02-01T00:00:00Z","paidDate":"2025-02-10T00:00:00Z"},
-  {"invoiceId":"GIZ-INV-003","customerId":"giz-c002-2222-3333-bbbb-cc2345678901","amount":5800000.00,"currency":"EUR","status":"Paid","description":"Green Economy Transition Support - Kenya Q1 2025","issuedDate":"2025-03-05T00:00:00Z","paidDate":"2025-03-20T00:00:00Z"},
-  {"invoiceId":"GIZ-INV-004","customerId":"giz-c003-3333-4444-cccc-dd3456789012","amount":7200000.00,"currency":"EUR","status":"Paid","description":"Safety Net Programme Capacity Building - Ethiopia Q1 2025","issuedDate":"2025-03-10T00:00:00Z","paidDate":"2025-03-25T00:00:00Z"},
-  {"invoiceId":"GIZ-INV-005","customerId":"giz-c004-4444-5555-dddd-ee4567890123","amount":2900000.00,"currency":"EUR","status":"Paid","description":"Decentralised Health Systems Strengthening - Ghana Q1 2025","issuedDate":"2025-03-25T00:00:00Z","paidDate":"2025-04-05T00:00:00Z"},
-  {"invoiceId":"GIZ-INV-006","customerId":"giz-c005-5555-6666-eeee-ff5678901234","amount":3600000.00,"currency":"EUR","status":"Paid","description":"Rural Development Programme - Tanzania Q1 2025","issuedDate":"2025-04-01T00:00:00Z","paidDate":"2025-04-18T00:00:00Z"},
-  {"invoiceId":"GIZ-INV-007","customerId":"giz-c001-1111-2222-aaaa-bb1234567890","amount":3700000.00,"currency":"EUR","status":"Pending","description":"PFM Strengthening Programme - Zambia Q4 2025","issuedDate":"2025-12-15T00:00:00Z","paidDate":null}
-]

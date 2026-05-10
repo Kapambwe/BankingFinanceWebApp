@@ -1,0 +1,303 @@
+[
+  {
+    "reviewId": "5fda6add-f199-a282-a3f2-5e8a323bcfd5",
+    "reviewCode": "AFC-NG-CPR-2026-001",
+    "institutionName": "Africa Finance Corporation",
+    "countryCode": "NG",
+    "countryName": "Nigeria",
+    "reviewYear": 2026,
+    "totalActiveOperations": 6,
+    "totalActivePortfolioValue": 212000000,
+    "totalDisbursed": 89040000.0,
+    "averageDisbursementRatio": 42.0,
+    "currency": "USD",
+    "projectsAtRisk": 1,
+    "projectsPotentiallyProblematic": 2,
+    "keyIssues": [
+      {
+        "issueTitle": "Procurement sequencing delays",
+        "category": "Procurement",
+        "projectsAffected": 2,
+        "description": "Contract packaging and approvals are taking longer than agreed timelines.",
+        "recommendedAction": "Run monthly procurement clinics with the implementing agency.",
+        "severity": "Moderate"
+      },
+      {
+        "issueTitle": "Safeguard reporting lag",
+        "category": "ESCompliance",
+        "projectsAffected": 1,
+        "description": "Quarterly environmental and social reports require closer follow-up.",
+        "recommendedAction": "Deploy field supervision and require corrective action reporting.",
+        "severity": "Significant"
+      }
+    ],
+    "actionPlan": [
+      "Agree dated action tracker",
+      "Escalate bottlenecks at portfolio review meeting",
+      "Increase implementation support missions"
+    ],
+    "overallRating": "Satisfactory",
+    "reviewTeamLead": "Portfolio Review Mission",
+    "status": "Finalised",
+    "reviewDate": "2026-02-17T22:00:00Z",
+    "createdAt": "2025-12-31T22:00:00Z"
+  },
+  {
+    "reviewId": "5176df6b-855c-a9a4-ae2c-a0bbeeafd3ee",
+    "reviewCode": "AFC-GH-CPR-2026-002",
+    "institutionName": "Africa Finance Corporation",
+    "countryCode": "GH",
+    "countryName": "Ghana",
+    "reviewYear": 2026,
+    "totalActiveOperations": 7,
+    "totalActivePortfolioValue": 244000000,
+    "totalDisbursed": 112240000.0,
+    "averageDisbursementRatio": 46.0,
+    "currency": "USD",
+    "projectsAtRisk": 2,
+    "projectsPotentiallyProblematic": 0,
+    "keyIssues": [
+      {
+        "issueTitle": "Procurement sequencing delays",
+        "category": "Procurement",
+        "projectsAffected": 3,
+        "description": "Contract packaging and approvals are taking longer than agreed timelines.",
+        "recommendedAction": "Run monthly procurement clinics with the implementing agency.",
+        "severity": "Moderate"
+      },
+      {
+        "issueTitle": "Safeguard reporting lag",
+        "category": "ESCompliance",
+        "projectsAffected": 1,
+        "description": "Quarterly environmental and social reports require closer follow-up.",
+        "recommendedAction": "Deploy field supervision and require corrective action reporting.",
+        "severity": "Significant"
+      }
+    ],
+    "actionPlan": [
+      "Agree dated action tracker",
+      "Escalate bottlenecks at portfolio review meeting",
+      "Increase implementation support missions"
+    ],
+    "overallRating": "ModeratelySatisfactory",
+    "reviewTeamLead": "Country Operations Team",
+    "status": "GovernmentConsultation",
+    "reviewDate": "2026-03-17T22:00:00Z",
+    "createdAt": "2026-01-01T22:00:00Z"
+  },
+  {
+    "reviewId": "c7124b3b-5604-cf8e-802e-9dbc720cf9a5",
+    "reviewCode": "AFC-KE-CPR-2026-003",
+    "institutionName": "Africa Finance Corporation",
+    "countryCode": "KE",
+    "countryName": "Kenya",
+    "reviewYear": 2026,
+    "totalActiveOperations": 8,
+    "totalActivePortfolioValue": 276000000,
+    "totalDisbursed": 138000000.0,
+    "averageDisbursementRatio": 50.0,
+    "currency": "USD",
+    "projectsAtRisk": 0,
+    "projectsPotentiallyProblematic": 1,
+    "keyIssues": [
+      {
+        "issueTitle": "Procurement sequencing delays",
+        "category": "Procurement",
+        "projectsAffected": 1,
+        "description": "Contract packaging and approvals are taking longer than agreed timelines.",
+        "recommendedAction": "Run monthly procurement clinics with the implementing agency.",
+        "severity": "Moderate"
+      },
+      {
+        "issueTitle": "Safeguard reporting lag",
+        "category": "ESCompliance",
+        "projectsAffected": 1,
+        "description": "Quarterly environmental and social reports require closer follow-up.",
+        "recommendedAction": "Deploy field supervision and require corrective action reporting.",
+        "severity": "Significant"
+      }
+    ],
+    "actionPlan": [
+      "Agree dated action tracker",
+      "Escalate bottlenecks at portfolio review meeting",
+      "Increase implementation support missions"
+    ],
+    "overallRating": "ModeratelyUnsatisfactory",
+    "reviewTeamLead": "Regional Delivery Unit",
+    "status": "FieldMission",
+    "reviewDate": "2026-04-17T22:00:00Z",
+    "createdAt": "2026-01-02T22:00:00Z"
+  },
+  {
+    "reviewId": "83916940-9e23-f092-db30-93ad44d28559",
+    "reviewCode": "AFC-EG-CPR-2026-004",
+    "institutionName": "Africa Finance Corporation",
+    "countryCode": "EG",
+    "countryName": "Egypt",
+    "reviewYear": 2026,
+    "totalActiveOperations": 9,
+    "totalActivePortfolioValue": 308000000,
+    "totalDisbursed": 166320000.0,
+    "averageDisbursementRatio": 54.0,
+    "currency": "USD",
+    "projectsAtRisk": 1,
+    "projectsPotentiallyProblematic": 2,
+    "keyIssues": [
+      {
+        "issueTitle": "Procurement sequencing delays",
+        "category": "Procurement",
+        "projectsAffected": 2,
+        "description": "Contract packaging and approvals are taking longer than agreed timelines.",
+        "recommendedAction": "Run monthly procurement clinics with the implementing agency.",
+        "severity": "Moderate"
+      },
+      {
+        "issueTitle": "Safeguard reporting lag",
+        "category": "ESCompliance",
+        "projectsAffected": 1,
+        "description": "Quarterly environmental and social reports require closer follow-up.",
+        "recommendedAction": "Deploy field supervision and require corrective action reporting.",
+        "severity": "Significant"
+      }
+    ],
+    "actionPlan": [
+      "Agree dated action tracker",
+      "Escalate bottlenecks at portfolio review meeting",
+      "Increase implementation support missions"
+    ],
+    "overallRating": "Satisfactory",
+    "reviewTeamLead": "Implementation Support Desk",
+    "status": "DraftReport",
+    "reviewDate": "2026-05-17T22:00:00Z",
+    "createdAt": "2026-01-03T22:00:00Z"
+  },
+  {
+    "reviewId": "259d3d37-b22a-e6f5-4ebb-1b98f9f915d4",
+    "reviewCode": "AFC-ZA-CPR-2026-005",
+    "institutionName": "Africa Finance Corporation",
+    "countryCode": "ZA",
+    "countryName": "South Africa",
+    "reviewYear": 2026,
+    "totalActiveOperations": 10,
+    "totalActivePortfolioValue": 340000000,
+    "totalDisbursed": 197200000.0,
+    "averageDisbursementRatio": 58.0,
+    "currency": "USD",
+    "projectsAtRisk": 2,
+    "projectsPotentiallyProblematic": 0,
+    "keyIssues": [
+      {
+        "issueTitle": "Procurement sequencing delays",
+        "category": "Procurement",
+        "projectsAffected": 3,
+        "description": "Contract packaging and approvals are taking longer than agreed timelines.",
+        "recommendedAction": "Run monthly procurement clinics with the implementing agency.",
+        "severity": "Moderate"
+      },
+      {
+        "issueTitle": "Safeguard reporting lag",
+        "category": "ESCompliance",
+        "projectsAffected": 1,
+        "description": "Quarterly environmental and social reports require closer follow-up.",
+        "recommendedAction": "Deploy field supervision and require corrective action reporting.",
+        "severity": "Significant"
+      }
+    ],
+    "actionPlan": [
+      "Agree dated action tracker",
+      "Escalate bottlenecks at portfolio review meeting",
+      "Increase implementation support missions"
+    ],
+    "overallRating": "ModeratelySatisfactory",
+    "reviewTeamLead": "Operations Quality Team",
+    "status": "Finalised",
+    "reviewDate": "2026-06-17T22:00:00Z",
+    "createdAt": "2026-01-04T22:00:00Z"
+  },
+  {
+    "reviewId": "1d0c1a45-a4e4-4405-62b1-473b3a008cc2",
+    "reviewCode": "AFC-CI-CPR-2026-006",
+    "institutionName": "Africa Finance Corporation",
+    "countryCode": "CI",
+    "countryName": "Cote d'Ivoire",
+    "reviewYear": 2026,
+    "totalActiveOperations": 11,
+    "totalActivePortfolioValue": 372000000,
+    "totalDisbursed": 230640000.0,
+    "averageDisbursementRatio": 62.0,
+    "currency": "USD",
+    "projectsAtRisk": 0,
+    "projectsPotentiallyProblematic": 1,
+    "keyIssues": [
+      {
+        "issueTitle": "Procurement sequencing delays",
+        "category": "Procurement",
+        "projectsAffected": 1,
+        "description": "Contract packaging and approvals are taking longer than agreed timelines.",
+        "recommendedAction": "Run monthly procurement clinics with the implementing agency.",
+        "severity": "Moderate"
+      },
+      {
+        "issueTitle": "Safeguard reporting lag",
+        "category": "ESCompliance",
+        "projectsAffected": 1,
+        "description": "Quarterly environmental and social reports require closer follow-up.",
+        "recommendedAction": "Deploy field supervision and require corrective action reporting.",
+        "severity": "Significant"
+      }
+    ],
+    "actionPlan": [
+      "Agree dated action tracker",
+      "Escalate bottlenecks at portfolio review meeting",
+      "Increase implementation support missions"
+    ],
+    "overallRating": "Satisfactory",
+    "reviewTeamLead": "Fiduciary Review Team",
+    "status": "Preparation",
+    "reviewDate": "2026-07-17T22:00:00Z",
+    "createdAt": "2026-01-05T22:00:00Z"
+  },
+  {
+    "reviewId": "fc523d20-72c6-a833-2c12-a220da6675fe",
+    "reviewCode": "AFC-SN-CPR-2026-007",
+    "institutionName": "Africa Finance Corporation",
+    "countryCode": "SN",
+    "countryName": "Senegal",
+    "reviewYear": 2026,
+    "totalActiveOperations": 12,
+    "totalActivePortfolioValue": 404000000,
+    "totalDisbursed": 266640000.0,
+    "averageDisbursementRatio": 66.0,
+    "currency": "USD",
+    "projectsAtRisk": 1,
+    "projectsPotentiallyProblematic": 2,
+    "keyIssues": [
+      {
+        "issueTitle": "Procurement sequencing delays",
+        "category": "Procurement",
+        "projectsAffected": 2,
+        "description": "Contract packaging and approvals are taking longer than agreed timelines.",
+        "recommendedAction": "Run monthly procurement clinics with the implementing agency.",
+        "severity": "Moderate"
+      },
+      {
+        "issueTitle": "Safeguard reporting lag",
+        "category": "ESCompliance",
+        "projectsAffected": 1,
+        "description": "Quarterly environmental and social reports require closer follow-up.",
+        "recommendedAction": "Deploy field supervision and require corrective action reporting.",
+        "severity": "Significant"
+      }
+    ],
+    "actionPlan": [
+      "Agree dated action tracker",
+      "Escalate bottlenecks at portfolio review meeting",
+      "Increase implementation support missions"
+    ],
+    "overallRating": "Unsatisfactory",
+    "reviewTeamLead": "Country Portfolio Lead",
+    "status": "Finalised",
+    "reviewDate": "2026-08-17T22:00:00Z",
+    "createdAt": "2026-01-06T22:00:00Z"
+  }
+]

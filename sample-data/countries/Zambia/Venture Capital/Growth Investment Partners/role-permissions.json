@@ -1,0 +1,45 @@
+﻿{
+    "institutionType":  "Venture Capital",
+    "country":  "Zambia",
+    "description":  "Role-to-permission mapping for Venture Capital tenants in Zambia. Matches the role structure used by the Growth Investment Partners institution sample data.",
+    "version":  "1.0.0",
+    "roles":  [
+                  {
+                      "roleName":  "FundController",
+                      "permissions":  [
+                                          "Banking.Investment.Funds.View",
+                                          "Banking.Investment.Funds.ManageFunds",
+                                          "Banking.Analytics.View"
+                                      ]
+                  },
+                  {
+                      "roleName":  "InvestmentAssociate",
+                      "permissions":  [
+                                          "Banking.Investment.Trading.View",
+                                          "Banking.Investment.Portfolio.View",
+                                          "Banking.Investment.Funds.View"
+                                      ]
+                  },
+                  {
+                      "roleName":  "IROfficer",
+                      "permissions":  [
+                                          "Banking.Investment.Clients.View",
+                                          "Banking.Marketing.ViewCRM",
+                                          "Banking.Marketing.ManageCampaigns"
+                                      ]
+                  },
+                  {
+                      "roleName":  "VentureCapitalAdmin",
+                      "permissions":  [
+                                          "Banking.Investment.View",
+                                          "Banking.Investment.Dashboard",
+                                          "Banking.Investment.Trading.View",
+                                          "Banking.Investment.Portfolio.View",
+                                          "Banking.Investment.Funds.View",
+                                          "Banking.Investment.Funds.ManageFunds",
+                                          "Banking.Investment.Clients.View",
+                                          "Banking.Investment.Clients.ManageClients"
+                                      ]
+                  }
+              ]
+}

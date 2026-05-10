@@ -1,57 +1,102 @@
-[
-  {
-    "userId": "usr100000-0001",
-    "username": "mutale.mwansa",
-    "fullName": "Mutale Mwansa",
-    "email": "mutale.mwansa@nhima.gov.zm",
-    "role": "Admin",
-    "department": "Information Technology",
-    "isActive": true,
-    "lastLogin": "2025-12-21T08:00:00Z",
-    "createdAt": "2025-01-01T00:00:00Z"
-  },
-  {
-    "userId": "usr100000-0002",
-    "username": "mwamba.mulenga",
-    "fullName": "Mwamba Mulenga",
-    "email": "mwamba.mulenga@nhima.gov.zm",
-    "role": "Manager",
-    "department": "Claims Administration",
-    "isActive": true,
-    "lastLogin": "2025-12-22T08:00:00Z",
-    "createdAt": "2025-01-01T00:00:00Z"
-  },
-  {
-    "userId": "usr100000-0003",
-    "username": "mwansa.musonda",
-    "fullName": "Mwansa Musonda",
-    "email": "mwansa.musonda@nhima.gov.zm",
-    "role": "Operator",
-    "department": "Member Services",
-    "isActive": true,
-    "lastLogin": "2025-12-23T08:00:00Z",
-    "createdAt": "2025-01-01T00:00:00Z"
-  },
-  {
-    "userId": "usr100000-0004",
-    "username": "chileshe.nkosi",
-    "fullName": "Chileshe Nkosi",
-    "email": "chileshe.nkosi@nhima.gov.zm",
-    "role": "Manager",
-    "department": "Finance & Accounts",
-    "isActive": true,
-    "lastLogin": "2025-12-24T08:00:00Z",
-    "createdAt": "2025-01-01T00:00:00Z"
-  },
-  {
-    "userId": "usr100000-0005",
-    "username": "lubinda.phiri",
-    "fullName": "Lubinda Phiri",
-    "email": "lubinda.phiri@nhima.gov.zm",
-    "role": "Operator",
-    "department": "Enrollment & Registration",
-    "isActive": true,
-    "lastLogin": "2025-12-25T08:00:00Z",
-    "createdAt": "2025-01-01T00:00:00Z"
-  }
+﻿[
+    {
+        "userId":  "4fbc7002-9212-4d31-a2ea-8f7c2953fd92",
+        "email":  "benefitsofficer.nationalhealthinsurance",
+        "username":  "benefitsofficer.nationalhealthinsurance",
+        "firstName":  "Benefits",
+        "lastName":  "Officer",
+        "institutionType":  "National Health Insurance",
+        "institutionName":  "National Health Insurance Management Authority",
+        "institutionId":  "bc74566a-9ffa-41dc-baa5-b98c4df71fca",
+        "roles":  [
+                      "BenefitsOfficer"
+                  ],
+        "permissions":  [
+
+                        ],
+        "isActive":  true,
+        "isEmailVerified":  true,
+        "isPhoneVerified":  true,
+        "isIdentityVerified":  true,
+        "trustScore":  95,
+        "createdAt":  "2023-09-13T00:00:00Z",
+        "phoneNumber":  "+260977000000",
+        "gender":  "Other",
+        "nationality":  "Zambian"
+    },
+    {
+        "userId":  "06f37494-a49b-4bcd-9198-283fa0220c9e",
+        "email":  "claimsofficer.nationalhealthinsurance",
+        "username":  "claimsofficer.nationalhealthinsurance",
+        "firstName":  "Claims",
+        "lastName":  "Officer",
+        "institutionType":  "National Health Insurance",
+        "institutionName":  "National Health Insurance Management Authority",
+        "institutionId":  "39222e9a-4ae0-470b-8331-cc76c699b43e",
+        "roles":  [
+                      "ClaimsOfficer"
+                  ],
+        "permissions":  [
+
+                        ],
+        "isActive":  true,
+        "isEmailVerified":  true,
+        "isPhoneVerified":  true,
+        "isIdentityVerified":  true,
+        "trustScore":  95,
+        "createdAt":  "2023-09-13T00:00:00Z",
+        "phoneNumber":  "+260977000000",
+        "gender":  "Other",
+        "nationality":  "Zambian"
+    },
+    {
+        "userId":  "9f61c29a-ba4a-4ab7-acd3-762e732c6d9d",
+        "email":  "nhiadmin.nationalhealthinsurance",
+        "username":  "nhiadmin.nationalhealthinsurance",
+        "firstName":  "N",
+        "lastName":  "NHIAdmin",
+        "institutionType":  "National Health Insurance",
+        "institutionName":  "National Health Insurance Management Authority",
+        "institutionId":  "a48462be-4f79-4ee2-b8de-33917888351b",
+        "roles":  [
+                      "NHIAdmin"
+                  ],
+        "permissions":  [
+
+                        ],
+        "isActive":  true,
+        "isEmailVerified":  true,
+        "isPhoneVerified":  true,
+        "isIdentityVerified":  true,
+        "trustScore":  95,
+        "createdAt":  "2023-09-13T00:00:00Z",
+        "phoneNumber":  "+260977000000",
+        "gender":  "Other",
+        "nationality":  "Zambian"
+    },
+    {
+        "userId":  "6e82386d-a846-41ef-a792-4707b0c3b393",
+        "email":  "providerrelationsofficer.nationalhealthinsurance",
+        "username":  "providerrelationsofficer.nationalhealthinsurance",
+        "firstName":  "Provider",
+        "lastName":  "Officer",
+        "institutionType":  "National Health Insurance",
+        "institutionName":  "National Health Insurance Management Authority",
+        "institutionId":  "056593d7-428a-4586-b9f0-f6c20536d2a6",
+        "roles":  [
+                      "ProviderRelationsOfficer"
+                  ],
+        "permissions":  [
+
+                        ],
+        "isActive":  true,
+        "isEmailVerified":  true,
+        "isPhoneVerified":  true,
+        "isIdentityVerified":  true,
+        "trustScore":  95,
+        "createdAt":  "2023-09-13T00:00:00Z",
+        "phoneNumber":  "+260977000000",
+        "gender":  "Other",
+        "nationality":  "Zambian"
+    }
 ]

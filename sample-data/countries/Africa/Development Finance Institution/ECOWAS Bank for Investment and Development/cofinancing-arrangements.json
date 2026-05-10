@@ -1,0 +1,22 @@
+[
+  {
+    "arrangementId": "ebid20001-0000-0000-0000-000000000001",
+    "arrangementNumber": "EBID-GH-SME-2025-001",
+    "projectId": "ebid0001-0000-0000-0000-000000000001",
+    "projectName": "Ghana SME and Agro-Value Chain Finance",
+    "countryName": "Ghana",
+    "sector": "Private Sector Development",
+    "type": "ClubDeal",
+    "totalProjectCost": 88000000,
+    "mdbShare": 42000000,
+    "coFinancierShare": 46000000,
+    "mobilizationRatio": 2.1,
+    "currency": "XOF",
+    "leadFinancier": "EBID",
+    "numberOfPartners": 4,
+    "status": "Active",
+    "arrangementDate": "2025-04-01T00:00:00Z",
+    "closingDate": "2030-12-31T00:00:00Z",
+    "createdAt": "2025-04-01T00:00:00Z"
+  }
+]

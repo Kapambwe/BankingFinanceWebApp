@@ -1,8 +1,0 @@
-[
-  {"transactionType":"Disbursement","currency":"USD","status":"Completed","transactionId":"a50-tx-001","amount":80000000.00,"description":"Solar Plant Construction Phase 3","balance":280000000.00,"transactionDate":"2025-09-20T10:00:00Z","accountId":"a501-a001-4579-a281-6d898272fbc5"},
-  {"transactionType":"Disbursement","currency":"USD","status":"Completed","transactionId":"a50-tx-002","amount":120000000.00,"description":"Expressway Construction Tranche 5","balance":350000000.00,"transactionDate":"2025-10-15T10:00:00Z","accountId":"a501-a002-4579-a281-6d898272fbc6"},
-  {"transactionType":"Disbursement","currency":"USD","status":"Completed","transactionId":"a50-tx-003","amount":35000000.00,"description":"Data Centre Fit-Out and Equipment","balance":95000000.00,"transactionDate":"2025-11-10T10:00:00Z","accountId":"a501-a003-4579-a281-6d898272fbc7"},
-  {"transactionType":"Disbursement","currency":"USD","status":"Completed","transactionId":"a50-tx-004","amount":45000000.00,"description":"Wind Turbine Procurement","balance":120000000.00,"transactionDate":"2025-12-05T10:00:00Z","accountId":"a501-a004-4579-a281-6d898272fbc8"},
-  {"transactionType":"Repayment","currency":"USD","status":"Completed","transactionId":"a50-tx-005","amount":15000000.00,"description":"Solar Revenue Share Payment","balance":265000000.00,"transactionDate":"2025-12-20T10:00:00Z","accountId":"a501-a001-4579-a281-6d898272fbc5"},
-  {"transactionType":"Fee","currency":"USD","status":"Completed","transactionId":"a50-tx-006","amount":2500000.00,"description":"Project Development Advisory Fee","balance":95000000.00,"transactionDate":"2025-12-31T10:00:00Z","accountId":"a501-a003-4579-a281-6d898272fbc7"}
-]

@@ -1,0 +1,69 @@
+﻿{
+    "institutionType":  "Pension",
+    "country":  "Zambia",
+    "description":  "Role-to-permission mapping for Pension tenants in Zambia. Matches the role structure used by the Local Authority Superannuation Fund institution sample data.",
+    "version":  "1.0.0",
+    "roles":  [
+                  {
+                      "roleName":  "ActuarialAnalyst",
+                      "permissions":  [
+                                          "Banking.Pension.Actuarial.View",
+                                          "Banking.Pension.Actuarial.Manage",
+                                          "Banking.Analytics.ViewAdvanced"
+                                      ]
+                  },
+                  {
+                      "roleName":  "BenefitsOfficer",
+                      "permissions":  [
+                                          "Banking.Pension.Benefits.View",
+                                          "Banking.Pension.Benefits.Manage"
+                                      ]
+                  },
+                  {
+                      "roleName":  "ComplianceOfficer",
+                      "permissions":  [
+                                          "Banking.Pension.Compliance.View",
+                                          "Banking.Regulatory.ViewReports",
+                                          "Banking.Risk.ViewDashboard"
+                                      ]
+                  },
+                  {
+                      "roleName":  "ContributionsOfficer",
+                      "permissions":  [
+                                          "Banking.Pension.Contributions.View",
+                                          "Banking.Pension.Contributions.Manage"
+                                      ]
+                  },
+                  {
+                      "roleName":  "EnrollmentOfficer",
+                      "permissions":  [
+                                          "Banking.Pension.Enrollment.View",
+                                          "Banking.Pension.Enrollment.Manage",
+                                          "Banking.Pension.Contributions.View"
+                                      ]
+                  },
+                  {
+                      "roleName":  "PensionAdmin",
+                      "permissions":  [
+                                          "Banking.Pension.View",
+                                          "Banking.Pension.Dashboard",
+                                          "Banking.Pension.Contributions.View",
+                                          "Banking.Pension.Contributions.Manage",
+                                          "Banking.Pension.Benefits.View",
+                                          "Banking.Pension.Benefits.Manage",
+                                          "Banking.Pension.Portfolio.View",
+                                          "Banking.Pension.Portfolio.Manage",
+                                          "Banking.Pension.Actuarial.View",
+                                          "Banking.Pension.Compliance.View"
+                                      ]
+                  },
+                  {
+                      "roleName":  "PortfolioManager",
+                      "permissions":  [
+                                          "Banking.Pension.Portfolio.View",
+                                          "Banking.Pension.Portfolio.Manage",
+                                          "Banking.Analytics.View"
+                                      ]
+                  }
+              ]
+}

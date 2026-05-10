@@ -1,6 +1,0 @@
-[
-  {"billId":"IsDB-BILL-001","customerId":"isdb-c004-4444-dddd-5555-eeeeffff0000","amount":6000000.00,"currency":"ID","dueDate":"2026-03-31T00:00:00Z","status":"Pending","description":"Ijarah Quarterly Rental Payment Q1 2026 - Morocco","issuedDate":"2026-01-01T00:00:00Z"},
-  {"billId":"IsDB-BILL-002","customerId":"isdb-c002-2222-bbbb-3333-ccccddddeeee","amount":3400000.00,"currency":"ID","dueDate":"2026-05-31T00:00:00Z","status":"Pending","description":"Murabaha Markup Semi-Annual Payment - Mali","issuedDate":"2026-01-10T00:00:00Z"},
-  {"billId":"IsDB-BILL-003","customerId":"isdb-c005-5555-eeee-6666-ffff00001111","amount":5250000.00,"currency":"ID","dueDate":"2026-04-15T00:00:00Z","status":"Pending","description":"Istisna'a Service Charge Payment - Egypt","issuedDate":"2026-01-15T00:00:00Z"},
-  {"billId":"IsDB-BILL-004","customerId":"isdb-c006-6666-ffff-7777-000011112222","amount":4200000.00,"currency":"ID","dueDate":"2026-05-31T00:00:00Z","status":"Pending","description":"Murabaha Markup Payment - Nigeria","issuedDate":"2026-01-20T00:00:00Z"}
-]

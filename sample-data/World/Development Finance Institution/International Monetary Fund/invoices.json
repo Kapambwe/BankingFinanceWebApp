@@ -1,6 +1,0 @@
-[
-  {"invoiceId":"IMF-INV-001","customerId":"imf-c001-1a2b-3c4d-5e6f-a1b2c3d4e5f6","amount":575000000.00,"currency":"SDR","status":"Paid","description":"Ghana ECF Third Review Disbursement","issuedDate":"2025-08-10T00:00:00Z","paidDate":"2025-08-20T10:00:00Z"},
-  {"invoiceId":"IMF-INV-002","customerId":"imf-c004-4d5e-6f7a-8b9c-d4e5f6a7b8c9","amount":687500000.00,"currency":"SDR","status":"Paid","description":"Ethiopia ECF First Review Disbursement","issuedDate":"2025-10-05T00:00:00Z","paidDate":"2025-10-15T10:00:00Z"},
-  {"invoiceId":"IMF-INV-003","customerId":"imf-c006-6f7a-8b9c-0d1e-f6a7b8c9d0e1","amount":300000000.00,"currency":"SDR","status":"Paid","description":"Senegal Budget Support - Fiscal Consolidation","issuedDate":"2025-12-05T00:00:00Z","paidDate":"2025-12-15T10:00:00Z"},
-  {"invoiceId":"IMF-INV-004","customerId":"imf-c003-3c4d-5e6f-7a8b-c3d4e5f6a7b8","amount":245000000.00,"currency":"SDR","status":"Pending","description":"Zambia ECF Fourth Review Disbursement","issuedDate":"2026-01-10T00:00:00Z","paidDate":null}
-]

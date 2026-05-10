@@ -1,0 +1,13 @@
+[
+  {
+    "strategyId": "dbsa70001-0000-0000-0000-000000000001",
+    "countryCode": "ZA",
+    "countryName": "South Africa",
+    "region": "Southern Africa",
+    "strategyTitle": "Municipal Infrastructure and Climate Resilience Strategy",
+    "periodStart": "2025-01-01T00:00:00Z",
+    "periodEnd": "2031-12-31T00:00:00Z",
+    "prioritySectors": ["Infrastructure", "Water", "Energy"],
+    "summary": "Supports municipal infrastructure, resilient utilities, and energy transition finance."
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "strategyId": "eadb70001-0000-0000-0000-000000000001",
+    "countryCode": "UG",
+    "countryName": "Uganda",
+    "region": "East Africa",
+    "strategyTitle": "Agro-Processing and Regional Trade Strategy",
+    "periodStart": "2025-01-01T00:00:00Z",
+    "periodEnd": "2030-12-31T00:00:00Z",
+    "prioritySectors": ["Agriculture", "Trade", "SME Finance"],
+    "summary": "Targets regional trade competitiveness and value addition in agriculture."
+  }
+]

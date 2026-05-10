@@ -1,7 +1,0 @@
-[
-  {"customerId":"aiib-c001-1111-2222-aaaa-bbbbccccdddd","customerName":"Arab Republic of Egypt","creditScore":640,"creditRating":"B","riskCategory":"Medium-High","lastAssessmentDate":"2025-12-01T00:00:00Z","debtToGdpRatio":"92.4%"},
-  {"customerId":"aiib-c002-2222-3333-bbbb-ccccddddeeee","customerName":"Republic of Rwanda","creditScore":690,"creditRating":"B+","riskCategory":"Medium","lastAssessmentDate":"2025-12-01T00:00:00Z","debtToGdpRatio":"73.5%"},
-  {"customerId":"aiib-c003-3333-4444-cccc-ddddeeeeffff","customerName":"Republic of Cote d'Ivoire","creditScore":670,"creditRating":"BB-","riskCategory":"Medium","lastAssessmentDate":"2025-12-01T00:00:00Z","debtToGdpRatio":"56.8%"},
-  {"customerId":"aiib-c004-4444-5555-dddd-eeeeffff0000","customerName":"Republic of Senegal","creditScore":660,"creditRating":"B+","riskCategory":"Medium","lastAssessmentDate":"2025-12-01T00:00:00Z","debtToGdpRatio":"68.9%"},
-  {"customerId":"aiib-c005-5555-6666-eeee-ffff00001111","customerName":"Republic of Benin","creditScore":650,"creditRating":"B","riskCategory":"Medium-High","lastAssessmentDate":"2025-12-01T00:00:00Z","debtToGdpRatio":"52.1%"}
-]

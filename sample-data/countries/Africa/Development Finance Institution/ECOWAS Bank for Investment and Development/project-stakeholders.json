@@ -1,0 +1,32 @@
+[
+  {
+    "stakeholderId": "ebid40001-0000-0000-0000-000000000001",
+    "projectId": "ebid0001-0000-0000-0000-000000000001",
+    "projectCode": "EBID-GH-SME-2025",
+    "name": "Ministry of Trade and Industry",
+    "organisationName": "Government of Ghana",
+    "type": "ImplementingAgency",
+    "influence": "High",
+    "interest": "High",
+    "engagementLevel": "Collaborate",
+    "contactPerson": "Director, SMEs",
+    "email": "sme@trade.gov.gh",
+    "notes": "Leads SME and market access policy coordination.",
+    "createdAt": "2025-04-01T00:00:00Z"
+  },
+  {
+    "stakeholderId": "ebid40001-0000-0000-0000-000000000002",
+    "projectId": "ebid0001-0000-0000-0000-000000000001",
+    "projectCode": "EBID-GH-SME-2025",
+    "name": "Ghana National Chamber of Commerce and Industry",
+    "organisationName": "Private Sector Association",
+    "type": "PrivateSector",
+    "influence": "Medium",
+    "interest": "High",
+    "engagementLevel": "Consult",
+    "contactPerson": "Policy Director",
+    "email": "info@ghanachamber.org",
+    "notes": "Represents SMEs and market actors in the value chain.",
+    "createdAt": "2025-04-05T00:00:00Z"
+  }
+]

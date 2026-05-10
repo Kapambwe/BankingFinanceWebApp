@@ -1,0 +1,57 @@
+﻿{
+    "institutionType":  "Venture Capital",
+    "country":  "Zambia",
+    "description":  "Default role-to-permission mapping for Venture Capital tenants in Zambia. Matches the role structure used by the Kukula Capital institution sample data.",
+    "version":  "1.0.0",
+    "roles":  [
+                  {
+                      "roleName":  "FundController",
+                      "displayName":  "F un dC on tr ol le r",
+                      "description":  "FundController role for Kukula Capital sample data",
+                      "isSystemRole":  true,
+                      "permissions":  [
+                                          "Banking.Investment.Funds.View",
+                                          "Banking.Investment.Funds.ManageFunds",
+                                          "Banking.Analytics.View"
+                                      ]
+                  },
+                  {
+                      "roleName":  "InvestmentAssociate",
+                      "displayName":  "I nv es tm en tA ss oc ia te",
+                      "description":  "InvestmentAssociate role for Kukula Capital sample data",
+                      "isSystemRole":  true,
+                      "permissions":  [
+                                          "Banking.Investment.Trading.View",
+                                          "Banking.Investment.Portfolio.View",
+                                          "Banking.Investment.Funds.View"
+                                      ]
+                  },
+                  {
+                      "roleName":  "IROfficer",
+                      "displayName":  "I RO ff ic er",
+                      "description":  "IROfficer role for Kukula Capital sample data",
+                      "isSystemRole":  true,
+                      "permissions":  [
+                                          "Banking.Investment.Clients.View",
+                                          "Banking.Marketing.ViewCRM",
+                                          "Banking.Marketing.ManageCampaigns"
+                                      ]
+                  },
+                  {
+                      "roleName":  "VentureCapitalAdmin",
+                      "displayName":  "V en tu re Ca pi ta lA dm in",
+                      "description":  "VentureCapitalAdmin role for Kukula Capital sample data",
+                      "isSystemRole":  true,
+                      "permissions":  [
+                                          "Banking.Investment.View",
+                                          "Banking.Investment.Dashboard",
+                                          "Banking.Investment.Trading.View",
+                                          "Banking.Investment.Portfolio.View",
+                                          "Banking.Investment.Funds.View",
+                                          "Banking.Investment.Funds.ManageFunds",
+                                          "Banking.Investment.Clients.View",
+                                          "Banking.Investment.Clients.ManageClients"
+                                      ]
+                  }
+              ]
+}

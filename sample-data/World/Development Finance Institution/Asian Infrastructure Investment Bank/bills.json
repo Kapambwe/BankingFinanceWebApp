@@ -1,6 +1,0 @@
-[
-  {"billId":"AIIB-BILL-001","customerId":"aiib-c001-1111-2222-aaaa-bbbbccccdddd","amount":6750000.00,"currency":"USD","dueDate":"2026-03-31T00:00:00Z","status":"Pending","description":"Infrastructure Loan Interest Q1 2026 - Egypt","issuedDate":"2026-01-01T00:00:00Z"},
-  {"billId":"AIIB-BILL-002","customerId":"aiib-c003-3333-4444-cccc-ddddeeeeffff","amount":4800000.00,"currency":"USD","dueDate":"2026-04-15T00:00:00Z","status":"Pending","description":"Co-Financing Loan Interest + Commitment Fee - Cote d'Ivoire","issuedDate":"2026-01-10T00:00:00Z"},
-  {"billId":"AIIB-BILL-003","customerId":"aiib-c002-2222-3333-bbbb-ccccddddeeee","amount":2700000.00,"currency":"USD","dueDate":"2026-06-30T00:00:00Z","status":"Pending","description":"Infrastructure Loan Semi-Annual Interest - Rwanda","issuedDate":"2026-01-15T00:00:00Z"},
-  {"billId":"AIIB-BILL-004","customerId":"aiib-c004-4444-5555-dddd-eeeeffff0000","amount":2250000.00,"currency":"USD","dueDate":"2026-06-30T00:00:00Z","status":"Pending","description":"Climate Resilience Facility Interest - Senegal","issuedDate":"2026-01-20T00:00:00Z"}
-]

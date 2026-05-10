@@ -1,0 +1,7 @@
+{
+  "institutionType": "National Health Insurance",
+  "country": "Zambia",
+  "description": "Role-to-permission mapping for National Health Insurance tenants in Zambia. Matches the role structure used by the National Health Insurance institution sample data.",
+  "version": "1.0.0",
+  "roles": []
+}

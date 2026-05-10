@@ -1,7 +1,0 @@
-[
-  {"customerId":"imf-c001-1a2b-3c4d-5e6f-a1b2c3d4e5f6","customerName":"Republic of Ghana","creditScore":580,"creditRating":"CCC+","riskCategory":"High","lastAssessmentDate":"2025-12-01T00:00:00Z","debtToGdpRatio":"88.1%"},
-  {"customerId":"imf-c002-2b3c-4d5e-6f7a-b2c3d4e5f6a7","customerName":"Republic of Kenya","creditScore":640,"creditRating":"B","riskCategory":"Medium-High","lastAssessmentDate":"2025-12-01T00:00:00Z","debtToGdpRatio":"71.4%"},
-  {"customerId":"imf-c003-3c4d-5e6f-7a8b-c3d4e5f6a7b8","customerName":"Republic of Zambia","creditScore":530,"creditRating":"CCC-","riskCategory":"Very High","lastAssessmentDate":"2025-12-01T00:00:00Z","debtToGdpRatio":"95.2%"},
-  {"customerId":"imf-c004-4d5e-6f7a-8b9c-d4e5f6a7b8c9","customerName":"Federal Democratic Republic of Ethiopia","creditScore":560,"creditRating":"CCC","riskCategory":"High","lastAssessmentDate":"2025-12-01T00:00:00Z","debtToGdpRatio":"55.8%"},
-  {"customerId":"imf-c005-5e6f-7a8b-9c0d-e5f6a7b8c9d0","customerName":"Republic of Mozambique","creditScore":510,"creditRating":"CCC-","riskCategory":"Very High","lastAssessmentDate":"2025-12-01T00:00:00Z","debtToGdpRatio":"102.3%"}
-]

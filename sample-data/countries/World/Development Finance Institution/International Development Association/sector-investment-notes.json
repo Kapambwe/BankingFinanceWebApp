@@ -1,0 +1,261 @@
+[
+  {
+    "noteId": "b9b0db54-4f85-a190-434c-b5140b688ed0",
+    "noteCode": "IDA-MW-SIN-2026-001",
+    "title": "Malawi Social Protection Sector Investment Note",
+    "producingInstitution": "International Development Association",
+    "countryCode": "MW",
+    "countryName": "Malawi",
+    "sector": "Social Protection",
+    "subSector": "Upstream pipeline",
+    "targetAudience": "MDB operations, government counterparts and co-financing partners",
+    "estimatedInvestmentNeed": 64000000,
+    "currency": "USD",
+    "investmentPriorities": [
+      "Prepare investable project pipeline",
+      "Mobilise concessional and private finance",
+      "Strengthen implementation capacity"
+    ],
+    "financingGapsIdentified": [
+      "Early-stage preparation funding",
+      "Local currency long-term finance",
+      "Guarantee coverage"
+    ],
+    "policyConstraints": [
+      "Lengthy approvals",
+      "Tariff or pricing uncertainty",
+      "Data limitations"
+    ],
+    "recommendedInterventions": [
+      "Project preparation facility",
+      "Risk-sharing instrument",
+      "Policy dialogue and technical assistance"
+    ],
+    "authorLead": "Sector economist",
+    "status": "Published",
+    "preparedDate": "2026-02-20T22:00:00Z",
+    "createdAt": "2025-12-31T22:00:00Z"
+  },
+  {
+    "noteId": "05ee99d2-3209-26a0-764d-37b8c9350007",
+    "noteCode": "IDA-NP-SIN-2026-002",
+    "title": "Nepal Agriculture Sector Investment Note",
+    "producingInstitution": "International Development Association",
+    "countryCode": "NP",
+    "countryName": "Nepal",
+    "sector": "Agriculture",
+    "subSector": "Last-mile delivery",
+    "targetAudience": "MDB operations, government counterparts and co-financing partners",
+    "estimatedInvestmentNeed": 73000000,
+    "currency": "USD",
+    "investmentPriorities": [
+      "Prepare investable project pipeline",
+      "Mobilise concessional and private finance",
+      "Strengthen implementation capacity"
+    ],
+    "financingGapsIdentified": [
+      "Early-stage preparation funding",
+      "Local currency long-term finance",
+      "Guarantee coverage"
+    ],
+    "policyConstraints": [
+      "Lengthy approvals",
+      "Tariff or pricing uncertainty",
+      "Data limitations"
+    ],
+    "recommendedInterventions": [
+      "Project preparation facility",
+      "Risk-sharing instrument",
+      "Policy dialogue and technical assistance"
+    ],
+    "authorLead": "Investment officer",
+    "status": "PeerReview",
+    "preparedDate": "2026-03-20T22:00:00Z",
+    "createdAt": "2026-01-01T22:00:00Z"
+  },
+  {
+    "noteId": "6bc61119-d023-fc7e-42fe-1145620425af",
+    "noteCode": "IDA-MZ-SIN-2026-003",
+    "title": "Mozambique Education Sector Investment Note",
+    "producingInstitution": "International Development Association",
+    "countryCode": "MZ",
+    "countryName": "Mozambique",
+    "sector": "Education",
+    "subSector": "Policy reform",
+    "targetAudience": "MDB operations, government counterparts and co-financing partners",
+    "estimatedInvestmentNeed": 82000000,
+    "currency": "USD",
+    "investmentPriorities": [
+      "Prepare investable project pipeline",
+      "Mobilise concessional and private finance",
+      "Strengthen implementation capacity"
+    ],
+    "financingGapsIdentified": [
+      "Early-stage preparation funding",
+      "Local currency long-term finance",
+      "Guarantee coverage"
+    ],
+    "policyConstraints": [
+      "Lengthy approvals",
+      "Tariff or pricing uncertainty",
+      "Data limitations"
+    ],
+    "recommendedInterventions": [
+      "Project preparation facility",
+      "Risk-sharing instrument",
+      "Policy dialogue and technical assistance"
+    ],
+    "authorLead": "Country economist",
+    "status": "Draft",
+    "preparedDate": "2026-04-20T22:00:00Z",
+    "createdAt": "2026-01-02T22:00:00Z"
+  },
+  {
+    "noteId": "3637ad29-6d64-1e22-a2ad-a6371f4a8842",
+    "noteCode": "IDA-RW-SIN-2026-004",
+    "title": "Rwanda Health Sector Investment Note",
+    "producingInstitution": "International Development Association",
+    "countryCode": "RW",
+    "countryName": "Rwanda",
+    "sector": "Health",
+    "subSector": "Market access",
+    "targetAudience": "MDB operations, government counterparts and co-financing partners",
+    "estimatedInvestmentNeed": 91000000,
+    "currency": "USD",
+    "investmentPriorities": [
+      "Prepare investable project pipeline",
+      "Mobilise concessional and private finance",
+      "Strengthen implementation capacity"
+    ],
+    "financingGapsIdentified": [
+      "Early-stage preparation funding",
+      "Local currency long-term finance",
+      "Guarantee coverage"
+    ],
+    "policyConstraints": [
+      "Lengthy approvals",
+      "Tariff or pricing uncertainty",
+      "Data limitations"
+    ],
+    "recommendedInterventions": [
+      "Project preparation facility",
+      "Risk-sharing instrument",
+      "Policy dialogue and technical assistance"
+    ],
+    "authorLead": "Climate finance analyst",
+    "status": "Published",
+    "preparedDate": "2026-05-20T22:00:00Z",
+    "createdAt": "2026-01-03T22:00:00Z"
+  },
+  {
+    "noteId": "c7e46f59-e5f6-17ba-f334-20ab2f063aac",
+    "noteCode": "IDA-ET-SIN-2026-005",
+    "title": "Ethiopia Rural Roads Sector Investment Note",
+    "producingInstitution": "International Development Association",
+    "countryCode": "ET",
+    "countryName": "Ethiopia",
+    "sector": "Rural Roads",
+    "subSector": "Infrastructure services",
+    "targetAudience": "MDB operations, government counterparts and co-financing partners",
+    "estimatedInvestmentNeed": 100000000,
+    "currency": "USD",
+    "investmentPriorities": [
+      "Prepare investable project pipeline",
+      "Mobilise concessional and private finance",
+      "Strengthen implementation capacity"
+    ],
+    "financingGapsIdentified": [
+      "Early-stage preparation funding",
+      "Local currency long-term finance",
+      "Guarantee coverage"
+    ],
+    "policyConstraints": [
+      "Lengthy approvals",
+      "Tariff or pricing uncertainty",
+      "Data limitations"
+    ],
+    "recommendedInterventions": [
+      "Project preparation facility",
+      "Risk-sharing instrument",
+      "Policy dialogue and technical assistance"
+    ],
+    "authorLead": "Private sector specialist",
+    "status": "Archived",
+    "preparedDate": "2026-06-20T22:00:00Z",
+    "createdAt": "2026-01-04T22:00:00Z"
+  },
+  {
+    "noteId": "20e68498-98ba-78a6-160c-43ad14ae8a96",
+    "noteCode": "IDA-BD-SIN-2026-006",
+    "title": "Bangladesh Water and Sanitation Sector Investment Note",
+    "producingInstitution": "International Development Association",
+    "countryCode": "BD",
+    "countryName": "Bangladesh",
+    "sector": "Water and Sanitation",
+    "subSector": "Digital systems",
+    "targetAudience": "MDB operations, government counterparts and co-financing partners",
+    "estimatedInvestmentNeed": 109000000,
+    "currency": "USD",
+    "investmentPriorities": [
+      "Prepare investable project pipeline",
+      "Mobilise concessional and private finance",
+      "Strengthen implementation capacity"
+    ],
+    "financingGapsIdentified": [
+      "Early-stage preparation funding",
+      "Local currency long-term finance",
+      "Guarantee coverage"
+    ],
+    "policyConstraints": [
+      "Lengthy approvals",
+      "Tariff or pricing uncertainty",
+      "Data limitations"
+    ],
+    "recommendedInterventions": [
+      "Project preparation facility",
+      "Risk-sharing instrument",
+      "Policy dialogue and technical assistance"
+    ],
+    "authorLead": "Agriculture finance lead",
+    "status": "Published",
+    "preparedDate": "2026-07-20T22:00:00Z",
+    "createdAt": "2026-01-05T22:00:00Z"
+  },
+  {
+    "noteId": "18629dad-539a-73f9-3775-7e7a6e7e0b50",
+    "noteCode": "IDA-NE-SIN-2026-007",
+    "title": "Niger Public Sector Governance Sector Investment Note",
+    "producingInstitution": "International Development Association",
+    "countryCode": "NE",
+    "countryName": "Niger",
+    "sector": "Public Sector Governance",
+    "subSector": "Climate adaptation",
+    "targetAudience": "MDB operations, government counterparts and co-financing partners",
+    "estimatedInvestmentNeed": 118000000,
+    "currency": "USD",
+    "investmentPriorities": [
+      "Prepare investable project pipeline",
+      "Mobilise concessional and private finance",
+      "Strengthen implementation capacity"
+    ],
+    "financingGapsIdentified": [
+      "Early-stage preparation funding",
+      "Local currency long-term finance",
+      "Guarantee coverage"
+    ],
+    "policyConstraints": [
+      "Lengthy approvals",
+      "Tariff or pricing uncertainty",
+      "Data limitations"
+    ],
+    "recommendedInterventions": [
+      "Project preparation facility",
+      "Risk-sharing instrument",
+      "Policy dialogue and technical assistance"
+    ],
+    "authorLead": "Infrastructure advisor",
+    "status": "PeerReview",
+    "preparedDate": "2026-08-20T22:00:00Z",
+    "createdAt": "2026-01-06T22:00:00Z"
+  }
+]

@@ -1,0 +1,55 @@
+﻿{
+    "institutionType":  "Asset Management",
+    "country":  "Zambia",
+    "description":  "Default role-to-permission mapping for Asset Management tenants in Zambia. Matches the role structure used by the Pangaea Securities institution sample data.",
+    "version":  "1.0.0",
+    "roles":  [
+                  {
+                      "roleName":  "AssetManagementAdmin",
+                      "displayName":  "A ss et Ma na ge me nt Ad mi n",
+                      "description":  "AssetManagementAdmin role for Pangaea Securities sample data",
+                      "isSystemRole":  true,
+                      "permissions":  [
+                                          "Banking.Investment.View",
+                                          "Banking.Investment.Dashboard",
+                                          "Banking.Investment.Portfolio.View",
+                                          "Banking.Investment.Funds.View",
+                                          "Banking.Investment.Clients.View",
+                                          "Banking.Investment.Clients.ManageClients"
+                                      ]
+                  },
+                  {
+                      "roleName":  "ClientServicesOfficer",
+                      "displayName":  "C li en tS er vi ce sO ff ic er",
+                      "description":  "ClientServicesOfficer role for Pangaea Securities sample data",
+                      "isSystemRole":  true,
+                      "permissions":  [
+                                          "Banking.Investment.Clients.View",
+                                          "Banking.Investment.Clients.ManageClients",
+                                          "Banking.CRM.ViewCustomers"
+                                      ]
+                  },
+                  {
+                      "roleName":  "PerformanceAnalyst",
+                      "displayName":  "P er fo rm an ce An al ys t",
+                      "description":  "PerformanceAnalyst role for Pangaea Securities sample data",
+                      "isSystemRole":  true,
+                      "permissions":  [
+                                          "Banking.Analytics.View",
+                                          "Banking.Analytics.ViewAdvanced",
+                                          "Banking.Investment.Portfolio.View"
+                                      ]
+                  },
+                  {
+                      "roleName":  "PortfolioManager",
+                      "displayName":  "P or tf ol io Ma na ge r",
+                      "description":  "PortfolioManager role for Pangaea Securities sample data",
+                      "isSystemRole":  true,
+                      "permissions":  [
+                                          "Banking.Investment.Portfolio.View",
+                                          "Banking.Investment.Portfolio.Manage",
+                                          "Banking.Analytics.View"
+                                      ]
+                  }
+              ]
+}

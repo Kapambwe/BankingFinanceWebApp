@@ -1,0 +1,19 @@
+[
+  {
+    "assessmentId": "ebid50001-0000-0000-0000-000000000001",
+    "countryCode": "GH",
+    "countryName": "Ghana",
+    "region": "West Africa",
+    "ratingAgency": "Internal EBID Risk",
+    "sovereignRating": "B-",
+    "outlook": "Stable",
+    "probabilityOfDefault": 0.16,
+    "debtSustainability": "Moderate",
+    "foreignExchangeRisk": "Moderate",
+    "politicalRisk": "Moderate",
+    "macroeconomicRisk": "Moderate",
+    "assessmentDate": "2025-04-01T00:00:00Z",
+    "validUntil": "2026-04-01T00:00:00Z",
+    "notes": "SME and agro-value chain finance exposed to FX and inflation pressures."
+  }
+]

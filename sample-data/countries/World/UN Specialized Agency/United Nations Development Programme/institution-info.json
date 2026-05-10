@@ -1,0 +1,16 @@
+{
+  "institutionId": "undp-0001-5c4d-4a3b-9f8e-7d6c5b4a3f21",
+  "institutionName": "United Nations Development Programme",
+  "institutionType": "UN Specialized Agency",
+  "country": "World",
+  "registrationNumber": "UNDP-0001",
+  "contactEmail": "info@undp.org",
+  "contactPhone": "+1-212-906-5000",
+  "website": "https://www.undp.org",
+  "headquarters": "New York",
+  "employees": 0,
+  "branches": 0,
+  "currency": "USD",
+  "status": "Active",
+  "createdAt": "1965-11-22T00:00:00Z"
+}

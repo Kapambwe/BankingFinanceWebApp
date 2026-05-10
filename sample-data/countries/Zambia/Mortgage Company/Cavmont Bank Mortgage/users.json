@@ -1,140 +1,152 @@
-[
-  {
-    "userId": "2b59c4e8-01a0-4118-8a3b-ff0f631e3a28",
-    "email": "admin.mortgage",
-    "username": "admin.mortgage",
-    "firstName": "Mortgage",
-    "lastName": "Admin",
-    "institutionType": "Mortgage Company",
-    "institutionName": "Cavmont Bank Mortgage",
-    "institutionId": "deacc4ab-c9ce-4166-bab9-02318673a105",
-    "roles": [
-      "MortgageAdmin"
-    ],
-    "permissions": [],
-    "isActive": true,
-    "isEmailVerified": true,
-    "isPhoneVerified": true,
-    "isIdentityVerified": true,
-    "trustScore": 95,
-    "createdAt": "2024-11-05T00:00:00Z",
-    "phoneNumber": "+260977000000",
-    "gender": "Other",
-    "nationality": "Zambian"
-  },
-  {
-    "userId": "7d8ed1c0-bd69-49a2-a77b-76e3fae8ea34",
-    "email": "mortgagemanager.mortgage",
-    "username": "mortgagemanager.mortgage",
-    "firstName": "Mortgage",
-    "lastName": "Manager",
-    "institutionType": "Mortgage Company",
-    "institutionName": "Cavmont Bank Mortgage",
-    "institutionId": "deacc4ab-c9ce-4166-bab9-02318673a105",
-    "roles": [
-      "MortgageManager"
-    ],
-    "permissions": [],
-    "isActive": true,
-    "isEmailVerified": true,
-    "isPhoneVerified": true,
-    "isIdentityVerified": true,
-    "trustScore": 95,
-    "createdAt": "2024-11-05T00:00:00Z",
-    "phoneNumber": "+260977000000",
-    "gender": "Other",
-    "nationality": "Zambian"
-  },
-  {
-    "userId": "d544d628-3589-485c-835f-80fbb02980d6",
-    "email": "loanofficer.mortgage",
-    "username": "loanofficer.mortgage",
-    "firstName": "Mortgage Loan",
-    "lastName": "Officer",
-    "institutionType": "Mortgage Company",
-    "institutionName": "Cavmont Bank Mortgage",
-    "institutionId": "deacc4ab-c9ce-4166-bab9-02318673a105",
-    "roles": [
-      "MortgageLoanOfficer"
-    ],
-    "permissions": [],
-    "isActive": true,
-    "isEmailVerified": true,
-    "isPhoneVerified": true,
-    "isIdentityVerified": true,
-    "trustScore": 95,
-    "createdAt": "2024-11-05T00:00:00Z",
-    "phoneNumber": "+260977000000",
-    "gender": "Other",
-    "nationality": "Zambian"
-  },
-  {
-    "userId": "f62a252f-3f6d-47d2-8039-97f9aade49f4",
-    "email": "valuation.mortgage",
-    "username": "valuation.mortgage",
-    "firstName": "Valuation",
-    "lastName": "Officer",
-    "institutionType": "Mortgage Company",
-    "institutionName": "Cavmont Bank Mortgage",
-    "institutionId": "deacc4ab-c9ce-4166-bab9-02318673a105",
-    "roles": [
-      "ValuationOfficer"
-    ],
-    "permissions": [],
-    "isActive": true,
-    "isEmailVerified": true,
-    "isPhoneVerified": true,
-    "isIdentityVerified": true,
-    "trustScore": 95,
-    "createdAt": "2024-11-05T00:00:00Z",
-    "phoneNumber": "+260977000000",
-    "gender": "Other",
-    "nationality": "Zambian"
-  },
-  {
-    "userId": "2c2e675f-d1b7-415c-87b0-943a7342efa9",
-    "email": "collections.mortgage",
-    "username": "collections.mortgage",
-    "firstName": "Collections",
-    "lastName": "Officer",
-    "institutionType": "Mortgage Company",
-    "institutionName": "Cavmont Bank Mortgage",
-    "institutionId": "deacc4ab-c9ce-4166-bab9-02318673a105",
-    "roles": [
-      "CollectionsOfficer"
-    ],
-    "permissions": [],
-    "isActive": true,
-    "isEmailVerified": true,
-    "isPhoneVerified": true,
-    "isIdentityVerified": true,
-    "trustScore": 95,
-    "createdAt": "2024-11-05T00:00:00Z",
-    "phoneNumber": "+260977000000",
-    "gender": "Other",
-    "nationality": "Zambian"
-  },
-  {
-    "userId": "29416e69-9d10-4a74-b2e8-d8d756108dcf",
-    "email": "compliance.mortgage",
-    "username": "compliance.mortgage",
-    "firstName": "Mortgage Compliance",
-    "lastName": "Officer",
-    "institutionType": "Mortgage Company",
-    "institutionName": "Cavmont Bank Mortgage",
-    "institutionId": "deacc4ab-c9ce-4166-bab9-02318673a105",
-    "roles": [
-      "MortgageComplianceOfficer"
-    ],
-    "permissions": [],
-    "isActive": true,
-    "isEmailVerified": true,
-    "isPhoneVerified": true,
-    "isIdentityVerified": true,
-    "trustScore": 95,
-    "createdAt": "2024-11-05T00:00:00Z",
-    "phoneNumber": "+260977000000",
-    "gender": "Other",
-    "nationality": "Zambian"
-  }
+﻿[
+    {
+        "userId":  "32438f3d-8a15-4495-8448-4376e5d0b084",
+        "email":  "collectionsofficer.mortgagecompany",
+        "username":  "collectionsofficer.mortgagecompany",
+        "firstName":  "Collections",
+        "lastName":  "Officer",
+        "institutionType":  "Mortgage Company",
+        "institutionName":  "Cavmont Bank Mortgage",
+        "institutionId":  "22a3ac6e-02b5-4cf6-9045-e7fc122c9292",
+        "roles":  [
+                      "CollectionsOfficer"
+                  ],
+        "permissions":  [
+
+                        ],
+        "isActive":  true,
+        "isEmailVerified":  true,
+        "isPhoneVerified":  true,
+        "isIdentityVerified":  true,
+        "trustScore":  95,
+        "createdAt":  "2023-09-13T00:00:00Z",
+        "phoneNumber":  "+260977000000",
+        "gender":  "Other",
+        "nationality":  "Zambian"
+    },
+    {
+        "userId":  "2bcc078b-5755-4edf-a1ad-0cfc13da0777",
+        "email":  "mortgageadmin.mortgagecompany",
+        "username":  "mortgageadmin.mortgagecompany",
+        "firstName":  "Mortgage",
+        "lastName":  "Admin",
+        "institutionType":  "Mortgage Company",
+        "institutionName":  "Cavmont Bank Mortgage",
+        "institutionId":  "f120954f-0c6b-4d36-8277-be68ebf9fcdc",
+        "roles":  [
+                      "MortgageAdmin"
+                  ],
+        "permissions":  [
+
+                        ],
+        "isActive":  true,
+        "isEmailVerified":  true,
+        "isPhoneVerified":  true,
+        "isIdentityVerified":  true,
+        "trustScore":  95,
+        "createdAt":  "2023-09-13T00:00:00Z",
+        "phoneNumber":  "+260977000000",
+        "gender":  "Other",
+        "nationality":  "Zambian"
+    },
+    {
+        "userId":  "ab9aa7ac-968a-4901-9c36-ab7a12b0939e",
+        "email":  "mortgagecomplianceofficer.mortgagecompany",
+        "username":  "mortgagecomplianceofficer.mortgagecompany",
+        "firstName":  "Mortgage",
+        "lastName":  "Officer",
+        "institutionType":  "Mortgage Company",
+        "institutionName":  "Cavmont Bank Mortgage",
+        "institutionId":  "177d9b3d-1570-4b27-ab71-d7cd9431ae19",
+        "roles":  [
+                      "MortgageComplianceOfficer"
+                  ],
+        "permissions":  [
+
+                        ],
+        "isActive":  true,
+        "isEmailVerified":  true,
+        "isPhoneVerified":  true,
+        "isIdentityVerified":  true,
+        "trustScore":  95,
+        "createdAt":  "2023-09-13T00:00:00Z",
+        "phoneNumber":  "+260977000000",
+        "gender":  "Other",
+        "nationality":  "Zambian"
+    },
+    {
+        "userId":  "3882f287-3d34-4c05-9e3d-3b9113d559e5",
+        "email":  "mortgageloanofficer.mortgagecompany",
+        "username":  "mortgageloanofficer.mortgagecompany",
+        "firstName":  "Mortgage",
+        "lastName":  "Officer",
+        "institutionType":  "Mortgage Company",
+        "institutionName":  "Cavmont Bank Mortgage",
+        "institutionId":  "30738deb-8489-4892-b300-e019b1d28840",
+        "roles":  [
+                      "MortgageLoanOfficer"
+                  ],
+        "permissions":  [
+
+                        ],
+        "isActive":  true,
+        "isEmailVerified":  true,
+        "isPhoneVerified":  true,
+        "isIdentityVerified":  true,
+        "trustScore":  95,
+        "createdAt":  "2023-09-13T00:00:00Z",
+        "phoneNumber":  "+260977000000",
+        "gender":  "Other",
+        "nationality":  "Zambian"
+    },
+    {
+        "userId":  "f7806c8a-3657-4456-b345-73045e11bbe3",
+        "email":  "mortgagemanager.mortgagecompany",
+        "username":  "mortgagemanager.mortgagecompany",
+        "firstName":  "Mortgage",
+        "lastName":  "Manager",
+        "institutionType":  "Mortgage Company",
+        "institutionName":  "Cavmont Bank Mortgage",
+        "institutionId":  "0b80afe7-103c-4fe7-b202-e0be5407a512",
+        "roles":  [
+                      "MortgageManager"
+                  ],
+        "permissions":  [
+
+                        ],
+        "isActive":  true,
+        "isEmailVerified":  true,
+        "isPhoneVerified":  true,
+        "isIdentityVerified":  true,
+        "trustScore":  95,
+        "createdAt":  "2023-09-13T00:00:00Z",
+        "phoneNumber":  "+260977000000",
+        "gender":  "Other",
+        "nationality":  "Zambian"
+    },
+    {
+        "userId":  "5f5adeb5-a9d9-44a1-9c11-89520ef7c04a",
+        "email":  "valuationofficer.mortgagecompany",
+        "username":  "valuationofficer.mortgagecompany",
+        "firstName":  "Valuation",
+        "lastName":  "Officer",
+        "institutionType":  "Mortgage Company",
+        "institutionName":  "Cavmont Bank Mortgage",
+        "institutionId":  "038b384a-77cc-45f2-9dad-1f5d6e3b8bfc",
+        "roles":  [
+                      "ValuationOfficer"
+                  ],
+        "permissions":  [
+
+                        ],
+        "isActive":  true,
+        "isEmailVerified":  true,
+        "isPhoneVerified":  true,
+        "isIdentityVerified":  true,
+        "trustScore":  95,
+        "createdAt":  "2023-09-13T00:00:00Z",
+        "phoneNumber":  "+260977000000",
+        "gender":  "Other",
+        "nationality":  "Zambian"
+    }
 ]
