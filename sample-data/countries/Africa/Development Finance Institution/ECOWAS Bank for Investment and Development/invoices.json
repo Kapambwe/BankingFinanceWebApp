@@ -1,5 +1,0 @@
-[
-  {"invoiceId":"EBID-INV-001","customerId":"eb-c001-1234-5678-abcd-ef1234567890","amount":25000000000.00,"currency":"XOF","status":"Paid","description":"Road Infrastructure Disbursement","issuedDate":"2025-09-01T00:00:00Z","paidDate":"2025-09-15T00:00:00Z"},
-  {"invoiceId":"EBID-INV-002","customerId":"eb-c003-3456-7890-cdef-123456789012","amount":12000000000.00,"currency":"XOF","status":"Paid","description":"Solar Power Plant Disbursement","issuedDate":"2025-10-30T00:00:00Z","paidDate":"2025-11-10T00:00:00Z"},
-  {"invoiceId":"EBID-INV-003","customerId":"eb-c004-4567-8901-defa-234567890123","amount":8000000000.00,"currency":"XOF","status":"Paid","description":"Telecom Expansion Finance","issuedDate":"2025-11-25T00:00:00Z","paidDate":"2025-12-05T00:00:00Z"}
-]

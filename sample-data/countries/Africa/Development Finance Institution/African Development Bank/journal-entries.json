@@ -1,7 +1,0 @@
-[
-  {"entryId":"AFDB-JE-001","date":"2025-09-15T00:00:00Z","description":"Loan Disbursement - Nigeria Infrastructure","debitAccount":"1100","creditAccount":"1000","amount":250000000.00,"currency":"USD","status":"Posted"},
-  {"entryId":"AFDB-JE-002","date":"2025-10-20T00:00:00Z","description":"Loan Disbursement - Kenya Transport","debitAccount":"1100","creditAccount":"1000","amount":180000000.00,"currency":"USD","status":"Posted"},
-  {"entryId":"AFDB-JE-003","date":"2025-11-05T00:00:00Z","description":"Loan Repayment Received - South Africa","debitAccount":"1000","creditAccount":"1100","amount":45000000.00,"currency":"USD","status":"Posted"},
-  {"entryId":"AFDB-JE-004","date":"2025-12-31T00:00:00Z","description":"Interest Income Accrual - Q4 2025","debitAccount":"1300","creditAccount":"4000","amount":462500000.00,"currency":"USD","status":"Posted"},
-  {"entryId":"AFDB-JE-005","date":"2025-12-31T00:00:00Z","description":"Interest Expense Accrual - Q4 2025","debitAccount":"5000","creditAccount":"2000","amount":300000000.00,"currency":"USD","status":"Posted"}
-]

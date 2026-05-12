@@ -1,3 +1,0 @@
-[
-  { "ChecklistId": "saob0001-0001-0001-0001-000000000001", "EmployeeId": "sa000001-0001-0001-0001-000000000010", "EmployeeName": "Mpho Mokoena",    "EmployeeNumber": "SB-EMP-0010", "DepartmentName": "Retail & Business Banking", "JobTitle": "Graduate Trainee", "StartDate": "2026-01-06T00:00:00", "Manager": "Thabo Nkosi",    "TotalTasks": 18, "CompletedTasks": 14, "IsComplete": false, "CreatedAt": "2026-01-06T00:00:00" }
-]
