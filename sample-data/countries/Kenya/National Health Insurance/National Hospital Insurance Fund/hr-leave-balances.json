@@ -1,0 +1,74 @@
+[
+  {
+    "leaveBalanceId": "lb500000-0001-0000-0000-0000000005001",
+    "employeeId": "e5000000-0001-0000-0000-0000000005001",
+    "employeeName": "Wanjiku Ndegwa",
+    "leaveType": "Annual",
+    "entitlementDays": 24,
+    "usedDays": 5,
+    "remainingDays": 19,
+    "year": 2025,
+    "currency": "KES",
+    "updatedAt": "2025-06-30T00:00:00Z"
+  },
+  {
+    "leaveBalanceId": "lb500000-0002-0000-0000-0000000005002",
+    "employeeId": "e5000000-0001-0000-0000-0000000005001",
+    "employeeName": "Wanjiku Ndegwa",
+    "leaveType": "Sick",
+    "entitlementDays": 15,
+    "usedDays": 2,
+    "remainingDays": 13,
+    "year": 2025,
+    "currency": "KES",
+    "updatedAt": "2025-06-30T00:00:00Z"
+  },
+  {
+    "leaveBalanceId": "lb500000-0003-0000-0000-0000000005003",
+    "employeeId": "e5000000-0001-0000-0000-0000000005001",
+    "employeeName": "Wanjiku Ndegwa",
+    "leaveType": "Maternity",
+    "entitlementDays": 90,
+    "usedDays": 0,
+    "remainingDays": 90,
+    "year": 2025,
+    "currency": "KES",
+    "updatedAt": "2025-06-30T00:00:00Z"
+  },
+  {
+    "leaveBalanceId": "lb500000-0004-0000-0000-0000000005004",
+    "employeeId": "e5000000-0002-0000-0000-0000000005002",
+    "employeeName": "Kamau Wanjiku",
+    "leaveType": "Annual",
+    "entitlementDays": 24,
+    "usedDays": 5,
+    "remainingDays": 19,
+    "year": 2025,
+    "currency": "KES",
+    "updatedAt": "2025-06-30T00:00:00Z"
+  },
+  {
+    "leaveBalanceId": "lb500000-0005-0000-0000-0000000005005",
+    "employeeId": "e5000000-0002-0000-0000-0000000005002",
+    "employeeName": "Kamau Wanjiku",
+    "leaveType": "Sick",
+    "entitlementDays": 15,
+    "usedDays": 2,
+    "remainingDays": 13,
+    "year": 2025,
+    "currency": "KES",
+    "updatedAt": "2025-06-30T00:00:00Z"
+  },
+  {
+    "leaveBalanceId": "lb500000-0006-0000-0000-0000000005006",
+    "employeeId": "e5000000-0002-0000-0000-0000000005002",
+    "employeeName": "Kamau Wanjiku",
+    "leaveType": "Maternity",
+    "entitlementDays": 90,
+    "usedDays": 0,
+    "remainingDays": 90,
+    "year": 2025,
+    "currency": "KES",
+    "updatedAt": "2025-06-30T00:00:00Z"
+  }
+]

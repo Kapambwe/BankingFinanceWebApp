@@ -1,0 +1,57 @@
+[
+  {
+    "userId": "usr400000-0001",
+    "username": "amaka.abiodun",
+    "fullName": "Amaka Abiodun",
+    "email": "amaka.abiodun@nhisng.gov.ng",
+    "role": "Admin",
+    "department": "Information Technology",
+    "isActive": true,
+    "lastLogin": "2025-12-21T08:00:00Z",
+    "createdAt": "2025-01-01T00:00:00Z"
+  },
+  {
+    "userId": "usr400000-0002",
+    "username": "tunde.eze",
+    "fullName": "Tunde Eze",
+    "email": "tunde.eze@nhisng.gov.ng",
+    "role": "Manager",
+    "department": "Claims Administration",
+    "isActive": true,
+    "lastLogin": "2025-12-22T08:00:00Z",
+    "createdAt": "2025-01-01T00:00:00Z"
+  },
+  {
+    "userId": "usr400000-0003",
+    "username": "ngozi.chukwu",
+    "fullName": "Ngozi Chukwu",
+    "email": "ngozi.chukwu@nhisng.gov.ng",
+    "role": "Operator",
+    "department": "Member Services",
+    "isActive": true,
+    "lastLogin": "2025-12-23T08:00:00Z",
+    "createdAt": "2025-01-01T00:00:00Z"
+  },
+  {
+    "userId": "usr400000-0004",
+    "username": "emeka.ibrahim",
+    "fullName": "Emeka Ibrahim",
+    "email": "emeka.ibrahim@nhisng.gov.ng",
+    "role": "Manager",
+    "department": "Finance & Accounts",
+    "isActive": true,
+    "lastLogin": "2025-12-24T08:00:00Z",
+    "createdAt": "2025-01-01T00:00:00Z"
+  },
+  {
+    "userId": "usr400000-0005",
+    "username": "funmi.okonkwo",
+    "fullName": "Funmi Okonkwo",
+    "email": "funmi.okonkwo@nhisng.gov.ng",
+    "role": "Operator",
+    "department": "Enrollment & Registration",
+    "isActive": true,
+    "lastLogin": "2025-12-25T08:00:00Z",
+    "createdAt": "2025-01-01T00:00:00Z"
+  }
+]

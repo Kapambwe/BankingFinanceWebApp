@@ -1,0 +1,205 @@
+[
+  {
+    "programId": "bcb5b3f1-885e-5290-ac4a-1419d6746fa6",
+    "programCode": "IDA-MW-GEN-2026-001",
+    "programName": "Malawi Women-Led Enterprise Finance Programme",
+    "institutionName": "International Development Association",
+    "countryCode": "MW",
+    "countryName": "Malawi",
+    "programType": "CreditGuaranteeFacility",
+    "facilityAmount": 10500000,
+    "guaranteeComponent": 2600000,
+    "technicalAssistanceComponent": 770000,
+    "currency": "USD",
+    "financialIntermediaryPartner": "National development bank",
+    "womenBeneficiaries": 1650,
+    "loansExtendedToWomen": 970,
+    "targetSectors": [
+      "Social Protection",
+      "Trade",
+      "Services"
+    ],
+    "status": "Active",
+    "eligibilityCriteria": [
+      "Women-owned or women-led enterprise",
+      "Operational business registration",
+      "Verified use of funds"
+    ],
+    "startDate": "2025-01-31T22:00:00Z",
+    "createdAt": "2024-12-31T22:00:00Z"
+  },
+  {
+    "programId": "f8bfb90f-a643-a268-edb1-c9011e6841e3",
+    "programCode": "IDA-NP-GEN-2026-002",
+    "programName": "Nepal Women-Led Enterprise Finance Programme",
+    "institutionName": "International Development Association",
+    "countryCode": "NP",
+    "countryName": "Nepal",
+    "programType": "CapacityBuildingProgram",
+    "facilityAmount": 13000000,
+    "guaranteeComponent": 3200000,
+    "technicalAssistanceComponent": 890000,
+    "currency": "USD",
+    "financialIntermediaryPartner": "Women enterprise fund",
+    "womenBeneficiaries": 2100,
+    "loansExtendedToWomen": 1190,
+    "targetSectors": [
+      "Agriculture",
+      "Trade",
+      "Services"
+    ],
+    "status": "Approved",
+    "eligibilityCriteria": [
+      "Women-owned or women-led enterprise",
+      "Operational business registration",
+      "Verified use of funds"
+    ],
+    "startDate": "2025-02-28T22:00:00Z",
+    "createdAt": "2025-01-01T22:00:00Z"
+  },
+  {
+    "programId": "5941fc57-d059-eea8-3832-72e776f71faa",
+    "programCode": "IDA-MZ-GEN-2026-003",
+    "programName": "Mozambique Women-Led Enterprise Finance Programme",
+    "institutionName": "International Development Association",
+    "countryCode": "MZ",
+    "countryName": "Mozambique",
+    "programType": "DigitalFinanceForWomen",
+    "facilityAmount": 15500000,
+    "guaranteeComponent": 3800000,
+    "technicalAssistanceComponent": 1010000,
+    "currency": "USD",
+    "financialIntermediaryPartner": "Commercial bank partner",
+    "womenBeneficiaries": 2550,
+    "loansExtendedToWomen": 1410,
+    "targetSectors": [
+      "Education",
+      "Trade",
+      "Services"
+    ],
+    "status": "Scaling",
+    "eligibilityCriteria": [
+      "Women-owned or women-led enterprise",
+      "Operational business registration",
+      "Verified use of funds"
+    ],
+    "startDate": "2025-03-31T22:00:00Z",
+    "createdAt": "2025-01-02T22:00:00Z"
+  },
+  {
+    "programId": "55794e49-f0a8-5cea-1e40-1c696de0970b",
+    "programCode": "IDA-RW-GEN-2026-004",
+    "programName": "Rwanda Women-Led Enterprise Finance Programme",
+    "institutionName": "International Development Association",
+    "countryCode": "RW",
+    "countryName": "Rwanda",
+    "programType": "MarketAccessProgram",
+    "facilityAmount": 18000000,
+    "guaranteeComponent": 4400000,
+    "technicalAssistanceComponent": 1130000,
+    "currency": "USD",
+    "financialIntermediaryPartner": "Microfinance network",
+    "womenBeneficiaries": 3000,
+    "loansExtendedToWomen": 1630,
+    "targetSectors": [
+      "Health",
+      "Trade",
+      "Services"
+    ],
+    "status": "Design",
+    "eligibilityCriteria": [
+      "Women-owned or women-led enterprise",
+      "Operational business registration",
+      "Verified use of funds"
+    ],
+    "startDate": "2025-04-30T22:00:00Z",
+    "createdAt": "2025-01-03T22:00:00Z"
+  },
+  {
+    "programId": "30bdb7fe-a6b4-2413-a6b3-268c0cf34068",
+    "programCode": "IDA-ET-GEN-2026-005",
+    "programName": "Ethiopia Women-Led Enterprise Finance Programme",
+    "institutionName": "International Development Association",
+    "countryCode": "ET",
+    "countryName": "Ethiopia",
+    "programType": "FinancialInstitutionSupport",
+    "facilityAmount": 20500000,
+    "guaranteeComponent": 5000000,
+    "technicalAssistanceComponent": 1250000,
+    "currency": "USD",
+    "financialIntermediaryPartner": "Digital finance provider",
+    "womenBeneficiaries": 3450,
+    "loansExtendedToWomen": 1850,
+    "targetSectors": [
+      "Rural Roads",
+      "Trade",
+      "Services"
+    ],
+    "status": "Completed",
+    "eligibilityCriteria": [
+      "Women-owned or women-led enterprise",
+      "Operational business registration",
+      "Verified use of funds"
+    ],
+    "startDate": "2025-05-31T22:00:00Z",
+    "createdAt": "2025-01-04T22:00:00Z"
+  },
+  {
+    "programId": "41607a8c-0568-c1b7-28fd-f2c4ca691ff1",
+    "programCode": "IDA-BD-GEN-2026-006",
+    "programName": "Bangladesh Women-Led Enterprise Finance Programme",
+    "institutionName": "International Development Association",
+    "countryCode": "BD",
+    "countryName": "Bangladesh",
+    "programType": "PolicyAndRegulation",
+    "facilityAmount": 23000000,
+    "guaranteeComponent": 5600000,
+    "technicalAssistanceComponent": 1370000,
+    "currency": "USD",
+    "financialIntermediaryPartner": "Cooperative apex body",
+    "womenBeneficiaries": 3900,
+    "loansExtendedToWomen": 2070,
+    "targetSectors": [
+      "Water and Sanitation",
+      "Trade",
+      "Services"
+    ],
+    "status": "Active",
+    "eligibilityCriteria": [
+      "Women-owned or women-led enterprise",
+      "Operational business registration",
+      "Verified use of funds"
+    ],
+    "startDate": "2025-06-30T22:00:00Z",
+    "createdAt": "2025-01-05T22:00:00Z"
+  },
+  {
+    "programId": "1e44d29a-5311-b7e1-afc8-9628b8e7b84b",
+    "programCode": "IDA-NE-GEN-2026-007",
+    "programName": "Niger Women-Led Enterprise Finance Programme",
+    "institutionName": "International Development Association",
+    "countryCode": "NE",
+    "countryName": "Niger",
+    "programType": "EquityAndVentureCapital",
+    "facilityAmount": 25500000,
+    "guaranteeComponent": 6200000,
+    "technicalAssistanceComponent": 1490000,
+    "currency": "USD",
+    "financialIntermediaryPartner": "Impact investment fund",
+    "womenBeneficiaries": 4350,
+    "loansExtendedToWomen": 2290,
+    "targetSectors": [
+      "Public Sector Governance",
+      "Trade",
+      "Services"
+    ],
+    "status": "Approved",
+    "eligibilityCriteria": [
+      "Women-owned or women-led enterprise",
+      "Operational business registration",
+      "Verified use of funds"
+    ],
+    "startDate": "2025-07-31T22:00:00Z",
+    "createdAt": "2025-01-06T22:00:00Z"
+  }
+]

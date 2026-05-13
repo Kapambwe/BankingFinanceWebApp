@@ -1,0 +1,67 @@
+[
+  {
+    "candidateId": "ca400000-0001-0000-0000-0000000004001",
+    "fullName": "Amaka Abiodun",
+    "email": "amaka.abiodun10@email.com",
+    "phone": "+234-9-2910001",
+    "appliedPosition": "Claims Officer",
+    "department": "Claims Administration",
+    "applicationDate": "2025-10-15",
+    "status": "Shortlisted",
+    "yearsExperience": 3,
+    "qualifications": "BCom Finance",
+    "createdAt": "2025-10-01T00:00:00Z"
+  },
+  {
+    "candidateId": "ca400000-0002-0000-0000-0000000004002",
+    "fullName": "Tunde Eze",
+    "email": "tunde.eze11@email.com",
+    "phone": "+234-9-2910002",
+    "appliedPosition": "Data Analyst",
+    "department": "Information Technology",
+    "applicationDate": "2025-11-01",
+    "status": "Interview Scheduled",
+    "yearsExperience": 4,
+    "qualifications": "BSc Computer Science",
+    "createdAt": "2025-10-02T00:00:00Z"
+  },
+  {
+    "candidateId": "ca400000-0003-0000-0000-0000000004003",
+    "fullName": "Ngozi Chukwu",
+    "email": "ngozi.chukwu12@email.com",
+    "phone": "+234-9-2910003",
+    "appliedPosition": "Medical Review Officer",
+    "department": "Medical Affairs",
+    "applicationDate": "2025-10-20",
+    "status": "Under Review",
+    "yearsExperience": 5,
+    "qualifications": "MBChB",
+    "createdAt": "2025-10-03T00:00:00Z"
+  },
+  {
+    "candidateId": "ca400000-0004-0000-0000-0000000004004",
+    "fullName": "Emeka Ibrahim",
+    "email": "emeka.ibrahim13@email.com",
+    "phone": "+234-9-2910004",
+    "appliedPosition": "Enrollment Officer",
+    "department": "Enrollment & Registration",
+    "applicationDate": "2025-11-15",
+    "status": "Shortlisted",
+    "yearsExperience": 6,
+    "qualifications": "BSc Public Health",
+    "createdAt": "2025-10-04T00:00:00Z"
+  },
+  {
+    "candidateId": "ca400000-0005-0000-0000-0000000004005",
+    "fullName": "Funmi Okonkwo",
+    "email": "funmi.okonkwo14@email.com",
+    "phone": "+234-9-2910005",
+    "appliedPosition": "Provider Relations Officer",
+    "department": "Provider Management",
+    "applicationDate": "2025-12-01",
+    "status": "Offer Extended",
+    "yearsExperience": 7,
+    "qualifications": "BCom Business Admin",
+    "createdAt": "2025-10-05T00:00:00Z"
+  }
+]

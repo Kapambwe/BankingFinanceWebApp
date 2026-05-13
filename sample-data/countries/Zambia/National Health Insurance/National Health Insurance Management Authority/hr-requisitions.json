@@ -1,0 +1,50 @@
+[
+  {
+    "requisitionId": "rq100000-0001-0000-0000-0000000001001",
+    "requisitionNumber": "REQ-1-2025-001",
+    "positionTitle": "Claims Officer",
+    "department": "Claims Administration",
+    "employmentType": "Permanent",
+    "salaryMin": 39560,
+    "salaryMax": 50340,
+    "currency": "ZMW",
+    "vacancies": 2,
+    "status": "Open",
+    "openedDate": "2025-10-01",
+    "closingDate": "2025-11-15",
+    "hiringManager": "Mutale Mutale",
+    "createdAt": "2025-10-01T00:00:00Z"
+  },
+  {
+    "requisitionId": "rq100000-0002-0000-0000-0000000001002",
+    "requisitionNumber": "REQ-1-2025-002",
+    "positionTitle": "Data Analyst",
+    "department": "Information Technology",
+    "employmentType": "Permanent",
+    "salaryMin": 39560,
+    "salaryMax": 50340,
+    "currency": "ZMW",
+    "vacancies": 1,
+    "status": "Open",
+    "openedDate": "2025-10-02",
+    "closingDate": "2025-11-16",
+    "hiringManager": "Mwamba Mwansa",
+    "createdAt": "2025-10-02T00:00:00Z"
+  },
+  {
+    "requisitionId": "rq100000-0003-0000-0000-0000000001003",
+    "requisitionNumber": "REQ-1-2025-003",
+    "positionTitle": "Medical Review Officer",
+    "department": "Medical Affairs",
+    "employmentType": "Contract",
+    "salaryMin": 39560,
+    "salaryMax": 50340,
+    "currency": "ZMW",
+    "vacancies": 1,
+    "status": "Open",
+    "openedDate": "2025-10-03",
+    "closingDate": "2025-11-17",
+    "hiringManager": "Mwansa Mulenga",
+    "createdAt": "2025-10-03T00:00:00Z"
+  }
+]

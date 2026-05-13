@@ -1,0 +1,198 @@
+[
+  {
+    "frameworkId": "2fce1299-abe2-3dfd-4e48-933a4bb8e937",
+    "frameworkTitle": "GIZ Cooperation Framework with Zambia",
+    "frameworkReference": "GIZ-FWK-2026-001",
+    "institutionA": "GIZ",
+    "institutionB": "Ministry of Finance and National Planning",
+    "frameworkType": "MemorandumOfUnderstanding",
+    "frameworkScope": "Joint programming, data exchange, investment preparation, implementation support and portfolio monitoring",
+    "coveredActivityAreas": [
+      "Technical Assistance",
+      "Portfolio Monitoring",
+      "Technical Assistance"
+    ],
+    "coveredRegions": [
+      "Southern Africa"
+    ],
+    "coveredCountries": [
+      "Zambia"
+    ],
+    "annualWorkProgramBudget": 1850000,
+    "currency": "EUR",
+    "activeEngagements": 3,
+    "completedEngagements": 1,
+    "status": "Active",
+    "signedDate": "2024-02-19T22:00:00Z",
+    "expiryDate": "2029-02-19T22:00:00Z",
+    "createdAt": "2023-12-31T22:00:00Z"
+  },
+  {
+    "frameworkId": "5d55a9e9-8fa9-bd39-d1c9-21e3bce137dc",
+    "frameworkTitle": "GIZ Cooperation Framework with Ghana",
+    "frameworkReference": "GIZ-FWK-2026-002",
+    "institutionA": "GIZ",
+    "institutionB": "Ministry of Finance",
+    "frameworkType": "CooperativeAgreement",
+    "frameworkScope": "Joint programming, data exchange, investment preparation, implementation support and portfolio monitoring",
+    "coveredActivityAreas": [
+      "Public Finance",
+      "Portfolio Monitoring",
+      "Technical Assistance"
+    ],
+    "coveredRegions": [
+      "West Africa"
+    ],
+    "coveredCountries": [
+      "Ghana"
+    ],
+    "annualWorkProgramBudget": 2200000,
+    "currency": "EUR",
+    "activeEngagements": 4,
+    "completedEngagements": 2,
+    "status": "Signed",
+    "signedDate": "2024-03-19T22:00:00Z",
+    "expiryDate": "2029-03-19T22:00:00Z",
+    "createdAt": "2024-01-01T22:00:00Z"
+  },
+  {
+    "frameworkId": "6e172e43-29b4-4be0-b603-a4f6c0bcc715",
+    "frameworkTitle": "GIZ Cooperation Framework with Rwanda",
+    "frameworkReference": "GIZ-FWK-2026-003",
+    "institutionA": "GIZ",
+    "institutionB": "Ministry of Finance and Economic Planning",
+    "frameworkType": "JointWorkProgram",
+    "frameworkScope": "Joint programming, data exchange, investment preparation, implementation support and portfolio monitoring",
+    "coveredActivityAreas": [
+      "Skills Development",
+      "Portfolio Monitoring",
+      "Technical Assistance"
+    ],
+    "coveredRegions": [
+      "East Africa"
+    ],
+    "coveredCountries": [
+      "Rwanda"
+    ],
+    "annualWorkProgramBudget": 2550000,
+    "currency": "EUR",
+    "activeEngagements": 5,
+    "completedEngagements": 3,
+    "status": "UnderRenewal",
+    "signedDate": "2024-04-19T22:00:00Z",
+    "expiryDate": "2029-04-19T22:00:00Z",
+    "createdAt": "2024-01-02T22:00:00Z"
+  },
+  {
+    "frameworkId": "b32de83a-320c-129e-bf45-8628a244a18e",
+    "frameworkTitle": "GIZ Cooperation Framework with Kenya",
+    "frameworkReference": "GIZ-FWK-2026-004",
+    "institutionA": "GIZ",
+    "institutionB": "National Treasury and Economic Planning",
+    "frameworkType": "DataSharingProtocol",
+    "frameworkScope": "Joint programming, data exchange, investment preparation, implementation support and portfolio monitoring",
+    "coveredActivityAreas": [
+      "Renewable Energy",
+      "Portfolio Monitoring",
+      "Technical Assistance"
+    ],
+    "coveredRegions": [
+      "East Africa"
+    ],
+    "coveredCountries": [
+      "Kenya"
+    ],
+    "annualWorkProgramBudget": 2900000,
+    "currency": "EUR",
+    "activeEngagements": 6,
+    "completedEngagements": 4,
+    "status": "Active",
+    "signedDate": "2024-05-19T22:00:00Z",
+    "expiryDate": "2029-05-19T22:00:00Z",
+    "createdAt": "2024-01-03T22:00:00Z"
+  },
+  {
+    "frameworkId": "77d9fb63-17d6-8449-1844-d9ba10b08c90",
+    "frameworkTitle": "GIZ Cooperation Framework with Namibia",
+    "frameworkReference": "GIZ-FWK-2026-005",
+    "institutionA": "GIZ",
+    "institutionB": "National Planning Commission",
+    "frameworkType": "JointFinancingFramework",
+    "frameworkScope": "Joint programming, data exchange, investment preparation, implementation support and portfolio monitoring",
+    "coveredActivityAreas": [
+      "Agriculture",
+      "Portfolio Monitoring",
+      "Technical Assistance"
+    ],
+    "coveredRegions": [
+      "Southern Africa"
+    ],
+    "coveredCountries": [
+      "Namibia"
+    ],
+    "annualWorkProgramBudget": 3250000,
+    "currency": "EUR",
+    "activeEngagements": 7,
+    "completedEngagements": 5,
+    "status": "Negotiation",
+    "signedDate": "2024-06-19T22:00:00Z",
+    "expiryDate": "2029-06-19T22:00:00Z",
+    "createdAt": "2024-01-04T22:00:00Z"
+  },
+  {
+    "frameworkId": "f7011775-0a01-dc0f-73ec-c4dd2db9f281",
+    "frameworkTitle": "GIZ Cooperation Framework with Malawi",
+    "frameworkReference": "GIZ-FWK-2026-006",
+    "institutionA": "GIZ",
+    "institutionB": "Ministry of Finance and Economic Affairs",
+    "frameworkType": "DelegationAgreement",
+    "frameworkScope": "Joint programming, data exchange, investment preparation, implementation support and portfolio monitoring",
+    "coveredActivityAreas": [
+      "Governance",
+      "Portfolio Monitoring",
+      "Technical Assistance"
+    ],
+    "coveredRegions": [
+      "Southern Africa"
+    ],
+    "coveredCountries": [
+      "Malawi"
+    ],
+    "annualWorkProgramBudget": 3600000,
+    "currency": "EUR",
+    "activeEngagements": 8,
+    "completedEngagements": 6,
+    "status": "Active",
+    "signedDate": "2024-07-19T22:00:00Z",
+    "expiryDate": "2029-07-19T22:00:00Z",
+    "createdAt": "2024-01-05T22:00:00Z"
+  },
+  {
+    "frameworkId": "234f9138-b02a-f703-9b18-eb30be3cffbf",
+    "frameworkTitle": "GIZ Cooperation Framework with Tanzania",
+    "frameworkReference": "GIZ-FWK-2026-007",
+    "institutionA": "GIZ",
+    "institutionB": "Ministry of Finance",
+    "frameworkType": "SecondmentAgreement",
+    "frameworkScope": "Joint programming, data exchange, investment preparation, implementation support and portfolio monitoring",
+    "coveredActivityAreas": [
+      "Private Sector Development",
+      "Portfolio Monitoring",
+      "Technical Assistance"
+    ],
+    "coveredRegions": [
+      "East Africa"
+    ],
+    "coveredCountries": [
+      "Tanzania"
+    ],
+    "annualWorkProgramBudget": 3950000,
+    "currency": "EUR",
+    "activeEngagements": 9,
+    "completedEngagements": 7,
+    "status": "Expired",
+    "signedDate": "2024-08-19T22:00:00Z",
+    "expiryDate": "2029-08-19T22:00:00Z",
+    "createdAt": "2024-01-06T22:00:00Z"
+  }
+]

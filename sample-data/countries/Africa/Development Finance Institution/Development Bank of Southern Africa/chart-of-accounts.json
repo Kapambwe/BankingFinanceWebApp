@@ -1,0 +1,13 @@
+[
+  {"accountCode":"1000","accountName":"Cash and Cash Equivalents","accountType":"Asset","balance":12000000000.00,"currency":"ZAR"},
+  {"accountCode":"1100","accountName":"Municipal Loans","accountType":"Asset","balance":45000000000.00,"currency":"ZAR"},
+  {"accountCode":"1200","accountName":"SADC Regional Loans","accountType":"Asset","balance":15000000000.00,"currency":"ZAR"},
+  {"accountCode":"1300","accountName":"SOE Loans","accountType":"Asset","balance":22000000000.00,"currency":"ZAR"},
+  {"accountCode":"2000","accountName":"Borrowings","accountType":"Liability","balance":68000000000.00,"currency":"ZAR"},
+  {"accountCode":"2100","accountName":"Government Grants Received","accountType":"Liability","balance":5000000000.00,"currency":"ZAR"},
+  {"accountCode":"3000","accountName":"Paid-in Capital","accountType":"Equity","balance":18000000000.00,"currency":"ZAR"},
+  {"accountCode":"4000","accountName":"Interest Income","accountType":"Revenue","balance":8200000000.00,"currency":"ZAR"},
+  {"accountCode":"4100","accountName":"Fee Income","accountType":"Revenue","balance":950000000.00,"currency":"ZAR"},
+  {"accountCode":"5000","accountName":"Interest Expense","accountType":"Expense","balance":5800000000.00,"currency":"ZAR"},
+  {"accountCode":"5100","accountName":"Administrative Expenses","accountType":"Expense","balance":1200000000.00,"currency":"ZAR"}
+]

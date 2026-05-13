@@ -1,0 +1,62 @@
+[
+  {
+    "reviewId": "rv300000-0001-0000-0000-0000000003001",
+    "employeeId": "e3000000-0001-0000-0000-0000000003001",
+    "employeeName": "Thabo Ndlovu",
+    "reviewPeriod": "2025",
+    "reviewType": "Annual",
+    "overallRating": "ExceedsExpectations",
+    "reviewerName": "Sipho Dlamini",
+    "completionDate": "2025-12-15",
+    "comments": "Performance review for Thabo Ndlovu for the year 2025.",
+    "createdAt": "2025-12-15T00:00:00Z"
+  },
+  {
+    "reviewId": "rv300000-0002-0000-0000-0000000003002",
+    "employeeId": "e3000000-0002-0000-0000-0000000003002",
+    "employeeName": "Nomvula Mthembu",
+    "reviewPeriod": "2025",
+    "reviewType": "Annual",
+    "overallRating": "MeetsExpectations",
+    "reviewerName": "Sipho Dlamini",
+    "completionDate": "2025-12-15",
+    "comments": "Performance review for Nomvula Mthembu for the year 2025.",
+    "createdAt": "2025-12-15T00:00:00Z"
+  },
+  {
+    "reviewId": "rv300000-0003-0000-0000-0000000003003",
+    "employeeId": "e3000000-0003-0000-0000-0000000003003",
+    "employeeName": "Sipho Zulu",
+    "reviewPeriod": "2025",
+    "reviewType": "Annual",
+    "overallRating": "MeetsExpectations",
+    "reviewerName": "Sipho Dlamini",
+    "completionDate": "2025-12-15",
+    "comments": "Performance review for Sipho Zulu for the year 2025.",
+    "createdAt": "2025-12-15T00:00:00Z"
+  },
+  {
+    "reviewId": "rv300000-0004-0000-0000-0000000003004",
+    "employeeId": "e3000000-0004-0000-0000-0000000003004",
+    "employeeName": "Lerato Mokoena",
+    "reviewPeriod": "2025",
+    "reviewType": "Annual",
+    "overallRating": "BelowExpectations",
+    "reviewerName": "Sipho Dlamini",
+    "completionDate": "2025-12-15",
+    "comments": "Performance review for Lerato Mokoena for the year 2025.",
+    "createdAt": "2025-12-15T00:00:00Z"
+  },
+  {
+    "reviewId": "rv300000-0005-0000-0000-0000000003005",
+    "employeeId": "e3000000-0005-0000-0000-0000000003005",
+    "employeeName": "Nkosi Sithole",
+    "reviewPeriod": "2025",
+    "reviewType": "Annual",
+    "overallRating": "ExceedsExpectations",
+    "reviewerName": "Sipho Dlamini",
+    "completionDate": "2025-12-15",
+    "comments": "Performance review for Nkosi Sithole for the year 2025.",
+    "createdAt": "2025-12-15T00:00:00Z"
+  }
+]

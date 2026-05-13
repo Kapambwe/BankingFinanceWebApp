@@ -1,0 +1,67 @@
+[
+  {
+    "benefitId": "bn500000-0001-0000-0000-0000000005001",
+    "employeeId": "e5000000-0001-0000-0000-0000000005001",
+    "employeeName": "Wanjiku Ndegwa",
+    "benefitType": "MedicalAid",
+    "provider": "AAR Health Insurance",
+    "contributionEmployee": 6062,
+    "contributionEmployer": 12125,
+    "currency": "KES",
+    "effectiveDate": "2025-01-01",
+    "isActive": true,
+    "createdAt": "2025-01-01T00:00:00Z"
+  },
+  {
+    "benefitId": "bn500000-0002-0000-0000-0000000005002",
+    "employeeId": "e5000000-0002-0000-0000-0000000005002",
+    "employeeName": "Kamau Wanjiku",
+    "benefitType": "Pension",
+    "provider": "Jubilee Health Insurance",
+    "contributionEmployee": 6977,
+    "contributionEmployer": 13955,
+    "currency": "KES",
+    "effectiveDate": "2025-01-01",
+    "isActive": true,
+    "createdAt": "2025-01-01T00:00:00Z"
+  },
+  {
+    "benefitId": "bn500000-0003-0000-0000-0000000005003",
+    "employeeId": "e5000000-0003-0000-0000-0000000005003",
+    "employeeName": "Otieno Kipchoge",
+    "benefitType": "LifeInsurance",
+    "provider": "Resolution Health East Africa",
+    "contributionEmployee": 7892,
+    "contributionEmployer": 15785,
+    "currency": "KES",
+    "effectiveDate": "2025-01-01",
+    "isActive": true,
+    "createdAt": "2025-01-01T00:00:00Z"
+  },
+  {
+    "benefitId": "bn500000-0004-0000-0000-0000000005004",
+    "employeeId": "e5000000-0004-0000-0000-0000000005004",
+    "employeeName": "Achieng Ochieng",
+    "benefitType": "HousingAllowance",
+    "provider": "NSSF",
+    "contributionEmployee": 8807,
+    "contributionEmployer": 17615,
+    "currency": "KES",
+    "effectiveDate": "2025-01-01",
+    "isActive": true,
+    "createdAt": "2025-01-01T00:00:00Z"
+  },
+  {
+    "benefitId": "bn500000-0005-0000-0000-0000000005005",
+    "employeeId": "e5000000-0005-0000-0000-0000000005005",
+    "employeeName": "Mwangi Mutua",
+    "benefitType": "TransportAllowance",
+    "provider": "Life Assurance Co",
+    "contributionEmployee": 9722,
+    "contributionEmployer": 19445,
+    "currency": "KES",
+    "effectiveDate": "2025-01-01",
+    "isActive": true,
+    "createdAt": "2025-01-01T00:00:00Z"
+  }
+]

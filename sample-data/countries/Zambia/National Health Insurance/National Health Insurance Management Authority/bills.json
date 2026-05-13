@@ -1,0 +1,67 @@
+[
+  {
+    "billId": "bill1000-0001",
+    "billNumber": "BILL-1-2025-0001",
+    "vendorName": "IBM Zambia",
+    "billType": "IT Services",
+    "billDate": "2025-10-01",
+    "dueDate": "2025-11-01",
+    "amount": 27.0,
+    "currency": "ZMW",
+    "status": "Paid",
+    "paidDate": "2025-10-15",
+    "createdAt": "2025-10-01T00:00:00Z"
+  },
+  {
+    "billId": "bill1000-0002",
+    "billNumber": "BILL-1-2025-0002",
+    "vendorName": "Microsoft Zambia",
+    "billType": "IT Maintenance",
+    "billDate": "2025-10-02",
+    "dueDate": "2025-11-02",
+    "amount": 20.0,
+    "currency": "ZMW",
+    "status": "Paid",
+    "paidDate": "2025-10-16",
+    "createdAt": "2025-10-02T00:00:00Z"
+  },
+  {
+    "billId": "bill1000-0003",
+    "billNumber": "BILL-1-2025-0003",
+    "vendorName": "Oracle Zambia",
+    "billType": "Software Licensing",
+    "billDate": "2025-10-03",
+    "dueDate": "2025-11-03",
+    "amount": 14.0,
+    "currency": "ZMW",
+    "status": "Pending",
+    "paidDate": null,
+    "createdAt": "2025-10-03T00:00:00Z"
+  },
+  {
+    "billId": "bill1000-0004",
+    "billNumber": "BILL-1-2025-0004",
+    "vendorName": "Prime Properties Lusaka",
+    "billType": "Office Rent",
+    "billDate": "2025-10-04",
+    "dueDate": "2025-11-04",
+    "amount": 34.0,
+    "currency": "ZMW",
+    "status": "Paid",
+    "paidDate": "2025-10-18",
+    "createdAt": "2025-10-04T00:00:00Z"
+  },
+  {
+    "billId": "bill1000-0005",
+    "billNumber": "BILL-1-2025-0005",
+    "vendorName": "National Utilities Zambia",
+    "billType": "Utilities",
+    "billDate": "2025-10-05",
+    "dueDate": "2025-11-05",
+    "amount": 7.0,
+    "currency": "ZMW",
+    "status": "Pending",
+    "paidDate": null,
+    "createdAt": "2025-10-05T00:00:00Z"
+  }
+]

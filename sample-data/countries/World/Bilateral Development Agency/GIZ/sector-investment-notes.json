@@ -1,0 +1,261 @@
+[
+  {
+    "noteId": "d3604fb8-cadf-1998-9964-9092621a1ea4",
+    "noteCode": "GIZ-ZM-SIN-2026-001",
+    "title": "Zambia Technical Assistance Sector Investment Note",
+    "producingInstitution": "GIZ",
+    "countryCode": "ZM",
+    "countryName": "Zambia",
+    "sector": "Technical Assistance",
+    "subSector": "Upstream pipeline",
+    "targetAudience": "MDB operations, government counterparts and co-financing partners",
+    "estimatedInvestmentNeed": 64000000,
+    "currency": "EUR",
+    "investmentPriorities": [
+      "Prepare investable project pipeline",
+      "Mobilise concessional and private finance",
+      "Strengthen implementation capacity"
+    ],
+    "financingGapsIdentified": [
+      "Early-stage preparation funding",
+      "Local currency long-term finance",
+      "Guarantee coverage"
+    ],
+    "policyConstraints": [
+      "Lengthy approvals",
+      "Tariff or pricing uncertainty",
+      "Data limitations"
+    ],
+    "recommendedInterventions": [
+      "Project preparation facility",
+      "Risk-sharing instrument",
+      "Policy dialogue and technical assistance"
+    ],
+    "authorLead": "Sector economist",
+    "status": "Published",
+    "preparedDate": "2026-02-20T22:00:00Z",
+    "createdAt": "2025-12-31T22:00:00Z"
+  },
+  {
+    "noteId": "673e6f96-2a43-4e81-69f3-b7b7b0fda56c",
+    "noteCode": "GIZ-GH-SIN-2026-002",
+    "title": "Ghana Public Finance Sector Investment Note",
+    "producingInstitution": "GIZ",
+    "countryCode": "GH",
+    "countryName": "Ghana",
+    "sector": "Public Finance",
+    "subSector": "Last-mile delivery",
+    "targetAudience": "MDB operations, government counterparts and co-financing partners",
+    "estimatedInvestmentNeed": 73000000,
+    "currency": "EUR",
+    "investmentPriorities": [
+      "Prepare investable project pipeline",
+      "Mobilise concessional and private finance",
+      "Strengthen implementation capacity"
+    ],
+    "financingGapsIdentified": [
+      "Early-stage preparation funding",
+      "Local currency long-term finance",
+      "Guarantee coverage"
+    ],
+    "policyConstraints": [
+      "Lengthy approvals",
+      "Tariff or pricing uncertainty",
+      "Data limitations"
+    ],
+    "recommendedInterventions": [
+      "Project preparation facility",
+      "Risk-sharing instrument",
+      "Policy dialogue and technical assistance"
+    ],
+    "authorLead": "Investment officer",
+    "status": "PeerReview",
+    "preparedDate": "2026-03-20T22:00:00Z",
+    "createdAt": "2026-01-01T22:00:00Z"
+  },
+  {
+    "noteId": "020a583d-7ae2-59d1-a1a3-469384770326",
+    "noteCode": "GIZ-RW-SIN-2026-003",
+    "title": "Rwanda Skills Development Sector Investment Note",
+    "producingInstitution": "GIZ",
+    "countryCode": "RW",
+    "countryName": "Rwanda",
+    "sector": "Skills Development",
+    "subSector": "Policy reform",
+    "targetAudience": "MDB operations, government counterparts and co-financing partners",
+    "estimatedInvestmentNeed": 82000000,
+    "currency": "EUR",
+    "investmentPriorities": [
+      "Prepare investable project pipeline",
+      "Mobilise concessional and private finance",
+      "Strengthen implementation capacity"
+    ],
+    "financingGapsIdentified": [
+      "Early-stage preparation funding",
+      "Local currency long-term finance",
+      "Guarantee coverage"
+    ],
+    "policyConstraints": [
+      "Lengthy approvals",
+      "Tariff or pricing uncertainty",
+      "Data limitations"
+    ],
+    "recommendedInterventions": [
+      "Project preparation facility",
+      "Risk-sharing instrument",
+      "Policy dialogue and technical assistance"
+    ],
+    "authorLead": "Country economist",
+    "status": "Draft",
+    "preparedDate": "2026-04-20T22:00:00Z",
+    "createdAt": "2026-01-02T22:00:00Z"
+  },
+  {
+    "noteId": "0bf5e921-ae41-a42b-d7db-dbe8285d5444",
+    "noteCode": "GIZ-KE-SIN-2026-004",
+    "title": "Kenya Renewable Energy Sector Investment Note",
+    "producingInstitution": "GIZ",
+    "countryCode": "KE",
+    "countryName": "Kenya",
+    "sector": "Renewable Energy",
+    "subSector": "Market access",
+    "targetAudience": "MDB operations, government counterparts and co-financing partners",
+    "estimatedInvestmentNeed": 91000000,
+    "currency": "EUR",
+    "investmentPriorities": [
+      "Prepare investable project pipeline",
+      "Mobilise concessional and private finance",
+      "Strengthen implementation capacity"
+    ],
+    "financingGapsIdentified": [
+      "Early-stage preparation funding",
+      "Local currency long-term finance",
+      "Guarantee coverage"
+    ],
+    "policyConstraints": [
+      "Lengthy approvals",
+      "Tariff or pricing uncertainty",
+      "Data limitations"
+    ],
+    "recommendedInterventions": [
+      "Project preparation facility",
+      "Risk-sharing instrument",
+      "Policy dialogue and technical assistance"
+    ],
+    "authorLead": "Climate finance analyst",
+    "status": "Published",
+    "preparedDate": "2026-05-20T22:00:00Z",
+    "createdAt": "2026-01-03T22:00:00Z"
+  },
+  {
+    "noteId": "9ef1231a-00bc-a39e-4a16-55cf483eaade",
+    "noteCode": "GIZ-NA-SIN-2026-005",
+    "title": "Namibia Agriculture Sector Investment Note",
+    "producingInstitution": "GIZ",
+    "countryCode": "NA",
+    "countryName": "Namibia",
+    "sector": "Agriculture",
+    "subSector": "Infrastructure services",
+    "targetAudience": "MDB operations, government counterparts and co-financing partners",
+    "estimatedInvestmentNeed": 100000000,
+    "currency": "EUR",
+    "investmentPriorities": [
+      "Prepare investable project pipeline",
+      "Mobilise concessional and private finance",
+      "Strengthen implementation capacity"
+    ],
+    "financingGapsIdentified": [
+      "Early-stage preparation funding",
+      "Local currency long-term finance",
+      "Guarantee coverage"
+    ],
+    "policyConstraints": [
+      "Lengthy approvals",
+      "Tariff or pricing uncertainty",
+      "Data limitations"
+    ],
+    "recommendedInterventions": [
+      "Project preparation facility",
+      "Risk-sharing instrument",
+      "Policy dialogue and technical assistance"
+    ],
+    "authorLead": "Private sector specialist",
+    "status": "Archived",
+    "preparedDate": "2026-06-20T22:00:00Z",
+    "createdAt": "2026-01-04T22:00:00Z"
+  },
+  {
+    "noteId": "2899bcfe-fba0-c06d-9ad9-6637b6cd34c7",
+    "noteCode": "GIZ-MW-SIN-2026-006",
+    "title": "Malawi Governance Sector Investment Note",
+    "producingInstitution": "GIZ",
+    "countryCode": "MW",
+    "countryName": "Malawi",
+    "sector": "Governance",
+    "subSector": "Digital systems",
+    "targetAudience": "MDB operations, government counterparts and co-financing partners",
+    "estimatedInvestmentNeed": 109000000,
+    "currency": "EUR",
+    "investmentPriorities": [
+      "Prepare investable project pipeline",
+      "Mobilise concessional and private finance",
+      "Strengthen implementation capacity"
+    ],
+    "financingGapsIdentified": [
+      "Early-stage preparation funding",
+      "Local currency long-term finance",
+      "Guarantee coverage"
+    ],
+    "policyConstraints": [
+      "Lengthy approvals",
+      "Tariff or pricing uncertainty",
+      "Data limitations"
+    ],
+    "recommendedInterventions": [
+      "Project preparation facility",
+      "Risk-sharing instrument",
+      "Policy dialogue and technical assistance"
+    ],
+    "authorLead": "Agriculture finance lead",
+    "status": "Published",
+    "preparedDate": "2026-07-20T22:00:00Z",
+    "createdAt": "2026-01-05T22:00:00Z"
+  },
+  {
+    "noteId": "e00309ea-ecba-5b51-881b-90c988e7f0ec",
+    "noteCode": "GIZ-TZ-SIN-2026-007",
+    "title": "Tanzania Private Sector Development Sector Investment Note",
+    "producingInstitution": "GIZ",
+    "countryCode": "TZ",
+    "countryName": "Tanzania",
+    "sector": "Private Sector Development",
+    "subSector": "Climate adaptation",
+    "targetAudience": "MDB operations, government counterparts and co-financing partners",
+    "estimatedInvestmentNeed": 118000000,
+    "currency": "EUR",
+    "investmentPriorities": [
+      "Prepare investable project pipeline",
+      "Mobilise concessional and private finance",
+      "Strengthen implementation capacity"
+    ],
+    "financingGapsIdentified": [
+      "Early-stage preparation funding",
+      "Local currency long-term finance",
+      "Guarantee coverage"
+    ],
+    "policyConstraints": [
+      "Lengthy approvals",
+      "Tariff or pricing uncertainty",
+      "Data limitations"
+    ],
+    "recommendedInterventions": [
+      "Project preparation facility",
+      "Risk-sharing instrument",
+      "Policy dialogue and technical assistance"
+    ],
+    "authorLead": "Infrastructure advisor",
+    "status": "PeerReview",
+    "preparedDate": "2026-08-20T22:00:00Z",
+    "createdAt": "2026-01-06T22:00:00Z"
+  }
+]

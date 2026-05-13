@@ -1,0 +1,120 @@
+{
+  "institutionType": "Citizen Empowerment Agency",
+  "institutionName": "Citizens Economic Empowerment Commission",
+  "country": "Zambia",
+  "description": "Role-to-permission mapping for CEEC test login users. The Admin role includes Development Finance Institution administrator permissions.",
+  "version": "1.0.0",
+  "roles": [
+    {
+      "roleName": "Admin",
+      "permissions": [
+        "Banking.Access",
+        "Banking.Dashboard.View",
+        "Banking.Documents.View",
+        "Banking.CEEC.View",
+        "Banking.CEEC.Dashboard",
+        "Banking.CEEC.Loans.View",
+        "Banking.CEEC.Loans.ManageLoans",
+        "Banking.CEEC.Loans.ProcessApplications",
+        "Banking.CEEC.Monitoring.View",
+        "Banking.CEEC.Monitoring.MonitorBeneficiaries",
+        "Banking.EmpowermentAgency.View",
+        "Banking.EmpowermentAgency.EmpowermentFund.View",
+        "Banking.EmpowermentAgency.EmpowermentFund.Manage",
+        "Banking.EmpowermentAgency.BDS.View",
+        "Banking.EmpowermentAgency.BDS.Manage",
+        "Banking.EmpowermentAgency.Compliance.View",
+        "Banking.EmpowermentAgency.Compliance.Manage",
+        "Banking.EmpowermentAgency.ValueChain.View",
+        "Banking.EmpowermentAgency.ValueChain.Manage",
+        "Banking.EmpowermentAgency.Impact.View",
+        "Banking.EmpowermentAgency.Impact.Manage",
+        "Banking.Government.View",
+        "Banking.Government.Dashboard",
+        "Banking.Government.Budgets.View",
+        "Banking.Government.Budgets.Manage",
+        "Banking.Government.SovereignLending.View",
+        "Banking.Government.SovereignLending.Manage",
+        "Banking.Government.Grants.View",
+        "Banking.Government.Grants.Manage",
+        "Banking.Government.CommunityDevelopment.View",
+        "Banking.Government.SocialProtection.View",
+        "Banking.Government.PFM.View",
+        "Banking.Government.Procurement.View",
+        "Banking.Government.ME.View",
+        "Banking.Loans.View",
+        "Banking.Loans.Create",
+        "Banking.Loans.Approve",
+        "Banking.Analytics.View",
+        "Banking.Documents.Manage"
+      ]
+    },
+    {
+      "roleName": "Loans Supervisor",
+      "permissions": [
+        "Banking.Access",
+        "Banking.Dashboard.View",
+        "Banking.Documents.View",
+        "Banking.CEEC.View",
+        "Banking.CEEC.Dashboard",
+        "Banking.CEEC.Loans.View",
+        "Banking.CEEC.Loans.ManageLoans",
+        "Banking.CEEC.Loans.ProcessApplications",
+        "Banking.EmpowermentAgency.View",
+        "Banking.EmpowermentAgency.EmpowermentFund.View",
+        "Banking.EmpowermentAgency.EmpowermentFund.Manage",
+        "Banking.Loans.View",
+        "Banking.Loans.Approve"
+      ]
+    },
+    {
+      "roleName": "BDS Officer",
+      "permissions": [
+        "Banking.Access",
+        "Banking.Dashboard.View",
+        "Banking.Documents.View",
+        "Banking.CEEC.View",
+        "Banking.CEEC.Dashboard",
+        "Banking.CEEC.Loans.View",
+        "Banking.EmpowermentAgency.View",
+        "Banking.EmpowermentAgency.BDS.View",
+        "Banking.EmpowermentAgency.BDS.Manage",
+        "Banking.Analytics.View"
+      ]
+    },
+    {
+      "roleName": "Compliance Officer",
+      "permissions": [
+        "Banking.Access",
+        "Banking.Dashboard.View",
+        "Banking.Documents.View",
+        "Banking.CEEC.View",
+        "Banking.CEEC.Dashboard",
+        "Banking.EmpowermentAgency.View",
+        "Banking.EmpowermentAgency.Compliance.View",
+        "Banking.EmpowermentAgency.Compliance.Manage",
+        "Banking.EmpowermentAgency.Certificate.Issue",
+        "Banking.EmpowermentAgency.Compliance.Inspect",
+        "Banking.RiskCompliance.View",
+        "Banking.RiskCompliance.ViewComplianceReports"
+      ]
+    },
+    {
+      "roleName": "Impact Analyst",
+      "permissions": [
+        "Banking.Access",
+        "Banking.Dashboard.View",
+        "Banking.Documents.View",
+        "Banking.CEEC.View",
+        "Banking.CEEC.Dashboard",
+        "Banking.CEEC.Monitoring.View",
+        "Banking.CEEC.Monitoring.MonitorBeneficiaries",
+        "Banking.EmpowermentAgency.View",
+        "Banking.EmpowermentAgency.Impact.View",
+        "Banking.EmpowermentAgency.Impact.Manage",
+        "Banking.Analytics.View",
+        "Banking.Analytics.ViewAdvanced"
+      ]
+    }
+  ]
+}

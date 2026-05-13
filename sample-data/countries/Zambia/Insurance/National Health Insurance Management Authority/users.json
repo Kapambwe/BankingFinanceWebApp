@@ -1,0 +1,202 @@
+﻿[
+    {
+        "userId":  "a38ae1fa-9d52-4d18-a67d-c360bca6c1f5",
+        "email":  "actuary.insurance",
+        "username":  "actuary.insurance",
+        "firstName":  "A",
+        "lastName":  "Actuary",
+        "institutionType":  "Insurance",
+        "institutionName":  "National Health Insurance Management Authority",
+        "institutionId":  "145cb9b1-9876-4082-bcbe-0258ebfbeaf1",
+        "roles":  [
+                      "Actuary"
+                  ],
+        "permissions":  [
+
+                        ],
+        "isActive":  true,
+        "isEmailVerified":  true,
+        "isPhoneVerified":  true,
+        "isIdentityVerified":  true,
+        "trustScore":  95,
+        "createdAt":  "2023-09-13T00:00:00Z",
+        "phoneNumber":  "+260977000000",
+        "gender":  "Other",
+        "nationality":  "Zambian"
+    },
+    {
+        "userId":  "ced7d030-31a1-4369-8f26-e2fbb1242a42",
+        "email":  "bancassuranceofficer.insurance",
+        "username":  "bancassuranceofficer.insurance",
+        "firstName":  "Bancassurance",
+        "lastName":  "Officer",
+        "institutionType":  "Insurance",
+        "institutionName":  "National Health Insurance Management Authority",
+        "institutionId":  "c32e0851-d755-46ff-b164-869f76f18834",
+        "roles":  [
+                      "BancassuranceOfficer"
+                  ],
+        "permissions":  [
+
+                        ],
+        "isActive":  true,
+        "isEmailVerified":  true,
+        "isPhoneVerified":  true,
+        "isIdentityVerified":  true,
+        "trustScore":  95,
+        "createdAt":  "2023-09-13T00:00:00Z",
+        "phoneNumber":  "+260977000000",
+        "gender":  "Other",
+        "nationality":  "Zambian"
+    },
+    {
+        "userId":  "c1a68c62-5903-4809-906e-f69d902fc510",
+        "email":  "claimsmanager.insurance",
+        "username":  "claimsmanager.insurance",
+        "firstName":  "Claims",
+        "lastName":  "Manager",
+        "institutionType":  "Insurance",
+        "institutionName":  "National Health Insurance Management Authority",
+        "institutionId":  "acaeacdc-5176-4181-952e-5a668f2fcbf4",
+        "roles":  [
+                      "ClaimsManager"
+                  ],
+        "permissions":  [
+
+                        ],
+        "isActive":  true,
+        "isEmailVerified":  true,
+        "isPhoneVerified":  true,
+        "isIdentityVerified":  true,
+        "trustScore":  95,
+        "createdAt":  "2023-09-13T00:00:00Z",
+        "phoneNumber":  "+260977000000",
+        "gender":  "Other",
+        "nationality":  "Zambian"
+    },
+    {
+        "userId":  "8bb80c8b-6587-4a79-824f-e8aca0c60911",
+        "email":  "claimsofficer.insurance",
+        "username":  "claimsofficer.insurance",
+        "firstName":  "Claims",
+        "lastName":  "Officer",
+        "institutionType":  "Insurance",
+        "institutionName":  "National Health Insurance Management Authority",
+        "institutionId":  "3056d17e-e90f-441e-88d6-b56b442ee7a5",
+        "roles":  [
+                      "ClaimsOfficer"
+                  ],
+        "permissions":  [
+
+                        ],
+        "isActive":  true,
+        "isEmailVerified":  true,
+        "isPhoneVerified":  true,
+        "isIdentityVerified":  true,
+        "trustScore":  95,
+        "createdAt":  "2023-09-13T00:00:00Z",
+        "phoneNumber":  "+260977000000",
+        "gender":  "Other",
+        "nationality":  "Zambian"
+    },
+    {
+        "userId":  "b886ccd0-6742-4db8-bd4f-5aa08f0e95c1",
+        "email":  "insuranceadmin.insurance",
+        "username":  "insuranceadmin.insurance",
+        "firstName":  "Insurance",
+        "lastName":  "Admin",
+        "institutionType":  "Insurance",
+        "institutionName":  "National Health Insurance Management Authority",
+        "institutionId":  "ddc6c685-b39b-4dd7-a7c9-3cb7e2d15004",
+        "roles":  [
+                      "InsuranceAdmin"
+                  ],
+        "permissions":  [
+
+                        ],
+        "isActive":  true,
+        "isEmailVerified":  true,
+        "isPhoneVerified":  true,
+        "isIdentityVerified":  true,
+        "trustScore":  95,
+        "createdAt":  "2023-09-13T00:00:00Z",
+        "phoneNumber":  "+260977000000",
+        "gender":  "Other",
+        "nationality":  "Zambian"
+    },
+    {
+        "userId":  "0239dd5f-a26e-4f83-89ed-12cd5a9107a7",
+        "email":  "insurancecomplianceofficer.insurance",
+        "username":  "insurancecomplianceofficer.insurance",
+        "firstName":  "Insurance",
+        "lastName":  "Officer",
+        "institutionType":  "Insurance",
+        "institutionName":  "National Health Insurance Management Authority",
+        "institutionId":  "928e684e-38b1-49e7-aad4-4ea75365b153",
+        "roles":  [
+                      "InsuranceComplianceOfficer"
+                  ],
+        "permissions":  [
+
+                        ],
+        "isActive":  true,
+        "isEmailVerified":  true,
+        "isPhoneVerified":  true,
+        "isIdentityVerified":  true,
+        "trustScore":  95,
+        "createdAt":  "2023-09-13T00:00:00Z",
+        "phoneNumber":  "+260977000000",
+        "gender":  "Other",
+        "nationality":  "Zambian"
+    },
+    {
+        "userId":  "563f322b-852e-4b89-848f-3c7b7e2a6f6d",
+        "email":  "reinsuranceofficer.insurance",
+        "username":  "reinsuranceofficer.insurance",
+        "firstName":  "Reinsurance",
+        "lastName":  "Officer",
+        "institutionType":  "Insurance",
+        "institutionName":  "National Health Insurance Management Authority",
+        "institutionId":  "3cf989c7-ec9a-4214-b614-4767d3296103",
+        "roles":  [
+                      "ReinsuranceOfficer"
+                  ],
+        "permissions":  [
+
+                        ],
+        "isActive":  true,
+        "isEmailVerified":  true,
+        "isPhoneVerified":  true,
+        "isIdentityVerified":  true,
+        "trustScore":  95,
+        "createdAt":  "2023-09-13T00:00:00Z",
+        "phoneNumber":  "+260977000000",
+        "gender":  "Other",
+        "nationality":  "Zambian"
+    },
+    {
+        "userId":  "30147176-41cf-4af1-8cc3-ff2be2c2c596",
+        "email":  "underwriter.insurance",
+        "username":  "underwriter.insurance",
+        "firstName":  "U",
+        "lastName":  "Underwriter",
+        "institutionType":  "Insurance",
+        "institutionName":  "National Health Insurance Management Authority",
+        "institutionId":  "92ab67a3-f6f4-44bc-9356-ea9f4030fd27",
+        "roles":  [
+                      "Underwriter"
+                  ],
+        "permissions":  [
+
+                        ],
+        "isActive":  true,
+        "isEmailVerified":  true,
+        "isPhoneVerified":  true,
+        "isIdentityVerified":  true,
+        "trustScore":  95,
+        "createdAt":  "2023-09-13T00:00:00Z",
+        "phoneNumber":  "+260977000000",
+        "gender":  "Other",
+        "nationality":  "Zambian"
+    }
+]

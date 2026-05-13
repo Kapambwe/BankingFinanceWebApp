@@ -1,0 +1,80 @@
+[
+  {
+    "ruleId": 1,
+    "ruleName": "Bills BWP 340,000\u20133,400,000 require Investment Manager approval",
+    "type": "Bill",
+    "minAmount": 340000,
+    "maxAmount": 3400000,
+    "approverId": "manager@securitiesex.co",
+    "approverName": "Investment Manager",
+    "level": 1,
+    "isActive": true,
+    "autoApproveBelow": false,
+    "notes": "Standard operational expenditure threshold"
+  },
+  {
+    "ruleId": 2,
+    "ruleName": "Bills above BWP 3,400,000 require Chief Investment Officer approval",
+    "type": "Bill",
+    "minAmount": 3400000,
+    "maxAmount": null,
+    "approverId": "cfo@securitiesex.co",
+    "approverName": "Chief Investment Officer",
+    "level": 2,
+    "isActive": true,
+    "autoApproveBelow": false,
+    "notes": "Capital expenditure and large operational bills"
+  },
+  {
+    "ruleId": 3,
+    "ruleName": "Bills above BWP 13,700,000 require Managing Director approval",
+    "type": "Bill",
+    "minAmount": 13700000,
+    "maxAmount": null,
+    "approverId": "ceo@securitiesex.co",
+    "approverName": "Managing Director",
+    "level": 3,
+    "isActive": true,
+    "autoApproveBelow": false,
+    "notes": "Strategic vendor contracts and major capital expenditure"
+  },
+  {
+    "ruleId": 4,
+    "ruleName": "Journal entries above BWP 1,700,000 require Chief Investment Officer approval",
+    "type": "JournalEntry",
+    "minAmount": 1700000.0,
+    "maxAmount": null,
+    "approverId": "controller@securitiesex.co",
+    "approverName": "Financial Controller",
+    "level": 1,
+    "isActive": true,
+    "autoApproveBelow": false,
+    "notes": "SOX control \u2014 manual journal entries above threshold"
+  },
+  {
+    "ruleId": 5,
+    "ruleName": "Payments below BWP 170,000 auto-approved",
+    "type": "Payment",
+    "minAmount": 0,
+    "maxAmount": 170000,
+    "approverId": "system@securitiesex.co",
+    "approverName": "System",
+    "level": 1,
+    "isActive": true,
+    "autoApproveBelow": true,
+    "notes": "Petty cash and minor operational payments"
+  },
+  {
+    "ruleId": 6,
+    "ruleName": "Budget changes above BWP 3,400,000 require Chief Investment Officer approval",
+    "type": "BudgetChange",
+    "minAmount": 3400000,
+    "maxAmount": null,
+    "approverId": "cfo@securitiesex.co",
+    "approverName": "Chief Investment Officer",
+    "level": 2,
+    "isActive": true,
+    "autoApproveBelow": false,
+    "notes": "Budget revisions require justification memo"
+  }
+]

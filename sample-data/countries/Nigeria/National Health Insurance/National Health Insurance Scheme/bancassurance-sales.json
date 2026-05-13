@@ -1,0 +1,72 @@
+[
+  {
+    "saleId": "bs400000-0001",
+    "partnerId": "bp400000-0001",
+    "partnerName": "GTBank",
+    "memberName": "Chukwuemeka Nwosu",
+    "memberSchemeNumber": "MBR-4-000001",
+    "contributionAmount": 72800.0,
+    "currency": "NGN",
+    "paymentDate": "2025-10-01",
+    "collectionMethod": "Direct Debit",
+    "status": "Collected",
+    "commissionPaid": 1092.0,
+    "createdAt": "2025-10-01T00:00:00Z"
+  },
+  {
+    "saleId": "bs400000-0002",
+    "partnerId": "bp400000-0002",
+    "partnerName": "Zenith Bank",
+    "memberName": "Amaka Abiodun",
+    "memberSchemeNumber": "MBR-4-000002",
+    "contributionAmount": 87360.0,
+    "currency": "NGN",
+    "paymentDate": "2025-10-01",
+    "collectionMethod": "Standing Order",
+    "status": "Collected",
+    "commissionPaid": 1048.0,
+    "createdAt": "2025-10-01T00:00:00Z"
+  },
+  {
+    "saleId": "bs400000-0003",
+    "partnerId": "bp400000-0003",
+    "partnerName": "Access Bank Nigeria",
+    "memberName": "Tunde Eze",
+    "memberSchemeNumber": "MBR-4-000003",
+    "contributionAmount": 58240.0,
+    "currency": "NGN",
+    "paymentDate": "2025-10-01",
+    "collectionMethod": "Mobile Banking",
+    "status": "Collected",
+    "commissionPaid": 582.0,
+    "createdAt": "2025-10-01T00:00:00Z"
+  },
+  {
+    "saleId": "bs400000-0004",
+    "partnerId": "bp400000-0001",
+    "partnerName": "GTBank",
+    "memberName": "Ngozi Chukwu",
+    "memberSchemeNumber": "MBR-4-000004",
+    "contributionAmount": 109200.0,
+    "currency": "NGN",
+    "paymentDate": "2025-11-01",
+    "collectionMethod": "Direct Debit",
+    "status": "Collected",
+    "commissionPaid": 1638.0,
+    "createdAt": "2025-11-01T00:00:00Z"
+  },
+  {
+    "saleId": "bs400000-0005",
+    "partnerId": "bp400000-0002",
+    "partnerName": "Zenith Bank",
+    "memberName": "Emeka Ibrahim",
+    "memberSchemeNumber": "MBR-4-000005",
+    "contributionAmount": 65520.0,
+    "currency": "NGN",
+    "paymentDate": "2025-11-01",
+    "collectionMethod": "Standing Order",
+    "status": "Collected",
+    "commissionPaid": 786.0,
+    "createdAt": "2025-11-01T00:00:00Z"
+  }
+]

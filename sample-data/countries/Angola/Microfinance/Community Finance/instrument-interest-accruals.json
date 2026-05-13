@@ -1,0 +1,68 @@
+[
+  {
+    "instrumentId": "LOAN-001",
+    "instrumentReference": "Carlos \u2014 Community Finan",
+    "instrumentType": "Loan",
+    "outstandingBalance": 3900000.0,
+    "nominalRate": 0.36,
+    "effectiveInterestRate": 0.396,
+    "accruedAmount": 4231.23,
+    "accrualDate": "2026-02-28T00:00:00Z",
+    "journalEntryId": null
+  },
+  {
+    "instrumentId": "LOAN-002",
+    "instrumentReference": "SME Loan \u2014 Ana Trading Ltd",
+    "instrumentType": "Loan",
+    "outstandingBalance": 19500000.0,
+    "nominalRate": 0.3,
+    "effectiveInterestRate": 0.33,
+    "accruedAmount": 17630.14,
+    "accrualDate": "2026-02-28T00:00:00Z",
+    "journalEntryId": null
+  },
+  {
+    "instrumentId": "DEP-001",
+    "instrumentReference": "Fixed Deposit \u2014 Miguel Savings Group",
+    "instrumentType": "Deposit",
+    "outstandingBalance": 117000000.0,
+    "nominalRate": 0.06,
+    "effectiveInterestRate": 0.06,
+    "accruedAmount": 19232.88,
+    "accrualDate": "2026-02-28T00:00:00Z",
+    "journalEntryId": null
+  },
+  {
+    "instrumentId": "LOAN-003",
+    "instrumentReference": "Mortgage \u2014 Miguel",
+    "instrumentType": "Loan",
+    "outstandingBalance": 7800000.0,
+    "nominalRate": 0.32,
+    "effectiveInterestRate": 0.352,
+    "accruedAmount": 7522.19,
+    "accrualDate": "2026-02-28T00:00:00Z",
+    "journalEntryId": null
+  },
+  {
+    "instrumentId": "DEP-002",
+    "instrumentReference": "Call Deposit \u2014 Community Finan Fund",
+    "instrumentType": "Deposit",
+    "outstandingBalance": 39000000.0,
+    "nominalRate": 0.05,
+    "effectiveInterestRate": 0.05,
+    "accruedAmount": 5342.47,
+    "accrualDate": "2026-02-28T00:00:00Z",
+    "journalEntryId": null
+  },
+  {
+    "instrumentId": "LOAN-004",
+    "instrumentReference": "Corporate Bond \u2014 Community Finan",
+    "instrumentType": "Loan",
+    "outstandingBalance": 156000000.0,
+    "nominalRate": 0.28,
+    "effectiveInterestRate": 0.308,
+    "accruedAmount": 131638.36,
+    "accrualDate": "2026-02-28T00:00:00Z",
+    "journalEntryId": null
+  }
+]

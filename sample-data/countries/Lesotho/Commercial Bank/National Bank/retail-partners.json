@@ -1,0 +1,123 @@
+[
+  {
+    "partnerId": "RP-LES-001",
+    "businessName": "Shoprite Lesotho Lesotho Ltd",
+    "brandName": "Shoprite Lesotho",
+    "partnerType": "Pharmacy",
+    "country": "Lesotho",
+    "currency": "LSL",
+    "contactPerson": "Partner Manager 1",
+    "email": "banking@shopriteleso.le",
+    "phoneNumber": "+250-150-305840",
+    "servicesOffered": [
+      "AirtimePurchase",
+      "AccountOpening",
+      "LoanPayment",
+      "CashWithdrawal"
+    ],
+    "acceptedPaymentMethods": [
+      "AccountNumber",
+      "PhoneNumber"
+    ],
+    "totalStores": 147,
+    "activeStores": 139,
+    "storeLocations": [
+      "Maputsoe",
+      "Mohale's Hoek"
+    ],
+    "monthlyTransactionVolume": 6762319.68,
+    "monthlyTransactionCount": 44211,
+    "averageTransactionSize": 147.84,
+    "commissionRate": 1.19,
+    "monthlyRevenue": 58015.76,
+    "partnershipStartDate": "2023-06-03T18:10:28Z",
+    "status": "PendingApproval",
+    "brandColor": "#c1a7b8",
+    "isIntegrated": true,
+    "lastSyncDate": null
+  },
+  {
+    "partnerId": "RP-LES-002",
+    "businessName": "Spar Lesotho Lesotho Ltd",
+    "brandName": "Spar Lesotho",
+    "partnerType": "SmallShop",
+    "country": "Lesotho",
+    "currency": "LSL",
+    "contactPerson": "Partner Manager 2",
+    "email": "banking@sparlesotho.le",
+    "phoneNumber": "+850-425-723510",
+    "servicesOffered": [
+      "AirtimePurchase",
+      "AccountOpening",
+      "MoneyTransfer",
+      "CashDeposit",
+      "BillPayment"
+    ],
+    "acceptedPaymentMethods": [
+      "QRCode",
+      "USSD",
+      "Cash",
+      "PhoneNumber",
+      "CardTap",
+      "AccountNumber"
+    ],
+    "totalStores": 176,
+    "activeStores": 171,
+    "storeLocations": [
+      "Maseru",
+      "Teyateyaneng"
+    ],
+    "monthlyTransactionVolume": 3443079.51,
+    "monthlyTransactionCount": 8372,
+    "averageTransactionSize": 247.49,
+    "commissionRate": 0.93,
+    "monthlyRevenue": 20251.84,
+    "partnershipStartDate": "2022-01-31T18:10:28Z",
+    "status": "PendingApproval",
+    "brandColor": "#cbc950",
+    "isIntegrated": true,
+    "lastSyncDate": null
+  },
+  {
+    "partnerId": "RP-LES-003",
+    "businessName": "Pick n Pay Lesotho Lesotho Ltd",
+    "brandName": "Pick n Pay Lesotho",
+    "partnerType": "Supermarket",
+    "country": "Lesotho",
+    "currency": "LSL",
+    "contactPerson": "Partner Manager 3",
+    "email": "banking@picknpayleso.le",
+    "phoneNumber": "+701-844-620762",
+    "servicesOffered": [
+      "MoneyTransfer",
+      "AirtimePurchase",
+      "BillPayment",
+      "AccountOpening",
+      "CashWithdrawal"
+    ],
+    "acceptedPaymentMethods": [
+      "QRCode",
+      "Cash",
+      "CardTap",
+      "AccountNumber",
+      "PhoneNumber",
+      "USSD"
+    ],
+    "totalStores": 244,
+    "activeStores": 225,
+    "storeLocations": [
+      "Maputsoe",
+      "Mohale's Hoek"
+    ],
+    "monthlyTransactionVolume": 5988710.03,
+    "monthlyTransactionCount": 41325,
+    "averageTransactionSize": 135.52,
+    "commissionRate": 1.45,
+    "monthlyRevenue": 41903.65,
+    "partnershipStartDate": "2023-02-02T18:10:28Z",
+    "status": "Active",
+    "brandColor": "#336971",
+    "isIntegrated": true,
+    "lastSyncDate": null
+  }
+]

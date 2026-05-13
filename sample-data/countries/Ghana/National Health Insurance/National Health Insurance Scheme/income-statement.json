@@ -1,0 +1,79 @@
+[
+  {
+    "section": "Revenue",
+    "accountCode": "4001",
+    "accountName": "Member Contributions",
+    "amount": 20.0,
+    "currency": "GHS"
+  },
+  {
+    "section": "Revenue",
+    "accountCode": "4002",
+    "accountName": "Government Subvention",
+    "amount": 11.0,
+    "currency": "GHS"
+  },
+  {
+    "section": "Revenue",
+    "accountCode": "4003",
+    "accountName": "Employer Contributions",
+    "amount": 4.0,
+    "currency": "GHS"
+  },
+  {
+    "section": "Revenue",
+    "accountCode": "4004",
+    "accountName": "Investment Income",
+    "amount": 2.0,
+    "currency": "GHS"
+  },
+  {
+    "section": "Expenses",
+    "accountCode": "5001",
+    "accountName": "Claims Paid",
+    "amount": 21.0,
+    "currency": "GHS"
+  },
+  {
+    "section": "Expenses",
+    "accountCode": "5002",
+    "accountName": "Staff Costs",
+    "amount": 7.0,
+    "currency": "GHS"
+  },
+  {
+    "section": "Expenses",
+    "accountCode": "5003",
+    "accountName": "Administrative Expenses",
+    "amount": 3.0,
+    "currency": "GHS"
+  },
+  {
+    "section": "Expenses",
+    "accountCode": "5004",
+    "accountName": "Provider Management Costs",
+    "amount": 1.0,
+    "currency": "GHS"
+  },
+  {
+    "section": "Expenses",
+    "accountCode": "5005",
+    "accountName": "Depreciation",
+    "amount": 1.0,
+    "currency": "GHS"
+  },
+  {
+    "section": "Expenses",
+    "accountCode": "5006",
+    "accountName": "Audit and Legal Fees",
+    "amount": 0.0,
+    "currency": "GHS"
+  },
+  {
+    "section": "NetSurplus",
+    "accountCode": "9001",
+    "accountName": "Net Surplus/(Deficit) for the Year",
+    "amount": 3.0,
+    "currency": "GHS"
+  }
+]

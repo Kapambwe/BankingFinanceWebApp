@@ -1,0 +1,677 @@
+[
+  {
+    "journalEntryId": "JE-MTN-00001",
+    "entryDate": "2025-06-28T16:51:21Z",
+    "description": "Adjustment \u2014 MTN Nigeria period reconciliation",
+    "reference": "REF-MTN-349697",
+    "status": "Posted",
+    "entryType": "Adjustment",
+    "currency": "NGN",
+    "totalDebits": 2611092.02,
+    "totalCredits": 2611092.02,
+    "createdBy": "AccountingBot",
+    "postedBy": "Finance Officer 2",
+    "lines": [
+      {
+        "accountCode": "4871",
+        "accountName": "Adjustment Account",
+        "debit": 2611092.02,
+        "credit": 0.0
+      },
+      {
+        "accountCode": "4038",
+        "accountName": "Settlement/Clearing Account",
+        "debit": 0.0,
+        "credit": 2611092.02
+      }
+    ]
+  },
+  {
+    "journalEntryId": "JE-MTN-00002",
+    "entryDate": "2026-02-14T04:27:10Z",
+    "description": "Tax \u2014 MTN Nigeria period reconciliation",
+    "reference": "REF-MTN-499768",
+    "status": "Draft",
+    "entryType": "Tax",
+    "currency": "NGN",
+    "totalDebits": 557511.71,
+    "totalCredits": 557511.71,
+    "createdBy": "AccountingBot",
+    "postedBy": "Finance Officer 5",
+    "lines": [
+      {
+        "accountCode": "3084",
+        "accountName": "Tax Account",
+        "debit": 557511.71,
+        "credit": 0.0
+      },
+      {
+        "accountCode": "1305",
+        "accountName": "Settlement/Clearing Account",
+        "debit": 0.0,
+        "credit": 557511.71
+      }
+    ]
+  },
+  {
+    "journalEntryId": "JE-MTN-00003",
+    "entryDate": "2026-09-20T21:09:50Z",
+    "description": "Commission \u2014 MTN Nigeria period reconciliation",
+    "reference": "REF-MTN-479554",
+    "status": "Posted",
+    "entryType": "Commission",
+    "currency": "NGN",
+    "totalDebits": 2563265.21,
+    "totalCredits": 2563265.21,
+    "createdBy": "AccountingBot",
+    "postedBy": "Finance Officer 2",
+    "lines": [
+      {
+        "accountCode": "3328",
+        "accountName": "Commission Account",
+        "debit": 2563265.21,
+        "credit": 0.0
+      },
+      {
+        "accountCode": "3040",
+        "accountName": "Settlement/Clearing Account",
+        "debit": 0.0,
+        "credit": 2563265.21
+      }
+    ]
+  },
+  {
+    "journalEntryId": "JE-MTN-00004",
+    "entryDate": "2025-10-26T01:02:28Z",
+    "description": "Expense \u2014 MTN Nigeria period reconciliation",
+    "reference": "REF-MTN-750350",
+    "status": "Posted",
+    "entryType": "Expense",
+    "currency": "NGN",
+    "totalDebits": 3650919.04,
+    "totalCredits": 3650919.04,
+    "createdBy": "AccountingBot",
+    "postedBy": "Finance Officer 5",
+    "lines": [
+      {
+        "accountCode": "3701",
+        "accountName": "Expense Account",
+        "debit": 3650919.04,
+        "credit": 0.0
+      },
+      {
+        "accountCode": "3814",
+        "accountName": "Settlement/Clearing Account",
+        "debit": 0.0,
+        "credit": 3650919.04
+      }
+    ]
+  },
+  {
+    "journalEntryId": "JE-MTN-00005",
+    "entryDate": "2025-06-08T14:36:32Z",
+    "description": "Settlement \u2014 MTN Nigeria period reconciliation",
+    "reference": "REF-MTN-456542",
+    "status": "Posted",
+    "entryType": "Settlement",
+    "currency": "NGN",
+    "totalDebits": 153076.6,
+    "totalCredits": 153076.6,
+    "createdBy": "AccountingBot",
+    "postedBy": "Finance Officer 5",
+    "lines": [
+      {
+        "accountCode": "3845",
+        "accountName": "Settlement Account",
+        "debit": 153076.6,
+        "credit": 0.0
+      },
+      {
+        "accountCode": "2336",
+        "accountName": "Settlement/Clearing Account",
+        "debit": 0.0,
+        "credit": 153076.6
+      }
+    ]
+  },
+  {
+    "journalEntryId": "JE-MTN-00006",
+    "entryDate": "2026-03-11T12:45:42Z",
+    "description": "Commission \u2014 MTN Nigeria period reconciliation",
+    "reference": "REF-MTN-764379",
+    "status": "Pending",
+    "entryType": "Commission",
+    "currency": "NGN",
+    "totalDebits": 4871702.02,
+    "totalCredits": 4871702.02,
+    "createdBy": "AccountingBot",
+    "postedBy": "Finance Officer 5",
+    "lines": [
+      {
+        "accountCode": "4057",
+        "accountName": "Commission Account",
+        "debit": 4871702.02,
+        "credit": 0.0
+      },
+      {
+        "accountCode": "5987",
+        "accountName": "Settlement/Clearing Account",
+        "debit": 0.0,
+        "credit": 4871702.02
+      }
+    ]
+  },
+  {
+    "journalEntryId": "JE-MTN-00007",
+    "entryDate": "2026-10-18T04:30:05Z",
+    "description": "Accrual \u2014 MTN Nigeria period reconciliation",
+    "reference": "REF-MTN-762233",
+    "status": "Posted",
+    "entryType": "Accrual",
+    "currency": "NGN",
+    "totalDebits": 1396298.02,
+    "totalCredits": 1396298.02,
+    "createdBy": "AccountingBot",
+    "postedBy": "Finance Officer 2",
+    "lines": [
+      {
+        "accountCode": "5663",
+        "accountName": "Accrual Account",
+        "debit": 1396298.02,
+        "credit": 0.0
+      },
+      {
+        "accountCode": "4497",
+        "accountName": "Settlement/Clearing Account",
+        "debit": 0.0,
+        "credit": 1396298.02
+      }
+    ]
+  },
+  {
+    "journalEntryId": "JE-MTN-00008",
+    "entryDate": "2026-11-10T13:32:28Z",
+    "description": "Adjustment \u2014 MTN Nigeria period reconciliation",
+    "reference": "REF-MTN-542446",
+    "status": "Posted",
+    "entryType": "Adjustment",
+    "currency": "NGN",
+    "totalDebits": 4043009.58,
+    "totalCredits": 4043009.58,
+    "createdBy": "AccountingBot",
+    "postedBy": "Finance Officer 3",
+    "lines": [
+      {
+        "accountCode": "2716",
+        "accountName": "Adjustment Account",
+        "debit": 4043009.58,
+        "credit": 0.0
+      },
+      {
+        "accountCode": "3643",
+        "accountName": "Settlement/Clearing Account",
+        "debit": 0.0,
+        "credit": 4043009.58
+      }
+    ]
+  },
+  {
+    "journalEntryId": "JE-MTN-00009",
+    "entryDate": "2026-11-01T10:44:23Z",
+    "description": "Commission \u2014 MTN Nigeria period reconciliation",
+    "reference": "REF-MTN-593170",
+    "status": "Draft",
+    "entryType": "Commission",
+    "currency": "NGN",
+    "totalDebits": 3024651.58,
+    "totalCredits": 3024651.58,
+    "createdBy": "AccountingBot",
+    "postedBy": "Finance Officer 3",
+    "lines": [
+      {
+        "accountCode": "1367",
+        "accountName": "Commission Account",
+        "debit": 3024651.58,
+        "credit": 0.0
+      },
+      {
+        "accountCode": "3118",
+        "accountName": "Settlement/Clearing Account",
+        "debit": 0.0,
+        "credit": 3024651.58
+      }
+    ]
+  },
+  {
+    "journalEntryId": "JE-MTN-00010",
+    "entryDate": "2026-03-03T18:27:05Z",
+    "description": "Commission \u2014 MTN Nigeria period reconciliation",
+    "reference": "REF-MTN-648440",
+    "status": "Posted",
+    "entryType": "Commission",
+    "currency": "NGN",
+    "totalDebits": 2316638.76,
+    "totalCredits": 2316638.76,
+    "createdBy": "AccountingBot",
+    "postedBy": "Finance Officer 1",
+    "lines": [
+      {
+        "accountCode": "1308",
+        "accountName": "Commission Account",
+        "debit": 2316638.76,
+        "credit": 0.0
+      },
+      {
+        "accountCode": "5848",
+        "accountName": "Settlement/Clearing Account",
+        "debit": 0.0,
+        "credit": 2316638.76
+      }
+    ]
+  },
+  {
+    "journalEntryId": "JE-MTN-00011",
+    "entryDate": "2025-08-01T19:08:49Z",
+    "description": "Settlement \u2014 MTN Nigeria period reconciliation",
+    "reference": "REF-MTN-242998",
+    "status": "Pending",
+    "entryType": "Settlement",
+    "currency": "NGN",
+    "totalDebits": 4000940.05,
+    "totalCredits": 4000940.05,
+    "createdBy": "AccountingBot",
+    "postedBy": "Finance Officer 5",
+    "lines": [
+      {
+        "accountCode": "4730",
+        "accountName": "Settlement Account",
+        "debit": 4000940.05,
+        "credit": 0.0
+      },
+      {
+        "accountCode": "2738",
+        "accountName": "Settlement/Clearing Account",
+        "debit": 0.0,
+        "credit": 4000940.05
+      }
+    ]
+  },
+  {
+    "journalEntryId": "JE-MTN-00012",
+    "entryDate": "2026-07-29T10:37:09Z",
+    "description": "Settlement \u2014 MTN Nigeria period reconciliation",
+    "reference": "REF-MTN-865173",
+    "status": "Pending",
+    "entryType": "Settlement",
+    "currency": "NGN",
+    "totalDebits": 4676079.24,
+    "totalCredits": 4676079.24,
+    "createdBy": "AccountingBot",
+    "postedBy": "Finance Officer 4",
+    "lines": [
+      {
+        "accountCode": "4090",
+        "accountName": "Settlement Account",
+        "debit": 4676079.24,
+        "credit": 0.0
+      },
+      {
+        "accountCode": "5229",
+        "accountName": "Settlement/Clearing Account",
+        "debit": 0.0,
+        "credit": 4676079.24
+      }
+    ]
+  },
+  {
+    "journalEntryId": "JE-MTN-00013",
+    "entryDate": "2025-12-16T12:07:15Z",
+    "description": "Accrual \u2014 MTN Nigeria period reconciliation",
+    "reference": "REF-MTN-717656",
+    "status": "Pending",
+    "entryType": "Accrual",
+    "currency": "NGN",
+    "totalDebits": 4816213.83,
+    "totalCredits": 4816213.83,
+    "createdBy": "AccountingBot",
+    "postedBy": "Finance Officer 5",
+    "lines": [
+      {
+        "accountCode": "5746",
+        "accountName": "Accrual Account",
+        "debit": 4816213.83,
+        "credit": 0.0
+      },
+      {
+        "accountCode": "3115",
+        "accountName": "Settlement/Clearing Account",
+        "debit": 0.0,
+        "credit": 4816213.83
+      }
+    ]
+  },
+  {
+    "journalEntryId": "JE-MTN-00014",
+    "entryDate": "2026-06-29T07:47:18Z",
+    "description": "Accrual \u2014 MTN Nigeria period reconciliation",
+    "reference": "REF-MTN-211664",
+    "status": "Draft",
+    "entryType": "Accrual",
+    "currency": "NGN",
+    "totalDebits": 2312076.47,
+    "totalCredits": 2312076.47,
+    "createdBy": "AccountingBot",
+    "postedBy": "Finance Officer 1",
+    "lines": [
+      {
+        "accountCode": "4549",
+        "accountName": "Accrual Account",
+        "debit": 2312076.47,
+        "credit": 0.0
+      },
+      {
+        "accountCode": "5786",
+        "accountName": "Settlement/Clearing Account",
+        "debit": 0.0,
+        "credit": 2312076.47
+      }
+    ]
+  },
+  {
+    "journalEntryId": "JE-MTN-00015",
+    "entryDate": "2025-07-22T14:49:29Z",
+    "description": "Commission \u2014 MTN Nigeria period reconciliation",
+    "reference": "REF-MTN-751402",
+    "status": "Draft",
+    "entryType": "Commission",
+    "currency": "NGN",
+    "totalDebits": 304876.76,
+    "totalCredits": 304876.76,
+    "createdBy": "AccountingBot",
+    "postedBy": "Finance Officer 1",
+    "lines": [
+      {
+        "accountCode": "1661",
+        "accountName": "Commission Account",
+        "debit": 304876.76,
+        "credit": 0.0
+      },
+      {
+        "accountCode": "1215",
+        "accountName": "Settlement/Clearing Account",
+        "debit": 0.0,
+        "credit": 304876.76
+      }
+    ]
+  },
+  {
+    "journalEntryId": "JE-MTN-00016",
+    "entryDate": "2024-05-12T18:25:45Z",
+    "description": "Expense \u2014 MTN Nigeria period 16",
+    "reference": "REF-MTN-482054",
+    "status": "Draft",
+    "entryType": "Expense",
+    "currency": "NGN",
+    "totalDebits": 511728.37,
+    "totalCredits": 511728.37,
+    "createdBy": "AccountingBot",
+    "postedBy": "Finance Officer 7",
+    "lines": [
+      {
+        "accountCode": "1144",
+        "accountName": "Expense Account",
+        "debit": 511728.37,
+        "credit": 0.0
+      },
+      {
+        "accountCode": "5751",
+        "accountName": "Settlement/Clearing Account",
+        "debit": 0.0,
+        "credit": 511728.37
+      }
+    ]
+  },
+  {
+    "journalEntryId": "JE-MTN-00017",
+    "entryDate": "2025-09-02T21:18:08Z",
+    "description": "Settlement \u2014 MTN Nigeria period 17",
+    "reference": "REF-MTN-219588",
+    "status": "Draft",
+    "entryType": "Settlement",
+    "currency": "NGN",
+    "totalDebits": 7308590.8,
+    "totalCredits": 7308590.8,
+    "createdBy": "AccountingBot",
+    "postedBy": "Finance Officer 3",
+    "lines": [
+      {
+        "accountCode": "5545",
+        "accountName": "Settlement Account",
+        "debit": 7308590.8,
+        "credit": 0.0
+      },
+      {
+        "accountCode": "1265",
+        "accountName": "Settlement/Clearing Account",
+        "debit": 0.0,
+        "credit": 7308590.8
+      }
+    ]
+  },
+  {
+    "journalEntryId": "JE-MTN-00018",
+    "entryDate": "2025-11-15T16:38:34Z",
+    "description": "Accrual \u2014 MTN Nigeria period 18",
+    "reference": "REF-MTN-453668",
+    "status": "Posted",
+    "entryType": "Accrual",
+    "currency": "NGN",
+    "totalDebits": 3260510.76,
+    "totalCredits": 3260510.76,
+    "createdBy": "AccountingBot",
+    "postedBy": "Finance Officer 3",
+    "lines": [
+      {
+        "accountCode": "3642",
+        "accountName": "Accrual Account",
+        "debit": 3260510.76,
+        "credit": 0.0
+      },
+      {
+        "accountCode": "3151",
+        "accountName": "Settlement/Clearing Account",
+        "debit": 0.0,
+        "credit": 3260510.76
+      }
+    ]
+  },
+  {
+    "journalEntryId": "JE-MTN-00019",
+    "entryDate": "2025-07-10T16:07:54Z",
+    "description": "Adjustment \u2014 MTN Nigeria period 19",
+    "reference": "REF-MTN-838028",
+    "status": "Pending",
+    "entryType": "Adjustment",
+    "currency": "NGN",
+    "totalDebits": 1210751.81,
+    "totalCredits": 1210751.81,
+    "createdBy": "AccountingBot",
+    "postedBy": "Finance Officer 4",
+    "lines": [
+      {
+        "accountCode": "2165",
+        "accountName": "Adjustment Account",
+        "debit": 1210751.81,
+        "credit": 0.0
+      },
+      {
+        "accountCode": "1438",
+        "accountName": "Settlement/Clearing Account",
+        "debit": 0.0,
+        "credit": 1210751.81
+      }
+    ]
+  },
+  {
+    "journalEntryId": "JE-MTN-00020",
+    "entryDate": "2025-04-27T17:51:55Z",
+    "description": "Tax \u2014 MTN Nigeria period 20",
+    "reference": "REF-MTN-454457",
+    "status": "Posted",
+    "entryType": "Tax",
+    "currency": "NGN",
+    "totalDebits": 6287730.27,
+    "totalCredits": 6287730.27,
+    "createdBy": "AccountingBot",
+    "postedBy": "Finance Officer 8",
+    "lines": [
+      {
+        "accountCode": "5976",
+        "accountName": "Tax Account",
+        "debit": 6287730.27,
+        "credit": 0.0
+      },
+      {
+        "accountCode": "4676",
+        "accountName": "Settlement/Clearing Account",
+        "debit": 0.0,
+        "credit": 6287730.27
+      }
+    ]
+  },
+  {
+    "journalEntryId": "JE-MTN-00021",
+    "entryDate": "2024-01-30T06:26:39Z",
+    "description": "Commission \u2014 MTN Nigeria period 21",
+    "reference": "REF-MTN-347611",
+    "status": "Posted",
+    "entryType": "Commission",
+    "currency": "NGN",
+    "totalDebits": 4061052.19,
+    "totalCredits": 4061052.19,
+    "createdBy": "AccountingBot",
+    "postedBy": "Finance Officer 1",
+    "lines": [
+      {
+        "accountCode": "5494",
+        "accountName": "Commission Account",
+        "debit": 4061052.19,
+        "credit": 0.0
+      },
+      {
+        "accountCode": "4241",
+        "accountName": "Settlement/Clearing Account",
+        "debit": 0.0,
+        "credit": 4061052.19
+      }
+    ]
+  },
+  {
+    "journalEntryId": "JE-MTN-00022",
+    "entryDate": "2024-12-05T04:19:01Z",
+    "description": "Depreciation \u2014 MTN Nigeria period 22",
+    "reference": "REF-MTN-199623",
+    "status": "Posted",
+    "entryType": "Depreciation",
+    "currency": "NGN",
+    "totalDebits": 7849514.88,
+    "totalCredits": 7849514.88,
+    "createdBy": "AccountingBot",
+    "postedBy": "Finance Officer 5",
+    "lines": [
+      {
+        "accountCode": "1585",
+        "accountName": "Depreciation Account",
+        "debit": 7849514.88,
+        "credit": 0.0
+      },
+      {
+        "accountCode": "1497",
+        "accountName": "Settlement/Clearing Account",
+        "debit": 0.0,
+        "credit": 7849514.88
+      }
+    ]
+  },
+  {
+    "journalEntryId": "JE-MTN-00023",
+    "entryDate": "2024-10-06T21:04:45Z",
+    "description": "Provision \u2014 MTN Nigeria period 23",
+    "reference": "REF-MTN-793080",
+    "status": "Pending",
+    "entryType": "Provision",
+    "currency": "NGN",
+    "totalDebits": 6765194.06,
+    "totalCredits": 6765194.06,
+    "createdBy": "AccountingBot",
+    "postedBy": "Finance Officer 7",
+    "lines": [
+      {
+        "accountCode": "1529",
+        "accountName": "Provision Account",
+        "debit": 6765194.06,
+        "credit": 0.0
+      },
+      {
+        "accountCode": "3618",
+        "accountName": "Settlement/Clearing Account",
+        "debit": 0.0,
+        "credit": 6765194.06
+      }
+    ]
+  },
+  {
+    "journalEntryId": "JE-MTN-00024",
+    "entryDate": "2025-03-27T06:48:10Z",
+    "description": "Revaluation \u2014 MTN Nigeria period 24",
+    "reference": "REF-MTN-739785",
+    "status": "Pending",
+    "entryType": "Revaluation",
+    "currency": "NGN",
+    "totalDebits": 3511584.15,
+    "totalCredits": 3511584.15,
+    "createdBy": "AccountingBot",
+    "postedBy": "Finance Officer 6",
+    "lines": [
+      {
+        "accountCode": "4469",
+        "accountName": "Revaluation Account",
+        "debit": 3511584.15,
+        "credit": 0.0
+      },
+      {
+        "accountCode": "2051",
+        "accountName": "Settlement/Clearing Account",
+        "debit": 0.0,
+        "credit": 3511584.15
+      }
+    ]
+  },
+  {
+    "journalEntryId": "JE-MTN-00025",
+    "entryDate": "2025-12-14T05:19:30Z",
+    "description": "Intercompany \u2014 MTN Nigeria period 25",
+    "reference": "REF-MTN-400664",
+    "status": "Posted",
+    "entryType": "Intercompany",
+    "currency": "NGN",
+    "totalDebits": 906937.37,
+    "totalCredits": 906937.37,
+    "createdBy": "AccountingBot",
+    "postedBy": "Finance Officer 4",
+    "lines": [
+      {
+        "accountCode": "5752",
+        "accountName": "Intercompany Account",
+        "debit": 906937.37,
+        "credit": 0.0
+      },
+      {
+        "accountCode": "1381",
+        "accountName": "Settlement/Clearing Account",
+        "debit": 0.0,
+        "credit": 906937.37
+      }
+    ]
+  }
+]

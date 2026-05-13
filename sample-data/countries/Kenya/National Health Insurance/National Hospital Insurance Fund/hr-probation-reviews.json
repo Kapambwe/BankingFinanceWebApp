@@ -1,0 +1,41 @@
+[
+  {
+    "probationReviewId": "pb500000-0001-0000-0000-0000000005001",
+    "employeeId": "e5000000-0008-0000-0000-0000000005008",
+    "employeeName": "Njoroge Mwangi",
+    "reviewStage": "3-Month",
+    "reviewDate": "2025-10-15",
+    "reviewerName": "Achieng Ochieng",
+    "performanceRating": "Satisfactory",
+    "outcome": "Confirmed",
+    "comments": "Probation review for Njoroge Mwangi - 3-Month review.",
+    "confirmationDate": "2025-11-01",
+    "createdAt": "2025-10-15T00:00:00Z"
+  },
+  {
+    "probationReviewId": "pb500000-0002-0000-0000-0000000005002",
+    "employeeId": "e5000000-0009-0000-0000-0000000005009",
+    "employeeName": "Wanjiku Ndegwa",
+    "reviewStage": "6-Month",
+    "reviewDate": "2025-11-15",
+    "reviewerName": "Mwangi Mutua",
+    "performanceRating": "Exceeds Expectations",
+    "outcome": "Confirmed",
+    "comments": "Probation review for Wanjiku Ndegwa - 6-Month review.",
+    "confirmationDate": "2025-12-01",
+    "createdAt": "2025-11-15T00:00:00Z"
+  },
+  {
+    "probationReviewId": "pb500000-0003-0000-0000-0000000005003",
+    "employeeId": "e5000000-0010-0000-0000-0000000005010",
+    "employeeName": "Kamau Wanjiku",
+    "reviewStage": "3-Month",
+    "reviewDate": "2025-12-15",
+    "reviewerName": "Ndegwa Kamau",
+    "performanceRating": "Needs Improvement",
+    "outcome": "Pending",
+    "comments": "Probation review for Kamau Wanjiku - 3-Month review.",
+    "confirmationDate": null,
+    "createdAt": "2025-12-15T00:00:00Z"
+  }
+]

@@ -1,0 +1,227 @@
+[
+  {
+    "currencyCode": "ZMW",
+    "currencyName": "Zambian Kwacha",
+    "symbol": "K",
+    "exchangeRate": 1.0,
+    "baseCurrency": true,
+    "lastUpdated": "2026-02-25T00:00:00Z",
+    "isActive": true
+  },
+  {
+    "currencyCode": "USD",
+    "currencyName": "United States Dollar",
+    "symbol": "$",
+    "exchangeRate": 27.15,
+    "baseCurrency": false,
+    "lastUpdated": "2026-02-25T00:00:00Z",
+    "isActive": true
+  },
+  {
+    "currencyCode": "EUR",
+    "currencyName": "Euro",
+    "symbol": "\u20ac",
+    "exchangeRate": 29.52,
+    "baseCurrency": false,
+    "lastUpdated": "2026-02-25T00:00:00Z",
+    "isActive": true
+  },
+  {
+    "currencyCode": "GBP",
+    "currencyName": "British Pound Sterling",
+    "symbol": "\u00a3",
+    "exchangeRate": 34.81,
+    "baseCurrency": false,
+    "lastUpdated": "2026-02-25T00:00:00Z",
+    "isActive": true
+  },
+  {
+    "currencyCode": "ZAR",
+    "currencyName": "South African Rand",
+    "symbol": "R",
+    "exchangeRate": 1.48,
+    "baseCurrency": false,
+    "lastUpdated": "2026-02-25T00:00:00Z",
+    "isActive": true
+  },
+  {
+    "currencyCode": "KES",
+    "currencyName": "Kenyan Shilling",
+    "symbol": "KSh",
+    "exchangeRate": 0.21,
+    "baseCurrency": false,
+    "lastUpdated": "2026-02-25T00:00:00Z",
+    "isActive": true
+  },
+  {
+    "currencyCode": "UGX",
+    "currencyName": "Ugandan Shilling",
+    "symbol": "USh",
+    "exchangeRate": 0.0074,
+    "baseCurrency": false,
+    "lastUpdated": "2026-02-25T00:00:00Z",
+    "isActive": true
+  },
+  {
+    "currencyCode": "TZS",
+    "currencyName": "Tanzanian Shilling",
+    "symbol": "TSh",
+    "exchangeRate": 0.0103,
+    "baseCurrency": false,
+    "lastUpdated": "2026-02-25T00:00:00Z",
+    "isActive": true
+  },
+  {
+    "currencyCode": "NGN",
+    "currencyName": "Nigerian Naira",
+    "symbol": "\u20a6",
+    "exchangeRate": 0.017,
+    "baseCurrency": false,
+    "lastUpdated": "2026-02-25T00:00:00Z",
+    "isActive": true
+  },
+  {
+    "currencyCode": "GHS",
+    "currencyName": "Ghanaian Cedi",
+    "symbol": "\u20b5",
+    "exchangeRate": 1.79,
+    "baseCurrency": false,
+    "lastUpdated": "2026-02-25T00:00:00Z",
+    "isActive": true
+  },
+  {
+    "currencyCode": "ETB",
+    "currencyName": "Ethiopian Birr",
+    "symbol": "Br",
+    "exchangeRate": 0.48,
+    "baseCurrency": false,
+    "lastUpdated": "2026-02-25T00:00:00Z",
+    "isActive": true
+  },
+  {
+    "currencyCode": "MWK",
+    "currencyName": "Malawian Kwacha",
+    "symbol": "MK",
+    "exchangeRate": 0.016,
+    "baseCurrency": false,
+    "lastUpdated": "2026-02-25T00:00:00Z",
+    "isActive": true
+  },
+  {
+    "currencyCode": "BWP",
+    "currencyName": "Botswana Pula",
+    "symbol": "P",
+    "exchangeRate": 1.99,
+    "baseCurrency": false,
+    "lastUpdated": "2026-02-25T00:00:00Z",
+    "isActive": true
+  },
+  {
+    "currencyCode": "NAD",
+    "currencyName": "Namibian Dollar",
+    "symbol": "N$",
+    "exchangeRate": 1.48,
+    "baseCurrency": false,
+    "lastUpdated": "2026-02-25T00:00:00Z",
+    "isActive": true
+  },
+  {
+    "currencyCode": "SZL",
+    "currencyName": "Swazi Lilangeni",
+    "symbol": "L",
+    "exchangeRate": 1.48,
+    "baseCurrency": false,
+    "lastUpdated": "2026-02-25T00:00:00Z",
+    "isActive": true
+  },
+  {
+    "currencyCode": "LSL",
+    "currencyName": "Lesotho Loti",
+    "symbol": "L",
+    "exchangeRate": 1.48,
+    "baseCurrency": false,
+    "lastUpdated": "2026-02-25T00:00:00Z",
+    "isActive": true
+  },
+  {
+    "currencyCode": "MZN",
+    "currencyName": "Mozambican Metical",
+    "symbol": "MT",
+    "exchangeRate": 0.42,
+    "baseCurrency": false,
+    "lastUpdated": "2026-02-25T00:00:00Z",
+    "isActive": true
+  },
+  {
+    "currencyCode": "MUR",
+    "currencyName": "Mauritian Rupee",
+    "symbol": "Rs",
+    "exchangeRate": 0.6,
+    "baseCurrency": false,
+    "lastUpdated": "2026-02-25T00:00:00Z",
+    "isActive": true
+  },
+  {
+    "currencyCode": "SCR",
+    "currencyName": "Seychellois Rupee",
+    "symbol": "SR",
+    "exchangeRate": 1.98,
+    "baseCurrency": false,
+    "lastUpdated": "2026-02-25T00:00:00Z",
+    "isActive": true
+  },
+  {
+    "currencyCode": "KMF",
+    "currencyName": "Comorian Franc",
+    "symbol": "CF",
+    "exchangeRate": 0.06,
+    "baseCurrency": false,
+    "lastUpdated": "2026-02-25T00:00:00Z",
+    "isActive": true
+  },
+  {
+    "currencyCode": "DJF",
+    "currencyName": "Djiboutian Franc",
+    "symbol": "Fdj",
+    "exchangeRate": 0.153,
+    "baseCurrency": false,
+    "lastUpdated": "2026-02-25T00:00:00Z",
+    "isActive": true
+  },
+  {
+    "currencyCode": "CNY",
+    "currencyName": "Chinese Yuan Renminbi",
+    "symbol": "\u00a5",
+    "exchangeRate": 3.73,
+    "baseCurrency": false,
+    "lastUpdated": "2026-02-25T00:00:00Z",
+    "isActive": true
+  },
+  {
+    "currencyCode": "JPY",
+    "currencyName": "Japanese Yen",
+    "symbol": "\u00a5",
+    "exchangeRate": 0.181,
+    "baseCurrency": false,
+    "lastUpdated": "2026-02-25T00:00:00Z",
+    "isActive": true
+  },
+  {
+    "currencyCode": "CAD",
+    "currencyName": "Canadian Dollar",
+    "symbol": "C$",
+    "exchangeRate": 19.12,
+    "baseCurrency": false,
+    "lastUpdated": "2026-02-25T00:00:00Z",
+    "isActive": true
+  },
+  {
+    "currencyCode": "AUD",
+    "currencyName": "Australian Dollar",
+    "symbol": "A$",
+    "exchangeRate": 17.05,
+    "baseCurrency": false,
+    "lastUpdated": "2026-02-25T00:00:00Z",
+    "isActive": true
+  }
+]

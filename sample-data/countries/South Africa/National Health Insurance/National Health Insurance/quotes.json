@@ -1,0 +1,44 @@
+[
+  {
+    "quoteId": "qt300000-0001",
+    "quoteNumber": "QT-3-2025-00001",
+    "employerName": "Standard Bank Group",
+    "packageType": "Standard",
+    "numberOfEmployees": 500,
+    "monthlyPremiumPerEmployee": 3500.0,
+    "totalMonthlyPremium": 1750000.0,
+    "currency": "ZAR",
+    "quoteDate": "2025-10-01",
+    "validUntil": "2025-11-30",
+    "status": "Accepted",
+    "createdAt": "2025-10-01T00:00:00Z"
+  },
+  {
+    "quoteId": "qt300000-0002",
+    "quoteNumber": "QT-3-2025-00002",
+    "employerName": "Anglo American PLC",
+    "packageType": "Enhanced",
+    "numberOfEmployees": 1200,
+    "monthlyPremiumPerEmployee": 5000.0,
+    "totalMonthlyPremium": 6000000.0,
+    "currency": "ZAR",
+    "quoteDate": "2025-11-01",
+    "validUntil": "2025-12-30",
+    "status": "Pending",
+    "createdAt": "2025-11-01T00:00:00Z"
+  },
+  {
+    "quoteId": "qt300000-0003",
+    "quoteNumber": "QT-3-2025-00003",
+    "employerName": "Shoprite Holdings",
+    "packageType": "Basic",
+    "numberOfEmployees": 250,
+    "monthlyPremiumPerEmployee": 2000.0,
+    "totalMonthlyPremium": 500000.0,
+    "currency": "ZAR",
+    "quoteDate": "2025-12-01",
+    "validUntil": "2025-13-30",
+    "status": "Declined",
+    "createdAt": "2025-12-01T00:00:00Z"
+  }
+]

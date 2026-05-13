@@ -1,0 +1,62 @@
+[
+  {
+    "reviewId": "rv200000-0001-0000-0000-0000000002001",
+    "employeeId": "e2000000-0001-0000-0000-0000000002001",
+    "employeeName": "Kwame Owusu",
+    "reviewPeriod": "2025",
+    "reviewType": "Annual",
+    "overallRating": "ExceedsExpectations",
+    "reviewerName": "Kofi Asante",
+    "completionDate": "2025-12-15",
+    "comments": "Performance review for Kwame Owusu for the year 2025.",
+    "createdAt": "2025-12-15T00:00:00Z"
+  },
+  {
+    "reviewId": "rv200000-0002-0000-0000-0000000002002",
+    "employeeId": "e2000000-0002-0000-0000-0000000002002",
+    "employeeName": "Abena Asamoah",
+    "reviewPeriod": "2025",
+    "reviewType": "Annual",
+    "overallRating": "MeetsExpectations",
+    "reviewerName": "Kofi Asante",
+    "completionDate": "2025-12-15",
+    "comments": "Performance review for Abena Asamoah for the year 2025.",
+    "createdAt": "2025-12-15T00:00:00Z"
+  },
+  {
+    "reviewId": "rv200000-0003-0000-0000-0000000002003",
+    "employeeId": "e2000000-0003-0000-0000-0000000002003",
+    "employeeName": "Kofi Appiah",
+    "reviewPeriod": "2025",
+    "reviewType": "Annual",
+    "overallRating": "MeetsExpectations",
+    "reviewerName": "Kofi Asante",
+    "completionDate": "2025-12-15",
+    "comments": "Performance review for Kofi Appiah for the year 2025.",
+    "createdAt": "2025-12-15T00:00:00Z"
+  },
+  {
+    "reviewId": "rv200000-0004-0000-0000-0000000002004",
+    "employeeId": "e2000000-0004-0000-0000-0000000002004",
+    "employeeName": "Ama Ofori",
+    "reviewPeriod": "2025",
+    "reviewType": "Annual",
+    "overallRating": "BelowExpectations",
+    "reviewerName": "Kofi Asante",
+    "completionDate": "2025-12-15",
+    "comments": "Performance review for Ama Ofori for the year 2025.",
+    "createdAt": "2025-12-15T00:00:00Z"
+  },
+  {
+    "reviewId": "rv200000-0005-0000-0000-0000000002005",
+    "employeeId": "e2000000-0005-0000-0000-0000000002005",
+    "employeeName": "Akosua Acheampong",
+    "reviewPeriod": "2025",
+    "reviewType": "Annual",
+    "overallRating": "ExceedsExpectations",
+    "reviewerName": "Kofi Asante",
+    "completionDate": "2025-12-15",
+    "comments": "Performance review for Akosua Acheampong for the year 2025.",
+    "createdAt": "2025-12-15T00:00:00Z"
+  }
+]

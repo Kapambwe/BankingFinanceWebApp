@@ -1,0 +1,80 @@
+[
+  {
+    "ruleId": 1,
+    "ruleName": "Bills USD 100,000\u20131,000,000 require Investment Officer approval",
+    "type": "Bill",
+    "minAmount": 100000,
+    "maxAmount": 1000000,
+    "approverId": "manager@europeaninve.co",
+    "approverName": "Investment Officer",
+    "level": 1,
+    "isActive": true,
+    "autoApproveBelow": false,
+    "notes": "Standard operational expenditure threshold"
+  },
+  {
+    "ruleId": 2,
+    "ruleName": "Bills above USD 1,000,000 require Director General approval",
+    "type": "Bill",
+    "minAmount": 1000000,
+    "maxAmount": null,
+    "approverId": "cfo@europeaninve.co",
+    "approverName": "Director General",
+    "level": 2,
+    "isActive": true,
+    "autoApproveBelow": false,
+    "notes": "Capital expenditure and large operational bills"
+  },
+  {
+    "ruleId": 3,
+    "ruleName": "Bills above USD 10,000,000 require President / CEO approval",
+    "type": "Bill",
+    "minAmount": 10000000,
+    "maxAmount": null,
+    "approverId": "ceo@europeaninve.co",
+    "approverName": "President / CEO",
+    "level": 3,
+    "isActive": true,
+    "autoApproveBelow": false,
+    "notes": "Strategic vendor contracts and major capital expenditure"
+  },
+  {
+    "ruleId": 4,
+    "ruleName": "Journal entries above USD 500,000 require Director General approval",
+    "type": "JournalEntry",
+    "minAmount": 500000.0,
+    "maxAmount": null,
+    "approverId": "controller@europeaninve.co",
+    "approverName": "Financial Controller",
+    "level": 1,
+    "isActive": true,
+    "autoApproveBelow": false,
+    "notes": "SOX control \u2014 manual journal entries above threshold"
+  },
+  {
+    "ruleId": 5,
+    "ruleName": "Payments below USD 50,000 auto-approved",
+    "type": "Payment",
+    "minAmount": 0,
+    "maxAmount": 50000,
+    "approverId": "system@europeaninve.co",
+    "approverName": "System",
+    "level": 1,
+    "isActive": true,
+    "autoApproveBelow": true,
+    "notes": "Petty cash and minor operational payments"
+  },
+  {
+    "ruleId": 6,
+    "ruleName": "Budget changes above USD 1,000,000 require Director General approval",
+    "type": "BudgetChange",
+    "minAmount": 1000000,
+    "maxAmount": null,
+    "approverId": "cfo@europeaninve.co",
+    "approverName": "Director General",
+    "level": 2,
+    "isActive": true,
+    "autoApproveBelow": false,
+    "notes": "Budget revisions require justification memo"
+  }
+]

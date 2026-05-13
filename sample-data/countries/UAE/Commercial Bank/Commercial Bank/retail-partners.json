@@ -1,0 +1,167 @@
+[
+  {
+    "partnerId": "RP-UAE-001",
+    "businessName": "Lulu Hypermarket UAE Ltd",
+    "brandName": "Lulu Hypermarket",
+    "partnerType": "ConvenienceStore",
+    "country": "UAE",
+    "currency": "AED",
+    "contactPerson": "Partner Manager 1",
+    "email": "banking@luluhypermar.ua",
+    "phoneNumber": "+596-518-912085",
+    "servicesOffered": [
+      "AccountOpening",
+      "MoneyTransfer",
+      "CashDeposit",
+      "BillPayment",
+      "LoanPayment"
+    ],
+    "acceptedPaymentMethods": [
+      "AccountNumber",
+      "Cash",
+      "CardTap",
+      "QRCode",
+      "USSD"
+    ],
+    "totalStores": 131,
+    "activeStores": 126,
+    "storeLocations": [
+      "Ajman",
+      "Abu Dhabi"
+    ],
+    "monthlyTransactionVolume": 5675592.55,
+    "monthlyTransactionCount": 17014,
+    "averageTransactionSize": 118.41,
+    "commissionRate": 1.75,
+    "monthlyRevenue": 82709.96,
+    "partnershipStartDate": "2022-10-17T18:10:28Z",
+    "status": "Active",
+    "brandColor": "#5925fb",
+    "isIntegrated": true,
+    "lastSyncDate": null
+  },
+  {
+    "partnerId": "RP-UAE-002",
+    "businessName": "Carrefour UAE UAE Ltd",
+    "brandName": "Carrefour UAE",
+    "partnerType": "Pharmacy",
+    "country": "UAE",
+    "currency": "AED",
+    "contactPerson": "Partner Manager 2",
+    "email": "banking@carrefouruae.ua",
+    "phoneNumber": "+720-470-119116",
+    "servicesOffered": [
+      "BillPayment",
+      "CashWithdrawal",
+      "AccountOpening",
+      "LoanPayment",
+      "MoneyTransfer"
+    ],
+    "acceptedPaymentMethods": [
+      "Cash",
+      "USSD",
+      "CardTap",
+      "AccountNumber",
+      "PhoneNumber"
+    ],
+    "totalStores": 48,
+    "activeStores": 47,
+    "storeLocations": [
+      "Abu Dhabi",
+      "Dubai"
+    ],
+    "monthlyTransactionVolume": 2511176.0,
+    "monthlyTransactionCount": 5557,
+    "averageTransactionSize": 126.28,
+    "commissionRate": 1.74,
+    "monthlyRevenue": 10581.32,
+    "partnershipStartDate": "2021-11-07T18:10:28Z",
+    "status": "Active",
+    "brandColor": "#ae9922",
+    "isIntegrated": false,
+    "lastSyncDate": "2026-03-04T18:10:28Z"
+  },
+  {
+    "partnerId": "RP-UAE-003",
+    "businessName": "Union Coop UAE Ltd",
+    "brandName": "Union Coop",
+    "partnerType": "ConvenienceStore",
+    "country": "UAE",
+    "currency": "AED",
+    "contactPerson": "Partner Manager 3",
+    "email": "banking@unioncoop.ua",
+    "phoneNumber": "+970-866-921874",
+    "servicesOffered": [
+      "CashWithdrawal",
+      "MoneyTransfer",
+      "LoanPayment",
+      "BillPayment",
+      "AccountOpening",
+      "CashDeposit"
+    ],
+    "acceptedPaymentMethods": [
+      "Cash",
+      "CardTap",
+      "QRCode",
+      "USSD"
+    ],
+    "totalStores": 229,
+    "activeStores": 218,
+    "storeLocations": [
+      "Ajman",
+      "Abu Dhabi",
+      "Sharjah",
+      "Dubai"
+    ],
+    "monthlyTransactionVolume": 397354.8,
+    "monthlyTransactionCount": 33458,
+    "averageTransactionSize": 11.33,
+    "commissionRate": 1.01,
+    "monthlyRevenue": 1964.8,
+    "partnershipStartDate": "2025-01-20T18:10:28Z",
+    "status": "Active",
+    "brandColor": "#d075eb",
+    "isIntegrated": false,
+    "lastSyncDate": "2026-03-03T18:10:28Z"
+  },
+  {
+    "partnerId": "RP-UAE-004",
+    "businessName": "ADCOOP UAE Ltd",
+    "brandName": "ADCOOP",
+    "partnerType": "Supermarket",
+    "country": "UAE",
+    "currency": "AED",
+    "contactPerson": "Partner Manager 4",
+    "email": "banking@adcoop.ua",
+    "phoneNumber": "+427-936-573041",
+    "servicesOffered": [
+      "CashDeposit",
+      "AirtimePurchase",
+      "LoanPayment",
+      "AccountOpening",
+      "BillPayment"
+    ],
+    "acceptedPaymentMethods": [
+      "QRCode",
+      "AccountNumber",
+      "CardTap",
+      "Cash"
+    ],
+    "totalStores": 47,
+    "activeStores": 45,
+    "storeLocations": [
+      "Ajman",
+      "Dubai"
+    ],
+    "monthlyTransactionVolume": 6116778.8,
+    "monthlyTransactionCount": 25070,
+    "averageTransactionSize": 402.02,
+    "commissionRate": 0.35,
+    "monthlyRevenue": 86674.21,
+    "partnershipStartDate": "2021-06-20T18:10:28Z",
+    "status": "Active",
+    "brandColor": "#c24db2",
+    "isIntegrated": false,
+    "lastSyncDate": "2026-03-02T18:10:28Z"
+  }
+]

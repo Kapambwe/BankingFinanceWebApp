@@ -1,0 +1,205 @@
+[
+  {
+    "programId": "73384297-7ac0-bca7-1b43-6915c2fa6407",
+    "programCode": "AFC-REG-2026-001",
+    "programName": "Power Regional Cooperation Programme",
+    "institutionName": "Africa Finance Corporation",
+    "regionalBody": "SADC",
+    "cooperationType": "PhysicalIntegration",
+    "memberCountries": [
+      "Nigeria",
+      "Ghana",
+      "Kenya",
+      "Egypt"
+    ],
+    "sector": "Power",
+    "sectorFocus": "Transport",
+    "totalCost": 108000000,
+    "institutionFinancing": 49000000,
+    "coFinancing": 27000000,
+    "currency": "USD",
+    "keyOutputs": [
+      "Regional coordination mechanism",
+      "Joint investment pipeline",
+      "Shared monitoring framework"
+    ],
+    "status": "Implementation",
+    "approvalDate": "2025-02-15T22:00:00Z",
+    "closingDate": "2030-02-15T22:00:00Z",
+    "createdAt": "2024-12-31T22:00:00Z"
+  },
+  {
+    "programId": "cc8629e5-712d-7443-a0ee-75b9c3b94759",
+    "programCode": "AFC-REG-2026-002",
+    "programName": "Ports and Logistics Regional Cooperation Programme",
+    "institutionName": "Africa Finance Corporation",
+    "regionalBody": "ECOWAS",
+    "cooperationType": "TradeAndCustoms",
+    "memberCountries": [
+      "Nigeria",
+      "Ghana",
+      "Kenya",
+      "Egypt"
+    ],
+    "sector": "Ports and Logistics",
+    "sectorFocus": "Trade_Customs",
+    "totalCost": 126000000,
+    "institutionFinancing": 56000000,
+    "coFinancing": 32000000,
+    "currency": "USD",
+    "keyOutputs": [
+      "Regional coordination mechanism",
+      "Joint investment pipeline",
+      "Shared monitoring framework"
+    ],
+    "status": "Approved",
+    "approvalDate": "2025-03-15T22:00:00Z",
+    "closingDate": "2030-03-15T22:00:00Z",
+    "createdAt": "2025-01-01T22:00:00Z"
+  },
+  {
+    "programId": "90ab7ff9-f0ca-c24e-817d-18c05bc53335",
+    "programCode": "AFC-REG-2026-003",
+    "programName": "Rail Regional Cooperation Programme",
+    "institutionName": "Africa Finance Corporation",
+    "regionalBody": "EAC",
+    "cooperationType": "FinancialIntegration",
+    "memberCountries": [
+      "Nigeria",
+      "Ghana",
+      "Kenya",
+      "Egypt"
+    ],
+    "sector": "Rail",
+    "sectorFocus": "FinancialServices",
+    "totalCost": 144000000,
+    "institutionFinancing": 63000000,
+    "coFinancing": 37000000,
+    "currency": "USD",
+    "keyOutputs": [
+      "Regional coordination mechanism",
+      "Joint investment pipeline",
+      "Shared monitoring framework"
+    ],
+    "status": "Preparation",
+    "approvalDate": "2025-04-15T22:00:00Z",
+    "closingDate": "2030-04-15T22:00:00Z",
+    "createdAt": "2025-01-02T22:00:00Z"
+  },
+  {
+    "programId": "fa33ba64-5c2d-7194-6e0a-e1aad7596448",
+    "programCode": "AFC-REG-2026-004",
+    "programName": "Industrial Parks Regional Cooperation Programme",
+    "institutionName": "Africa Finance Corporation",
+    "regionalBody": "African Union",
+    "cooperationType": "PolicyHarmonisation",
+    "memberCountries": [
+      "Nigeria",
+      "Ghana",
+      "Kenya",
+      "Egypt"
+    ],
+    "sector": "Industrial Parks",
+    "sectorFocus": "ICT_Digital",
+    "totalCost": 162000000,
+    "institutionFinancing": 70000000,
+    "coFinancing": 42000000,
+    "currency": "USD",
+    "keyOutputs": [
+      "Regional coordination mechanism",
+      "Joint investment pipeline",
+      "Shared monitoring framework"
+    ],
+    "status": "Pipeline",
+    "approvalDate": "2025-05-15T22:00:00Z",
+    "closingDate": "2030-05-15T22:00:00Z",
+    "createdAt": "2025-01-03T22:00:00Z"
+  },
+  {
+    "programId": "fd5b055a-33e8-3a05-f77f-efe61c282e31",
+    "programCode": "AFC-REG-2026-005",
+    "programName": "Telecommunications Regional Cooperation Programme",
+    "institutionName": "Africa Finance Corporation",
+    "regionalBody": "COMESA",
+    "cooperationType": "RegionalValueChain",
+    "memberCountries": [
+      "Nigeria",
+      "Ghana",
+      "Kenya",
+      "Egypt"
+    ],
+    "sector": "Telecommunications",
+    "sectorFocus": "Agriculture",
+    "totalCost": 180000000,
+    "institutionFinancing": 77000000,
+    "coFinancing": 47000000,
+    "currency": "USD",
+    "keyOutputs": [
+      "Regional coordination mechanism",
+      "Joint investment pipeline",
+      "Shared monitoring framework"
+    ],
+    "status": "Completed",
+    "approvalDate": "2025-06-15T22:00:00Z",
+    "closingDate": "2030-06-15T22:00:00Z",
+    "createdAt": "2025-01-04T22:00:00Z"
+  },
+  {
+    "programId": "66aaff57-b2ec-9776-cc92-ff41d29d430b",
+    "programCode": "AFC-REG-2026-006",
+    "programName": "Gas Infrastructure Regional Cooperation Programme",
+    "institutionName": "Africa Finance Corporation",
+    "regionalBody": "ASEAN",
+    "cooperationType": "SharedNaturalResource",
+    "memberCountries": [
+      "Nigeria",
+      "Ghana",
+      "Kenya",
+      "Egypt"
+    ],
+    "sector": "Gas Infrastructure",
+    "sectorFocus": "Environment",
+    "totalCost": 198000000,
+    "institutionFinancing": 84000000,
+    "coFinancing": 52000000,
+    "currency": "USD",
+    "keyOutputs": [
+      "Regional coordination mechanism",
+      "Joint investment pipeline",
+      "Shared monitoring framework"
+    ],
+    "status": "Implementation",
+    "approvalDate": "2025-07-15T22:00:00Z",
+    "closingDate": "2030-07-15T22:00:00Z",
+    "createdAt": "2025-01-05T22:00:00Z"
+  },
+  {
+    "programId": "4362e68e-f571-3557-2886-ef5afaf0ad2d",
+    "programCode": "AFC-REG-2026-007",
+    "programName": "Renewable Energy Regional Cooperation Programme",
+    "institutionName": "Africa Finance Corporation",
+    "regionalBody": "Regional Platform",
+    "cooperationType": "RegionalPowerPool",
+    "memberCountries": [
+      "Nigeria",
+      "Ghana",
+      "Kenya",
+      "Egypt"
+    ],
+    "sector": "Renewable Energy",
+    "sectorFocus": "Energy",
+    "totalCost": 216000000,
+    "institutionFinancing": 91000000,
+    "coFinancing": 57000000,
+    "currency": "USD",
+    "keyOutputs": [
+      "Regional coordination mechanism",
+      "Joint investment pipeline",
+      "Shared monitoring framework"
+    ],
+    "status": "Approved",
+    "approvalDate": "2025-08-15T22:00:00Z",
+    "closingDate": "2030-08-15T22:00:00Z",
+    "createdAt": "2025-01-06T22:00:00Z"
+  }
+]

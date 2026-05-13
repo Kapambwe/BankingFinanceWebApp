@@ -1,0 +1,212 @@
+[
+  {
+    "initiativeId": "307895cc-abd1-3dbe-a9b7-df785990a180",
+    "initiativeName": "Kenya Renewable Energy Innovation Lab",
+    "institutionName": "European Investment Bank",
+    "countryCode": "KE",
+    "countryName": "Kenya",
+    "initiativeType": "AcceleratorLab",
+    "thematicFocus": "Renewable Energy",
+    "budgetAmount": 825000,
+    "currency": "EUR",
+    "experimentsOrPilots": 4,
+    "solutionsIdentified": 8,
+    "solutionsScaled": 1,
+    "ecosystemPartners": [
+      "Local universities",
+      "Startup hub",
+      "Government innovation unit",
+      "Private sector association"
+    ],
+    "learningOutputs": [
+      "Pilot report",
+      "Open data dashboard",
+      "Scale-up concept note"
+    ],
+    "isLinkedToInvestmentPipeline": false,
+    "investmentPipelineGenerated": 3000000,
+    "status": "Active",
+    "establishedDate": "2025-02-03T22:00:00Z",
+    "createdAt": "2024-12-31T22:00:00Z"
+  },
+  {
+    "initiativeId": "0b6e010f-0280-497f-be44-5d0512ff2d86",
+    "initiativeName": "Morocco Water Innovation Lab",
+    "institutionName": "European Investment Bank",
+    "countryCode": "MA",
+    "countryName": "Morocco",
+    "initiativeType": "InnovationChallenge",
+    "thematicFocus": "Water",
+    "budgetAmount": 1000000,
+    "currency": "EUR",
+    "experimentsOrPilots": 5,
+    "solutionsIdentified": 10,
+    "solutionsScaled": 2,
+    "ecosystemPartners": [
+      "Local universities",
+      "Startup hub",
+      "Government innovation unit",
+      "Private sector association"
+    ],
+    "learningOutputs": [
+      "Pilot report",
+      "Open data dashboard",
+      "Scale-up concept note"
+    ],
+    "isLinkedToInvestmentPipeline": true,
+    "investmentPipelineGenerated": 4000000,
+    "status": "Scaling",
+    "establishedDate": "2025-03-03T22:00:00Z",
+    "createdAt": "2025-01-01T22:00:00Z"
+  },
+  {
+    "initiativeId": "dc244503-7681-5c9e-e8b6-ae770141048b",
+    "initiativeName": "Jordan Urban Mobility Innovation Lab",
+    "institutionName": "European Investment Bank",
+    "countryCode": "JO",
+    "countryName": "Jordan",
+    "initiativeType": "MarketCreationPilot",
+    "thematicFocus": "Urban Mobility",
+    "budgetAmount": 1175000,
+    "currency": "EUR",
+    "experimentsOrPilots": 6,
+    "solutionsIdentified": 12,
+    "solutionsScaled": 3,
+    "ecosystemPartners": [
+      "Local universities",
+      "Startup hub",
+      "Government innovation unit",
+      "Private sector association"
+    ],
+    "learningOutputs": [
+      "Pilot report",
+      "Open data dashboard",
+      "Scale-up concept note"
+    ],
+    "isLinkedToInvestmentPipeline": false,
+    "investmentPipelineGenerated": 5000000,
+    "status": "Evaluation",
+    "establishedDate": "2025-04-03T22:00:00Z",
+    "createdAt": "2025-01-02T22:00:00Z"
+  },
+  {
+    "initiativeId": "e6d58faf-3cbc-1de0-51fb-6ee05af4c8e1",
+    "initiativeName": "Ukraine Health Infrastructure Innovation Lab",
+    "institutionName": "European Investment Bank",
+    "countryCode": "UA",
+    "countryName": "Ukraine",
+    "initiativeType": "RegulatoryTestbed",
+    "thematicFocus": "Health Infrastructure",
+    "budgetAmount": 1350000,
+    "currency": "EUR",
+    "experimentsOrPilots": 7,
+    "solutionsIdentified": 14,
+    "solutionsScaled": 0,
+    "ecosystemPartners": [
+      "Local universities",
+      "Startup hub",
+      "Government innovation unit",
+      "Private sector association"
+    ],
+    "learningOutputs": [
+      "Pilot report",
+      "Open data dashboard",
+      "Scale-up concept note"
+    ],
+    "isLinkedToInvestmentPipeline": true,
+    "investmentPipelineGenerated": 6000000,
+    "status": "Design",
+    "establishedDate": "2025-05-03T22:00:00Z",
+    "createdAt": "2025-01-03T22:00:00Z"
+  },
+  {
+    "initiativeId": "7d25aabc-3708-9a67-054c-d2277fd376d1",
+    "initiativeName": "Senegal SME Credit Innovation Lab",
+    "institutionName": "European Investment Bank",
+    "countryCode": "SN",
+    "countryName": "Senegal",
+    "initiativeType": "KnowledgeHub",
+    "thematicFocus": "SME Credit",
+    "budgetAmount": 1525000,
+    "currency": "EUR",
+    "experimentsOrPilots": 8,
+    "solutionsIdentified": 16,
+    "solutionsScaled": 1,
+    "ecosystemPartners": [
+      "Local universities",
+      "Startup hub",
+      "Government innovation unit",
+      "Private sector association"
+    ],
+    "learningOutputs": [
+      "Pilot report",
+      "Open data dashboard",
+      "Scale-up concept note"
+    ],
+    "isLinkedToInvestmentPipeline": false,
+    "investmentPipelineGenerated": 7000000,
+    "status": "Completed",
+    "establishedDate": "2025-06-03T22:00:00Z",
+    "createdAt": "2025-01-04T22:00:00Z"
+  },
+  {
+    "initiativeId": "f3fa02a8-6cc8-f7a5-0520-ebd0ad026dad",
+    "initiativeName": "Egypt Climate Adaptation Innovation Lab",
+    "institutionName": "European Investment Bank",
+    "countryCode": "EG",
+    "countryName": "Egypt",
+    "initiativeType": "EcosystemBuilder",
+    "thematicFocus": "Climate Adaptation",
+    "budgetAmount": 1700000,
+    "currency": "EUR",
+    "experimentsOrPilots": 9,
+    "solutionsIdentified": 18,
+    "solutionsScaled": 2,
+    "ecosystemPartners": [
+      "Local universities",
+      "Startup hub",
+      "Government innovation unit",
+      "Private sector association"
+    ],
+    "learningOutputs": [
+      "Pilot report",
+      "Open data dashboard",
+      "Scale-up concept note"
+    ],
+    "isLinkedToInvestmentPipeline": true,
+    "investmentPipelineGenerated": 8000000,
+    "status": "Active",
+    "establishedDate": "2025-07-03T22:00:00Z",
+    "createdAt": "2025-01-05T22:00:00Z"
+  },
+  {
+    "initiativeId": "3bbb4795-1ea6-e8d6-17db-f93e6cd3c19a",
+    "initiativeName": "Tunisia Digital Connectivity Innovation Lab",
+    "institutionName": "European Investment Bank",
+    "countryCode": "TN",
+    "countryName": "Tunisia",
+    "initiativeType": "ImpactLab",
+    "thematicFocus": "Digital Connectivity",
+    "budgetAmount": 1875000,
+    "currency": "EUR",
+    "experimentsOrPilots": 10,
+    "solutionsIdentified": 20,
+    "solutionsScaled": 3,
+    "ecosystemPartners": [
+      "Local universities",
+      "Startup hub",
+      "Government innovation unit",
+      "Private sector association"
+    ],
+    "learningOutputs": [
+      "Pilot report",
+      "Open data dashboard",
+      "Scale-up concept note"
+    ],
+    "isLinkedToInvestmentPipeline": false,
+    "investmentPipelineGenerated": 9000000,
+    "status": "Scaling",
+    "establishedDate": "2025-08-03T22:00:00Z",
+    "createdAt": "2025-01-06T22:00:00Z"
+  }
+]

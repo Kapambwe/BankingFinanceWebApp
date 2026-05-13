@@ -1,0 +1,303 @@
+[
+  {
+    "reviewId": "1035d6f7-37b8-8ff6-aaff-b2dee1b40413",
+    "reviewCode": "EIB-KE-CPR-2026-001",
+    "institutionName": "European Investment Bank",
+    "countryCode": "KE",
+    "countryName": "Kenya",
+    "reviewYear": 2026,
+    "totalActiveOperations": 6,
+    "totalActivePortfolioValue": 212000000,
+    "totalDisbursed": 89040000.0,
+    "averageDisbursementRatio": 42.0,
+    "currency": "EUR",
+    "projectsAtRisk": 1,
+    "projectsPotentiallyProblematic": 2,
+    "keyIssues": [
+      {
+        "issueTitle": "Procurement sequencing delays",
+        "category": "Procurement",
+        "projectsAffected": 2,
+        "description": "Contract packaging and approvals are taking longer than agreed timelines.",
+        "recommendedAction": "Run monthly procurement clinics with the implementing agency.",
+        "severity": "Moderate"
+      },
+      {
+        "issueTitle": "Safeguard reporting lag",
+        "category": "ESCompliance",
+        "projectsAffected": 1,
+        "description": "Quarterly environmental and social reports require closer follow-up.",
+        "recommendedAction": "Deploy field supervision and require corrective action reporting.",
+        "severity": "Significant"
+      }
+    ],
+    "actionPlan": [
+      "Agree dated action tracker",
+      "Escalate bottlenecks at portfolio review meeting",
+      "Increase implementation support missions"
+    ],
+    "overallRating": "Satisfactory",
+    "reviewTeamLead": "Portfolio Review Mission",
+    "status": "Finalised",
+    "reviewDate": "2026-02-17T22:00:00Z",
+    "createdAt": "2025-12-31T22:00:00Z"
+  },
+  {
+    "reviewId": "2f7b44d1-3b2e-1b90-caac-6607610297d8",
+    "reviewCode": "EIB-MA-CPR-2026-002",
+    "institutionName": "European Investment Bank",
+    "countryCode": "MA",
+    "countryName": "Morocco",
+    "reviewYear": 2026,
+    "totalActiveOperations": 7,
+    "totalActivePortfolioValue": 244000000,
+    "totalDisbursed": 112240000.0,
+    "averageDisbursementRatio": 46.0,
+    "currency": "EUR",
+    "projectsAtRisk": 2,
+    "projectsPotentiallyProblematic": 0,
+    "keyIssues": [
+      {
+        "issueTitle": "Procurement sequencing delays",
+        "category": "Procurement",
+        "projectsAffected": 3,
+        "description": "Contract packaging and approvals are taking longer than agreed timelines.",
+        "recommendedAction": "Run monthly procurement clinics with the implementing agency.",
+        "severity": "Moderate"
+      },
+      {
+        "issueTitle": "Safeguard reporting lag",
+        "category": "ESCompliance",
+        "projectsAffected": 1,
+        "description": "Quarterly environmental and social reports require closer follow-up.",
+        "recommendedAction": "Deploy field supervision and require corrective action reporting.",
+        "severity": "Significant"
+      }
+    ],
+    "actionPlan": [
+      "Agree dated action tracker",
+      "Escalate bottlenecks at portfolio review meeting",
+      "Increase implementation support missions"
+    ],
+    "overallRating": "ModeratelySatisfactory",
+    "reviewTeamLead": "Country Operations Team",
+    "status": "GovernmentConsultation",
+    "reviewDate": "2026-03-17T22:00:00Z",
+    "createdAt": "2026-01-01T22:00:00Z"
+  },
+  {
+    "reviewId": "589a1289-9d02-7226-0dd8-267949bc1ef7",
+    "reviewCode": "EIB-JO-CPR-2026-003",
+    "institutionName": "European Investment Bank",
+    "countryCode": "JO",
+    "countryName": "Jordan",
+    "reviewYear": 2026,
+    "totalActiveOperations": 8,
+    "totalActivePortfolioValue": 276000000,
+    "totalDisbursed": 138000000.0,
+    "averageDisbursementRatio": 50.0,
+    "currency": "EUR",
+    "projectsAtRisk": 0,
+    "projectsPotentiallyProblematic": 1,
+    "keyIssues": [
+      {
+        "issueTitle": "Procurement sequencing delays",
+        "category": "Procurement",
+        "projectsAffected": 1,
+        "description": "Contract packaging and approvals are taking longer than agreed timelines.",
+        "recommendedAction": "Run monthly procurement clinics with the implementing agency.",
+        "severity": "Moderate"
+      },
+      {
+        "issueTitle": "Safeguard reporting lag",
+        "category": "ESCompliance",
+        "projectsAffected": 1,
+        "description": "Quarterly environmental and social reports require closer follow-up.",
+        "recommendedAction": "Deploy field supervision and require corrective action reporting.",
+        "severity": "Significant"
+      }
+    ],
+    "actionPlan": [
+      "Agree dated action tracker",
+      "Escalate bottlenecks at portfolio review meeting",
+      "Increase implementation support missions"
+    ],
+    "overallRating": "ModeratelyUnsatisfactory",
+    "reviewTeamLead": "Regional Delivery Unit",
+    "status": "FieldMission",
+    "reviewDate": "2026-04-17T22:00:00Z",
+    "createdAt": "2026-01-02T22:00:00Z"
+  },
+  {
+    "reviewId": "ae510dc2-ca28-18b6-b9e5-efc6f1f2d11f",
+    "reviewCode": "EIB-UA-CPR-2026-004",
+    "institutionName": "European Investment Bank",
+    "countryCode": "UA",
+    "countryName": "Ukraine",
+    "reviewYear": 2026,
+    "totalActiveOperations": 9,
+    "totalActivePortfolioValue": 308000000,
+    "totalDisbursed": 166320000.0,
+    "averageDisbursementRatio": 54.0,
+    "currency": "EUR",
+    "projectsAtRisk": 1,
+    "projectsPotentiallyProblematic": 2,
+    "keyIssues": [
+      {
+        "issueTitle": "Procurement sequencing delays",
+        "category": "Procurement",
+        "projectsAffected": 2,
+        "description": "Contract packaging and approvals are taking longer than agreed timelines.",
+        "recommendedAction": "Run monthly procurement clinics with the implementing agency.",
+        "severity": "Moderate"
+      },
+      {
+        "issueTitle": "Safeguard reporting lag",
+        "category": "ESCompliance",
+        "projectsAffected": 1,
+        "description": "Quarterly environmental and social reports require closer follow-up.",
+        "recommendedAction": "Deploy field supervision and require corrective action reporting.",
+        "severity": "Significant"
+      }
+    ],
+    "actionPlan": [
+      "Agree dated action tracker",
+      "Escalate bottlenecks at portfolio review meeting",
+      "Increase implementation support missions"
+    ],
+    "overallRating": "Satisfactory",
+    "reviewTeamLead": "Implementation Support Desk",
+    "status": "DraftReport",
+    "reviewDate": "2026-05-17T22:00:00Z",
+    "createdAt": "2026-01-03T22:00:00Z"
+  },
+  {
+    "reviewId": "f880d798-203b-b225-ed32-5dd2021b8f8f",
+    "reviewCode": "EIB-SN-CPR-2026-005",
+    "institutionName": "European Investment Bank",
+    "countryCode": "SN",
+    "countryName": "Senegal",
+    "reviewYear": 2026,
+    "totalActiveOperations": 10,
+    "totalActivePortfolioValue": 340000000,
+    "totalDisbursed": 197200000.0,
+    "averageDisbursementRatio": 58.0,
+    "currency": "EUR",
+    "projectsAtRisk": 2,
+    "projectsPotentiallyProblematic": 0,
+    "keyIssues": [
+      {
+        "issueTitle": "Procurement sequencing delays",
+        "category": "Procurement",
+        "projectsAffected": 3,
+        "description": "Contract packaging and approvals are taking longer than agreed timelines.",
+        "recommendedAction": "Run monthly procurement clinics with the implementing agency.",
+        "severity": "Moderate"
+      },
+      {
+        "issueTitle": "Safeguard reporting lag",
+        "category": "ESCompliance",
+        "projectsAffected": 1,
+        "description": "Quarterly environmental and social reports require closer follow-up.",
+        "recommendedAction": "Deploy field supervision and require corrective action reporting.",
+        "severity": "Significant"
+      }
+    ],
+    "actionPlan": [
+      "Agree dated action tracker",
+      "Escalate bottlenecks at portfolio review meeting",
+      "Increase implementation support missions"
+    ],
+    "overallRating": "ModeratelySatisfactory",
+    "reviewTeamLead": "Operations Quality Team",
+    "status": "Finalised",
+    "reviewDate": "2026-06-17T22:00:00Z",
+    "createdAt": "2026-01-04T22:00:00Z"
+  },
+  {
+    "reviewId": "6c8dcd5d-e998-ce39-801e-80e14160763e",
+    "reviewCode": "EIB-EG-CPR-2026-006",
+    "institutionName": "European Investment Bank",
+    "countryCode": "EG",
+    "countryName": "Egypt",
+    "reviewYear": 2026,
+    "totalActiveOperations": 11,
+    "totalActivePortfolioValue": 372000000,
+    "totalDisbursed": 230640000.0,
+    "averageDisbursementRatio": 62.0,
+    "currency": "EUR",
+    "projectsAtRisk": 0,
+    "projectsPotentiallyProblematic": 1,
+    "keyIssues": [
+      {
+        "issueTitle": "Procurement sequencing delays",
+        "category": "Procurement",
+        "projectsAffected": 1,
+        "description": "Contract packaging and approvals are taking longer than agreed timelines.",
+        "recommendedAction": "Run monthly procurement clinics with the implementing agency.",
+        "severity": "Moderate"
+      },
+      {
+        "issueTitle": "Safeguard reporting lag",
+        "category": "ESCompliance",
+        "projectsAffected": 1,
+        "description": "Quarterly environmental and social reports require closer follow-up.",
+        "recommendedAction": "Deploy field supervision and require corrective action reporting.",
+        "severity": "Significant"
+      }
+    ],
+    "actionPlan": [
+      "Agree dated action tracker",
+      "Escalate bottlenecks at portfolio review meeting",
+      "Increase implementation support missions"
+    ],
+    "overallRating": "Satisfactory",
+    "reviewTeamLead": "Fiduciary Review Team",
+    "status": "Preparation",
+    "reviewDate": "2026-07-17T22:00:00Z",
+    "createdAt": "2026-01-05T22:00:00Z"
+  },
+  {
+    "reviewId": "827e8cbc-5264-13f3-6128-fca9a39bd80c",
+    "reviewCode": "EIB-TN-CPR-2026-007",
+    "institutionName": "European Investment Bank",
+    "countryCode": "TN",
+    "countryName": "Tunisia",
+    "reviewYear": 2026,
+    "totalActiveOperations": 12,
+    "totalActivePortfolioValue": 404000000,
+    "totalDisbursed": 266640000.0,
+    "averageDisbursementRatio": 66.0,
+    "currency": "EUR",
+    "projectsAtRisk": 1,
+    "projectsPotentiallyProblematic": 2,
+    "keyIssues": [
+      {
+        "issueTitle": "Procurement sequencing delays",
+        "category": "Procurement",
+        "projectsAffected": 2,
+        "description": "Contract packaging and approvals are taking longer than agreed timelines.",
+        "recommendedAction": "Run monthly procurement clinics with the implementing agency.",
+        "severity": "Moderate"
+      },
+      {
+        "issueTitle": "Safeguard reporting lag",
+        "category": "ESCompliance",
+        "projectsAffected": 1,
+        "description": "Quarterly environmental and social reports require closer follow-up.",
+        "recommendedAction": "Deploy field supervision and require corrective action reporting.",
+        "severity": "Significant"
+      }
+    ],
+    "actionPlan": [
+      "Agree dated action tracker",
+      "Escalate bottlenecks at portfolio review meeting",
+      "Increase implementation support missions"
+    ],
+    "overallRating": "Unsatisfactory",
+    "reviewTeamLead": "Country Portfolio Lead",
+    "status": "Finalised",
+    "reviewDate": "2026-08-17T22:00:00Z",
+    "createdAt": "2026-01-06T22:00:00Z"
+  }
+]

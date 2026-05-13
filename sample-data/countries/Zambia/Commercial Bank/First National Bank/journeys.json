@@ -1,0 +1,227 @@
+[
+  {
+    "id": "journey-onboarding",
+    "name": "New Customer Onboarding",
+    "description": "Automated onboarding flow with education and offers",
+    "type": "Lifecycle",
+    "status": "Published",
+    "updatedAt": "2026-02-24T00:00:00Z",
+    "institutionType": "Commercial Bank"
+  },
+  {
+    "id": "journey-savings-nurture",
+    "name": "Savings Goal Nurture",
+    "description": "Weekly nudges to improve savings deposits",
+    "type": "Behavioral",
+    "status": "Draft",
+    "updatedAt": "2026-02-19T00:00:00Z",
+    "institutionType": "Commercial Bank"
+  },
+  {
+    "id": "journey-credit-card-activation",
+    "name": "Card Activation Boost",
+    "description": "Timed reminders to activate newly issued cards",
+    "type": "Lifecycle",
+    "status": "Published",
+    "updatedAt": "2026-02-25T00:00:00Z",
+    "institutionType": "Commercial Bank"
+  },
+  {
+    "id": "journey-loan-cross-sell",
+    "name": "Loan Cross-Sell",
+    "description": "Offer top-up loans to eligible customers",
+    "type": "Growth",
+    "status": "Draft",
+    "updatedAt": "2026-02-16T00:00:00Z",
+    "institutionType": "Commercial Bank"
+  },
+  {
+    "id": "journey-loan-welcome",
+    "name": "New Loan Customer Welcome",
+    "description": "Onboarding flow for newly disbursed retail loan clients",
+    "type": "Lifecycle",
+    "status": "Published",
+    "updatedAt": "2026-02-26T00:00:00Z",
+    "institutionType": "Commercial Bank"
+  },
+  {
+    "id": "journey-dormant-reactivation",
+    "name": "Dormant Account Reactivation",
+    "description": "Re-engagement flow for accounts inactive over 6 months",
+    "type": "Retention",
+    "status": "Published",
+    "updatedAt": "2026-02-23T00:00:00Z",
+    "institutionType": "Commercial Bank"
+  },
+  {
+    "id": "journey-overdraft-upsell",
+    "name": "Overdraft Facility Offer",
+    "description": "Offer overdraft to eligible salary account holders",
+    "type": "Growth",
+    "status": "Published",
+    "updatedAt": "2026-02-21T00:00:00Z",
+    "institutionType": "Commercial Bank"
+  },
+  {
+    "id": "journey-forex-alert",
+    "name": "FX Rate Alert Journey",
+    "description": "Notify customers when favorable FX rates are available",
+    "type": "Behavioral",
+    "status": "Draft",
+    "updatedAt": "2026-02-19T00:00:00Z",
+    "institutionType": "Commercial Bank"
+  },
+  {
+    "id": "journey-complaint-resolution",
+    "name": "Complaint Resolution Journey",
+    "description": "SLA-tracked complaint handling flow for all channels",
+    "type": "Service",
+    "status": "Published",
+    "updatedAt": "2026-02-17T00:00:00Z",
+    "institutionType": "Commercial Bank"
+  },
+  {
+    "id": "journey-investment-intro",
+    "name": "Investment Product Introduction",
+    "description": "Introduce treasury bills and fixed deposits to savings account holders",
+    "type": "Growth",
+    "status": "Published",
+    "updatedAt": "2026-02-15T00:00:00Z",
+    "institutionType": "Commercial Bank"
+  },
+  {
+    "id": "journey-sme-relationship",
+    "name": "SME Relationship Journey",
+    "description": "Nurture SME clients through business banking lifecycle",
+    "type": "Lifecycle",
+    "status": "Published",
+    "updatedAt": "2026-02-13T00:00:00Z",
+    "institutionType": "Commercial Bank"
+  },
+  {
+    "id": "journey-digital-migration",
+    "name": "Digital Channel Migration",
+    "description": "Guide branch-dependent customers to mobile and internet banking",
+    "type": "Growth",
+    "status": "Published",
+    "updatedAt": "2026-02-11T00:00:00Z",
+    "institutionType": "Commercial Bank"
+  },
+  {
+    "id": "journey-trade-finance-intro",
+    "name": "Trade Finance Introduction",
+    "description": "Introduce importers to letter of credit and documentary collection products",
+    "type": "Education",
+    "status": "Draft",
+    "updatedAt": "2026-02-09T00:00:00Z",
+    "institutionType": "Commercial Bank"
+  },
+  {
+    "id": "journey-atm-card-lost",
+    "name": "Lost Card Replacement",
+    "description": "Rapid card replacement journey for lost or stolen cards",
+    "type": "Service",
+    "status": "Published",
+    "updatedAt": "2026-02-07T00:00:00Z",
+    "institutionType": "Commercial Bank"
+  },
+  {
+    "id": "journey-loan-restructure",
+    "name": "Loan Restructuring Offer",
+    "description": "Outreach to distressed borrowers with restructuring options",
+    "type": "Retention",
+    "status": "Paused",
+    "updatedAt": "2026-02-05T00:00:00Z",
+    "institutionType": "Commercial Bank"
+  },
+  {
+    "id": "journey-fx-account-open",
+    "name": "FX Account Onboarding",
+    "description": "Open and activate foreign currency accounts for businesses",
+    "type": "Lifecycle",
+    "status": "Published",
+    "updatedAt": "2026-02-03T00:00:00Z",
+    "institutionType": "Commercial Bank"
+  },
+  {
+    "id": "journey-agent-banking",
+    "name": "Agent Banking Onboarding",
+    "description": "Enrol new banking agents and train them on POS systems",
+    "type": "Lifecycle",
+    "status": "Published",
+    "updatedAt": "2026-02-01T00:00:00Z",
+    "institutionType": "Commercial Bank"
+  },
+  {
+    "id": "journey-corporate-onboarding",
+    "name": "Corporate Client Onboarding",
+    "description": "KYC and account opening journey for new corporate clients",
+    "type": "Lifecycle",
+    "status": "Published",
+    "updatedAt": "2026-01-29T00:00:00Z",
+    "institutionType": "Commercial Bank"
+  },
+  {
+    "id": "journey-salary-advance",
+    "name": "Salary Advance Journey",
+    "description": "Offer salary advance to employees near month-end",
+    "type": "Behavioral",
+    "status": "Published",
+    "updatedAt": "2026-01-27T00:00:00Z",
+    "institutionType": "Commercial Bank"
+  },
+  {
+    "id": "journey-internet-banking-2fa",
+    "name": "2FA Enrolment",
+    "description": "Prompt customers to activate two-factor authentication",
+    "type": "Service",
+    "status": "Published",
+    "updatedAt": "2026-01-25T00:00:00Z",
+    "institutionType": "Commercial Bank"
+  },
+  {
+    "id": "journey-nps-follow-up",
+    "name": "Post-Transaction NPS",
+    "description": "Net Promoter Score survey after significant transactions",
+    "type": "Service",
+    "status": "Published",
+    "updatedAt": "2026-01-22T00:00:00Z",
+    "institutionType": "Commercial Bank"
+  },
+  {
+    "id": "journey-annual-review",
+    "name": "Annual Account Review",
+    "description": "Yearly review of customer needs and suitable product upgrades",
+    "type": "Lifecycle",
+    "status": "Published",
+    "updatedAt": "2026-01-20T00:00:00Z",
+    "institutionType": "Commercial Bank"
+  },
+  {
+    "id": "journey-remittance",
+    "name": "International Remittance Journey",
+    "description": "Guide customers sending money internationally through optimal channels",
+    "type": "Education",
+    "status": "Published",
+    "updatedAt": "2026-01-18T00:00:00Z",
+    "institutionType": "Commercial Bank"
+  },
+  {
+    "id": "journey-fraud-alert-response",
+    "name": "Fraud Alert Response",
+    "description": "Customer-facing communication and account freeze for suspected fraud",
+    "type": "Service",
+    "status": "Published",
+    "updatedAt": "2026-01-15T00:00:00Z",
+    "institutionType": "Commercial Bank"
+  },
+  {
+    "id": "journey-mortgage-application",
+    "name": "Mortgage Application Journey",
+    "description": "End-to-end home loan application and approval process",
+    "type": "Lifecycle",
+    "status": "Published",
+    "updatedAt": "2026-01-12T00:00:00Z",
+    "institutionType": "Commercial Bank"
+  }
+]

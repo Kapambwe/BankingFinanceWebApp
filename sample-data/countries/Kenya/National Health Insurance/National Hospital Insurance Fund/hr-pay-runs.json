@@ -1,0 +1,50 @@
+[
+  {
+    "payRunId": "pr500000-0001-0000-0000-0000000005001",
+    "payRunReference": "PAYRUN-5-2025-10",
+    "payPeriod": "October 2025",
+    "startDate": "2025-10-01",
+    "endDate": "2025-10-31",
+    "payDate": "2025-10-28",
+    "totalEmployees": 3100,
+    "totalGrossPay": 612250000,
+    "totalDeductions": 171430000,
+    "totalNetPay": 440820000,
+    "currency": "KES",
+    "status": "Completed",
+    "processedBy": "Wanjiku Otieno",
+    "createdAt": "2025-10-01T00:00:00Z"
+  },
+  {
+    "payRunId": "pr500000-0002-0000-0000-0000000005002",
+    "payRunReference": "PAYRUN-5-2025-11",
+    "payPeriod": "November 2025",
+    "startDate": "2025-11-01",
+    "endDate": "2025-11-30",
+    "payDate": "2025-11-28",
+    "totalEmployees": 3100,
+    "totalGrossPay": 612250000,
+    "totalDeductions": 171430000,
+    "totalNetPay": 440820000,
+    "currency": "KES",
+    "status": "Completed",
+    "processedBy": "Wanjiku Otieno",
+    "createdAt": "2025-11-01T00:00:00Z"
+  },
+  {
+    "payRunId": "pr500000-0003-0000-0000-0000000005003",
+    "payRunReference": "PAYRUN-5-2025-12",
+    "payPeriod": "December 2025",
+    "startDate": "2025-12-01",
+    "endDate": "2025-12-31",
+    "payDate": "2025-12-28",
+    "totalEmployees": 3100,
+    "totalGrossPay": 612250000,
+    "totalDeductions": 171430000,
+    "totalNetPay": 440820000,
+    "currency": "KES",
+    "status": "Draft",
+    "processedBy": "Wanjiku Otieno",
+    "createdAt": "2025-12-01T00:00:00Z"
+  }
+]

@@ -1,0 +1,169 @@
+[
+  {
+    "partnerId": "RP-GHA-001",
+    "businessName": "Melcom Ghana Ltd",
+    "brandName": "Melcom",
+    "partnerType": "SmallShop",
+    "country": "Ghana",
+    "currency": "GHS",
+    "contactPerson": "Partner Manager 1",
+    "email": "banking@melcom.gh",
+    "phoneNumber": "+248-707-444130",
+    "servicesOffered": [
+      "CashWithdrawal",
+      "MoneyTransfer",
+      "AirtimePurchase",
+      "LoanPayment",
+      "BillPayment",
+      "AccountOpening"
+    ],
+    "acceptedPaymentMethods": [
+      "USSD",
+      "QRCode",
+      "Cash",
+      "PhoneNumber",
+      "AccountNumber",
+      "CardTap"
+    ],
+    "totalStores": 235,
+    "activeStores": 232,
+    "storeLocations": [
+      "Kumasi",
+      "Accra"
+    ],
+    "monthlyTransactionVolume": 2316456.62,
+    "monthlyTransactionCount": 1022,
+    "averageTransactionSize": 61.09,
+    "commissionRate": 1.06,
+    "monthlyRevenue": 8650.69,
+    "partnershipStartDate": "2025-03-15T18:10:28Z",
+    "status": "Active",
+    "brandColor": "#dc74d5",
+    "isIntegrated": true,
+    "lastSyncDate": "2026-03-03T18:10:28Z"
+  },
+  {
+    "partnerId": "RP-GHA-002",
+    "businessName": "Shoprite Ghana Ghana Ltd",
+    "brandName": "Shoprite Ghana",
+    "partnerType": "ConvenienceStore",
+    "country": "Ghana",
+    "currency": "GHS",
+    "contactPerson": "Partner Manager 2",
+    "email": "banking@shopriteghan.gh",
+    "phoneNumber": "+484-680-553862",
+    "servicesOffered": [
+      "AirtimePurchase",
+      "CashDeposit",
+      "CashWithdrawal",
+      "MoneyTransfer",
+      "BillPayment"
+    ],
+    "acceptedPaymentMethods": [
+      "CardTap",
+      "Cash",
+      "PhoneNumber",
+      "QRCode",
+      "USSD",
+      "AccountNumber"
+    ],
+    "totalStores": 194,
+    "activeStores": 193,
+    "storeLocations": [
+      "Kumasi",
+      "Tamale"
+    ],
+    "monthlyTransactionVolume": 2726591.06,
+    "monthlyTransactionCount": 23815,
+    "averageTransactionSize": 364.13,
+    "commissionRate": 0.53,
+    "monthlyRevenue": 11935.88,
+    "partnershipStartDate": "2022-01-22T18:10:28Z",
+    "status": "PendingApproval",
+    "brandColor": "#565b65",
+    "isIntegrated": true,
+    "lastSyncDate": "2026-03-03T18:10:28Z"
+  },
+  {
+    "partnerId": "RP-GHA-003",
+    "businessName": "Palace Hypermarket Ghana Ltd",
+    "brandName": "Palace Hypermarket",
+    "partnerType": "ConvenienceStore",
+    "country": "Ghana",
+    "currency": "GHS",
+    "contactPerson": "Partner Manager 3",
+    "email": "banking@palacehyperm.gh",
+    "phoneNumber": "+765-405-298340",
+    "servicesOffered": [
+      "AccountOpening",
+      "BillPayment",
+      "AirtimePurchase",
+      "MoneyTransfer",
+      "CashDeposit"
+    ],
+    "acceptedPaymentMethods": [
+      "PhoneNumber",
+      "AccountNumber",
+      "CardTap",
+      "Cash",
+      "QRCode"
+    ],
+    "totalStores": 6,
+    "activeStores": 6,
+    "storeLocations": [
+      "Kumasi",
+      "Tamale"
+    ],
+    "monthlyTransactionVolume": 4465249.03,
+    "monthlyTransactionCount": 36592,
+    "averageTransactionSize": 179.96,
+    "commissionRate": 0.38,
+    "monthlyRevenue": 24364.38,
+    "partnershipStartDate": "2021-03-07T18:10:28Z",
+    "status": "Active",
+    "brandColor": "#36eb03",
+    "isIntegrated": true,
+    "lastSyncDate": "2026-03-04T18:10:28Z"
+  },
+  {
+    "partnerId": "RP-GHA-004",
+    "businessName": "Game Ghana Ghana Ltd",
+    "brandName": "Game Ghana",
+    "partnerType": "SmallShop",
+    "country": "Ghana",
+    "currency": "GHS",
+    "contactPerson": "Partner Manager 4",
+    "email": "banking@gameghana.gh",
+    "phoneNumber": "+879-561-848898",
+    "servicesOffered": [
+      "MoneyTransfer",
+      "AccountOpening",
+      "AirtimePurchase",
+      "CashDeposit",
+      "LoanPayment",
+      "CashWithdrawal"
+    ],
+    "acceptedPaymentMethods": [
+      "PhoneNumber",
+      "USSD"
+    ],
+    "totalStores": 140,
+    "activeStores": 129,
+    "storeLocations": [
+      "Kumasi",
+      "Tamale",
+      "Takoradi",
+      "Accra"
+    ],
+    "monthlyTransactionVolume": 3282290.88,
+    "monthlyTransactionCount": 49865,
+    "averageTransactionSize": 84.86,
+    "commissionRate": 1.93,
+    "monthlyRevenue": 15872.79,
+    "partnershipStartDate": "2021-08-29T18:10:28Z",
+    "status": "Active",
+    "brandColor": "#af7473",
+    "isIntegrated": true,
+    "lastSyncDate": "2026-03-03T18:10:28Z"
+  }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "recurringBillId": "rb500000-0001",
+    "name": "Monthly Office Rent",
+    "vendor": "Prime Properties Nairobi",
+    "amount": 306.0,
+    "currency": "KES",
+    "frequency": "Monthly",
+    "nextBillDate": "2026-01-01",
+    "status": "Active",
+    "createdAt": "2025-01-01T00:00:00Z"
+  },
+  {
+    "recurringBillId": "rb500000-0002",
+    "name": "Monthly IT Maintenance",
+    "vendor": "IBM Kenya",
+    "amount": 184.0,
+    "currency": "KES",
+    "frequency": "Monthly",
+    "nextBillDate": "2026-01-01",
+    "status": "Active",
+    "createdAt": "2025-01-01T00:00:00Z"
+  },
+  {
+    "recurringBillId": "rb500000-0003",
+    "name": "Monthly Utilities",
+    "vendor": "National Utilities Kenya",
+    "amount": 61.0,
+    "currency": "KES",
+    "frequency": "Monthly",
+    "nextBillDate": "2026-01-01",
+    "status": "Active",
+    "createdAt": "2025-01-01T00:00:00Z"
+  }
+]

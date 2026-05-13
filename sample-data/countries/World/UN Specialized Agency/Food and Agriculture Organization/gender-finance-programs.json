@@ -1,0 +1,205 @@
+[
+  {
+    "programId": "db8603d5-ce0c-45c7-dba1-cc4ddefe23bd",
+    "programCode": "FAO-ZM-GEN-2026-001",
+    "programName": "Zambia Women-Led Enterprise Finance Programme",
+    "institutionName": "Food and Agriculture Organization",
+    "countryCode": "ZM",
+    "countryName": "Zambia",
+    "programType": "CreditGuaranteeFacility",
+    "facilityAmount": 10500000,
+    "guaranteeComponent": 2600000,
+    "technicalAssistanceComponent": 770000,
+    "currency": "USD",
+    "financialIntermediaryPartner": "National development bank",
+    "womenBeneficiaries": 1650,
+    "loansExtendedToWomen": 970,
+    "targetSectors": [
+      "Food Systems",
+      "Trade",
+      "Services"
+    ],
+    "status": "Active",
+    "eligibilityCriteria": [
+      "Women-owned or women-led enterprise",
+      "Operational business registration",
+      "Verified use of funds"
+    ],
+    "startDate": "2025-01-31T22:00:00Z",
+    "createdAt": "2024-12-31T22:00:00Z"
+  },
+  {
+    "programId": "614a6ca2-de1b-e3b6-8e84-5097258c031a",
+    "programCode": "FAO-MW-GEN-2026-002",
+    "programName": "Malawi Women-Led Enterprise Finance Programme",
+    "institutionName": "Food and Agriculture Organization",
+    "countryCode": "MW",
+    "countryName": "Malawi",
+    "programType": "CapacityBuildingProgram",
+    "facilityAmount": 13000000,
+    "guaranteeComponent": 3200000,
+    "technicalAssistanceComponent": 890000,
+    "currency": "USD",
+    "financialIntermediaryPartner": "Women enterprise fund",
+    "womenBeneficiaries": 2100,
+    "loansExtendedToWomen": 1190,
+    "targetSectors": [
+      "Climate-Smart Agriculture",
+      "Trade",
+      "Services"
+    ],
+    "status": "Approved",
+    "eligibilityCriteria": [
+      "Women-owned or women-led enterprise",
+      "Operational business registration",
+      "Verified use of funds"
+    ],
+    "startDate": "2025-02-28T22:00:00Z",
+    "createdAt": "2025-01-01T22:00:00Z"
+  },
+  {
+    "programId": "338ccf38-c7b5-9b33-9564-813fc3bf3837",
+    "programCode": "FAO-KE-GEN-2026-003",
+    "programName": "Kenya Women-Led Enterprise Finance Programme",
+    "institutionName": "Food and Agriculture Organization",
+    "countryCode": "KE",
+    "countryName": "Kenya",
+    "programType": "DigitalFinanceForWomen",
+    "facilityAmount": 15500000,
+    "guaranteeComponent": 3800000,
+    "technicalAssistanceComponent": 1010000,
+    "currency": "USD",
+    "financialIntermediaryPartner": "Commercial bank partner",
+    "womenBeneficiaries": 2550,
+    "loansExtendedToWomen": 1410,
+    "targetSectors": [
+      "Fisheries",
+      "Trade",
+      "Services"
+    ],
+    "status": "Scaling",
+    "eligibilityCriteria": [
+      "Women-owned or women-led enterprise",
+      "Operational business registration",
+      "Verified use of funds"
+    ],
+    "startDate": "2025-03-31T22:00:00Z",
+    "createdAt": "2025-01-02T22:00:00Z"
+  },
+  {
+    "programId": "01ad15b3-e0d0-8350-b06e-f43648f6e179",
+    "programCode": "FAO-ET-GEN-2026-004",
+    "programName": "Ethiopia Women-Led Enterprise Finance Programme",
+    "institutionName": "Food and Agriculture Organization",
+    "countryCode": "ET",
+    "countryName": "Ethiopia",
+    "programType": "MarketAccessProgram",
+    "facilityAmount": 18000000,
+    "guaranteeComponent": 4400000,
+    "technicalAssistanceComponent": 1130000,
+    "currency": "USD",
+    "financialIntermediaryPartner": "Microfinance network",
+    "womenBeneficiaries": 3000,
+    "loansExtendedToWomen": 1630,
+    "targetSectors": [
+      "Irrigation",
+      "Trade",
+      "Services"
+    ],
+    "status": "Design",
+    "eligibilityCriteria": [
+      "Women-owned or women-led enterprise",
+      "Operational business registration",
+      "Verified use of funds"
+    ],
+    "startDate": "2025-04-30T22:00:00Z",
+    "createdAt": "2025-01-03T22:00:00Z"
+  },
+  {
+    "programId": "09333756-3da9-07b4-3f01-a6ac4df79aea",
+    "programCode": "FAO-GH-GEN-2026-005",
+    "programName": "Ghana Women-Led Enterprise Finance Programme",
+    "institutionName": "Food and Agriculture Organization",
+    "countryCode": "GH",
+    "countryName": "Ghana",
+    "programType": "FinancialInstitutionSupport",
+    "facilityAmount": 20500000,
+    "guaranteeComponent": 5000000,
+    "technicalAssistanceComponent": 1250000,
+    "currency": "USD",
+    "financialIntermediaryPartner": "Digital finance provider",
+    "womenBeneficiaries": 3450,
+    "loansExtendedToWomen": 1850,
+    "targetSectors": [
+      "Livestock",
+      "Trade",
+      "Services"
+    ],
+    "status": "Completed",
+    "eligibilityCriteria": [
+      "Women-owned or women-led enterprise",
+      "Operational business registration",
+      "Verified use of funds"
+    ],
+    "startDate": "2025-05-31T22:00:00Z",
+    "createdAt": "2025-01-04T22:00:00Z"
+  },
+  {
+    "programId": "63c9e205-5ddb-b0be-ad9b-4a3319f20f2d",
+    "programCode": "FAO-MZ-GEN-2026-006",
+    "programName": "Mozambique Women-Led Enterprise Finance Programme",
+    "institutionName": "Food and Agriculture Organization",
+    "countryCode": "MZ",
+    "countryName": "Mozambique",
+    "programType": "PolicyAndRegulation",
+    "facilityAmount": 23000000,
+    "guaranteeComponent": 5600000,
+    "technicalAssistanceComponent": 1370000,
+    "currency": "USD",
+    "financialIntermediaryPartner": "Cooperative apex body",
+    "womenBeneficiaries": 3900,
+    "loansExtendedToWomen": 2070,
+    "targetSectors": [
+      "Rural Markets",
+      "Trade",
+      "Services"
+    ],
+    "status": "Active",
+    "eligibilityCriteria": [
+      "Women-owned or women-led enterprise",
+      "Operational business registration",
+      "Verified use of funds"
+    ],
+    "startDate": "2025-06-30T22:00:00Z",
+    "createdAt": "2025-01-05T22:00:00Z"
+  },
+  {
+    "programId": "7750b503-05ab-ddfa-2bc3-06d87af2f03c",
+    "programCode": "FAO-SN-GEN-2026-007",
+    "programName": "Senegal Women-Led Enterprise Finance Programme",
+    "institutionName": "Food and Agriculture Organization",
+    "countryCode": "SN",
+    "countryName": "Senegal",
+    "programType": "EquityAndVentureCapital",
+    "facilityAmount": 25500000,
+    "guaranteeComponent": 6200000,
+    "technicalAssistanceComponent": 1490000,
+    "currency": "USD",
+    "financialIntermediaryPartner": "Impact investment fund",
+    "womenBeneficiaries": 4350,
+    "loansExtendedToWomen": 2290,
+    "targetSectors": [
+      "Agricultural Data",
+      "Trade",
+      "Services"
+    ],
+    "status": "Approved",
+    "eligibilityCriteria": [
+      "Women-owned or women-led enterprise",
+      "Operational business registration",
+      "Verified use of funds"
+    ],
+    "startDate": "2025-07-31T22:00:00Z",
+    "createdAt": "2025-01-06T22:00:00Z"
+  }
+]

@@ -1,0 +1,17 @@
+{
+  "registrationNumber": "REG-20576",
+  "contactEmail": "publicservicepensionsfund@example.zm",
+  "createdAt": "2025-01-16T00:00:00Z",
+  "branches": 28,
+  "institutionType": "Pension",
+  "institutionName": "Public Service Pensions Fund",
+  "country": "Zimbabwe",
+  "established": 1963,
+  "employees": 2281,
+  "contactPhone": "+260-512-662130",
+  "headquarters": "Gweru",
+  "institutionId": "6ae54db9-f1aa-4f81-9117-a3158ef972dc",
+  "currency": "ZWL",
+  "status": "Active",
+  "website": "https://www.publicservicepensionsfund.co.zm"
+}

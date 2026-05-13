@@ -1,0 +1,80 @@
+[
+  {
+    "ruleId": 1,
+    "ruleName": "Bills SAR 38,000\u2013380,000 require Branch Manager approval",
+    "type": "Bill",
+    "minAmount": 38000,
+    "maxAmount": 380000,
+    "approverId": "manager@firstbank.co",
+    "approverName": "Branch Manager",
+    "level": 1,
+    "isActive": true,
+    "autoApproveBelow": false,
+    "notes": "Standard operational expenditure threshold"
+  },
+  {
+    "ruleId": 2,
+    "ruleName": "Bills above SAR 380,000 require Chief Financial Officer approval",
+    "type": "Bill",
+    "minAmount": 380000,
+    "maxAmount": null,
+    "approverId": "cfo@firstbank.co",
+    "approverName": "Chief Financial Officer",
+    "level": 2,
+    "isActive": true,
+    "autoApproveBelow": false,
+    "notes": "Capital expenditure and large operational bills"
+  },
+  {
+    "ruleId": 3,
+    "ruleName": "Bills above SAR 1,900,000 require Chief Executive Officer approval",
+    "type": "Bill",
+    "minAmount": 1900000,
+    "maxAmount": null,
+    "approverId": "ceo@firstbank.co",
+    "approverName": "Chief Executive Officer",
+    "level": 3,
+    "isActive": true,
+    "autoApproveBelow": false,
+    "notes": "Strategic vendor contracts and major capital expenditure"
+  },
+  {
+    "ruleId": 4,
+    "ruleName": "Journal entries above SAR 190,000 require Chief Financial Officer approval",
+    "type": "JournalEntry",
+    "minAmount": 190000.0,
+    "maxAmount": null,
+    "approverId": "controller@firstbank.co",
+    "approverName": "Financial Controller",
+    "level": 1,
+    "isActive": true,
+    "autoApproveBelow": false,
+    "notes": "SOX control \u2014 manual journal entries above threshold"
+  },
+  {
+    "ruleId": 5,
+    "ruleName": "Payments below SAR 19,000 auto-approved",
+    "type": "Payment",
+    "minAmount": 0,
+    "maxAmount": 19000,
+    "approverId": "system@firstbank.co",
+    "approverName": "System",
+    "level": 1,
+    "isActive": true,
+    "autoApproveBelow": true,
+    "notes": "Petty cash and minor operational payments"
+  },
+  {
+    "ruleId": 6,
+    "ruleName": "Budget changes above SAR 380,000 require Chief Financial Officer approval",
+    "type": "BudgetChange",
+    "minAmount": 380000,
+    "maxAmount": null,
+    "approverId": "cfo@firstbank.co",
+    "approverName": "Chief Financial Officer",
+    "level": 2,
+    "isActive": true,
+    "autoApproveBelow": false,
+    "notes": "Budget revisions require justification memo"
+  }
+]

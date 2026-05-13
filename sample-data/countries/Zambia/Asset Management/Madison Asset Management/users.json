@@ -1,0 +1,102 @@
+﻿[
+    {
+        "userId":  "f7a12640-3825-46dd-ab8a-5791fc4c081c",
+        "email":  "assetmanagementadmin.assetmanagement",
+        "username":  "assetmanagementadmin.assetmanagement",
+        "firstName":  "Asset",
+        "lastName":  "Admin",
+        "institutionType":  "Asset Management",
+        "institutionName":  "Madison Asset Management",
+        "institutionId":  "5bb97978-6c98-4c39-9a2f-21c5b7fe6689",
+        "roles":  [
+                      "AssetManagementAdmin"
+                  ],
+        "permissions":  [
+
+                        ],
+        "isActive":  true,
+        "isEmailVerified":  true,
+        "isPhoneVerified":  true,
+        "isIdentityVerified":  true,
+        "trustScore":  95,
+        "createdAt":  "2023-09-13T00:00:00Z",
+        "phoneNumber":  "+260977000000",
+        "gender":  "Other",
+        "nationality":  "Zambian"
+    },
+    {
+        "userId":  "067e1da3-03a3-4dba-9d0c-b5d1484f4610",
+        "email":  "clientservicesofficer.assetmanagement",
+        "username":  "clientservicesofficer.assetmanagement",
+        "firstName":  "Client",
+        "lastName":  "Officer",
+        "institutionType":  "Asset Management",
+        "institutionName":  "Madison Asset Management",
+        "institutionId":  "fc480477-a103-4a94-95da-2d804d5ced1c",
+        "roles":  [
+                      "ClientServicesOfficer"
+                  ],
+        "permissions":  [
+
+                        ],
+        "isActive":  true,
+        "isEmailVerified":  true,
+        "isPhoneVerified":  true,
+        "isIdentityVerified":  true,
+        "trustScore":  95,
+        "createdAt":  "2023-09-13T00:00:00Z",
+        "phoneNumber":  "+260977000000",
+        "gender":  "Other",
+        "nationality":  "Zambian"
+    },
+    {
+        "userId":  "454bc17c-54aa-4e0a-b3d4-b69d0667ac6d",
+        "email":  "performanceanalyst.assetmanagement",
+        "username":  "performanceanalyst.assetmanagement",
+        "firstName":  "Performance",
+        "lastName":  "Analyst",
+        "institutionType":  "Asset Management",
+        "institutionName":  "Madison Asset Management",
+        "institutionId":  "70787500-f194-4877-925a-6b46a4b0aac5",
+        "roles":  [
+                      "PerformanceAnalyst"
+                  ],
+        "permissions":  [
+
+                        ],
+        "isActive":  true,
+        "isEmailVerified":  true,
+        "isPhoneVerified":  true,
+        "isIdentityVerified":  true,
+        "trustScore":  95,
+        "createdAt":  "2023-09-13T00:00:00Z",
+        "phoneNumber":  "+260977000000",
+        "gender":  "Other",
+        "nationality":  "Zambian"
+    },
+    {
+        "userId":  "8ed13e73-d141-4dda-86f3-e6662ceb56d6",
+        "email":  "portfoliomanager.assetmanagement",
+        "username":  "portfoliomanager.assetmanagement",
+        "firstName":  "Portfolio",
+        "lastName":  "Manager",
+        "institutionType":  "Asset Management",
+        "institutionName":  "Madison Asset Management",
+        "institutionId":  "f2df0900-cd45-4127-a688-764953a76e8e",
+        "roles":  [
+                      "PortfolioManager"
+                  ],
+        "permissions":  [
+
+                        ],
+        "isActive":  true,
+        "isEmailVerified":  true,
+        "isPhoneVerified":  true,
+        "isIdentityVerified":  true,
+        "trustScore":  95,
+        "createdAt":  "2023-09-13T00:00:00Z",
+        "phoneNumber":  "+260977000000",
+        "gender":  "Other",
+        "nationality":  "Zambian"
+    }
+]

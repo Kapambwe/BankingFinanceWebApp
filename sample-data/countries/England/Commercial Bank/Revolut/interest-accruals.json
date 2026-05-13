@@ -1,0 +1,222 @@
+[
+  {
+    "accrualId": "ia001a1a-1111-1111-1111-000000000001",
+    "accountId": "acc001a-1111-1111-1111-000000000001",
+    "accountNumber": "REV-SAV-000001",
+    "dailyAccrual": 0.1,
+    "monthlyAccrual": 2.92,
+    "cumulativeAccrual": 8.75,
+    "applicableRate": 3.6,
+    "accrualDate": "2024-02-02T00:00:00Z",
+    "isPaid": false
+  },
+  {
+    "accrualId": "ia002a1a-1111-1111-1111-000000000002",
+    "accountId": "acc002a-1111-1111-1111-000000000002",
+    "accountNumber": "REV-SAV-000002",
+    "dailyAccrual": 0.19,
+    "monthlyAccrual": 5.83,
+    "cumulativeAccrual": 17.5,
+    "applicableRate": 3.7,
+    "accrualDate": "2024-03-03T00:00:00Z",
+    "isPaid": false
+  },
+  {
+    "accrualId": "ia003a1a-1111-1111-1111-000000000003",
+    "accountId": "acc003a-1111-1111-1111-000000000003",
+    "accountNumber": "REV-SAV-000003",
+    "dailyAccrual": 0.29,
+    "monthlyAccrual": 8.75,
+    "cumulativeAccrual": 26.25,
+    "applicableRate": 3.8,
+    "accrualDate": "2024-04-04T00:00:00Z",
+    "isPaid": true
+  },
+  {
+    "accrualId": "ia004a1a-1111-1111-1111-000000000004",
+    "accountId": "acc004a-1111-1111-1111-000000000004",
+    "accountNumber": "REV-SAV-000004",
+    "dailyAccrual": 0.38,
+    "monthlyAccrual": 11.67,
+    "cumulativeAccrual": 35.0,
+    "applicableRate": 3.9,
+    "accrualDate": "2024-05-05T00:00:00Z",
+    "isPaid": false
+  },
+  {
+    "accrualId": "ia005a1a-1111-1111-1111-000000000005",
+    "accountId": "acc005a-1111-1111-1111-000000000005",
+    "accountNumber": "REV-SAV-000005",
+    "dailyAccrual": 0.48,
+    "monthlyAccrual": 14.58,
+    "cumulativeAccrual": 43.75,
+    "applicableRate": 4.0,
+    "accrualDate": "2024-06-06T00:00:00Z",
+    "isPaid": false
+  },
+  {
+    "accrualId": "ia006a1a-1111-1111-1111-000000000006",
+    "accountId": "acc006a-1111-1111-1111-000000000006",
+    "accountNumber": "REV-SAV-000006",
+    "dailyAccrual": 0.58,
+    "monthlyAccrual": 17.5,
+    "cumulativeAccrual": 52.5,
+    "applicableRate": 4.1,
+    "accrualDate": "2024-07-07T00:00:00Z",
+    "isPaid": true
+  },
+  {
+    "accrualId": "ia007a1a-1111-1111-1111-000000000007",
+    "accountId": "acc007a-1111-1111-1111-000000000007",
+    "accountNumber": "REV-SAV-000007",
+    "dailyAccrual": 0.67,
+    "monthlyAccrual": 20.42,
+    "cumulativeAccrual": 61.25,
+    "applicableRate": 4.2,
+    "accrualDate": "2024-08-08T00:00:00Z",
+    "isPaid": false
+  },
+  {
+    "accrualId": "ia008a1a-1111-1111-1111-000000000008",
+    "accountId": "acc008a-1111-1111-1111-000000000008",
+    "accountNumber": "REV-SAV-000008",
+    "dailyAccrual": 0.77,
+    "monthlyAccrual": 23.33,
+    "cumulativeAccrual": 70.0,
+    "applicableRate": 4.3,
+    "accrualDate": "2024-09-09T00:00:00Z",
+    "isPaid": false
+  },
+  {
+    "accrualId": "ia009a1a-1111-1111-1111-000000000009",
+    "accountId": "acc009a-1111-1111-1111-000000000009",
+    "accountNumber": "REV-SAV-000009",
+    "dailyAccrual": 0.86,
+    "monthlyAccrual": 26.25,
+    "cumulativeAccrual": 78.75,
+    "applicableRate": 4.4,
+    "accrualDate": "2024-10-10T00:00:00Z",
+    "isPaid": true
+  },
+  {
+    "accrualId": "ia010a1a-1111-1111-1111-000000000010",
+    "accountId": "acc010a-1111-1111-1111-000000000010",
+    "accountNumber": "REV-SAV-000010",
+    "dailyAccrual": 0.96,
+    "monthlyAccrual": 29.17,
+    "cumulativeAccrual": 87.5,
+    "applicableRate": 4.5,
+    "accrualDate": "2024-11-11T00:00:00Z",
+    "isPaid": false
+  },
+  {
+    "accrualId": "ia011a1a-1111-1111-1111-000000000011",
+    "accountId": "acc011a-1111-1111-1111-000000000011",
+    "accountNumber": "REV-SAV-000011",
+    "dailyAccrual": 1.05,
+    "monthlyAccrual": 32.08,
+    "cumulativeAccrual": 96.25,
+    "applicableRate": 4.6,
+    "accrualDate": "2024-12-12T00:00:00Z",
+    "isPaid": false
+  },
+  {
+    "accrualId": "ia012a1a-1111-1111-1111-000000000012",
+    "accountId": "acc012a-1111-1111-1111-000000000012",
+    "accountNumber": "REV-SAV-000012",
+    "dailyAccrual": 1.15,
+    "monthlyAccrual": 35.0,
+    "cumulativeAccrual": 105.0,
+    "applicableRate": 4.7,
+    "accrualDate": "2024-01-13T00:00:00Z",
+    "isPaid": true
+  },
+  {
+    "accrualId": "ia013a1a-1111-1111-1111-000000000013",
+    "accountId": "acc013a-1111-1111-1111-000000000013",
+    "accountNumber": "REV-SAV-000013",
+    "dailyAccrual": 1.25,
+    "monthlyAccrual": 37.92,
+    "cumulativeAccrual": 113.75,
+    "applicableRate": 4.8,
+    "accrualDate": "2024-02-14T00:00:00Z",
+    "isPaid": false
+  },
+  {
+    "accrualId": "ia014a1a-1111-1111-1111-000000000014",
+    "accountId": "acc014a-1111-1111-1111-000000000014",
+    "accountNumber": "REV-SAV-000014",
+    "dailyAccrual": 1.34,
+    "monthlyAccrual": 40.83,
+    "cumulativeAccrual": 122.5,
+    "applicableRate": 4.9,
+    "accrualDate": "2024-03-15T00:00:00Z",
+    "isPaid": false
+  },
+  {
+    "accrualId": "ia015a1a-1111-1111-1111-000000000015",
+    "accountId": "acc015a-1111-1111-1111-000000000015",
+    "accountNumber": "REV-SAV-000015",
+    "dailyAccrual": 1.44,
+    "monthlyAccrual": 43.75,
+    "cumulativeAccrual": 131.25,
+    "applicableRate": 5.0,
+    "accrualDate": "2024-04-16T00:00:00Z",
+    "isPaid": true
+  },
+  {
+    "accrualId": "ia016a1a-1111-1111-1111-000000000016",
+    "accountId": "acc016a-1111-1111-1111-000000000016",
+    "accountNumber": "REV-SAV-000016",
+    "dailyAccrual": 1.53,
+    "monthlyAccrual": 46.67,
+    "cumulativeAccrual": 140.0,
+    "applicableRate": 5.1,
+    "accrualDate": "2024-05-17T00:00:00Z",
+    "isPaid": false
+  },
+  {
+    "accrualId": "ia017a1a-1111-1111-1111-000000000017",
+    "accountId": "acc017a-1111-1111-1111-000000000017",
+    "accountNumber": "REV-SAV-000017",
+    "dailyAccrual": 1.63,
+    "monthlyAccrual": 49.58,
+    "cumulativeAccrual": 148.75,
+    "applicableRate": 5.2,
+    "accrualDate": "2024-06-18T00:00:00Z",
+    "isPaid": false
+  },
+  {
+    "accrualId": "ia018a1a-1111-1111-1111-000000000018",
+    "accountId": "acc018a-1111-1111-1111-000000000018",
+    "accountNumber": "REV-SAV-000018",
+    "dailyAccrual": 1.73,
+    "monthlyAccrual": 52.5,
+    "cumulativeAccrual": 157.5,
+    "applicableRate": 5.3,
+    "accrualDate": "2024-07-19T00:00:00Z",
+    "isPaid": true
+  },
+  {
+    "accrualId": "ia019a1a-1111-1111-1111-000000000019",
+    "accountId": "acc019a-1111-1111-1111-000000000019",
+    "accountNumber": "REV-SAV-000019",
+    "dailyAccrual": 1.82,
+    "monthlyAccrual": 55.42,
+    "cumulativeAccrual": 166.25,
+    "applicableRate": 5.4,
+    "accrualDate": "2024-08-20T00:00:00Z",
+    "isPaid": false
+  },
+  {
+    "accrualId": "ia020a1a-1111-1111-1111-000000000020",
+    "accountId": "acc020a-1111-1111-1111-000000000020",
+    "accountNumber": "REV-SAV-000020",
+    "dailyAccrual": 1.92,
+    "monthlyAccrual": 58.33,
+    "cumulativeAccrual": 175.0,
+    "applicableRate": 5.5,
+    "accrualDate": "2024-09-21T00:00:00Z",
+    "isPaid": false
+  }
+]

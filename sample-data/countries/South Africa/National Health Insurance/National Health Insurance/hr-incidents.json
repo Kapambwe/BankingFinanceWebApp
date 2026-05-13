@@ -1,0 +1,44 @@
+[
+  {
+    "incidentId": "ic300000-0001-0000-0000-0000000003001",
+    "incidentNumber": "INC-3-2025-001",
+    "incidentType": "IT Security Breach Attempt",
+    "reportedBy": "Lerato Mokoena",
+    "employeeId": "e3000000-0004-0000-0000-0000000003004",
+    "incidentDate": "2025-03-15",
+    "location": "Pretoria",
+    "severity": "High",
+    "status": "Resolved",
+    "actionTaken": "Security audit conducted",
+    "closedDate": "2025-04-01",
+    "createdAt": "2025-03-15T00:00:00Z"
+  },
+  {
+    "incidentId": "ic300000-0002-0000-0000-0000000003002",
+    "incidentNumber": "INC-3-2025-002",
+    "incidentType": "Workplace Injury",
+    "reportedBy": "Nkosi Sithole",
+    "employeeId": "e3000000-0005-0000-0000-0000000003005",
+    "incidentDate": "2025-04-16",
+    "location": "Pretoria",
+    "severity": "Medium",
+    "status": "Under Investigation",
+    "actionTaken": "Medical treatment provided",
+    "closedDate": null,
+    "createdAt": "2025-04-16T00:00:00Z"
+  },
+  {
+    "incidentId": "ic300000-0003-0000-0000-0000000003003",
+    "incidentNumber": "INC-3-2025-003",
+    "incidentType": "Data Privacy Concern",
+    "reportedBy": "Zanele van der Merwe",
+    "employeeId": "e3000000-0006-0000-0000-0000000003006",
+    "incidentDate": "2025-05-17",
+    "location": "Pretoria",
+    "severity": "High",
+    "status": "Closed",
+    "actionTaken": "Data breach notification issued",
+    "closedDate": "2025-06-01",
+    "createdAt": "2025-05-17T00:00:00Z"
+  }
+]

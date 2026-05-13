@@ -1,0 +1,436 @@
+[
+  {
+    "strategyId": "c09d0e1f-d60a-dd7a-d2e5-102e9657e904",
+    "strategyCode": "AFC-NG-STR-2026-001",
+    "institutionName": "Africa Finance Corporation",
+    "countryCode": "NG",
+    "countryName": "Nigeria",
+    "region": "West Africa",
+    "strategyType": "CountryStrategyPaper",
+    "countryClassification": "LowerMiddleIncome",
+    "strategyPeriodStart": 2026,
+    "strategyPeriodEnd": 2030,
+    "indicativeLendingEnvelope": 100000000,
+    "grantEnvelope": 7750000,
+    "currency": "USD",
+    "financingWindows": [
+      {
+        "windowName": "Core sovereign window",
+        "windowType": "NonConcessional",
+        "allocatedAmount": 50000000,
+        "currency": "USD",
+        "interestRate": 2.1,
+        "gracePeriodYears": 5,
+        "maturityYears": 25,
+        "isGrantElement": false,
+        "grantEquivalent": 0
+      },
+      {
+        "windowName": "Climate and inclusion window",
+        "windowType": "ClimateFinance",
+        "allocatedAmount": 14000000,
+        "currency": "USD",
+        "interestRate": 0.7,
+        "gracePeriodYears": 7,
+        "maturityYears": 30,
+        "isGrantElement": true,
+        "grantEquivalent": 3500000
+      }
+    ],
+    "strategicPillars": [
+      "Power",
+      "Institutional capacity",
+      "Inclusive and climate-resilient growth"
+    ],
+    "highLevelObjectives": [
+      "Improve development outcomes",
+      "Mobilise co-financing",
+      "Strengthen delivery systems"
+    ],
+    "crossCuttingThemes": [
+      "Gender inclusion",
+      "Climate resilience",
+      "Digital monitoring"
+    ],
+    "governmentCounterpart": "Federal Ministry of Finance",
+    "countryDirector": "Amadou Kane",
+    "countryEconomist": "Fiscal and debt economist",
+    "status": "Implementation",
+    "preparedDate": "2025-02-07T22:00:00Z",
+    "midTermReviewDate": "2028-02-07T22:00:00Z",
+    "completionReportDate": "2031-02-07T22:00:00Z",
+    "createdAt": "2024-12-31T22:00:00Z"
+  },
+  {
+    "strategyId": "48f71909-6a3b-5701-bf96-a69394c4db03",
+    "strategyCode": "AFC-GH-STR-2026-002",
+    "institutionName": "Africa Finance Corporation",
+    "countryCode": "GH",
+    "countryName": "Ghana",
+    "region": "West Africa",
+    "strategyType": "CountryProgrammeDocument",
+    "countryClassification": "LowIncome",
+    "strategyPeriodStart": 2026,
+    "strategyPeriodEnd": 2030,
+    "indicativeLendingEnvelope": 115000000,
+    "grantEnvelope": 9500000,
+    "currency": "USD",
+    "financingWindows": [
+      {
+        "windowName": "Core sovereign window",
+        "windowType": "NonConcessional",
+        "allocatedAmount": 55000000,
+        "currency": "USD",
+        "interestRate": 2.1,
+        "gracePeriodYears": 5,
+        "maturityYears": 25,
+        "isGrantElement": false,
+        "grantEquivalent": 0
+      },
+      {
+        "windowName": "Climate and inclusion window",
+        "windowType": "ClimateFinance",
+        "allocatedAmount": 16000000,
+        "currency": "USD",
+        "interestRate": 0.7,
+        "gracePeriodYears": 7,
+        "maturityYears": 30,
+        "isGrantElement": true,
+        "grantEquivalent": 3500000
+      }
+    ],
+    "strategicPillars": [
+      "Ports and Logistics",
+      "Institutional capacity",
+      "Inclusive and climate-resilient growth"
+    ],
+    "highLevelObjectives": [
+      "Improve development outcomes",
+      "Mobilise co-financing",
+      "Strengthen delivery systems"
+    ],
+    "crossCuttingThemes": [
+      "Gender inclusion",
+      "Climate resilience",
+      "Digital monitoring"
+    ],
+    "governmentCounterpart": "Ministry of Finance",
+    "countryDirector": "Sarah Mensah",
+    "countryEconomist": "Country macroeconomist",
+    "status": "BoardApproval",
+    "preparedDate": "2025-03-07T22:00:00Z",
+    "midTermReviewDate": "2028-03-07T22:00:00Z",
+    "completionReportDate": "2031-03-07T22:00:00Z",
+    "createdAt": "2025-01-01T22:00:00Z"
+  },
+  {
+    "strategyId": "cf22d93b-52bd-ee94-3707-cf04dff2785c",
+    "strategyCode": "AFC-KE-STR-2026-003",
+    "institutionName": "Africa Finance Corporation",
+    "countryCode": "KE",
+    "countryName": "Kenya",
+    "region": "East Africa",
+    "strategyType": "CountryPartnershipFramework",
+    "countryClassification": "BlendEligible",
+    "strategyPeriodStart": 2026,
+    "strategyPeriodEnd": 2030,
+    "indicativeLendingEnvelope": 130000000,
+    "grantEnvelope": 11250000,
+    "currency": "USD",
+    "financingWindows": [
+      {
+        "windowName": "Core sovereign window",
+        "windowType": "NonConcessional",
+        "allocatedAmount": 60000000,
+        "currency": "USD",
+        "interestRate": 2.1,
+        "gracePeriodYears": 5,
+        "maturityYears": 25,
+        "isGrantElement": false,
+        "grantEquivalent": 0
+      },
+      {
+        "windowName": "Climate and inclusion window",
+        "windowType": "ClimateFinance",
+        "allocatedAmount": 18000000,
+        "currency": "USD",
+        "interestRate": 0.7,
+        "gracePeriodYears": 7,
+        "maturityYears": 30,
+        "isGrantElement": true,
+        "grantEquivalent": 3500000
+      }
+    ],
+    "strategicPillars": [
+      "Rail",
+      "Institutional capacity",
+      "Inclusive and climate-resilient growth"
+    ],
+    "highLevelObjectives": [
+      "Improve development outcomes",
+      "Mobilise co-financing",
+      "Strengthen delivery systems"
+    ],
+    "crossCuttingThemes": [
+      "Gender inclusion",
+      "Climate resilience",
+      "Digital monitoring"
+    ],
+    "governmentCounterpart": "National Treasury and Economic Planning",
+    "countryDirector": "Elena Rossi",
+    "countryEconomist": "Portfolio economist",
+    "status": "Consultation",
+    "preparedDate": "2025-04-07T22:00:00Z",
+    "midTermReviewDate": "2028-04-07T22:00:00Z",
+    "completionReportDate": "2031-04-07T22:00:00Z",
+    "createdAt": "2025-01-02T22:00:00Z"
+  },
+  {
+    "strategyId": "24c3bba8-7c13-3620-aabf-c2b38bb25c49",
+    "strategyCode": "AFC-EG-STR-2026-004",
+    "institutionName": "Africa Finance Corporation",
+    "countryCode": "EG",
+    "countryName": "Egypt",
+    "region": "North Africa",
+    "strategyType": "CountryAssistanceStrategy",
+    "countryClassification": "LandlockedDevelopingCountry",
+    "strategyPeriodStart": 2026,
+    "strategyPeriodEnd": 2030,
+    "indicativeLendingEnvelope": 145000000,
+    "grantEnvelope": 13000000,
+    "currency": "USD",
+    "financingWindows": [
+      {
+        "windowName": "Core sovereign window",
+        "windowType": "NonConcessional",
+        "allocatedAmount": 65000000,
+        "currency": "USD",
+        "interestRate": 2.1,
+        "gracePeriodYears": 5,
+        "maturityYears": 25,
+        "isGrantElement": false,
+        "grantEquivalent": 0
+      },
+      {
+        "windowName": "Climate and inclusion window",
+        "windowType": "ClimateFinance",
+        "allocatedAmount": 20000000,
+        "currency": "USD",
+        "interestRate": 0.7,
+        "gracePeriodYears": 7,
+        "maturityYears": 30,
+        "isGrantElement": true,
+        "grantEquivalent": 3500000
+      }
+    ],
+    "strategicPillars": [
+      "Industrial Parks",
+      "Institutional capacity",
+      "Inclusive and climate-resilient growth"
+    ],
+    "highLevelObjectives": [
+      "Improve development outcomes",
+      "Mobilise co-financing",
+      "Strengthen delivery systems"
+    ],
+    "crossCuttingThemes": [
+      "Gender inclusion",
+      "Climate resilience",
+      "Digital monitoring"
+    ],
+    "governmentCounterpart": "Ministry of International Cooperation",
+    "countryDirector": "Michael Okoro",
+    "countryEconomist": "Development finance analyst",
+    "status": "MidTermReview",
+    "preparedDate": "2025-05-07T22:00:00Z",
+    "midTermReviewDate": "2028-05-07T22:00:00Z",
+    "completionReportDate": "2031-05-07T22:00:00Z",
+    "createdAt": "2025-01-03T22:00:00Z"
+  },
+  {
+    "strategyId": "330dcee8-cf1f-971f-b450-eb14f670a970",
+    "strategyCode": "AFC-ZA-STR-2026-005",
+    "institutionName": "Africa Finance Corporation",
+    "countryCode": "ZA",
+    "countryName": "South Africa",
+    "region": "Southern Africa",
+    "strategyType": "CountryInvestmentPlan",
+    "countryClassification": "LeastDeveloped",
+    "strategyPeriodStart": 2026,
+    "strategyPeriodEnd": 2030,
+    "indicativeLendingEnvelope": 160000000,
+    "grantEnvelope": 14750000,
+    "currency": "USD",
+    "financingWindows": [
+      {
+        "windowName": "Core sovereign window",
+        "windowType": "NonConcessional",
+        "allocatedAmount": 70000000,
+        "currency": "USD",
+        "interestRate": 2.1,
+        "gracePeriodYears": 5,
+        "maturityYears": 25,
+        "isGrantElement": false,
+        "grantEquivalent": 0
+      },
+      {
+        "windowName": "Climate and inclusion window",
+        "windowType": "ClimateFinance",
+        "allocatedAmount": 22000000,
+        "currency": "USD",
+        "interestRate": 0.7,
+        "gracePeriodYears": 7,
+        "maturityYears": 30,
+        "isGrantElement": true,
+        "grantEquivalent": 3500000
+      }
+    ],
+    "strategicPillars": [
+      "Telecommunications",
+      "Institutional capacity",
+      "Inclusive and climate-resilient growth"
+    ],
+    "highLevelObjectives": [
+      "Improve development outcomes",
+      "Mobilise co-financing",
+      "Strengthen delivery systems"
+    ],
+    "crossCuttingThemes": [
+      "Gender inclusion",
+      "Climate resilience",
+      "Digital monitoring"
+    ],
+    "governmentCounterpart": "National Treasury",
+    "countryDirector": "Priya Nair",
+    "countryEconomist": "Senior country economist",
+    "status": "Preparation",
+    "preparedDate": "2025-06-07T22:00:00Z",
+    "midTermReviewDate": "2028-06-07T22:00:00Z",
+    "completionReportDate": "2031-06-07T22:00:00Z",
+    "createdAt": "2025-01-04T22:00:00Z"
+  },
+  {
+    "strategyId": "d4f60ac3-34ee-4ef5-3571-86c8e2d47ec8",
+    "strategyCode": "AFC-CI-STR-2026-006",
+    "institutionName": "Africa Finance Corporation",
+    "countryCode": "CI",
+    "countryName": "Cote d'Ivoire",
+    "region": "West Africa",
+    "strategyType": "RegionalStrategyPaper",
+    "countryClassification": "UpperMiddleIncome",
+    "strategyPeriodStart": 2026,
+    "strategyPeriodEnd": 2030,
+    "indicativeLendingEnvelope": 175000000,
+    "grantEnvelope": 16500000,
+    "currency": "USD",
+    "financingWindows": [
+      {
+        "windowName": "Core sovereign window",
+        "windowType": "NonConcessional",
+        "allocatedAmount": 75000000,
+        "currency": "USD",
+        "interestRate": 2.1,
+        "gracePeriodYears": 5,
+        "maturityYears": 25,
+        "isGrantElement": false,
+        "grantEquivalent": 0
+      },
+      {
+        "windowName": "Climate and inclusion window",
+        "windowType": "ClimateFinance",
+        "allocatedAmount": 24000000,
+        "currency": "USD",
+        "interestRate": 0.7,
+        "gracePeriodYears": 7,
+        "maturityYears": 30,
+        "isGrantElement": true,
+        "grantEquivalent": 3500000
+      }
+    ],
+    "strategicPillars": [
+      "Gas Infrastructure",
+      "Institutional capacity",
+      "Inclusive and climate-resilient growth"
+    ],
+    "highLevelObjectives": [
+      "Improve development outcomes",
+      "Mobilise co-financing",
+      "Strengthen delivery systems"
+    ],
+    "crossCuttingThemes": [
+      "Gender inclusion",
+      "Climate resilience",
+      "Digital monitoring"
+    ],
+    "governmentCounterpart": "Ministry of Finance and Budget",
+    "countryDirector": "Jonas Becker",
+    "countryEconomist": "Regional economist",
+    "status": "Implementation",
+    "preparedDate": "2025-07-07T22:00:00Z",
+    "midTermReviewDate": "2028-07-07T22:00:00Z",
+    "completionReportDate": "2031-07-07T22:00:00Z",
+    "createdAt": "2025-01-05T22:00:00Z"
+  },
+  {
+    "strategyId": "2390b657-6312-7bed-8413-d882360ebefd",
+    "strategyCode": "AFC-SN-STR-2026-007",
+    "institutionName": "Africa Finance Corporation",
+    "countryCode": "SN",
+    "countryName": "Senegal",
+    "region": "West Africa",
+    "strategyType": "InterimCountryStrategy",
+    "countryClassification": "FragileOrConflictAffected",
+    "strategyPeriodStart": 2026,
+    "strategyPeriodEnd": 2030,
+    "indicativeLendingEnvelope": 190000000,
+    "grantEnvelope": 18250000,
+    "currency": "USD",
+    "financingWindows": [
+      {
+        "windowName": "Core sovereign window",
+        "windowType": "NonConcessional",
+        "allocatedAmount": 80000000,
+        "currency": "USD",
+        "interestRate": 2.1,
+        "gracePeriodYears": 5,
+        "maturityYears": 25,
+        "isGrantElement": false,
+        "grantEquivalent": 0
+      },
+      {
+        "windowName": "Climate and inclusion window",
+        "windowType": "ClimateFinance",
+        "allocatedAmount": 26000000,
+        "currency": "USD",
+        "interestRate": 0.7,
+        "gracePeriodYears": 7,
+        "maturityYears": 30,
+        "isGrantElement": true,
+        "grantEquivalent": 3500000
+      }
+    ],
+    "strategicPillars": [
+      "Renewable Energy",
+      "Institutional capacity",
+      "Inclusive and climate-resilient growth"
+    ],
+    "highLevelObjectives": [
+      "Improve development outcomes",
+      "Mobilise co-financing",
+      "Strengthen delivery systems"
+    ],
+    "crossCuttingThemes": [
+      "Gender inclusion",
+      "Climate resilience",
+      "Digital monitoring"
+    ],
+    "governmentCounterpart": "Ministry of Economy, Planning and Cooperation",
+    "countryDirector": "Miriam Banda",
+    "countryEconomist": "Public finance specialist",
+    "status": "CompletionReport",
+    "preparedDate": "2025-08-07T22:00:00Z",
+    "midTermReviewDate": "2028-08-07T22:00:00Z",
+    "completionReportDate": "2031-08-07T22:00:00Z",
+    "createdAt": "2025-01-06T22:00:00Z"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "policyId": "pol50000-0001",
+    "policyNumber": "POL-5-2025-00001",
+    "memberId": "MBR-5-000001",
+    "memberName": "Wanjiku Mwangi",
+    "productCode": "NHIF-BASIC",
+    "coverType": "Basic",
+    "premiumAmount": 3600.0,
+    "currency": "KES",
+    "startDate": "2025-01-01",
+    "endDate": "2025-11-30",
+    "status": "Active",
+    "createdAt": "2025-01-01T00:00:00Z"
+  },
+  {
+    "policyId": "pol50000-0002",
+    "policyNumber": "POL-5-2025-00002",
+    "memberId": "MBR-5-000002",
+    "memberName": "Kamau Ndegwa",
+    "productCode": "NHIF-STD",
+    "coverType": "Standard",
+    "premiumAmount": 6300.0,
+    "currency": "KES",
+    "startDate": "2025-02-01",
+    "endDate": "2025-11-30",
+    "status": "Active",
+    "createdAt": "2025-02-01T00:00:00Z"
+  },
+  {
+    "policyId": "pol50000-0003",
+    "policyNumber": "POL-5-2025-00003",
+    "memberId": "MBR-5-000003",
+    "memberName": "Otieno Wanjiku",
+    "productCode": "NHIF-ENH",
+    "coverType": "Enhanced",
+    "premiumAmount": 9000.0,
+    "currency": "KES",
+    "startDate": "2025-03-01",
+    "endDate": "2025-11-30",
+    "status": "Active",
+    "createdAt": "2025-03-01T00:00:00Z"
+  },
+  {
+    "policyId": "pol50000-0004",
+    "policyNumber": "POL-5-2025-00004",
+    "memberId": "MBR-5-000004",
+    "memberName": "Achieng Kipchoge",
+    "productCode": "NHIF-BASIC",
+    "coverType": "Basic",
+    "premiumAmount": 3600.0,
+    "currency": "KES",
+    "startDate": "2025-04-01",
+    "endDate": "2025-11-30",
+    "status": "Lapsed",
+    "createdAt": "2025-04-01T00:00:00Z"
+  },
+  {
+    "policyId": "pol50000-0005",
+    "policyNumber": "POL-5-2025-00005",
+    "memberId": "MBR-5-000005",
+    "memberName": "Mwangi Ochieng",
+    "productCode": "NHIF-STD",
+    "coverType": "Standard",
+    "premiumAmount": 6300.0,
+    "currency": "KES",
+    "startDate": "2025-05-01",
+    "endDate": "2025-11-30",
+    "status": "Active",
+    "createdAt": "2025-05-01T00:00:00Z"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "reinsuranceClaimId": "rc400000-0001",
+    "claimReference": "REIN-4-2025-001",
+    "treatyName": "NHIS-NG Stop-Loss Treaty 2025",
+    "reinsurer": "Continental Reinsurance",
+    "originalClaimAmount": 52000000,
+    "cededAmount": 31200000,
+    "retainedAmount": 20800000,
+    "currency": "NGN",
+    "incidentDate": "2025-07-01",
+    "reportedDate": "2025-07-15",
+    "status": "Settled",
+    "createdAt": "2025-07-15T00:00:00Z"
+  },
+  {
+    "reinsuranceClaimId": "rc400000-0002",
+    "claimReference": "REIN-4-2025-002",
+    "treatyName": "NHIS-NG Stop-Loss Treaty 2025",
+    "reinsurer": "African Reinsurance Corporation",
+    "originalClaimAmount": 37440000,
+    "cededAmount": 20800000,
+    "retainedAmount": 16640000,
+    "currency": "NGN",
+    "incidentDate": "2025-09-01",
+    "reportedDate": "2025-09-20",
+    "status": "In Progress",
+    "createdAt": "2025-09-20T00:00:00Z"
+  },
+  {
+    "reinsuranceClaimId": "rc400000-0003",
+    "claimReference": "REIN-4-2025-003",
+    "treatyName": "NHIS-NG Quota Share Treaty 2025",
+    "reinsurer": "Continental Reinsurance",
+    "originalClaimAmount": 62400000,
+    "cededAmount": 24960000,
+    "retainedAmount": 37440000,
+    "currency": "NGN",
+    "incidentDate": "2025-11-01",
+    "reportedDate": "2025-11-10",
+    "status": "Reported",
+    "createdAt": "2025-11-10T00:00:00Z"
+  }
+]

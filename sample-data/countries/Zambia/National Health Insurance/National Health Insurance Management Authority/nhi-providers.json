@@ -1,0 +1,138 @@
+[
+  {
+    "providerId": "P-001",
+    "providerName": "University Teaching Hospital",
+    "accreditationNumber": "NHIMA-ACC-0001",
+    "region": "Lusaka",
+    "address": "University Teaching Hospital, Lusaka",
+    "tier": "Tertiary",
+    "category": "Public Hospital",
+    "servicesOffered": [
+      "Inpatient",
+      "Outpatient",
+      "Emergency",
+      "Surgery",
+      "Maternity"
+    ],
+    "isAccredited": true,
+    "accreditationDate": "2023-01-01T00:00:00Z",
+    "accreditationExpiry": "2026-01-01T00:00:00Z"
+  },
+  {
+    "providerId": "P-002",
+    "providerName": "Levy Mwanawasa UTH",
+    "accreditationNumber": "NHIMA-ACC-0002",
+    "region": "Copperbelt",
+    "address": "Levy Mwanawasa UTH, Copperbelt",
+    "tier": "Tertiary",
+    "category": "Private Hospital",
+    "servicesOffered": [
+      "Inpatient",
+      "Outpatient",
+      "Emergency",
+      "Surgery",
+      "Maternity"
+    ],
+    "isAccredited": true,
+    "accreditationDate": "2023-02-01T00:00:00Z",
+    "accreditationExpiry": "2026-02-01T00:00:00Z"
+  },
+  {
+    "providerId": "P-003",
+    "providerName": "Kitwe Central Hospital",
+    "accreditationNumber": "NHIMA-ACC-0003",
+    "region": "Southern",
+    "address": "Kitwe Central Hospital, Southern",
+    "tier": "Secondary",
+    "category": "Mission Hospital",
+    "servicesOffered": [
+      "Inpatient",
+      "Outpatient",
+      "Maternity"
+    ],
+    "isAccredited": true,
+    "accreditationDate": "2023-03-01T00:00:00Z",
+    "accreditationExpiry": "2026-03-01T00:00:00Z"
+  },
+  {
+    "providerId": "P-004",
+    "providerName": "Livingstone General Hospital",
+    "accreditationNumber": "NHIMA-ACC-0004",
+    "region": "Eastern",
+    "address": "Livingstone General Hospital, Eastern",
+    "tier": "Secondary",
+    "category": "Clinic",
+    "servicesOffered": [
+      "Inpatient",
+      "Outpatient",
+      "Maternity"
+    ],
+    "isAccredited": true,
+    "accreditationDate": "2023-04-01T00:00:00Z",
+    "accreditationExpiry": "2026-04-01T00:00:00Z"
+  },
+  {
+    "providerId": "P-005",
+    "providerName": "Chipata Central Hospital",
+    "accreditationNumber": "NHIMA-ACC-0005",
+    "region": "Northern",
+    "address": "Chipata Central Hospital, Northern",
+    "tier": "Primary",
+    "category": "Pharmacy",
+    "servicesOffered": [
+      "Outpatient",
+      "Pharmaceutical"
+    ],
+    "isAccredited": true,
+    "accreditationDate": "2023-05-01T00:00:00Z",
+    "accreditationExpiry": "2026-05-01T00:00:00Z"
+  },
+  {
+    "providerId": "P-006",
+    "providerName": "Kafue District Hospital",
+    "accreditationNumber": "NHIMA-ACC-0006",
+    "region": "Western",
+    "address": "Kafue District Hospital, Western",
+    "tier": "Primary",
+    "category": "Public Hospital",
+    "servicesOffered": [
+      "Outpatient",
+      "Pharmaceutical"
+    ],
+    "isAccredited": true,
+    "accreditationDate": "2023-06-01T00:00:00Z",
+    "accreditationExpiry": "2026-06-01T00:00:00Z"
+  },
+  {
+    "providerId": "P-007",
+    "providerName": "Monze Mission Hospital",
+    "accreditationNumber": "NHIMA-ACC-0007",
+    "region": "Central",
+    "address": "Monze Mission Hospital, Central",
+    "tier": "Accredited",
+    "category": "Private Hospital",
+    "servicesOffered": [
+      "Outpatient",
+      "Pharmaceutical"
+    ],
+    "isAccredited": true,
+    "accreditationDate": "2023-07-01T00:00:00Z",
+    "accreditationExpiry": "2026-07-01T00:00:00Z"
+  },
+  {
+    "providerId": "P-008",
+    "providerName": "Lusaka Trust Hospital",
+    "accreditationNumber": "NHIMA-ACC-0008",
+    "region": "North-Western",
+    "address": "Lusaka Trust Hospital, North-Western",
+    "tier": "Primary",
+    "category": "Mission Hospital",
+    "servicesOffered": [
+      "Outpatient",
+      "Pharmaceutical"
+    ],
+    "isAccredited": true,
+    "accreditationDate": "2023-08-01T00:00:00Z",
+    "accreditationExpiry": "2026-08-01T00:00:00Z"
+  }
+]

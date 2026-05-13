@@ -1,0 +1,17 @@
+{
+  "registrationNumber": "REG-19748",
+  "contactEmail": "growthinvestmentpartners@example.zm",
+  "createdAt": "2024-10-30T00:00:00Z",
+  "branches": 12,
+  "institutionType": "Venture Capital",
+  "institutionName": "Growth Investment Partners",
+  "country": "Canada",
+  "established": 1962,
+  "employees": 2515,
+  "contactPhone": "+260-812-202875",
+  "headquarters": "Ottawa",
+  "institutionId": "d99444ca-24fd-4ba1-955c-32b2744632be",
+  "currency": "CAD",
+  "status": "Active",
+  "website": "https://www.growthinvestmentpartners.co.zm"
+}

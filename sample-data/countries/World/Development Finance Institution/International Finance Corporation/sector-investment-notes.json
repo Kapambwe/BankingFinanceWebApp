@@ -1,0 +1,261 @@
+[
+  {
+    "noteId": "a83fb37f-2f35-6b32-2764-d9fa77a30ad9",
+    "noteCode": "IFC-IN-SIN-2026-001",
+    "title": "India SME Finance Sector Investment Note",
+    "producingInstitution": "International Finance Corporation",
+    "countryCode": "IN",
+    "countryName": "India",
+    "sector": "SME Finance",
+    "subSector": "Upstream pipeline",
+    "targetAudience": "MDB operations, government counterparts and co-financing partners",
+    "estimatedInvestmentNeed": 64000000,
+    "currency": "USD",
+    "investmentPriorities": [
+      "Prepare investable project pipeline",
+      "Mobilise concessional and private finance",
+      "Strengthen implementation capacity"
+    ],
+    "financingGapsIdentified": [
+      "Early-stage preparation funding",
+      "Local currency long-term finance",
+      "Guarantee coverage"
+    ],
+    "policyConstraints": [
+      "Lengthy approvals",
+      "Tariff or pricing uncertainty",
+      "Data limitations"
+    ],
+    "recommendedInterventions": [
+      "Project preparation facility",
+      "Risk-sharing instrument",
+      "Policy dialogue and technical assistance"
+    ],
+    "authorLead": "Sector economist",
+    "status": "Published",
+    "preparedDate": "2026-02-20T22:00:00Z",
+    "createdAt": "2025-12-31T22:00:00Z"
+  },
+  {
+    "noteId": "5c026328-011c-4c02-0851-28334b4d460a",
+    "noteCode": "IFC-KE-SIN-2026-002",
+    "title": "Kenya Climate Business Sector Investment Note",
+    "producingInstitution": "International Finance Corporation",
+    "countryCode": "KE",
+    "countryName": "Kenya",
+    "sector": "Climate Business",
+    "subSector": "Last-mile delivery",
+    "targetAudience": "MDB operations, government counterparts and co-financing partners",
+    "estimatedInvestmentNeed": 73000000,
+    "currency": "USD",
+    "investmentPriorities": [
+      "Prepare investable project pipeline",
+      "Mobilise concessional and private finance",
+      "Strengthen implementation capacity"
+    ],
+    "financingGapsIdentified": [
+      "Early-stage preparation funding",
+      "Local currency long-term finance",
+      "Guarantee coverage"
+    ],
+    "policyConstraints": [
+      "Lengthy approvals",
+      "Tariff or pricing uncertainty",
+      "Data limitations"
+    ],
+    "recommendedInterventions": [
+      "Project preparation facility",
+      "Risk-sharing instrument",
+      "Policy dialogue and technical assistance"
+    ],
+    "authorLead": "Investment officer",
+    "status": "PeerReview",
+    "preparedDate": "2026-03-20T22:00:00Z",
+    "createdAt": "2026-01-01T22:00:00Z"
+  },
+  {
+    "noteId": "cf748c5d-c211-2277-8e03-f83994501f2d",
+    "noteCode": "IFC-BR-SIN-2026-003",
+    "title": "Brazil Agribusiness Sector Investment Note",
+    "producingInstitution": "International Finance Corporation",
+    "countryCode": "BR",
+    "countryName": "Brazil",
+    "sector": "Agribusiness",
+    "subSector": "Policy reform",
+    "targetAudience": "MDB operations, government counterparts and co-financing partners",
+    "estimatedInvestmentNeed": 82000000,
+    "currency": "USD",
+    "investmentPriorities": [
+      "Prepare investable project pipeline",
+      "Mobilise concessional and private finance",
+      "Strengthen implementation capacity"
+    ],
+    "financingGapsIdentified": [
+      "Early-stage preparation funding",
+      "Local currency long-term finance",
+      "Guarantee coverage"
+    ],
+    "policyConstraints": [
+      "Lengthy approvals",
+      "Tariff or pricing uncertainty",
+      "Data limitations"
+    ],
+    "recommendedInterventions": [
+      "Project preparation facility",
+      "Risk-sharing instrument",
+      "Policy dialogue and technical assistance"
+    ],
+    "authorLead": "Country economist",
+    "status": "Draft",
+    "preparedDate": "2026-04-20T22:00:00Z",
+    "createdAt": "2026-01-02T22:00:00Z"
+  },
+  {
+    "noteId": "b289a46d-98a1-73fe-f043-9c43441a0b6f",
+    "noteCode": "IFC-ID-SIN-2026-004",
+    "title": "Indonesia Digital Finance Sector Investment Note",
+    "producingInstitution": "International Finance Corporation",
+    "countryCode": "ID",
+    "countryName": "Indonesia",
+    "sector": "Digital Finance",
+    "subSector": "Market access",
+    "targetAudience": "MDB operations, government counterparts and co-financing partners",
+    "estimatedInvestmentNeed": 91000000,
+    "currency": "USD",
+    "investmentPriorities": [
+      "Prepare investable project pipeline",
+      "Mobilise concessional and private finance",
+      "Strengthen implementation capacity"
+    ],
+    "financingGapsIdentified": [
+      "Early-stage preparation funding",
+      "Local currency long-term finance",
+      "Guarantee coverage"
+    ],
+    "policyConstraints": [
+      "Lengthy approvals",
+      "Tariff or pricing uncertainty",
+      "Data limitations"
+    ],
+    "recommendedInterventions": [
+      "Project preparation facility",
+      "Risk-sharing instrument",
+      "Policy dialogue and technical assistance"
+    ],
+    "authorLead": "Climate finance analyst",
+    "status": "Published",
+    "preparedDate": "2026-05-20T22:00:00Z",
+    "createdAt": "2026-01-03T22:00:00Z"
+  },
+  {
+    "noteId": "90395734-2b4d-b37e-697d-9cfc52fb359d",
+    "noteCode": "IFC-VN-SIN-2026-005",
+    "title": "Vietnam Manufacturing Sector Investment Note",
+    "producingInstitution": "International Finance Corporation",
+    "countryCode": "VN",
+    "countryName": "Vietnam",
+    "sector": "Manufacturing",
+    "subSector": "Infrastructure services",
+    "targetAudience": "MDB operations, government counterparts and co-financing partners",
+    "estimatedInvestmentNeed": 100000000,
+    "currency": "USD",
+    "investmentPriorities": [
+      "Prepare investable project pipeline",
+      "Mobilise concessional and private finance",
+      "Strengthen implementation capacity"
+    ],
+    "financingGapsIdentified": [
+      "Early-stage preparation funding",
+      "Local currency long-term finance",
+      "Guarantee coverage"
+    ],
+    "policyConstraints": [
+      "Lengthy approvals",
+      "Tariff or pricing uncertainty",
+      "Data limitations"
+    ],
+    "recommendedInterventions": [
+      "Project preparation facility",
+      "Risk-sharing instrument",
+      "Policy dialogue and technical assistance"
+    ],
+    "authorLead": "Private sector specialist",
+    "status": "Archived",
+    "preparedDate": "2026-06-20T22:00:00Z",
+    "createdAt": "2026-01-04T22:00:00Z"
+  },
+  {
+    "noteId": "c76064b8-46e1-1dbb-8d44-0c8c1a3d497b",
+    "noteCode": "IFC-EG-SIN-2026-006",
+    "title": "Egypt Health Sector Investment Note",
+    "producingInstitution": "International Finance Corporation",
+    "countryCode": "EG",
+    "countryName": "Egypt",
+    "sector": "Health",
+    "subSector": "Digital systems",
+    "targetAudience": "MDB operations, government counterparts and co-financing partners",
+    "estimatedInvestmentNeed": 109000000,
+    "currency": "USD",
+    "investmentPriorities": [
+      "Prepare investable project pipeline",
+      "Mobilise concessional and private finance",
+      "Strengthen implementation capacity"
+    ],
+    "financingGapsIdentified": [
+      "Early-stage preparation funding",
+      "Local currency long-term finance",
+      "Guarantee coverage"
+    ],
+    "policyConstraints": [
+      "Lengthy approvals",
+      "Tariff or pricing uncertainty",
+      "Data limitations"
+    ],
+    "recommendedInterventions": [
+      "Project preparation facility",
+      "Risk-sharing instrument",
+      "Policy dialogue and technical assistance"
+    ],
+    "authorLead": "Agriculture finance lead",
+    "status": "Published",
+    "preparedDate": "2026-07-20T22:00:00Z",
+    "createdAt": "2026-01-05T22:00:00Z"
+  },
+  {
+    "noteId": "a5224fc3-0f8d-a365-0989-5b867368bb46",
+    "noteCode": "IFC-CO-SIN-2026-007",
+    "title": "Colombia Green Buildings Sector Investment Note",
+    "producingInstitution": "International Finance Corporation",
+    "countryCode": "CO",
+    "countryName": "Colombia",
+    "sector": "Green Buildings",
+    "subSector": "Climate adaptation",
+    "targetAudience": "MDB operations, government counterparts and co-financing partners",
+    "estimatedInvestmentNeed": 118000000,
+    "currency": "USD",
+    "investmentPriorities": [
+      "Prepare investable project pipeline",
+      "Mobilise concessional and private finance",
+      "Strengthen implementation capacity"
+    ],
+    "financingGapsIdentified": [
+      "Early-stage preparation funding",
+      "Local currency long-term finance",
+      "Guarantee coverage"
+    ],
+    "policyConstraints": [
+      "Lengthy approvals",
+      "Tariff or pricing uncertainty",
+      "Data limitations"
+    ],
+    "recommendedInterventions": [
+      "Project preparation facility",
+      "Risk-sharing instrument",
+      "Policy dialogue and technical assistance"
+    ],
+    "authorLead": "Infrastructure advisor",
+    "status": "PeerReview",
+    "preparedDate": "2026-08-20T22:00:00Z",
+    "createdAt": "2026-01-06T22:00:00Z"
+  }
+]

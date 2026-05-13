@@ -1,0 +1,17 @@
+{
+  "registrationNumber": "REG-16831",
+  "contactEmail": "indozambiabank@example.zm",
+  "createdAt": "2024-09-18T00:00:00Z",
+  "branches": 47,
+  "institutionType": "Commercial Bank",
+  "institutionName": "Indo Zambia Bank",
+  "country": "Zambia",
+  "established": 1967,
+  "employees": 4316,
+  "contactPhone": "+260-689-209312",
+  "headquarters": "Livingstone",
+  "institutionId": "cd53c373-0050-4cf5-b802-8f3d5afaacdc",
+  "currency": "ZMW",
+  "status": "Active",
+  "website": "https://www.indozambiabank.co.zm"
+}

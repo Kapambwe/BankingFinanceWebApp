@@ -1,0 +1,212 @@
+[
+  {
+    "initiativeId": "890f2875-5b35-7443-ae50-6334ce6cad87",
+    "initiativeName": "Malawi Social Protection Innovation Lab",
+    "institutionName": "International Development Association",
+    "countryCode": "MW",
+    "countryName": "Malawi",
+    "initiativeType": "AcceleratorLab",
+    "thematicFocus": "Social Protection",
+    "budgetAmount": 825000,
+    "currency": "USD",
+    "experimentsOrPilots": 4,
+    "solutionsIdentified": 8,
+    "solutionsScaled": 1,
+    "ecosystemPartners": [
+      "Local universities",
+      "Startup hub",
+      "Government innovation unit",
+      "Private sector association"
+    ],
+    "learningOutputs": [
+      "Pilot report",
+      "Open data dashboard",
+      "Scale-up concept note"
+    ],
+    "isLinkedToInvestmentPipeline": false,
+    "investmentPipelineGenerated": 3000000,
+    "status": "Active",
+    "establishedDate": "2025-02-03T22:00:00Z",
+    "createdAt": "2024-12-31T22:00:00Z"
+  },
+  {
+    "initiativeId": "ce5d3a62-d957-2a0d-b5f7-c2e886f36cf3",
+    "initiativeName": "Nepal Agriculture Innovation Lab",
+    "institutionName": "International Development Association",
+    "countryCode": "NP",
+    "countryName": "Nepal",
+    "initiativeType": "InnovationChallenge",
+    "thematicFocus": "Agriculture",
+    "budgetAmount": 1000000,
+    "currency": "USD",
+    "experimentsOrPilots": 5,
+    "solutionsIdentified": 10,
+    "solutionsScaled": 2,
+    "ecosystemPartners": [
+      "Local universities",
+      "Startup hub",
+      "Government innovation unit",
+      "Private sector association"
+    ],
+    "learningOutputs": [
+      "Pilot report",
+      "Open data dashboard",
+      "Scale-up concept note"
+    ],
+    "isLinkedToInvestmentPipeline": true,
+    "investmentPipelineGenerated": 4000000,
+    "status": "Scaling",
+    "establishedDate": "2025-03-03T22:00:00Z",
+    "createdAt": "2025-01-01T22:00:00Z"
+  },
+  {
+    "initiativeId": "f32b92f6-6c04-e6d9-6a4c-5bb1eb12c749",
+    "initiativeName": "Mozambique Education Innovation Lab",
+    "institutionName": "International Development Association",
+    "countryCode": "MZ",
+    "countryName": "Mozambique",
+    "initiativeType": "MarketCreationPilot",
+    "thematicFocus": "Education",
+    "budgetAmount": 1175000,
+    "currency": "USD",
+    "experimentsOrPilots": 6,
+    "solutionsIdentified": 12,
+    "solutionsScaled": 3,
+    "ecosystemPartners": [
+      "Local universities",
+      "Startup hub",
+      "Government innovation unit",
+      "Private sector association"
+    ],
+    "learningOutputs": [
+      "Pilot report",
+      "Open data dashboard",
+      "Scale-up concept note"
+    ],
+    "isLinkedToInvestmentPipeline": false,
+    "investmentPipelineGenerated": 5000000,
+    "status": "Evaluation",
+    "establishedDate": "2025-04-03T22:00:00Z",
+    "createdAt": "2025-01-02T22:00:00Z"
+  },
+  {
+    "initiativeId": "d3c7aa38-bb89-2792-3489-c456cd3ad9be",
+    "initiativeName": "Rwanda Health Innovation Lab",
+    "institutionName": "International Development Association",
+    "countryCode": "RW",
+    "countryName": "Rwanda",
+    "initiativeType": "RegulatoryTestbed",
+    "thematicFocus": "Health",
+    "budgetAmount": 1350000,
+    "currency": "USD",
+    "experimentsOrPilots": 7,
+    "solutionsIdentified": 14,
+    "solutionsScaled": 0,
+    "ecosystemPartners": [
+      "Local universities",
+      "Startup hub",
+      "Government innovation unit",
+      "Private sector association"
+    ],
+    "learningOutputs": [
+      "Pilot report",
+      "Open data dashboard",
+      "Scale-up concept note"
+    ],
+    "isLinkedToInvestmentPipeline": true,
+    "investmentPipelineGenerated": 6000000,
+    "status": "Design",
+    "establishedDate": "2025-05-03T22:00:00Z",
+    "createdAt": "2025-01-03T22:00:00Z"
+  },
+  {
+    "initiativeId": "c46e0a7f-1cba-004f-da8b-b82b97f52b89",
+    "initiativeName": "Ethiopia Rural Roads Innovation Lab",
+    "institutionName": "International Development Association",
+    "countryCode": "ET",
+    "countryName": "Ethiopia",
+    "initiativeType": "KnowledgeHub",
+    "thematicFocus": "Rural Roads",
+    "budgetAmount": 1525000,
+    "currency": "USD",
+    "experimentsOrPilots": 8,
+    "solutionsIdentified": 16,
+    "solutionsScaled": 1,
+    "ecosystemPartners": [
+      "Local universities",
+      "Startup hub",
+      "Government innovation unit",
+      "Private sector association"
+    ],
+    "learningOutputs": [
+      "Pilot report",
+      "Open data dashboard",
+      "Scale-up concept note"
+    ],
+    "isLinkedToInvestmentPipeline": false,
+    "investmentPipelineGenerated": 7000000,
+    "status": "Completed",
+    "establishedDate": "2025-06-03T22:00:00Z",
+    "createdAt": "2025-01-04T22:00:00Z"
+  },
+  {
+    "initiativeId": "32afdfd1-8512-f2eb-68f5-fe2842556e6b",
+    "initiativeName": "Bangladesh Water and Sanitation Innovation Lab",
+    "institutionName": "International Development Association",
+    "countryCode": "BD",
+    "countryName": "Bangladesh",
+    "initiativeType": "EcosystemBuilder",
+    "thematicFocus": "Water and Sanitation",
+    "budgetAmount": 1700000,
+    "currency": "USD",
+    "experimentsOrPilots": 9,
+    "solutionsIdentified": 18,
+    "solutionsScaled": 2,
+    "ecosystemPartners": [
+      "Local universities",
+      "Startup hub",
+      "Government innovation unit",
+      "Private sector association"
+    ],
+    "learningOutputs": [
+      "Pilot report",
+      "Open data dashboard",
+      "Scale-up concept note"
+    ],
+    "isLinkedToInvestmentPipeline": true,
+    "investmentPipelineGenerated": 8000000,
+    "status": "Active",
+    "establishedDate": "2025-07-03T22:00:00Z",
+    "createdAt": "2025-01-05T22:00:00Z"
+  },
+  {
+    "initiativeId": "d3712523-7505-df73-3648-e77db529678d",
+    "initiativeName": "Niger Public Sector Governance Innovation Lab",
+    "institutionName": "International Development Association",
+    "countryCode": "NE",
+    "countryName": "Niger",
+    "initiativeType": "ImpactLab",
+    "thematicFocus": "Public Sector Governance",
+    "budgetAmount": 1875000,
+    "currency": "USD",
+    "experimentsOrPilots": 10,
+    "solutionsIdentified": 20,
+    "solutionsScaled": 3,
+    "ecosystemPartners": [
+      "Local universities",
+      "Startup hub",
+      "Government innovation unit",
+      "Private sector association"
+    ],
+    "learningOutputs": [
+      "Pilot report",
+      "Open data dashboard",
+      "Scale-up concept note"
+    ],
+    "isLinkedToInvestmentPipeline": false,
+    "investmentPipelineGenerated": 9000000,
+    "status": "Scaling",
+    "establishedDate": "2025-08-03T22:00:00Z",
+    "createdAt": "2025-01-06T22:00:00Z"
+  }
+]

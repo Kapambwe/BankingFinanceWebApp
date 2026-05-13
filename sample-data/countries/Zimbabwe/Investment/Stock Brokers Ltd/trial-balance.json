@@ -1,0 +1,177 @@
+[
+  {
+    "accountCode": "1010",
+    "accountName": "Cash — Operating Account",
+    "accountType": "Asset",
+    "debit": 347750000.0,
+    "credit": 0
+  },
+  {
+    "accountCode": "1020",
+    "accountName": "Cash — Savings Account",
+    "accountType": "Asset",
+    "debit": 695500000.0,
+    "credit": 0
+  },
+  {
+    "accountCode": "1030",
+    "accountName": "Short-Term Investments",
+    "accountType": "Asset",
+    "debit": 556400000.0,
+    "credit": 0
+  },
+  {
+    "accountCode": "1040",
+    "accountName": "Accounts Receivable",
+    "accountType": "Asset",
+    "debit": 486850000.0,
+    "credit": 0
+  },
+  {
+    "accountCode": "1050",
+    "accountName": "Prepaid Expenses",
+    "accountType": "Asset",
+    "debit": 139100000.0,
+    "credit": 0
+  },
+  {
+    "accountCode": "1060",
+    "accountName": "Loan Portfolio",
+    "accountType": "Asset",
+    "debit": 1391000000.0,
+    "credit": 0
+  },
+  {
+    "accountCode": "1080",
+    "accountName": "Interbank Placements",
+    "accountType": "Asset",
+    "debit": 834600000.0,
+    "credit": 0
+  },
+  {
+    "accountCode": "1110",
+    "accountName": "Property and Equipment (Net)",
+    "accountType": "Asset",
+    "debit": 1043250000.0,
+    "credit": 0
+  },
+  {
+    "accountCode": "1120",
+    "accountName": "Long-Term Investments",
+    "accountType": "Asset",
+    "debit": 1391000000.0,
+    "credit": 0
+  },
+  {
+    "accountCode": "1150",
+    "accountName": "Goodwill",
+    "accountType": "Asset",
+    "debit": 417300000.0,
+    "credit": 0
+  },
+  {
+    "accountCode": "2010",
+    "accountName": "Accounts Payable",
+    "accountType": "Liability",
+    "debit": 0,
+    "credit": 417300000.0
+  },
+  {
+    "accountCode": "2020",
+    "accountName": "Short-Term Borrowings",
+    "accountType": "Liability",
+    "debit": 0,
+    "credit": 556400000.0
+  },
+  {
+    "accountCode": "2030",
+    "accountName": "Accrued Expenses",
+    "accountType": "Liability",
+    "debit": 0,
+    "credit": 208650000.0
+  },
+  {
+    "accountCode": "2040",
+    "accountName": "Tax Payable",
+    "accountType": "Liability",
+    "debit": 0,
+    "credit": 139100000.0
+  },
+  {
+    "accountCode": "2050",
+    "accountName": "Customer Deposits",
+    "accountType": "Liability",
+    "debit": 0,
+    "credit": 1738750000.0
+  },
+  {
+    "accountCode": "2110",
+    "accountName": "Long-Term Debt",
+    "accountType": "Liability",
+    "debit": 0,
+    "credit": 1043250000.0
+  },
+  {
+    "accountCode": "3010",
+    "accountName": "Share Capital",
+    "accountType": "Equity",
+    "debit": 0,
+    "credit": 695500000.0
+  },
+  {
+    "accountCode": "3020",
+    "accountName": "Retained Earnings",
+    "accountType": "Equity",
+    "debit": 0,
+    "credit": 556400000.0
+  },
+  {
+    "accountCode": "4010",
+    "accountName": "Interest / Primary Income",
+    "accountType": "Revenue",
+    "debit": 0,
+    "credit": 2434250000.0
+  },
+  {
+    "accountCode": "4020",
+    "accountName": "Fee and Commission Income",
+    "accountType": "Revenue",
+    "debit": 0,
+    "credit": 1043250000.0
+  },
+  {
+    "accountCode": "5010",
+    "accountName": "Salaries and Wages",
+    "accountType": "Expense",
+    "debit": 1738750000.0,
+    "credit": 0
+  },
+  {
+    "accountCode": "5020",
+    "accountName": "Rent Expense",
+    "accountType": "Expense",
+    "debit": 417300000.0,
+    "credit": 0
+  },
+  {
+    "accountCode": "5030",
+    "accountName": "Depreciation Expense",
+    "accountType": "Expense",
+    "debit": 278200000.0,
+    "credit": 0
+  },
+  {
+    "accountCode": "5040",
+    "accountName": "IT and Technology Expense",
+    "accountType": "Expense",
+    "debit": 347750000.0,
+    "credit": 0
+  },
+  {
+    "accountCode": "5090",
+    "accountName": "Income Tax Expense",
+    "accountType": "Expense",
+    "debit": 486850000.0,
+    "credit": 0
+  }
+]

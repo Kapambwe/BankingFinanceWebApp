@@ -1,0 +1,362 @@
+[
+  {
+    "id": "CEEC-STARTUP-001",
+    "institutionType": "CEEC",
+    "loanProductName": "CEEC Startup Loan",
+    "productType": "StartupLoan",
+    "minimumAmount": 5000,
+    "maximumAmount": 50000,
+    "minimumTenureMonths": 12,
+    "maximumTenureMonths": 60,
+    "baseInterestRate": 5.0,
+    "minimumInterestRate": 4.0,
+    "maximumInterestRate": 7.0,
+    "processingFeePercentage": 1.0,
+    "minimumIncome": 0,
+    "minimumCreditScore": 0,
+    "maximumDebtToIncomeRatio": 60,
+    "requiresCollateral": false,
+    "eligibleCollateralTypes": [],
+    "isActive": true,
+    "description": "Low-interest loan for citizen entrepreneurs starting new businesses. Includes mandatory business training.",
+    "targetBeneficiaries": "Youth, Women, Start-ups",
+    "features": [
+      "Concessional interest rate (5%)",
+      "6-month grace period available",
+      "Mandatory entrepreneurship training included",
+      "Business mentorship program",
+      "No collateral required for amounts under K25,000"
+    ],
+    "requiredDocuments": [
+      "National ID",
+      "Business Plan",
+      "Proof of Citizenship",
+      "Tax Clearance"
+    ],
+    "creditScoreAdjustments": {
+      "750": -0.5,
+      "700": 0.0,
+      "650": 0.5,
+      "600": 1.0
+    },
+    "createdDate": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": "CEEC-WOMEN-001",
+    "institutionType": "CEEC",
+    "loanProductName": "Women Empowerment Loan",
+    "productType": "WomenEmpowermentLoan",
+    "minimumAmount": 5000,
+    "maximumAmount": 100000,
+    "minimumTenureMonths": 12,
+    "maximumTenureMonths": 72,
+    "baseInterestRate": 4.5,
+    "minimumInterestRate": 3.5,
+    "maximumInterestRate": 6.0,
+    "processingFeePercentage": 0.5,
+    "minimumIncome": 0,
+    "minimumCreditScore": 0,
+    "maximumDebtToIncomeRatio": 65,
+    "requiresCollateral": false,
+    "eligibleCollateralTypes": [],
+    "isActive": true,
+    "description": "Special concessional loan for women entrepreneurs with flexible repayment terms.",
+    "targetBeneficiaries": "Women Entrepreneurs",
+    "features": [
+      "Lowest interest rate (4.5%)",
+      "Longer repayment period (up to 6 years)",
+      "Flexible repayment schedule",
+      "Business skills training",
+      "Women's cooperative support",
+      "No collateral required"
+    ],
+    "requiredDocuments": [
+      "National ID",
+      "Business Registration",
+      "Business Plan"
+    ],
+    "creditScoreAdjustments": {
+      "750": -0.5,
+      "700": 0.0,
+      "650": 0.3
+    },
+    "createdDate": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": "CEEC-AGRI-001",
+    "institutionType": "CEEC",
+    "loanProductName": "Agricultural Value Chain Financing",
+    "productType": "ValueChainFinanceLoan",
+    "minimumAmount": 10000,
+    "maximumAmount": 200000,
+    "minimumTenureMonths": 12,
+    "maximumTenureMonths": 48,
+    "baseInterestRate": 6.0,
+    "minimumInterestRate": 5.0,
+    "maximumInterestRate": 8.0,
+    "processingFeePercentage": 1.5,
+    "minimumIncome": 0,
+    "minimumCreditScore": 600,
+    "maximumDebtToIncomeRatio": 55,
+    "requiresCollateral": true,
+    "eligibleCollateralTypes": [
+      "Agricultural Land",
+      "Equipment",
+      "Livestock",
+      "Off-taker Agreements"
+    ],
+    "isActive": true,
+    "description": "Financing for farmers and agribusinesses in the agricultural value chain.",
+    "targetBeneficiaries": "Farmers, Agribusiness SMEs, Cooperatives",
+    "features": [
+      "Seasonal repayment aligned with harvest",
+      "Input financing available",
+      "Off-taker linkages",
+      "Agricultural insurance bundled",
+      "Technical extension services"
+    ],
+    "requiredDocuments": [
+      "National ID",
+      "Land Title/Lease",
+      "Business Plan",
+      "Off-taker Agreement (if applicable)"
+    ],
+    "creditScoreAdjustments": {
+      "750": -0.5,
+      "700": 0.0,
+      "650": 0.5,
+      "600": 1.0
+    },
+    "createdDate": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": "DBZ-GREEN-001",
+    "institutionType": "DevelopmentBank",
+    "loanProductName": "Green Climate Fund Project Financing",
+    "productType": "GreenFinanceLoan",
+    "minimumAmount": 100000,
+    "maximumAmount": 10000000,
+    "minimumTenureMonths": 36,
+    "maximumTenureMonths": 180,
+    "baseInterestRate": 6.0,
+    "minimumInterestRate": 4.5,
+    "maximumInterestRate": 8.0,
+    "processingFeePercentage": 0.5,
+    "minimumIncome": 0,
+    "minimumCreditScore": 650,
+    "maximumDebtToIncomeRatio": 50,
+    "requiresCollateral": true,
+    "eligibleCollateralTypes": [
+      "Property",
+      "Equipment",
+      "Revenue Streams",
+      "Government Guarantee"
+    ],
+    "isActive": true,
+    "description": "Concessional financing for climate adaptation and mitigation projects accredited by the Green Climate Fund.",
+    "targetBeneficiaries": "SMEs, Cooperatives, Corporates, Government Agencies",
+    "features": [
+      "GCF co-financing available (up to 50%)",
+      "Concessional interest rates",
+      "Long tenure (up to 15 years)",
+      "Grace period (up to 2 years)",
+      "Technical assistance grants available",
+      "ESG compliance support"
+    ],
+    "requiredDocuments": [
+      "Project Proposal",
+      "Environmental Impact Assessment",
+      "Financial Statements (3 years)",
+      "Business Plan",
+      "Carbon Reduction Plan"
+    ],
+    "creditScoreAdjustments": {
+      "750": -0.5,
+      "700": 0.0,
+      "650": 0.5
+    },
+    "createdDate": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": "DBZ-INFRA-001",
+    "institutionType": "DevelopmentBank",
+    "loanProductName": "Infrastructure Project Financing",
+    "productType": "InfrastructureProjectLoan",
+    "minimumAmount": 500000,
+    "maximumAmount": 50000000,
+    "minimumTenureMonths": 60,
+    "maximumTenureMonths": 240,
+    "baseInterestRate": 7.5,
+    "minimumInterestRate": 6.0,
+    "maximumInterestRate": 9.0,
+    "processingFeePercentage": 1.0,
+    "minimumIncome": 0,
+    "minimumCreditScore": 700,
+    "maximumDebtToIncomeRatio": 45,
+    "requiresCollateral": true,
+    "eligibleCollateralTypes": [
+      "Project Assets",
+      "Property",
+      "Revenue Escrow",
+      "Government Guarantee"
+    ],
+    "isActive": true,
+    "description": "Long-term financing for infrastructure development projects in energy, transport, water, and social sectors.",
+    "targetBeneficiaries": "Government, Corporates, PPP Projects",
+    "features": [
+      "Project finance structuring",
+      "Long tenure (up to 20 years)",
+      "Construction period grace",
+      "Syndication available",
+      "Escrow account management",
+      "Independent engineer supervision"
+    ],
+    "requiredDocuments": [
+      "Project Feasibility Study",
+      "Environmental & Social Impact Assessment",
+      "Project Implementation Plan",
+      "Financial Model",
+      "Engineering Design",
+      "PPP Agreement (if applicable)"
+    ],
+    "creditScoreAdjustments": {
+      "750": -0.5,
+      "700": 0.0
+    },
+    "createdDate": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": "DBZ-SME-001",
+    "institutionType": "DevelopmentBank",
+    "loanProductName": "SME Development Loan",
+    "productType": "SMETermLoan",
+    "minimumAmount": 50000,
+    "maximumAmount": 1000000,
+    "minimumTenureMonths": 12,
+    "maximumTenureMonths": 60,
+    "baseInterestRate": 9.0,
+    "minimumInterestRate": 7.5,
+    "maximumInterestRate": 11.0,
+    "processingFeePercentage": 1.5,
+    "minimumIncome": 100000,
+    "minimumCreditScore": 650,
+    "maximumDebtToIncomeRatio": 50,
+    "requiresCollateral": true,
+    "eligibleCollateralTypes": [
+      "Property",
+      "Equipment",
+      "Inventory",
+      "Accounts Receivable"
+    ],
+    "isActive": true,
+    "description": "Term loans for SME expansion, equipment acquisition, and working capital.",
+    "targetBeneficiaries": "Small and Medium Enterprises",
+    "features": [
+      "Competitive rates for SMEs",
+      "Business advisory services",
+      "Credit guarantee scheme eligible",
+      "Refinancing facility available",
+      "Export development support"
+    ],
+    "requiredDocuments": [
+      "Business Registration",
+      "Financial Statements (2 years)",
+      "Business Plan",
+      "Tax Clearance",
+      "Bank Statements (6 months)"
+    ],
+    "creditScoreAdjustments": {
+      "750": -0.5,
+      "700": 0.0,
+      "650": 0.5,
+      "600": 1.0
+    },
+    "createdDate": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": "COMM-HOME-001",
+    "institutionType": "CommercialBank",
+    "loanProductName": "Home Loan",
+    "productType": "HomeLoan",
+    "minimumAmount": 50000,
+    "maximumAmount": 1000000,
+    "minimumTenureMonths": 60,
+    "maximumTenureMonths": 300,
+    "baseInterestRate": 8.5,
+    "minimumInterestRate": 7.5,
+    "maximumInterestRate": 10.0,
+    "processingFeePercentage": 1.0,
+    "minimumIncome": 50000,
+    "minimumCreditScore": 700,
+    "maximumDebtToIncomeRatio": 40,
+    "requiresCollateral": true,
+    "eligibleCollateralTypes": [
+      "Property"
+    ],
+    "isActive": true,
+    "description": "Mortgage financing for purchasing or constructing residential property.",
+    "targetBeneficiaries": "Individuals, Families",
+    "features": [
+      "Long tenure (up to 25 years)",
+      "LTV up to 90%",
+      "Fixed or variable rate options",
+      "Property insurance included",
+      "Top-up facility available"
+    ],
+    "requiredDocuments": [
+      "National ID",
+      "Proof of Income (6 months payslips)",
+      "Property Valuation",
+      "Land Title",
+      "Bank Statements (6 months)"
+    ],
+    "creditScoreAdjustments": {
+      "750": -0.5,
+      "700": 0.0,
+      "650": 0.5,
+      "600": 1.0
+    },
+    "createdDate": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": "MICRO-GROUP-001",
+    "institutionType": "Microfinance",
+    "loanProductName": "Village Banking Group Loan",
+    "productType": "CooperativeLoan",
+    "minimumAmount": 1000,
+    "maximumAmount": 20000,
+    "minimumTenureMonths": 6,
+    "maximumTenureMonths": 24,
+    "baseInterestRate": 14.0,
+    "minimumInterestRate": 12.0,
+    "maximumInterestRate": 16.0,
+    "processingFeePercentage": 2.0,
+    "minimumIncome": 0,
+    "minimumCreditScore": 0,
+    "maximumDebtToIncomeRatio": 70,
+    "requiresCollateral": false,
+    "eligibleCollateralTypes": [],
+    "isActive": true,
+    "description": "Group lending for village banking and savings groups with joint liability.",
+    "targetBeneficiaries": "Women's Groups, Village Banking Groups, Cooperatives",
+    "features": [
+      "Group guarantee (no individual collateral)",
+      "Weekly repayment schedule",
+      "Savings mobilization",
+      "Financial literacy training",
+      "Progressive lending (amounts increase with good repayment)"
+    ],
+    "requiredDocuments": [
+      "Group Registration",
+      "Member List with IDs",
+      "Group Constitution",
+      "Savings Records"
+    ],
+    "creditScoreAdjustments": {
+      "750": -1.0,
+      "700": -0.5,
+      "650": 0.0
+    },
+    "createdDate": "2024-01-01T00:00:00Z"
+  }
+]

@@ -1,0 +1,152 @@
+[
+  {
+    "section": "CurrentAssets",
+    "accountCode": "1010",
+    "accountName": "Caixa — Conta Operacional",
+    "balance": 4500000000.0
+  },
+  {
+    "section": "CurrentAssets",
+    "accountCode": "1020",
+    "accountName": "Caixa — Conta Poupança",
+    "balance": 8200000000.0
+  },
+  {
+    "section": "CurrentAssets",
+    "accountCode": "1030",
+    "accountName": "Investimentos de Curto Prazo",
+    "balance": 12500000000.0
+  },
+  {
+    "section": "CurrentAssets",
+    "accountCode": "1040",
+    "accountName": "Contas a Receber",
+    "balance": 9800000000.0
+  },
+  {
+    "section": "CurrentAssets",
+    "accountCode": "1050",
+    "accountName": "Despesas Antecipadas",
+    "balance": 850000000.0
+  },
+  {
+    "section": "CurrentAssets",
+    "accountCode": "1060",
+    "accountName": "Outros Ativos Circulantes",
+    "balance": 1200000000.0
+  },
+  {
+    "section": "CurrentAssets",
+    "accountCode": "1070",
+    "accountName": "Crédito Tributário a Recuperar",
+    "balance": 450000000.0
+  },
+  {
+    "section": "CurrentAssets",
+    "accountCode": "1080",
+    "accountName": "Operações Interbancárias",
+    "balance": 6700000000.0
+  },
+  {
+    "section": "NonCurrentAssets",
+    "accountCode": "1110",
+    "accountName": "Imóveis e Equipamentos (Líquido)",
+    "balance": 380000000.0
+  },
+  {
+    "section": "NonCurrentAssets",
+    "accountCode": "1120",
+    "accountName": "Investimentos de Longo Prazo",
+    "balance": 18500000000.0
+  },
+  {
+    "section": "NonCurrentAssets",
+    "accountCode": "1130",
+    "accountName": "Ativos Intangíveis",
+    "balance": 2100000000.0
+  },
+  {
+    "section": "NonCurrentAssets",
+    "accountCode": "1140",
+    "accountName": "Imposto de Renda Diferido (Ativo)",
+    "balance": 680000000.0
+  },
+  {
+    "section": "NonCurrentAssets",
+    "accountCode": "1150",
+    "accountName": "Goodwill",
+    "balance": 1500000000.0
+  },
+  {
+    "section": "CurrentLiabilities",
+    "accountCode": "2010",
+    "accountName": "Contas a Pagar",
+    "balance": 3200000000.0
+  },
+  {
+    "section": "CurrentLiabilities",
+    "accountCode": "2020",
+    "accountName": "Empréstimos de Curto Prazo",
+    "balance": 5500000000.0
+  },
+  {
+    "section": "CurrentLiabilities",
+    "accountCode": "2030",
+    "accountName": "Despesas Acumuladas",
+    "balance": 1800000000.0
+  },
+  {
+    "section": "CurrentLiabilities",
+    "accountCode": "2040",
+    "accountName": "Impostos a Pagar",
+    "balance": 920000000.0
+  },
+  {
+    "section": "CurrentLiabilities",
+    "accountCode": "2050",
+    "accountName": "Depósitos de Clientes — Circulante",
+    "balance": 28500000000.0
+  },
+  {
+    "section": "NonCurrentLiabilities",
+    "accountCode": "2110",
+    "accountName": "Dívida de Longo Prazo",
+    "balance": 12000000000.0
+  },
+  {
+    "section": "NonCurrentLiabilities",
+    "accountCode": "2120",
+    "accountName": "Imposto de Renda Diferido (Passivo)",
+    "balance": 480000000.0
+  },
+  {
+    "section": "NonCurrentLiabilities",
+    "accountCode": "2130",
+    "accountName": "Obrigações Previdenciárias",
+    "balance": 650000000.0
+  },
+  {
+    "section": "NonCurrentLiabilities",
+    "accountCode": "2140",
+    "accountName": "Dívida Subordinada",
+    "balance": 3500000000.0
+  },
+  {
+    "section": "Equity",
+    "accountCode": "3010",
+    "accountName": "Capital Social",
+    "balance": 9800000000.0
+  },
+  {
+    "section": "Equity",
+    "accountCode": "3020",
+    "accountName": "Lucros Acumulados",
+    "balance": 1000000000.0
+  },
+  {
+    "section": "Equity",
+    "accountCode": "3030",
+    "accountName": "Reservas Gerais",
+    "balance": 2200000000.0
+  }
+]

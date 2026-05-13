@@ -1,0 +1,19 @@
+[
+  {
+    "assessmentId": "dbsa50001-0000-0000-0000-000000000001",
+    "countryCode": "ZA",
+    "countryName": "South Africa",
+    "region": "Southern Africa",
+    "ratingAgency": "Internal DBSA Risk",
+    "sovereignRating": "BB",
+    "outlook": "Stable",
+    "probabilityOfDefault": 0.15,
+    "debtSustainability": "Moderate",
+    "foreignExchangeRisk": "Moderate",
+    "politicalRisk": "Moderate",
+    "macroeconomicRisk": "Moderate",
+    "assessmentDate": "2025-02-01T00:00:00Z",
+    "validUntil": "2026-02-01T00:00:00Z",
+    "notes": "Municipal financing is exposed to implementation and tariff collection risks."
+  }
+]

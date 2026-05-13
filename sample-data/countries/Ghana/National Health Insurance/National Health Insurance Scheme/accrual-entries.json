@@ -1,0 +1,62 @@
+[
+  {
+    "accrualId": "ae200000-0001",
+    "accrualType": "Salary Accrual",
+    "debitAccount": "5002",
+    "creditAccount": "2002",
+    "amount": 108.0,
+    "currency": "GHS",
+    "accrualDate": "2025-10-30",
+    "reversal": false,
+    "status": "Posted",
+    "createdAt": "2025-10-30T00:00:00Z"
+  },
+  {
+    "accrualId": "ae200000-0002",
+    "accrualType": "Claims Liability Accrual",
+    "debitAccount": "5001",
+    "creditAccount": "2001",
+    "amount": 72.0,
+    "currency": "GHS",
+    "accrualDate": "2025-11-30",
+    "reversal": false,
+    "status": "Posted",
+    "createdAt": "2025-11-30T00:00:00Z"
+  },
+  {
+    "accrualId": "ae200000-0003",
+    "accrualType": "Audit Fee Accrual",
+    "debitAccount": "5003",
+    "creditAccount": "2002",
+    "amount": 5.0,
+    "currency": "GHS",
+    "accrualDate": "2025-12-30",
+    "reversal": false,
+    "status": "Posted",
+    "createdAt": "2025-12-30T00:00:00Z"
+  },
+  {
+    "accrualId": "ae200000-0004",
+    "accrualType": "IT Service Accrual",
+    "debitAccount": "5003",
+    "creditAccount": "2002",
+    "amount": 3.0,
+    "currency": "GHS",
+    "accrualDate": "2025-13-30",
+    "reversal": false,
+    "status": "Posted",
+    "createdAt": "2025-13-30T00:00:00Z"
+  },
+  {
+    "accrualId": "ae200000-0005",
+    "accrualType": "Rental Accrual",
+    "debitAccount": "5003",
+    "creditAccount": "2002",
+    "amount": 6.0,
+    "currency": "GHS",
+    "accrualDate": "2025-14-30",
+    "reversal": false,
+    "status": "Posted",
+    "createdAt": "2025-14-30T00:00:00Z"
+  }
+]

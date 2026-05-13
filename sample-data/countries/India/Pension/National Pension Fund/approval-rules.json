@@ -1,0 +1,80 @@
+[
+  {
+    "ruleId": 1,
+    "ruleName": "Bills INR 4,400,000\u201343,500,000 require Investments Manager approval",
+    "type": "Bill",
+    "minAmount": 4400000,
+    "maxAmount": 43500000,
+    "approverId": "manager@nationalpens.co",
+    "approverName": "Investments Manager",
+    "level": 1,
+    "isActive": true,
+    "autoApproveBelow": false,
+    "notes": "Standard operational expenditure threshold"
+  },
+  {
+    "ruleId": 2,
+    "ruleName": "Bills above INR 43,500,000 require Chief Financial Officer approval",
+    "type": "Bill",
+    "minAmount": 43500000,
+    "maxAmount": null,
+    "approverId": "cfo@nationalpens.co",
+    "approverName": "Chief Financial Officer",
+    "level": 2,
+    "isActive": true,
+    "autoApproveBelow": false,
+    "notes": "Capital expenditure and large operational bills"
+  },
+  {
+    "ruleId": 3,
+    "ruleName": "Bills above INR 174,000,000 require Chief Executive Officer approval",
+    "type": "Bill",
+    "minAmount": 174000000,
+    "maxAmount": null,
+    "approverId": "ceo@nationalpens.co",
+    "approverName": "Chief Executive Officer",
+    "level": 3,
+    "isActive": true,
+    "autoApproveBelow": false,
+    "notes": "Strategic vendor contracts and major capital expenditure"
+  },
+  {
+    "ruleId": 4,
+    "ruleName": "Journal entries above INR 21,750,000 require Chief Financial Officer approval",
+    "type": "JournalEntry",
+    "minAmount": 21750000.0,
+    "maxAmount": null,
+    "approverId": "controller@nationalpens.co",
+    "approverName": "Financial Controller",
+    "level": 1,
+    "isActive": true,
+    "autoApproveBelow": false,
+    "notes": "SOX control \u2014 manual journal entries above threshold"
+  },
+  {
+    "ruleId": 5,
+    "ruleName": "Payments below INR 2,200,000 auto-approved",
+    "type": "Payment",
+    "minAmount": 0,
+    "maxAmount": 2200000,
+    "approverId": "system@nationalpens.co",
+    "approverName": "System",
+    "level": 1,
+    "isActive": true,
+    "autoApproveBelow": true,
+    "notes": "Petty cash and minor operational payments"
+  },
+  {
+    "ruleId": 6,
+    "ruleName": "Budget changes above INR 43,500,000 require Chief Financial Officer approval",
+    "type": "BudgetChange",
+    "minAmount": 43500000,
+    "maxAmount": null,
+    "approverId": "cfo@nationalpens.co",
+    "approverName": "Chief Financial Officer",
+    "level": 2,
+    "isActive": true,
+    "autoApproveBelow": false,
+    "notes": "Budget revisions require justification memo"
+  }
+]

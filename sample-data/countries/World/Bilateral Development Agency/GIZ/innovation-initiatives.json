@@ -1,0 +1,212 @@
+[
+  {
+    "initiativeId": "778c462c-b6e0-3703-bbaa-1f44c2f4c570",
+    "initiativeName": "Zambia Technical Assistance Innovation Lab",
+    "institutionName": "GIZ",
+    "countryCode": "ZM",
+    "countryName": "Zambia",
+    "initiativeType": "AcceleratorLab",
+    "thematicFocus": "Technical Assistance",
+    "budgetAmount": 825000,
+    "currency": "EUR",
+    "experimentsOrPilots": 4,
+    "solutionsIdentified": 8,
+    "solutionsScaled": 1,
+    "ecosystemPartners": [
+      "Local universities",
+      "Startup hub",
+      "Government innovation unit",
+      "Private sector association"
+    ],
+    "learningOutputs": [
+      "Pilot report",
+      "Open data dashboard",
+      "Scale-up concept note"
+    ],
+    "isLinkedToInvestmentPipeline": false,
+    "investmentPipelineGenerated": 3000000,
+    "status": "Active",
+    "establishedDate": "2025-02-03T22:00:00Z",
+    "createdAt": "2024-12-31T22:00:00Z"
+  },
+  {
+    "initiativeId": "34fbe849-1af7-0ba0-6e03-210cd43f2ff6",
+    "initiativeName": "Ghana Public Finance Innovation Lab",
+    "institutionName": "GIZ",
+    "countryCode": "GH",
+    "countryName": "Ghana",
+    "initiativeType": "InnovationChallenge",
+    "thematicFocus": "Public Finance",
+    "budgetAmount": 1000000,
+    "currency": "EUR",
+    "experimentsOrPilots": 5,
+    "solutionsIdentified": 10,
+    "solutionsScaled": 2,
+    "ecosystemPartners": [
+      "Local universities",
+      "Startup hub",
+      "Government innovation unit",
+      "Private sector association"
+    ],
+    "learningOutputs": [
+      "Pilot report",
+      "Open data dashboard",
+      "Scale-up concept note"
+    ],
+    "isLinkedToInvestmentPipeline": true,
+    "investmentPipelineGenerated": 4000000,
+    "status": "Scaling",
+    "establishedDate": "2025-03-03T22:00:00Z",
+    "createdAt": "2025-01-01T22:00:00Z"
+  },
+  {
+    "initiativeId": "ce73891d-229d-0457-b95e-82c1c47c175d",
+    "initiativeName": "Rwanda Skills Development Innovation Lab",
+    "institutionName": "GIZ",
+    "countryCode": "RW",
+    "countryName": "Rwanda",
+    "initiativeType": "MarketCreationPilot",
+    "thematicFocus": "Skills Development",
+    "budgetAmount": 1175000,
+    "currency": "EUR",
+    "experimentsOrPilots": 6,
+    "solutionsIdentified": 12,
+    "solutionsScaled": 3,
+    "ecosystemPartners": [
+      "Local universities",
+      "Startup hub",
+      "Government innovation unit",
+      "Private sector association"
+    ],
+    "learningOutputs": [
+      "Pilot report",
+      "Open data dashboard",
+      "Scale-up concept note"
+    ],
+    "isLinkedToInvestmentPipeline": false,
+    "investmentPipelineGenerated": 5000000,
+    "status": "Evaluation",
+    "establishedDate": "2025-04-03T22:00:00Z",
+    "createdAt": "2025-01-02T22:00:00Z"
+  },
+  {
+    "initiativeId": "572b836c-a818-0735-bb63-ce61f8e54164",
+    "initiativeName": "Kenya Renewable Energy Innovation Lab",
+    "institutionName": "GIZ",
+    "countryCode": "KE",
+    "countryName": "Kenya",
+    "initiativeType": "RegulatoryTestbed",
+    "thematicFocus": "Renewable Energy",
+    "budgetAmount": 1350000,
+    "currency": "EUR",
+    "experimentsOrPilots": 7,
+    "solutionsIdentified": 14,
+    "solutionsScaled": 0,
+    "ecosystemPartners": [
+      "Local universities",
+      "Startup hub",
+      "Government innovation unit",
+      "Private sector association"
+    ],
+    "learningOutputs": [
+      "Pilot report",
+      "Open data dashboard",
+      "Scale-up concept note"
+    ],
+    "isLinkedToInvestmentPipeline": true,
+    "investmentPipelineGenerated": 6000000,
+    "status": "Design",
+    "establishedDate": "2025-05-03T22:00:00Z",
+    "createdAt": "2025-01-03T22:00:00Z"
+  },
+  {
+    "initiativeId": "f7268914-5e9e-4104-4dd9-de1c65306811",
+    "initiativeName": "Namibia Agriculture Innovation Lab",
+    "institutionName": "GIZ",
+    "countryCode": "NA",
+    "countryName": "Namibia",
+    "initiativeType": "KnowledgeHub",
+    "thematicFocus": "Agriculture",
+    "budgetAmount": 1525000,
+    "currency": "EUR",
+    "experimentsOrPilots": 8,
+    "solutionsIdentified": 16,
+    "solutionsScaled": 1,
+    "ecosystemPartners": [
+      "Local universities",
+      "Startup hub",
+      "Government innovation unit",
+      "Private sector association"
+    ],
+    "learningOutputs": [
+      "Pilot report",
+      "Open data dashboard",
+      "Scale-up concept note"
+    ],
+    "isLinkedToInvestmentPipeline": false,
+    "investmentPipelineGenerated": 7000000,
+    "status": "Completed",
+    "establishedDate": "2025-06-03T22:00:00Z",
+    "createdAt": "2025-01-04T22:00:00Z"
+  },
+  {
+    "initiativeId": "9bf300e1-6681-9711-3661-78ea1cf9ca3b",
+    "initiativeName": "Malawi Governance Innovation Lab",
+    "institutionName": "GIZ",
+    "countryCode": "MW",
+    "countryName": "Malawi",
+    "initiativeType": "EcosystemBuilder",
+    "thematicFocus": "Governance",
+    "budgetAmount": 1700000,
+    "currency": "EUR",
+    "experimentsOrPilots": 9,
+    "solutionsIdentified": 18,
+    "solutionsScaled": 2,
+    "ecosystemPartners": [
+      "Local universities",
+      "Startup hub",
+      "Government innovation unit",
+      "Private sector association"
+    ],
+    "learningOutputs": [
+      "Pilot report",
+      "Open data dashboard",
+      "Scale-up concept note"
+    ],
+    "isLinkedToInvestmentPipeline": true,
+    "investmentPipelineGenerated": 8000000,
+    "status": "Active",
+    "establishedDate": "2025-07-03T22:00:00Z",
+    "createdAt": "2025-01-05T22:00:00Z"
+  },
+  {
+    "initiativeId": "665f2a9a-26a3-2d61-3a71-96bc1f45cc67",
+    "initiativeName": "Tanzania Private Sector Development Innovation Lab",
+    "institutionName": "GIZ",
+    "countryCode": "TZ",
+    "countryName": "Tanzania",
+    "initiativeType": "ImpactLab",
+    "thematicFocus": "Private Sector Development",
+    "budgetAmount": 1875000,
+    "currency": "EUR",
+    "experimentsOrPilots": 10,
+    "solutionsIdentified": 20,
+    "solutionsScaled": 3,
+    "ecosystemPartners": [
+      "Local universities",
+      "Startup hub",
+      "Government innovation unit",
+      "Private sector association"
+    ],
+    "learningOutputs": [
+      "Pilot report",
+      "Open data dashboard",
+      "Scale-up concept note"
+    ],
+    "isLinkedToInvestmentPipeline": false,
+    "investmentPipelineGenerated": 9000000,
+    "status": "Scaling",
+    "establishedDate": "2025-08-03T22:00:00Z",
+    "createdAt": "2025-01-06T22:00:00Z"
+  }
+]

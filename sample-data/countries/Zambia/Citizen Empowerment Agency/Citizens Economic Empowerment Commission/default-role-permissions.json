@@ -1,0 +1,95 @@
+﻿{
+    "institutionType":  "Government Institution",
+    "country":  "Zambia",
+    "description":  "Default role-to-permission mapping for Government Institution tenants in Zambia. Matches the role structure used by the Citizens Economic Empowerment Commission institution sample data.",
+    "version":  "1.0.0",
+    "roles":  [
+                  {
+                      "roleName":  "FinanceClerk",
+                      "displayName":  "F in an ce Cl er k",
+                      "description":  "FinanceClerk role for Citizens Economic Empowerment Commission sample data",
+                      "isSystemRole":  true,
+                      "permissions":  [
+                                          "Banking.Government.PFM.View",
+                                          "Banking.Analytics.View"
+                                      ]
+                  },
+                  {
+                      "roleName":  "GovernmentAdmin",
+                      "displayName":  "G ov er nm en tA dm in",
+                      "description":  "GovernmentAdmin role for Citizens Economic Empowerment Commission sample data",
+                      "isSystemRole":  true,
+                      "permissions":  [
+                                          "Banking.Government.View",
+                                          "Banking.Government.Dashboard",
+                                          "Banking.Government.Budgets.View",
+                                          "Banking.Government.Budgets.Manage",
+                                          "Banking.Government.SovereignLending.View",
+                                          "Banking.Government.SovereignLending.Manage",
+                                          "Banking.Government.Grants.View",
+                                          "Banking.Government.Grants.Manage",
+                                          "Banking.Government.CommunityDevelopment.View",
+                                          "Banking.Government.SocialProtection.View",
+                                          "Banking.Government.PFM.View",
+                                          "Banking.Government.Procurement.View",
+                                          "Banking.Government.ME.View"
+                                      ]
+                  },
+                  {
+                      "roleName":  "LoansClerk",
+                      "displayName":  "L oa ns Cl er k",
+                      "description":  "LoansClerk role for Citizens Economic Empowerment Commission sample data",
+                      "isSystemRole":  true,
+                      "permissions":  [
+                                          "Banking.Government.SovereignLending.View",
+                                          "Banking.Loans.View",
+                                          "Banking.Loans.Approve"
+                                      ]
+                  },
+                  {
+                      "roleName":  "M\u0026EOfficer",
+                      "displayName":  "M\u0026E Of fi ce r",
+                      "description":  "M\u0026EOfficer role for Citizens Economic Empowerment Commission sample data",
+                      "isSystemRole":  true,
+                      "permissions":  [
+                                          "Banking.Government.ME.View",
+                                          "Banking.Government.ME.Manage",
+                                          "Banking.Analytics.View"
+                                      ]
+                  },
+                  {
+                      "roleName":  "ProcurementOfficer",
+                      "displayName":  "P ro cu re me nt Of fi ce r",
+                      "description":  "ProcurementOfficer role for Citizens Economic Empowerment Commission sample data",
+                      "isSystemRole":  true,
+                      "permissions":  [
+                                          "Banking.Government.Procurement.View",
+                                          "Banking.Government.Procurement.Manage",
+                                          "Banking.Government.Procurement.AwardContract"
+                                      ]
+                  },
+                  {
+                      "roleName":  "ProjectFinanceManager",
+                      "displayName":  "P ro je ct Fi na nc eM an ag er",
+                      "description":  "ProjectFinanceManager role for Citizens Economic Empowerment Commission sample data",
+                      "isSystemRole":  true,
+                      "permissions":  [
+                                          "Banking.Government.Budgets.View",
+                                          "Banking.Government.SovereignLending.View",
+                                          "Banking.Government.SovereignLending.Manage",
+                                          "Banking.Loans.View"
+                                      ]
+                  },
+                  {
+                      "roleName":  "SocialProtectionOfficer",
+                      "displayName":  "S oc ia lP ro te ct io nO ff ic er",
+                      "description":  "SocialProtectionOfficer role for Citizens Economic Empowerment Commission sample data",
+                      "isSystemRole":  true,
+                      "permissions":  [
+                                          "Banking.Government.SocialProtection.View",
+                                          "Banking.Government.SocialProtection.Manage",
+                                          "Banking.Government.CommunityDevelopment.View"
+                                      ]
+                  }
+              ]
+}

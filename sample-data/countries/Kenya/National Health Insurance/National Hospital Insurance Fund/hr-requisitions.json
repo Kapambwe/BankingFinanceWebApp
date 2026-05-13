@@ -1,0 +1,50 @@
+[
+  {
+    "requisitionId": "rq500000-0001-0000-0000-0000000005001",
+    "requisitionNumber": "REQ-5-2025-001",
+    "positionTitle": "Claims Officer",
+    "department": "Claims Administration",
+    "employmentType": "Permanent",
+    "salaryMin": 130400,
+    "salaryMax": 173100,
+    "currency": "KES",
+    "vacancies": 2,
+    "status": "Open",
+    "openedDate": "2025-10-01",
+    "closingDate": "2025-11-15",
+    "hiringManager": "Kamau Ndegwa",
+    "createdAt": "2025-10-01T00:00:00Z"
+  },
+  {
+    "requisitionId": "rq500000-0002-0000-0000-0000000005002",
+    "requisitionNumber": "REQ-5-2025-002",
+    "positionTitle": "Data Analyst",
+    "department": "Information Technology",
+    "employmentType": "Permanent",
+    "salaryMin": 130400,
+    "salaryMax": 173100,
+    "currency": "KES",
+    "vacancies": 1,
+    "status": "Open",
+    "openedDate": "2025-10-02",
+    "closingDate": "2025-11-16",
+    "hiringManager": "Otieno Wanjiku",
+    "createdAt": "2025-10-02T00:00:00Z"
+  },
+  {
+    "requisitionId": "rq500000-0003-0000-0000-0000000005003",
+    "requisitionNumber": "REQ-5-2025-003",
+    "positionTitle": "Medical Review Officer",
+    "department": "Medical Affairs",
+    "employmentType": "Contract",
+    "salaryMin": 130400,
+    "salaryMax": 173100,
+    "currency": "KES",
+    "vacancies": 1,
+    "status": "Open",
+    "openedDate": "2025-10-03",
+    "closingDate": "2025-11-17",
+    "hiringManager": "Achieng Kipchoge",
+    "createdAt": "2025-10-03T00:00:00Z"
+  }
+]

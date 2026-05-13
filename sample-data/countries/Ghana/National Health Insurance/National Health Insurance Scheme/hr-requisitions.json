@@ -1,0 +1,50 @@
+[
+  {
+    "requisitionId": "rq200000-0001-0000-0000-0000000002001",
+    "requisitionNumber": "REQ-2-2025-001",
+    "positionTitle": "Claims Officer",
+    "department": "Claims Administration",
+    "employmentType": "Permanent",
+    "salaryMin": 7560,
+    "salaryMax": 9590,
+    "currency": "GHS",
+    "vacancies": 2,
+    "status": "Open",
+    "openedDate": "2025-10-01",
+    "closingDate": "2025-11-15",
+    "hiringManager": "Abena Owusu",
+    "createdAt": "2025-10-01T00:00:00Z"
+  },
+  {
+    "requisitionId": "rq200000-0002-0000-0000-0000000002002",
+    "requisitionNumber": "REQ-2-2025-002",
+    "positionTitle": "Data Analyst",
+    "department": "Information Technology",
+    "employmentType": "Permanent",
+    "salaryMin": 7560,
+    "salaryMax": 9590,
+    "currency": "GHS",
+    "vacancies": 1,
+    "status": "Open",
+    "openedDate": "2025-10-02",
+    "closingDate": "2025-11-16",
+    "hiringManager": "Kofi Asamoah",
+    "createdAt": "2025-10-02T00:00:00Z"
+  },
+  {
+    "requisitionId": "rq200000-0003-0000-0000-0000000002003",
+    "requisitionNumber": "REQ-2-2025-003",
+    "positionTitle": "Medical Review Officer",
+    "department": "Medical Affairs",
+    "employmentType": "Contract",
+    "salaryMin": 7560,
+    "salaryMax": 9590,
+    "currency": "GHS",
+    "vacancies": 1,
+    "status": "Open",
+    "openedDate": "2025-10-03",
+    "closingDate": "2025-11-17",
+    "hiringManager": "Ama Appiah",
+    "createdAt": "2025-10-03T00:00:00Z"
+  }
+]

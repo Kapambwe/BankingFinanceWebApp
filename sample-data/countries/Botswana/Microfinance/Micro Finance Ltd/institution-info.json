@@ -1,0 +1,17 @@
+{
+  "registrationNumber": "REG-89459",
+  "contactEmail": "fincaBotswana@example.zm",
+  "createdAt": "2023-08-03T00:00:00Z",
+  "branches": 8,
+  "institutionType": "Microfinance",
+  "institutionName": "FINCA Botswana",
+  "country": "Botswana",
+  "established": 1980,
+  "employees": 4170,
+  "contactPhone": "+260-953-808905",
+  "headquarters": "Francistown",
+  "institutionId": "4ffe374f-f49d-4a0a-9c26-9bf64d47d25f",
+  "currency": "BWP",
+  "status": "Active",
+  "website": "https://www.fincaBotswana.co.zm"
+}

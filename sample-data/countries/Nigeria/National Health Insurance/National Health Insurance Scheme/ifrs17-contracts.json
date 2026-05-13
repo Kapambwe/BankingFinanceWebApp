@@ -1,0 +1,50 @@
+[
+  {
+    "contractGroupId": "ig400000-0001",
+    "groupName": "NHIS-NG Contract Group 1",
+    "measurementModel": "GMM",
+    "portfolioName": "NHIS-NG Main Portfolio",
+    "groupType": "Onerous",
+    "inceptionDate": "2025-01-01",
+    "reportingDate": "2025-12-31",
+    "grossInsuranceLiability": 472.0,
+    "reinsuranceHeld": 157.0,
+    "netLiability": 314.0,
+    "csm": 0.0,
+    "currency": "NGN",
+    "status": "Active",
+    "createdAt": "2025-01-01T00:00:00Z"
+  },
+  {
+    "contractGroupId": "ig400000-0002",
+    "groupName": "NHIS-NG Contract Group 2",
+    "measurementModel": "GMM",
+    "portfolioName": "NHIS-NG Main Portfolio",
+    "groupType": "Non-Onerous Profitable",
+    "inceptionDate": "2025-01-01",
+    "reportingDate": "2025-12-31",
+    "grossInsuranceLiability": 839.0,
+    "reinsuranceHeld": 262.0,
+    "netLiability": 577.0,
+    "csm": 126.0,
+    "currency": "NGN",
+    "status": "Active",
+    "createdAt": "2025-01-01T00:00:00Z"
+  },
+  {
+    "contractGroupId": "ig400000-0003",
+    "groupName": "NHIS-NG Contract Group 3",
+    "measurementModel": "GMM",
+    "portfolioName": "NHIS-NG Main Portfolio",
+    "groupType": "Non-Onerous Remaining Margin",
+    "inceptionDate": "2025-01-01",
+    "reportingDate": "2025-12-31",
+    "grossInsuranceLiability": 262.0,
+    "reinsuranceHeld": 84.0,
+    "netLiability": 178.0,
+    "csm": 52.0,
+    "currency": "NGN",
+    "status": "Active",
+    "createdAt": "2025-01-01T00:00:00Z"
+  }
+]

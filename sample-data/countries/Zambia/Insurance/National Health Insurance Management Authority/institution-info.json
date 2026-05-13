@@ -1,0 +1,17 @@
+{
+  "registrationNumber": "REG-92939",
+  "contactEmail": "nationalhealthinsurancemanagementauthority@example.zm",
+  "createdAt": "2025-12-26T00:00:00Z",
+  "branches": 34,
+  "institutionType": "Insurance",
+  "institutionName": "National Health Insurance Management Authority",
+  "country": "Zambia",
+  "established": 1971,
+  "employees": 1466,
+  "contactPhone": "+260-226-531989",
+  "headquarters": "Kitwe",
+  "institutionId": "15352621-9879-4eab-b95c-1aaa7b3d4063",
+  "currency": "ZMW",
+  "status": "Active",
+  "website": "https://www.nationalhealthinsurancemanagementauthority.co.zm"
+}

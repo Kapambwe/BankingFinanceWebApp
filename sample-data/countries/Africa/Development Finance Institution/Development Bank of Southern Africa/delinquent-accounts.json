@@ -1,0 +1,3 @@
+[
+  {"accountId":"db01-a005-4579-a281-6d898272fbc9","customerId":"dbsa-c005-5678-9012-efab-345678901234","customerName":"Eskom Holdings SOC Limited","amountOverdue":1200000000.00,"currency":"ZAR","daysPastDue":45,"lastPaymentDate":"2025-10-31T00:00:00Z","status":"Restructured","accountType":"State Enterprise Loan"}
+]

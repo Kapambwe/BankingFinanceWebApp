@@ -1,0 +1,41 @@
+[
+  {
+    "probationReviewId": "pb100000-0001-0000-0000-0000000001001",
+    "employeeId": "e1000000-0008-0000-0000-0000000001008",
+    "employeeName": "Tembo Mwamba",
+    "reviewStage": "3-Month",
+    "reviewDate": "2025-10-15",
+    "reviewerName": "Mwansa Musonda",
+    "performanceRating": "Satisfactory",
+    "outcome": "Confirmed",
+    "comments": "Probation review for Tembo Mwamba - 3-Month review.",
+    "confirmationDate": "2025-11-01",
+    "createdAt": "2025-10-15T00:00:00Z"
+  },
+  {
+    "probationReviewId": "pb100000-0002-0000-0000-0000000001002",
+    "employeeId": "e1000000-0009-0000-0000-0000000001009",
+    "employeeName": "Chanda Mutale",
+    "reviewStage": "6-Month",
+    "reviewDate": "2025-11-15",
+    "reviewerName": "Chileshe Nkosi",
+    "performanceRating": "Exceeds Expectations",
+    "outcome": "Confirmed",
+    "comments": "Probation review for Chanda Mutale - 6-Month review.",
+    "confirmationDate": "2025-12-01",
+    "createdAt": "2025-11-15T00:00:00Z"
+  },
+  {
+    "probationReviewId": "pb100000-0003-0000-0000-0000000001003",
+    "employeeId": "e1000000-0010-0000-0000-0000000001010",
+    "employeeName": "Mutale Mwansa",
+    "reviewStage": "3-Month",
+    "reviewDate": "2025-12-15",
+    "reviewerName": "Lubinda Phiri",
+    "performanceRating": "Needs Improvement",
+    "outcome": "Pending",
+    "comments": "Probation review for Mutale Mwansa - 3-Month review.",
+    "confirmationDate": null,
+    "createdAt": "2025-12-15T00:00:00Z"
+  }
+]

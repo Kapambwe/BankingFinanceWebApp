@@ -1,0 +1,2000 @@
+[
+  {
+    "claimId": "i0000000-0000-0000-0000-000000000001",
+    "claimNumber": "CLM-2024-00001",
+    "claimType": "Motor Accident",
+    "claimAmount": 234936.81,
+    "currency": "ZMW",
+    "currentStep": "Assessment",
+    "totalSteps": 7,
+    "completedSteps": 3,
+    "status": "Approved",
+    "submittedDate": "2024-02-28T00:00:00",
+    "expectedCompletionDate": "2024-04-16T00:00:00",
+    "timeline": [
+      {
+        "eventName": "Claim Submitted",
+        "description": "Claim Submitted - Processing as per standard timeline",
+        "eventDate": "2024-02-28T00:00:00",
+        "isCompleted": true
+      },
+      {
+        "eventName": "Documents Received",
+        "description": "Documents Received - Processing as per standard timeline",
+        "eventDate": "2024-03-07T00:00:00",
+        "isCompleted": true
+      },
+      {
+        "eventName": "Initial Assessment",
+        "description": "Initial Assessment - Processing as per standard timeline",
+        "eventDate": "2024-03-11T00:00:00",
+        "isCompleted": true
+      },
+      {
+        "eventName": "Investigation Started",
+        "description": "Investigation Started - Processing as per standard timeline",
+        "eventDate": "2024-03-17T00:00:00",
+        "isCompleted": false
+      }
+    ]
+  },
+  {
+    "claimId": "i0000000-0000-0000-0000-000000000002",
+    "claimNumber": "CLM-2024-00002",
+    "claimType": "Medical Claim",
+    "claimAmount": 439797.79,
+    "currency": "ZMW",
+    "currentStep": "Payment Processing",
+    "totalSteps": 7,
+    "completedSteps": 5,
+    "status": "Settled",
+    "submittedDate": "2024-03-27T00:00:00",
+    "expectedCompletionDate": "2024-05-22T00:00:00",
+    "timeline": [
+      {
+        "eventName": "Claim Submitted",
+        "description": "Claim Submitted - Processing as per standard timeline",
+        "eventDate": "2024-03-27T00:00:00",
+        "isCompleted": true
+      },
+      {
+        "eventName": "Documents Received",
+        "description": "Documents Received - Processing as per standard timeline",
+        "eventDate": "2024-04-02T00:00:00",
+        "isCompleted": true
+      },
+      {
+        "eventName": "Initial Assessment",
+        "description": "Initial Assessment - Processing as per standard timeline",
+        "eventDate": "2024-04-12T00:00:00",
+        "isCompleted": true
+      },
+      {
+        "eventName": "Investigation Started",
+        "description": "Investigation Started - Processing as per standard timeline",
+        "eventDate": "2024-04-23T00:00:00",
+        "isCompleted": true
+      },
+      {
+        "eventName": "Assessment Completed",
+        "description": "Assessment Completed - Processing as per standard timeline",
+        "eventDate": "2024-04-28T00:00:00",
+        "isCompleted": true
+      },
+      {
+        "eventName": "Approval Review",
+        "description": "Approval Review - Processing as per standard timeline",
+        "eventDate": "2024-05-06T00:00:00",
+        "isCompleted": false
+      }
+    ]
+  },
+  {
+    "claimId": "i0000000-0000-0000-0000-000000000003",
+    "claimNumber": "CLM-2024-00003",
+    "claimType": "Property Damage",
+    "claimAmount": 396543.24,
+    "currency": "ZMW",
+    "currentStep": "Initial Review",
+    "totalSteps": 7,
+    "completedSteps": 1,
+    "status": "Under Review",
+    "submittedDate": "2024-04-16T00:00:00",
+    "expectedCompletionDate": "2024-06-09T00:00:00",
+    "timeline": [
+      {
+        "eventName": "Claim Submitted",
+        "description": "Claim Submitted - Processing as per standard timeline",
+        "eventDate": "2024-04-16T00:00:00",
+        "isCompleted": true
+      },
+      {
+        "eventName": "Documents Received",
+        "description": "Documents Received - Processing as per standard timeline",
+        "eventDate": "2024-04-22T00:00:00",
+        "isCompleted": false
+      }
+    ]
+  },
+  {
+    "claimId": "i0000000-0000-0000-0000-000000000004",
+    "claimNumber": "CLM-2024-00004",
+    "claimType": "Travel Emergency",
+    "claimAmount": 270234.76,
+    "currency": "ZMW",
+    "currentStep": "Final Settlement",
+    "totalSteps": 7,
+    "completedSteps": 6,
+    "status": "In Investigation",
+    "submittedDate": "2024-05-28T00:00:00",
+    "expectedCompletionDate": null,
+    "timeline": [
+      {
+        "eventName": "Claim Submitted",
+        "description": "Claim Submitted - Processing as per standard timeline",
+        "eventDate": "2024-05-28T00:00:00",
+        "isCompleted": true
+      },
+      {
+        "eventName": "Documents Received",
+        "description": "Documents Received - Processing as per standard timeline",
+        "eventDate": "2024-06-06T00:00:00",
+        "isCompleted": true
+      },
+      {
+        "eventName": "Initial Assessment",
+        "description": "Initial Assessment - Processing as per standard timeline",
+        "eventDate": "2024-06-13T00:00:00",
+        "isCompleted": true
+      },
+      {
+        "eventName": "Investigation Started",
+        "description": "Investigation Started - Processing as per standard timeline",
+        "eventDate": "2024-06-18T00:00:00",
+        "isCompleted": true
+      },
+      {
+        "eventName": "Assessment Completed",
+        "description": "Assessment Completed - Processing as per standard timeline",
+        "eventDate": "2024-06-17T00:00:00",
+        "isCompleted": true
+      },
+      {
+        "eventName": "Approval Review",
+        "description": "Approval Review - Processing as per standard timeline",
+        "eventDate": "2024-06-27T00:00:00",
+        "isCompleted": true
+      },
+      {
+        "eventName": "Payment Processed",
+        "description": "Payment Processed - Processing as per standard timeline",
+        "eventDate": "2024-06-27T00:00:00",
+        "isCompleted": false
+      }
+    ]
+  },
+  {
+    "claimId": "i0000000-0000-0000-0000-000000000005",
+    "claimNumber": "CLM-2024-00005",
+    "claimType": "Credit Default",
+    "claimAmount": 19108.67,
+    "currency": "ZMW",
+    "currentStep": "Payment Processing",
+    "totalSteps": 7,
+    "completedSteps": 5,
+    "status": "Settled",
+    "submittedDate": "2024-06-13T00:00:00",
+    "expectedCompletionDate": "2024-07-28T00:00:00",
+    "timeline": [
+      {
+        "eventName": "Claim Submitted",
+        "description": "Claim Submitted - Processing as per standard timeline",
+        "eventDate": "2024-06-13T00:00:00",
+        "isCompleted": true
+      },
+      {
+        "eventName": "Documents Received",
+        "description": "Documents Received - Processing as per standard timeline",
+        "eventDate": "2024-06-22T00:00:00",
+        "isCompleted": true
+      },
+      {
+        "eventName": "Initial Assessment",
+        "description": "Initial Assessment - Processing as per standard timeline",
+        "eventDate": "2024-06-25T00:00:00",
+        "isCompleted": true
+      },
+      {
+        "eventName": "Investigation Started",
+        "description": "Investigation Started - Processing as per standard timeline",
+        "eventDate": "2024-06-22T00:00:00",
+        "isCompleted": true
+      },
+      {
+        "eventName": "Assessment Completed",
+        "description": "Assessment Completed - Processing as per standard timeline",
+        "eventDate": "2024-06-29T00:00:00",
+        "isCompleted": true
+      },
+      {
+        "eventName": "Approval Review",
+        "description": "Approval Review - Processing as per standard timeline",
+        "eventDate": "2024-07-13T00:00:00",
+        "isCompleted": false
+      }
+    ]
+  },
+  {
+    "claimId": "i0000000-0000-0000-0000-000000000006",
+    "claimNumber": "CLM-2024-00006",
+    "claimType": "Funeral Claim",
+    "claimAmount": 401565.32,
+    "currency": "ZMW",
+    "currentStep": "Investigation",
+    "totalSteps": 7,
+    "completedSteps": 2,
+    "status": "Documents Requested",
+    "submittedDate": "2024-07-27T00:00:00",
+    "expectedCompletionDate": "2024-08-25T00:00:00",
+    "timeline": [
+      {
+        "eventName": "Claim Submitted",
+        "description": "Claim Submitted - Processing as per standard timeline",
+        "eventDate": "2024-07-27T00:00:00",
+        "isCompleted": true
+      },
+      {
+        "eventName": "Documents Received",
+        "description": "Documents Received - Processing as per standard timeline",
+        "eventDate": "2024-08-01T00:00:00",
+        "isCompleted": true
+      },
+      {
+        "eventName": "Initial Assessment",
+        "description": "Initial Assessment - Processing as per standard timeline",
+        "eventDate": "2024-08-08T00:00:00",
+        "isCompleted": false
+      }
+    ]
+  },
+  {
+    "claimId": "i0000000-0000-0000-0000-000000000007",
+    "claimNumber": "CLM-2024-00007",
+    "claimType": "Disability Claim",
+    "claimAmount": 28439.62,
+    "currency": "ZMW",
+    "currentStep": "Final Settlement",
+    "totalSteps": 7,
+    "completedSteps": 6,
+    "status": "In Investigation",
+    "submittedDate": "2024-08-22T00:00:00",
+    "expectedCompletionDate": null,
+    "timeline": [
+      {
+        "eventName": "Claim Submitted",
+        "description": "Claim Submitted - Processing as per standard timeline",
+        "eventDate": "2024-08-22T00:00:00",
+        "isCompleted": true
+      },
+      {
+        "eventName": "Documents Received",
+        "description": "Documents Received - Processing as per standard timeline",
+        "eventDate": "2024-09-01T00:00:00",
+        "isCompleted": true
+      },
+      {
+        "eventName": "Initial Assessment",
+        "description": "Initial Assessment - Processing as per standard timeline",
+        "eventDate": "2024-08-28T00:00:00",
+        "isCompleted": true
+      },
+      {
+        "eventName": "Investigation Started",
+        "description": "Investigation Started - Processing as per standard timeline",
+        "eventDate": "2024-09-18T00:00:00",
+        "isCompleted": true
+      },
+      {
+        "eventName": "Assessment Completed",
+        "description": "Assessment Completed - Processing as per standard timeline",
+        "eventDate": "2024-09-11T00:00:00",
+        "isCompleted": true
+      },
+      {
+        "eventName": "Approval Review",
+        "description": "Approval Review - Processing as per standard timeline",
+        "eventDate": "2024-09-16T00:00:00",
+        "isCompleted": true
+      },
+      {
+        "eventName": "Payment Processed",
+        "description": "Payment Processed - Processing as per standard timeline",
+        "eventDate": "2024-09-27T00:00:00",
+        "isCompleted": false
+      }
+    ]
+  },
+  {
+    "claimId": "i0000000-0000-0000-0000-000000000008",
+    "claimNumber": "CLM-2024-00008",
+    "claimType": "Death Claim",
+    "claimAmount": 437603.55,
+    "currency": "ZMW",
+    "currentStep": "Assessment",
+    "totalSteps": 7,
+    "completedSteps": 3,
+    "status": "Approved",
+    "submittedDate": "2024-09-24T00:00:00",
+    "expectedCompletionDate": "2024-10-14T00:00:00",
+    "timeline": [
+      {
+        "eventName": "Claim Submitted",
+        "description": "Claim Submitted - Processing as per standard timeline",
+        "eventDate": "2024-09-24T00:00:00",
+        "isCompleted": true
+      },
+      {
+        "eventName": "Documents Received",
+        "description": "Documents Received - Processing as per standard timeline",
+        "eventDate": "2024-09-30T00:00:00",
+        "isCompleted": true
+      },
+      {
+        "eventName": "Initial Assessment",
+        "description": "Initial Assessment - Processing as per standard timeline",
+        "eventDate": "2024-10-14T00:00:00",
+        "isCompleted": true
+      },
+      {
+        "eventName": "Investigation Started",
+        "description": "Investigation Started - Processing as per standard timeline",
+        "eventDate": "2024-10-03T00:00:00",
+        "isCompleted": false
+      }
+    ]
+  },
+  {
+    "claimId": "i0000000-0000-0000-0000-000000000009",
+    "claimNumber": "CLM-2024-00009",
+    "claimType": "Motor Accident",
+    "claimAmount": 286406.82,
+    "currency": "ZMW",
+    "currentStep": "Initial Review",
+    "totalSteps": 7,
+    "completedSteps": 1,
+    "status": "Under Review",
+    "submittedDate": "2024-10-23T00:00:00",
+    "expectedCompletionDate": "2024-11-13T00:00:00",
+    "timeline": [
+      {
+        "eventName": "Claim Submitted",
+        "description": "Claim Submitted - Processing as per standard timeline",
+        "eventDate": "2024-10-23T00:00:00",
+        "isCompleted": true
+      },
+      {
+        "eventName": "Documents Received",
+        "description": "Documents Received - Processing as per standard timeline",
+        "eventDate": "2024-10-27T00:00:00",
+        "isCompleted": false
+      }
+    ]
+  },
+  {
+    "claimId": "i0000000-0000-0000-0000-000000000010",
+    "claimNumber": "CLM-2024-00010",
+    "claimType": "Medical Claim",
+    "claimAmount": 49443.02,
+    "currency": "ZMW",
+    "currentStep": "Initial Review",
+    "totalSteps": 7,
+    "completedSteps": 1,
+    "status": "Under Review",
+    "submittedDate": "2024-11-02T00:00:00",
+    "expectedCompletionDate": "2024-12-28T00:00:00",
+    "timeline": [
+      {
+        "eventName": "Claim Submitted",
+        "description": "Claim Submitted - Processing as per standard timeline",
+        "eventDate": "2024-11-02T00:00:00",
+        "isCompleted": true
+      },
+      {
+        "eventName": "Documents Received",
+        "description": "Documents Received - Processing as per standard timeline",
+        "eventDate": "2024-11-07T00:00:00",
+        "isCompleted": false
+      }
+    ]
+  },
+  {
+    "claimId": "i0000000-0000-0000-0000-000000000011",
+    "claimNumber": "CLM-2024-00011",
+    "claimType": "Property Damage",
+    "claimAmount": 404639.74,
+    "currency": "ZMW",
+    "currentStep": "Investigation",
+    "totalSteps": 7,
+    "completedSteps": 2,
+    "status": "Documents Requested",
+    "submittedDate": "2024-12-01T00:00:00",
+    "expectedCompletionDate": "2024-12-22T00:00:00",
+    "timeline": [
+      {
+        "eventName": "Claim Submitted",
+        "description": "Claim Submitted - Processing as per standard timeline",
+        "eventDate": "2024-12-01T00:00:00",
+        "isCompleted": true
+      },
+      {
+        "eventName": "Documents Received",
+        "description": "Documents Received - Processing as per standard timeline",
+        "eventDate": "2024-12-11T00:00:00",
+        "isCompleted": true
+      },
+      {
+        "eventName": "Initial Assessment",
+        "description": "Initial Assessment - Processing as per standard timeline",
+        "eventDate": "2024-12-17T00:00:00",
+        "isCompleted": false
+      }
+    ]
+  },
+  {
+    "claimId": "i0000000-0000-0000-0000-000000000012",
+    "claimNumber": "CLM-2024-00012",
+    "claimType": "Travel Emergency",
+    "claimAmount": 238778.73,
+    "currency": "ZMW",
+    "currentStep": "Final Settlement",
+    "totalSteps": 7,
+    "completedSteps": 6,
+    "status": "In Investigation",
+    "submittedDate": "2024-01-18T00:00:00",
+    "expectedCompletionDate": null,
+    "timeline": [
+      {
+        "eventName": "Claim Submitted",
+        "description": "Claim Submitted - Processing as per standard timeline",
+        "eventDate": "2024-01-18T00:00:00",
+        "isCompleted": true
+      },
+      {
+        "eventName": "Documents Received",
+        "description": "Documents Received - Processing as per standard timeline",
+        "eventDate": "2024-01-25T00:00:00",
+        "isCompleted": true
+      },
+      {
+        "eventName": "Initial Assessment",
+        "description": "Initial Assessment - Processing as per standard timeline",
+        "eventDate": "2024-01-28T00:00:00",
+        "isCompleted": true
+      },
+      {
+        "eventName": "Investigation Started",
+        "description": "Investigation Started - Processing as per standard timeline",
+        "eventDate": "2024-02-11T00:00:00",
+        "isCompleted": true
+      },
+      {
+        "eventName": "Assessment Completed",
+        "description": "Assessment Completed - Processing as per standard timeline",
+        "eventDate": "2024-02-23T00:00:00",
+        "isCompleted": true
+      },
+      {
+        "eventName": "Approval Review",
+        "description": "Approval Review - Processing as per standard timeline",
+        "eventDate": "2024-02-17T00:00:00",
+        "isCompleted": true
+      },
+      {
+        "eventName": "Payment Processed",
+        "description": "Payment Processed - Processing as per standard timeline",
+        "eventDate": "2024-03-18T00:00:00",
+        "isCompleted": false
+      }
+    ]
+  },
+  {
+    "claimId": "i0000000-0000-0000-0000-000000000013",
+    "claimNumber": "CLM-2024-00013",
+    "claimType": "Credit Default",
+    "claimAmount": 51402.86,
+    "currency": "ZMW",
+    "currentStep": "Investigation",
+    "totalSteps": 7,
+    "completedSteps": 2,
+    "status": "Documents Requested",
+    "submittedDate": "2024-02-08T00:00:00",
+    "expectedCompletionDate": "2024-03-14T00:00:00",
+    "timeline": [
+      {
+        "eventName": "Claim Submitted",
+        "description": "Claim Submitted - Processing as per standard timeline",
+        "eventDate": "2024-02-08T00:00:00",
+        "isCompleted": true
+      },
+      {
+        "eventName": "Documents Received",
+        "description": "Documents Received - Processing as per standard timeline",
+        "eventDate": "2024-02-12T00:00:00",
+        "isCompleted": true
+      },
+      {
+        "eventName": "Initial Assessment",
+        "description": "Initial Assessment - Processing as per standard timeline",
+        "eventDate": "2024-02-14T00:00:00",
+        "isCompleted": false
+      }
+    ]
+  },
+  {
+    "claimId": "i0000000-0000-0000-0000-000000000014",
+    "claimNumber": "CLM-2024-00014",
+    "claimType": "Funeral Claim",
+    "claimAmount": 195936.14,
+    "currency": "ZMW",
+    "currentStep": "Approval",
+    "totalSteps": 7,
+    "completedSteps": 4,
+    "status": "Rejected",
+    "submittedDate": "2024-03-26T00:00:00",
+    "expectedCompletionDate": "2024-05-23T00:00:00",
+    "timeline": [
+      {
+        "eventName": "Claim Submitted",
+        "description": "Claim Submitted - Processing as per standard timeline",
+        "eventDate": "2024-03-26T00:00:00",
+        "isCompleted": true
+      },
+      {
+        "eventName": "Documents Received",
+        "description": "Documents Received - Processing as per standard timeline",
+        "eventDate": "2024-03-31T00:00:00",
+        "isCompleted": true
+      },
+      {
+        "eventName": "Initial Assessment",
+        "description": "Initial Assessment - Processing as per standard timeline",
+        "eventDate": "2024-04-07T00:00:00",
+        "isCompleted": true
+      },
+      {
+        "eventName": "Investigation Started",
+        "description": "Investigation Started - Processing as per standard timeline",
+        "eventDate": "2024-04-22T00:00:00",
+        "isCompleted": true
+      },
+      {
+        "eventName": "Assessment Completed",
+        "description": "Assessment Completed - Processing as per standard timeline",
+        "eventDate": "2024-04-11T00:00:00",
+        "isCompleted": false
+      }
+    ]
+  },
+  {
+    "claimId": "i0000000-0000-0000-0000-000000000015",
+    "claimNumber": "CLM-2024-00015",
+    "claimType": "Disability Claim",
+    "claimAmount": 144983.02,
+    "currency": "ZMW",
+    "currentStep": "Final Settlement",
+    "totalSteps": 7,
+    "completedSteps": 6,
+    "status": "In Investigation",
+    "submittedDate": "2024-04-07T00:00:00",
+    "expectedCompletionDate": null,
+    "timeline": [
+      {
+        "eventName": "Claim Submitted",
+        "description": "Claim Submitted - Processing as per standard timeline",
+        "eventDate": "2024-04-07T00:00:00",
+        "isCompleted": true
+      },
+      {
+        "eventName": "Documents Received",
+        "description": "Documents Received - Processing as per standard timeline",
+        "eventDate": "2024-04-10T00:00:00",
+        "isCompleted": true
+      },
+      {
+        "eventName": "Initial Assessment",
+        "description": "Initial Assessment - Processing as per standard timeline",
+        "eventDate": "2024-04-27T00:00:00",
+        "isCompleted": true
+      },
+      {
+        "eventName": "Investigation Started",
+        "description": "Investigation Started - Processing as per standard timeline",
+        "eventDate": "2024-04-25T00:00:00",
+        "isCompleted": true
+      },
+      {
+        "eventName": "Assessment Completed",
+        "description": "Assessment Completed - Processing as per standard timeline",
+        "eventDate": "2024-04-27T00:00:00",
+        "isCompleted": true
+      },
+      {
+        "eventName": "Approval Review",
+        "description": "Approval Review - Processing as per standard timeline",
+        "eventDate": "2024-05-27T00:00:00",
+        "isCompleted": true
+      },
+      {
+        "eventName": "Payment Processed",
+        "description": "Payment Processed - Processing as per standard timeline",
+        "eventDate": "2024-05-07T00:00:00",
+        "isCompleted": false
+      }
+    ]
+  },
+  {
+    "claimId": "i0000000-0000-0000-0000-000000000016",
+    "claimNumber": "CLM-2024-00016",
+    "claimType": "Death Claim",
+    "claimAmount": 473315.77,
+    "currency": "ZMW",
+    "currentStep": "Approval",
+    "totalSteps": 7,
+    "completedSteps": 4,
+    "status": "Rejected",
+    "submittedDate": "2024-05-25T00:00:00",
+    "expectedCompletionDate": "2024-06-21T00:00:00",
+    "timeline": [
+      {
+        "eventName": "Claim Submitted",
+        "description": "Claim Submitted - Processing as per standard timeline",
+        "eventDate": "2024-05-25T00:00:00",
+        "isCompleted": true
+      },
+      {
+        "eventName": "Documents Received",
+        "description": "Documents Received - Processing as per standard timeline",
+        "eventDate": "2024-05-31T00:00:00",
+        "isCompleted": true
+      },
+      {
+        "eventName": "Initial Assessment",
+        "description": "Initial Assessment - Processing as per standard timeline",
+        "eventDate": "2024-06-08T00:00:00",
+        "isCompleted": true
+      },
+      {
+        "eventName": "Investigation Started",
+        "description": "Investigation Started - Processing as per standard timeline",
+        "eventDate": "2024-06-03T00:00:00",
+        "isCompleted": true
+      },
+      {
+        "eventName": "Assessment Completed",
+        "description": "Assessment Completed - Processing as per standard timeline",
+        "eventDate": "2024-07-04T00:00:00",
+        "isCompleted": false
+      }
+    ]
+  },
+  {
+    "claimId": "i0000000-0000-0000-0000-000000000017",
+    "claimNumber": "CLM-2024-00017",
+    "claimType": "Motor Accident",
+    "claimAmount": 451135.39,
+    "currency": "ZMW",
+    "currentStep": "Investigation",
+    "totalSteps": 7,
+    "completedSteps": 2,
+    "status": "Documents Requested",
+    "submittedDate": "2024-06-02T00:00:00",
+    "expectedCompletionDate": "2024-07-09T00:00:00",
+    "timeline": [
+      {
+        "eventName": "Claim Submitted",
+        "description": "Claim Submitted - Processing as per standard timeline",
+        "eventDate": "2024-06-02T00:00:00",
+        "isCompleted": true
+      },
+      {
+        "eventName": "Documents Received",
+        "description": "Documents Received - Processing as per standard timeline",
+        "eventDate": "2024-06-10T00:00:00",
+        "isCompleted": true
+      },
+      {
+        "eventName": "Initial Assessment",
+        "description": "Initial Assessment - Processing as per standard timeline",
+        "eventDate": "2024-06-20T00:00:00",
+        "isCompleted": false
+      }
+    ]
+  },
+  {
+    "claimId": "i0000000-0000-0000-0000-000000000018",
+    "claimNumber": "CLM-2024-00018",
+    "claimType": "Medical Claim",
+    "claimAmount": 134935.65,
+    "currency": "ZMW",
+    "currentStep": "Payment Processing",
+    "totalSteps": 7,
+    "completedSteps": 5,
+    "status": "Settled",
+    "submittedDate": "2024-07-27T00:00:00",
+    "expectedCompletionDate": "2024-09-10T00:00:00",
+    "timeline": [
+      {
+        "eventName": "Claim Submitted",
+        "description": "Claim Submitted - Processing as per standard timeline",
+        "eventDate": "2024-07-27T00:00:00",
+        "isCompleted": true
+      },
+      {
+        "eventName": "Documents Received",
+        "description": "Documents Received - Processing as per standard timeline",
+        "eventDate": "2024-07-30T00:00:00",
+        "isCompleted": true
+      },
+      {
+        "eventName": "Initial Assessment",
+        "description": "Initial Assessment - Processing as per standard timeline",
+        "eventDate": "2024-08-12T00:00:00",
+        "isCompleted": true
+      },
+      {
+        "eventName": "Investigation Started",
+        "description": "Investigation Started - Processing as per standard timeline",
+        "eventDate": "2024-08-05T00:00:00",
+        "isCompleted": true
+      },
+      {
+        "eventName": "Assessment Completed",
+        "description": "Assessment Completed - Processing as per standard timeline",
+        "eventDate": "2024-09-05T00:00:00",
+        "isCompleted": true
+      },
+      {
+        "eventName": "Approval Review",
+        "description": "Approval Review - Processing as per standard timeline",
+        "eventDate": "2024-08-16T00:00:00",
+        "isCompleted": false
+      }
+    ]
+  },
+  {
+    "claimId": "i0000000-0000-0000-0000-000000000019",
+    "claimNumber": "CLM-2024-00019",
+    "claimType": "Property Damage",
+    "claimAmount": 46571.3,
+    "currency": "ZMW",
+    "currentStep": "Investigation",
+    "totalSteps": 7,
+    "completedSteps": 2,
+    "status": "Documents Requested",
+    "submittedDate": "2024-08-08T00:00:00",
+    "expectedCompletionDate": "2024-09-29T00:00:00",
+    "timeline": [
+      {
+        "eventName": "Claim Submitted",
+        "description": "Claim Submitted - Processing as per standard timeline",
+        "eventDate": "2024-08-08T00:00:00",
+        "isCompleted": true
+      },
+      {
+        "eventName": "Documents Received",
+        "description": "Documents Received - Processing as per standard timeline",
+        "eventDate": "2024-08-11T00:00:00",
+        "isCompleted": true
+      },
+      {
+        "eventName": "Initial Assessment",
+        "description": "Initial Assessment - Processing as per standard timeline",
+        "eventDate": "2024-08-24T00:00:00",
+        "isCompleted": false
+      }
+    ]
+  },
+  {
+    "claimId": "i0000000-0000-0000-0000-000000000020",
+    "claimNumber": "CLM-2024-00020",
+    "claimType": "Travel Emergency",
+    "claimAmount": 24421.51,
+    "currency": "ZMW",
+    "currentStep": "Approval",
+    "totalSteps": 7,
+    "completedSteps": 4,
+    "status": "Rejected",
+    "submittedDate": "2024-09-10T00:00:00",
+    "expectedCompletionDate": "2024-10-21T00:00:00",
+    "timeline": [
+      {
+        "eventName": "Claim Submitted",
+        "description": "Claim Submitted - Processing as per standard timeline",
+        "eventDate": "2024-09-10T00:00:00",
+        "isCompleted": true
+      },
+      {
+        "eventName": "Documents Received",
+        "description": "Documents Received - Processing as per standard timeline",
+        "eventDate": "2024-09-17T00:00:00",
+        "isCompleted": true
+      },
+      {
+        "eventName": "Initial Assessment",
+        "description": "Initial Assessment - Processing as per standard timeline",
+        "eventDate": "2024-09-16T00:00:00",
+        "isCompleted": true
+      },
+      {
+        "eventName": "Investigation Started",
+        "description": "Investigation Started - Processing as per standard timeline",
+        "eventDate": "2024-10-04T00:00:00",
+        "isCompleted": true
+      },
+      {
+        "eventName": "Assessment Completed",
+        "description": "Assessment Completed - Processing as per standard timeline",
+        "eventDate": "2024-10-20T00:00:00",
+        "isCompleted": false
+      }
+    ]
+  },
+  {
+    "claimId": "i0000000-0000-0000-0000-000000000021",
+    "claimNumber": "CLM-2024-00021",
+    "claimType": "Credit Default",
+    "claimAmount": 98950.08,
+    "currency": "ZMW",
+    "currentStep": "Approval",
+    "totalSteps": 7,
+    "completedSteps": 4,
+    "status": "Rejected",
+    "submittedDate": "2024-10-22T00:00:00",
+    "expectedCompletionDate": "2024-12-02T00:00:00",
+    "timeline": [
+      {
+        "eventName": "Claim Submitted",
+        "description": "Claim Submitted - Processing as per standard timeline",
+        "eventDate": "2024-10-22T00:00:00",
+        "isCompleted": true
+      },
+      {
+        "eventName": "Documents Received",
+        "description": "Documents Received - Processing as per standard timeline",
+        "eventDate": "2024-10-30T00:00:00",
+        "isCompleted": true
+      },
+      {
+        "eventName": "Initial Assessment",
+        "description": "Initial Assessment - Processing as per standard timeline",
+        "eventDate": "2024-11-09T00:00:00",
+        "isCompleted": true
+      },
+      {
+        "eventName": "Investigation Started",
+        "description": "Investigation Started - Processing as per standard timeline",
+        "eventDate": "2024-11-03T00:00:00",
+        "isCompleted": true
+      },
+      {
+        "eventName": "Assessment Completed",
+        "description": "Assessment Completed - Processing as per standard timeline",
+        "eventDate": "2024-11-15T00:00:00",
+        "isCompleted": false
+      }
+    ]
+  },
+  {
+    "claimId": "i0000000-0000-0000-0000-000000000022",
+    "claimNumber": "CLM-2024-00022",
+    "claimType": "Funeral Claim",
+    "claimAmount": 421379.01,
+    "currency": "ZMW",
+    "currentStep": "Final Settlement",
+    "totalSteps": 7,
+    "completedSteps": 6,
+    "status": "In Investigation",
+    "submittedDate": "2024-11-05T00:00:00",
+    "expectedCompletionDate": null,
+    "timeline": [
+      {
+        "eventName": "Claim Submitted",
+        "description": "Claim Submitted - Processing as per standard timeline",
+        "eventDate": "2024-11-05T00:00:00",
+        "isCompleted": true
+      },
+      {
+        "eventName": "Documents Received",
+        "description": "Documents Received - Processing as per standard timeline",
+        "eventDate": "2024-11-08T00:00:00",
+        "isCompleted": true
+      },
+      {
+        "eventName": "Initial Assessment",
+        "description": "Initial Assessment - Processing as per standard timeline",
+        "eventDate": "2024-11-19T00:00:00",
+        "isCompleted": true
+      },
+      {
+        "eventName": "Investigation Started",
+        "description": "Investigation Started - Processing as per standard timeline",
+        "eventDate": "2024-12-05T00:00:00",
+        "isCompleted": true
+      },
+      {
+        "eventName": "Assessment Completed",
+        "description": "Assessment Completed - Processing as per standard timeline",
+        "eventDate": "2024-12-11T00:00:00",
+        "isCompleted": true
+      },
+      {
+        "eventName": "Approval Review",
+        "description": "Approval Review - Processing as per standard timeline",
+        "eventDate": "2024-12-20T00:00:00",
+        "isCompleted": true
+      },
+      {
+        "eventName": "Payment Processed",
+        "description": "Payment Processed - Processing as per standard timeline",
+        "eventDate": "2024-12-05T00:00:00",
+        "isCompleted": false
+      }
+    ]
+  },
+  {
+    "claimId": "i0000000-0000-0000-0000-000000000023",
+    "claimNumber": "CLM-2024-00023",
+    "claimType": "Disability Claim",
+    "claimAmount": 130605.77,
+    "currency": "ZMW",
+    "currentStep": "Initial Review",
+    "totalSteps": 7,
+    "completedSteps": 1,
+    "status": "Under Review",
+    "submittedDate": "2024-12-28T00:00:00",
+    "expectedCompletionDate": "2025-02-26T00:00:00",
+    "timeline": [
+      {
+        "eventName": "Claim Submitted",
+        "description": "Claim Submitted - Processing as per standard timeline",
+        "eventDate": "2024-12-28T00:00:00",
+        "isCompleted": true
+      },
+      {
+        "eventName": "Documents Received",
+        "description": "Documents Received - Processing as per standard timeline",
+        "eventDate": "2025-01-04T00:00:00",
+        "isCompleted": false
+      }
+    ]
+  },
+  {
+    "claimId": "i0000000-0000-0000-0000-000000000024",
+    "claimNumber": "CLM-2024-00024",
+    "claimType": "Death Claim",
+    "claimAmount": 6245.46,
+    "currency": "ZMW",
+    "currentStep": "Investigation",
+    "totalSteps": 7,
+    "completedSteps": 2,
+    "status": "Documents Requested",
+    "submittedDate": "2024-01-05T00:00:00",
+    "expectedCompletionDate": "2024-02-25T00:00:00",
+    "timeline": [
+      {
+        "eventName": "Claim Submitted",
+        "description": "Claim Submitted - Processing as per standard timeline",
+        "eventDate": "2024-01-05T00:00:00",
+        "isCompleted": true
+      },
+      {
+        "eventName": "Documents Received",
+        "description": "Documents Received - Processing as per standard timeline",
+        "eventDate": "2024-01-13T00:00:00",
+        "isCompleted": true
+      },
+      {
+        "eventName": "Initial Assessment",
+        "description": "Initial Assessment - Processing as per standard timeline",
+        "eventDate": "2024-01-11T00:00:00",
+        "isCompleted": false
+      }
+    ]
+  },
+  {
+    "claimId": "i0000000-0000-0000-0000-000000000025",
+    "claimNumber": "CLM-2024-00025",
+    "claimType": "Motor Accident",
+    "claimAmount": 378963.31,
+    "currency": "ZMW",
+    "currentStep": "Initial Review",
+    "totalSteps": 7,
+    "completedSteps": 1,
+    "status": "Under Review",
+    "submittedDate": "2024-02-18T00:00:00",
+    "expectedCompletionDate": "2024-03-25T00:00:00",
+    "timeline": [
+      {
+        "eventName": "Claim Submitted",
+        "description": "Claim Submitted - Processing as per standard timeline",
+        "eventDate": "2024-02-18T00:00:00",
+        "isCompleted": true
+      },
+      {
+        "eventName": "Documents Received",
+        "description": "Documents Received - Processing as per standard timeline",
+        "eventDate": "2024-02-21T00:00:00",
+        "isCompleted": false
+      }
+    ]
+  },
+  {
+    "claimId": "i0000000-0000-0000-0000-000000000026",
+    "claimNumber": "CLM-2024-00026",
+    "claimType": "Medical Claim",
+    "claimAmount": 442624.33,
+    "currency": "ZMW",
+    "currentStep": "Approval",
+    "totalSteps": 7,
+    "completedSteps": 4,
+    "status": "Rejected",
+    "submittedDate": "2024-03-25T00:00:00",
+    "expectedCompletionDate": "2024-04-14T00:00:00",
+    "timeline": [
+      {
+        "eventName": "Claim Submitted",
+        "description": "Claim Submitted - Processing as per standard timeline",
+        "eventDate": "2024-03-25T00:00:00",
+        "isCompleted": true
+      },
+      {
+        "eventName": "Documents Received",
+        "description": "Documents Received - Processing as per standard timeline",
+        "eventDate": "2024-04-01T00:00:00",
+        "isCompleted": true
+      },
+      {
+        "eventName": "Initial Assessment",
+        "description": "Initial Assessment - Processing as per standard timeline",
+        "eventDate": "2024-04-04T00:00:00",
+        "isCompleted": true
+      },
+      {
+        "eventName": "Investigation Started",
+        "description": "Investigation Started - Processing as per standard timeline",
+        "eventDate": "2024-04-09T00:00:00",
+        "isCompleted": true
+      },
+      {
+        "eventName": "Assessment Completed",
+        "description": "Assessment Completed - Processing as per standard timeline",
+        "eventDate": "2024-04-26T00:00:00",
+        "isCompleted": false
+      }
+    ]
+  },
+  {
+    "claimId": "i0000000-0000-0000-0000-000000000027",
+    "claimNumber": "CLM-2024-00027",
+    "claimType": "Property Damage",
+    "claimAmount": 48970.04,
+    "currency": "ZMW",
+    "currentStep": "Initial Review",
+    "totalSteps": 7,
+    "completedSteps": 1,
+    "status": "Under Review",
+    "submittedDate": "2024-04-10T00:00:00",
+    "expectedCompletionDate": "2024-05-24T00:00:00",
+    "timeline": [
+      {
+        "eventName": "Claim Submitted",
+        "description": "Claim Submitted - Processing as per standard timeline",
+        "eventDate": "2024-04-10T00:00:00",
+        "isCompleted": true
+      },
+      {
+        "eventName": "Documents Received",
+        "description": "Documents Received - Processing as per standard timeline",
+        "eventDate": "2024-04-17T00:00:00",
+        "isCompleted": false
+      }
+    ]
+  },
+  {
+    "claimId": "i0000000-0000-0000-0000-000000000028",
+    "claimNumber": "CLM-2024-00028",
+    "claimType": "Travel Emergency",
+    "claimAmount": 351882.36,
+    "currency": "ZMW",
+    "currentStep": "Initial Review",
+    "totalSteps": 7,
+    "completedSteps": 1,
+    "status": "Under Review",
+    "submittedDate": "2024-05-04T00:00:00",
+    "expectedCompletionDate": "2024-05-19T00:00:00",
+    "timeline": [
+      {
+        "eventName": "Claim Submitted",
+        "description": "Claim Submitted - Processing as per standard timeline",
+        "eventDate": "2024-05-04T00:00:00",
+        "isCompleted": true
+      },
+      {
+        "eventName": "Documents Received",
+        "description": "Documents Received - Processing as per standard timeline",
+        "eventDate": "2024-05-12T00:00:00",
+        "isCompleted": false
+      }
+    ]
+  },
+  {
+    "claimId": "i0000000-0000-0000-0000-000000000029",
+    "claimNumber": "CLM-2024-00029",
+    "claimType": "Credit Default",
+    "claimAmount": 71850.6,
+    "currency": "ZMW",
+    "currentStep": "Assessment",
+    "totalSteps": 7,
+    "completedSteps": 3,
+    "status": "Approved",
+    "submittedDate": "2024-06-19T00:00:00",
+    "expectedCompletionDate": "2024-07-04T00:00:00",
+    "timeline": [
+      {
+        "eventName": "Claim Submitted",
+        "description": "Claim Submitted - Processing as per standard timeline",
+        "eventDate": "2024-06-19T00:00:00",
+        "isCompleted": true
+      },
+      {
+        "eventName": "Documents Received",
+        "description": "Documents Received - Processing as per standard timeline",
+        "eventDate": "2024-06-25T00:00:00",
+        "isCompleted": true
+      },
+      {
+        "eventName": "Initial Assessment",
+        "description": "Initial Assessment - Processing as per standard timeline",
+        "eventDate": "2024-06-27T00:00:00",
+        "isCompleted": true
+      },
+      {
+        "eventName": "Investigation Started",
+        "description": "Investigation Started - Processing as per standard timeline",
+        "eventDate": "2024-07-16T00:00:00",
+        "isCompleted": false
+      }
+    ]
+  },
+  {
+    "claimId": "i0000000-0000-0000-0000-000000000030",
+    "claimNumber": "CLM-2024-00030",
+    "claimType": "Funeral Claim",
+    "claimAmount": 195875.07,
+    "currency": "ZMW",
+    "currentStep": "Assessment",
+    "totalSteps": 7,
+    "completedSteps": 3,
+    "status": "Approved",
+    "submittedDate": "2024-07-22T00:00:00",
+    "expectedCompletionDate": "2024-09-11T00:00:00",
+    "timeline": [
+      {
+        "eventName": "Claim Submitted",
+        "description": "Claim Submitted - Processing as per standard timeline",
+        "eventDate": "2024-07-22T00:00:00",
+        "isCompleted": true
+      },
+      {
+        "eventName": "Documents Received",
+        "description": "Documents Received - Processing as per standard timeline",
+        "eventDate": "2024-07-28T00:00:00",
+        "isCompleted": true
+      },
+      {
+        "eventName": "Initial Assessment",
+        "description": "Initial Assessment - Processing as per standard timeline",
+        "eventDate": "2024-08-01T00:00:00",
+        "isCompleted": true
+      },
+      {
+        "eventName": "Investigation Started",
+        "description": "Investigation Started - Processing as per standard timeline",
+        "eventDate": "2024-08-06T00:00:00",
+        "isCompleted": false
+      }
+    ]
+  },
+  {
+    "claimId": "i0000000-0000-0000-0000-000000000031",
+    "claimNumber": "CLM-2024-00031",
+    "claimType": "Disability Claim",
+    "claimAmount": 456915.49,
+    "currency": "ZMW",
+    "currentStep": "Assessment",
+    "totalSteps": 7,
+    "completedSteps": 3,
+    "status": "Approved",
+    "submittedDate": "2024-08-27T00:00:00",
+    "expectedCompletionDate": "2024-09-13T00:00:00",
+    "timeline": [
+      {
+        "eventName": "Claim Submitted",
+        "description": "Claim Submitted - Processing as per standard timeline",
+        "eventDate": "2024-08-27T00:00:00",
+        "isCompleted": true
+      },
+      {
+        "eventName": "Documents Received",
+        "description": "Documents Received - Processing as per standard timeline",
+        "eventDate": "2024-09-02T00:00:00",
+        "isCompleted": true
+      },
+      {
+        "eventName": "Initial Assessment",
+        "description": "Initial Assessment - Processing as per standard timeline",
+        "eventDate": "2024-09-14T00:00:00",
+        "isCompleted": true
+      },
+      {
+        "eventName": "Investigation Started",
+        "description": "Investigation Started - Processing as per standard timeline",
+        "eventDate": "2024-09-14T00:00:00",
+        "isCompleted": false
+      }
+    ]
+  },
+  {
+    "claimId": "i0000000-0000-0000-0000-000000000032",
+    "claimNumber": "CLM-2024-00032",
+    "claimType": "Death Claim",
+    "claimAmount": 410239.11,
+    "currency": "ZMW",
+    "currentStep": "Approval",
+    "totalSteps": 7,
+    "completedSteps": 4,
+    "status": "Rejected",
+    "submittedDate": "2024-09-24T00:00:00",
+    "expectedCompletionDate": "2024-11-01T00:00:00",
+    "timeline": [
+      {
+        "eventName": "Claim Submitted",
+        "description": "Claim Submitted - Processing as per standard timeline",
+        "eventDate": "2024-09-24T00:00:00",
+        "isCompleted": true
+      },
+      {
+        "eventName": "Documents Received",
+        "description": "Documents Received - Processing as per standard timeline",
+        "eventDate": "2024-09-28T00:00:00",
+        "isCompleted": true
+      },
+      {
+        "eventName": "Initial Assessment",
+        "description": "Initial Assessment - Processing as per standard timeline",
+        "eventDate": "2024-10-14T00:00:00",
+        "isCompleted": true
+      },
+      {
+        "eventName": "Investigation Started",
+        "description": "Investigation Started - Processing as per standard timeline",
+        "eventDate": "2024-10-06T00:00:00",
+        "isCompleted": true
+      },
+      {
+        "eventName": "Assessment Completed",
+        "description": "Assessment Completed - Processing as per standard timeline",
+        "eventDate": "2024-10-26T00:00:00",
+        "isCompleted": false
+      }
+    ]
+  },
+  {
+    "claimId": "i0000000-0000-0000-0000-000000000033",
+    "claimNumber": "CLM-2024-00033",
+    "claimType": "Motor Accident",
+    "claimAmount": 93467.99,
+    "currency": "ZMW",
+    "currentStep": "Approval",
+    "totalSteps": 7,
+    "completedSteps": 4,
+    "status": "Rejected",
+    "submittedDate": "2024-10-25T00:00:00",
+    "expectedCompletionDate": "2024-11-10T00:00:00",
+    "timeline": [
+      {
+        "eventName": "Claim Submitted",
+        "description": "Claim Submitted - Processing as per standard timeline",
+        "eventDate": "2024-10-25T00:00:00",
+        "isCompleted": true
+      },
+      {
+        "eventName": "Documents Received",
+        "description": "Documents Received - Processing as per standard timeline",
+        "eventDate": "2024-10-31T00:00:00",
+        "isCompleted": true
+      },
+      {
+        "eventName": "Initial Assessment",
+        "description": "Initial Assessment - Processing as per standard timeline",
+        "eventDate": "2024-11-02T00:00:00",
+        "isCompleted": true
+      },
+      {
+        "eventName": "Investigation Started",
+        "description": "Investigation Started - Processing as per standard timeline",
+        "eventDate": "2024-11-12T00:00:00",
+        "isCompleted": true
+      },
+      {
+        "eventName": "Assessment Completed",
+        "description": "Assessment Completed - Processing as per standard timeline",
+        "eventDate": "2024-11-30T00:00:00",
+        "isCompleted": false
+      }
+    ]
+  },
+  {
+    "claimId": "i0000000-0000-0000-0000-000000000034",
+    "claimNumber": "CLM-2024-00034",
+    "claimType": "Medical Claim",
+    "claimAmount": 480755.6,
+    "currency": "ZMW",
+    "currentStep": "Payment Processing",
+    "totalSteps": 7,
+    "completedSteps": 5,
+    "status": "Settled",
+    "submittedDate": "2024-11-17T00:00:00",
+    "expectedCompletionDate": "2024-12-14T00:00:00",
+    "timeline": [
+      {
+        "eventName": "Claim Submitted",
+        "description": "Claim Submitted - Processing as per standard timeline",
+        "eventDate": "2024-11-17T00:00:00",
+        "isCompleted": true
+      },
+      {
+        "eventName": "Documents Received",
+        "description": "Documents Received - Processing as per standard timeline",
+        "eventDate": "2024-11-21T00:00:00",
+        "isCompleted": true
+      },
+      {
+        "eventName": "Initial Assessment",
+        "description": "Initial Assessment - Processing as per standard timeline",
+        "eventDate": "2024-12-01T00:00:00",
+        "isCompleted": true
+      },
+      {
+        "eventName": "Investigation Started",
+        "description": "Investigation Started - Processing as per standard timeline",
+        "eventDate": "2024-12-11T00:00:00",
+        "isCompleted": true
+      },
+      {
+        "eventName": "Assessment Completed",
+        "description": "Assessment Completed - Processing as per standard timeline",
+        "eventDate": "2024-12-19T00:00:00",
+        "isCompleted": true
+      },
+      {
+        "eventName": "Approval Review",
+        "description": "Approval Review - Processing as per standard timeline",
+        "eventDate": "2024-12-27T00:00:00",
+        "isCompleted": false
+      }
+    ]
+  },
+  {
+    "claimId": "i0000000-0000-0000-0000-000000000035",
+    "claimNumber": "CLM-2024-00035",
+    "claimType": "Property Damage",
+    "claimAmount": 464954.53,
+    "currency": "ZMW",
+    "currentStep": "Investigation",
+    "totalSteps": 7,
+    "completedSteps": 2,
+    "status": "Documents Requested",
+    "submittedDate": "2024-12-07T00:00:00",
+    "expectedCompletionDate": "2025-01-19T00:00:00",
+    "timeline": [
+      {
+        "eventName": "Claim Submitted",
+        "description": "Claim Submitted - Processing as per standard timeline",
+        "eventDate": "2024-12-07T00:00:00",
+        "isCompleted": true
+      },
+      {
+        "eventName": "Documents Received",
+        "description": "Documents Received - Processing as per standard timeline",
+        "eventDate": "2024-12-12T00:00:00",
+        "isCompleted": true
+      },
+      {
+        "eventName": "Initial Assessment",
+        "description": "Initial Assessment - Processing as per standard timeline",
+        "eventDate": "2024-12-21T00:00:00",
+        "isCompleted": false
+      }
+    ]
+  },
+  {
+    "claimId": "i0000000-0000-0000-0000-000000000036",
+    "claimNumber": "CLM-2024-00036",
+    "claimType": "Travel Emergency",
+    "claimAmount": 15344.43,
+    "currency": "ZMW",
+    "currentStep": "Assessment",
+    "totalSteps": 7,
+    "completedSteps": 3,
+    "status": "Approved",
+    "submittedDate": "2024-01-07T00:00:00",
+    "expectedCompletionDate": "2024-02-12T00:00:00",
+    "timeline": [
+      {
+        "eventName": "Claim Submitted",
+        "description": "Claim Submitted - Processing as per standard timeline",
+        "eventDate": "2024-01-07T00:00:00",
+        "isCompleted": true
+      },
+      {
+        "eventName": "Documents Received",
+        "description": "Documents Received - Processing as per standard timeline",
+        "eventDate": "2024-01-10T00:00:00",
+        "isCompleted": true
+      },
+      {
+        "eventName": "Initial Assessment",
+        "description": "Initial Assessment - Processing as per standard timeline",
+        "eventDate": "2024-01-19T00:00:00",
+        "isCompleted": true
+      },
+      {
+        "eventName": "Investigation Started",
+        "description": "Investigation Started - Processing as per standard timeline",
+        "eventDate": "2024-01-28T00:00:00",
+        "isCompleted": false
+      }
+    ]
+  },
+  {
+    "claimId": "i0000000-0000-0000-0000-000000000037",
+    "claimNumber": "CLM-2024-00037",
+    "claimType": "Credit Default",
+    "claimAmount": 34432.12,
+    "currency": "ZMW",
+    "currentStep": "Payment Processing",
+    "totalSteps": 7,
+    "completedSteps": 5,
+    "status": "Settled",
+    "submittedDate": "2024-02-09T00:00:00",
+    "expectedCompletionDate": "2024-03-18T00:00:00",
+    "timeline": [
+      {
+        "eventName": "Claim Submitted",
+        "description": "Claim Submitted - Processing as per standard timeline",
+        "eventDate": "2024-02-09T00:00:00",
+        "isCompleted": true
+      },
+      {
+        "eventName": "Documents Received",
+        "description": "Documents Received - Processing as per standard timeline",
+        "eventDate": "2024-02-17T00:00:00",
+        "isCompleted": true
+      },
+      {
+        "eventName": "Initial Assessment",
+        "description": "Initial Assessment - Processing as per standard timeline",
+        "eventDate": "2024-02-19T00:00:00",
+        "isCompleted": true
+      },
+      {
+        "eventName": "Investigation Started",
+        "description": "Investigation Started - Processing as per standard timeline",
+        "eventDate": "2024-02-27T00:00:00",
+        "isCompleted": true
+      },
+      {
+        "eventName": "Assessment Completed",
+        "description": "Assessment Completed - Processing as per standard timeline",
+        "eventDate": "2024-02-25T00:00:00",
+        "isCompleted": true
+      },
+      {
+        "eventName": "Approval Review",
+        "description": "Approval Review - Processing as per standard timeline",
+        "eventDate": "2024-03-05T00:00:00",
+        "isCompleted": false
+      }
+    ]
+  },
+  {
+    "claimId": "i0000000-0000-0000-0000-000000000038",
+    "claimNumber": "CLM-2024-00038",
+    "claimType": "Funeral Claim",
+    "claimAmount": 424264.42,
+    "currency": "ZMW",
+    "currentStep": "Approval",
+    "totalSteps": 7,
+    "completedSteps": 4,
+    "status": "Rejected",
+    "submittedDate": "2024-03-15T00:00:00",
+    "expectedCompletionDate": "2024-05-02T00:00:00",
+    "timeline": [
+      {
+        "eventName": "Claim Submitted",
+        "description": "Claim Submitted - Processing as per standard timeline",
+        "eventDate": "2024-03-15T00:00:00",
+        "isCompleted": true
+      },
+      {
+        "eventName": "Documents Received",
+        "description": "Documents Received - Processing as per standard timeline",
+        "eventDate": "2024-03-22T00:00:00",
+        "isCompleted": true
+      },
+      {
+        "eventName": "Initial Assessment",
+        "description": "Initial Assessment - Processing as per standard timeline",
+        "eventDate": "2024-03-25T00:00:00",
+        "isCompleted": true
+      },
+      {
+        "eventName": "Investigation Started",
+        "description": "Investigation Started - Processing as per standard timeline",
+        "eventDate": "2024-04-08T00:00:00",
+        "isCompleted": true
+      },
+      {
+        "eventName": "Assessment Completed",
+        "description": "Assessment Completed - Processing as per standard timeline",
+        "eventDate": "2024-04-12T00:00:00",
+        "isCompleted": false
+      }
+    ]
+  },
+  {
+    "claimId": "i0000000-0000-0000-0000-000000000039",
+    "claimNumber": "CLM-2024-00039",
+    "claimType": "Disability Claim",
+    "claimAmount": 437527.64,
+    "currency": "ZMW",
+    "currentStep": "Initial Review",
+    "totalSteps": 7,
+    "completedSteps": 1,
+    "status": "Under Review",
+    "submittedDate": "2024-04-21T00:00:00",
+    "expectedCompletionDate": "2024-05-22T00:00:00",
+    "timeline": [
+      {
+        "eventName": "Claim Submitted",
+        "description": "Claim Submitted - Processing as per standard timeline",
+        "eventDate": "2024-04-21T00:00:00",
+        "isCompleted": true
+      },
+      {
+        "eventName": "Documents Received",
+        "description": "Documents Received - Processing as per standard timeline",
+        "eventDate": "2024-05-01T00:00:00",
+        "isCompleted": false
+      }
+    ]
+  },
+  {
+    "claimId": "i0000000-0000-0000-0000-000000000040",
+    "claimNumber": "CLM-2024-00040",
+    "claimType": "Death Claim",
+    "claimAmount": 295431.26,
+    "currency": "ZMW",
+    "currentStep": "Final Settlement",
+    "totalSteps": 7,
+    "completedSteps": 6,
+    "status": "In Investigation",
+    "submittedDate": "2024-05-02T00:00:00",
+    "expectedCompletionDate": null,
+    "timeline": [
+      {
+        "eventName": "Claim Submitted",
+        "description": "Claim Submitted - Processing as per standard timeline",
+        "eventDate": "2024-05-02T00:00:00",
+        "isCompleted": true
+      },
+      {
+        "eventName": "Documents Received",
+        "description": "Documents Received - Processing as per standard timeline",
+        "eventDate": "2024-05-05T00:00:00",
+        "isCompleted": true
+      },
+      {
+        "eventName": "Initial Assessment",
+        "description": "Initial Assessment - Processing as per standard timeline",
+        "eventDate": "2024-05-08T00:00:00",
+        "isCompleted": true
+      },
+      {
+        "eventName": "Investigation Started",
+        "description": "Investigation Started - Processing as per standard timeline",
+        "eventDate": "2024-05-26T00:00:00",
+        "isCompleted": true
+      },
+      {
+        "eventName": "Assessment Completed",
+        "description": "Assessment Completed - Processing as per standard timeline",
+        "eventDate": "2024-05-18T00:00:00",
+        "isCompleted": true
+      },
+      {
+        "eventName": "Approval Review",
+        "description": "Approval Review - Processing as per standard timeline",
+        "eventDate": "2024-06-01T00:00:00",
+        "isCompleted": true
+      },
+      {
+        "eventName": "Payment Processed",
+        "description": "Payment Processed - Processing as per standard timeline",
+        "eventDate": "2024-05-20T00:00:00",
+        "isCompleted": false
+      }
+    ]
+  },
+  {
+    "claimId": "i0000000-0000-0000-0000-000000000041",
+    "claimNumber": "CLM-2024-00041",
+    "claimType": "Motor Accident",
+    "claimAmount": 404548.94,
+    "currency": "ZMW",
+    "currentStep": "Initial Review",
+    "totalSteps": 7,
+    "completedSteps": 1,
+    "status": "Under Review",
+    "submittedDate": "2024-06-06T00:00:00",
+    "expectedCompletionDate": "2024-06-21T00:00:00",
+    "timeline": [
+      {
+        "eventName": "Claim Submitted",
+        "description": "Claim Submitted - Processing as per standard timeline",
+        "eventDate": "2024-06-06T00:00:00",
+        "isCompleted": true
+      },
+      {
+        "eventName": "Documents Received",
+        "description": "Documents Received - Processing as per standard timeline",
+        "eventDate": "2024-06-11T00:00:00",
+        "isCompleted": false
+      }
+    ]
+  },
+  {
+    "claimId": "i0000000-0000-0000-0000-000000000042",
+    "claimNumber": "CLM-2024-00042",
+    "claimType": "Medical Claim",
+    "claimAmount": 432474.53,
+    "currency": "ZMW",
+    "currentStep": "Initial Review",
+    "totalSteps": 7,
+    "completedSteps": 1,
+    "status": "Under Review",
+    "submittedDate": "2024-07-21T00:00:00",
+    "expectedCompletionDate": "2024-09-18T00:00:00",
+    "timeline": [
+      {
+        "eventName": "Claim Submitted",
+        "description": "Claim Submitted - Processing as per standard timeline",
+        "eventDate": "2024-07-21T00:00:00",
+        "isCompleted": true
+      },
+      {
+        "eventName": "Documents Received",
+        "description": "Documents Received - Processing as per standard timeline",
+        "eventDate": "2024-07-28T00:00:00",
+        "isCompleted": false
+      }
+    ]
+  },
+  {
+    "claimId": "i0000000-0000-0000-0000-000000000043",
+    "claimNumber": "CLM-2024-00043",
+    "claimType": "Property Damage",
+    "claimAmount": 363213.32,
+    "currency": "ZMW",
+    "currentStep": "Assessment",
+    "totalSteps": 7,
+    "completedSteps": 3,
+    "status": "Approved",
+    "submittedDate": "2024-08-25T00:00:00",
+    "expectedCompletionDate": "2024-10-06T00:00:00",
+    "timeline": [
+      {
+        "eventName": "Claim Submitted",
+        "description": "Claim Submitted - Processing as per standard timeline",
+        "eventDate": "2024-08-25T00:00:00",
+        "isCompleted": true
+      },
+      {
+        "eventName": "Documents Received",
+        "description": "Documents Received - Processing as per standard timeline",
+        "eventDate": "2024-08-30T00:00:00",
+        "isCompleted": true
+      },
+      {
+        "eventName": "Initial Assessment",
+        "description": "Initial Assessment - Processing as per standard timeline",
+        "eventDate": "2024-09-10T00:00:00",
+        "isCompleted": true
+      },
+      {
+        "eventName": "Investigation Started",
+        "description": "Investigation Started - Processing as per standard timeline",
+        "eventDate": "2024-09-24T00:00:00",
+        "isCompleted": false
+      }
+    ]
+  },
+  {
+    "claimId": "i0000000-0000-0000-0000-000000000044",
+    "claimNumber": "CLM-2024-00044",
+    "claimType": "Travel Emergency",
+    "claimAmount": 408669.27,
+    "currency": "ZMW",
+    "currentStep": "Final Settlement",
+    "totalSteps": 7,
+    "completedSteps": 6,
+    "status": "In Investigation",
+    "submittedDate": "2024-09-15T00:00:00",
+    "expectedCompletionDate": null,
+    "timeline": [
+      {
+        "eventName": "Claim Submitted",
+        "description": "Claim Submitted - Processing as per standard timeline",
+        "eventDate": "2024-09-15T00:00:00",
+        "isCompleted": true
+      },
+      {
+        "eventName": "Documents Received",
+        "description": "Documents Received - Processing as per standard timeline",
+        "eventDate": "2024-09-23T00:00:00",
+        "isCompleted": true
+      },
+      {
+        "eventName": "Initial Assessment",
+        "description": "Initial Assessment - Processing as per standard timeline",
+        "eventDate": "2024-10-05T00:00:00",
+        "isCompleted": true
+      },
+      {
+        "eventName": "Investigation Started",
+        "description": "Investigation Started - Processing as per standard timeline",
+        "eventDate": "2024-09-30T00:00:00",
+        "isCompleted": true
+      },
+      {
+        "eventName": "Assessment Completed",
+        "description": "Assessment Completed - Processing as per standard timeline",
+        "eventDate": "2024-10-13T00:00:00",
+        "isCompleted": true
+      },
+      {
+        "eventName": "Approval Review",
+        "description": "Approval Review - Processing as per standard timeline",
+        "eventDate": "2024-10-15T00:00:00",
+        "isCompleted": true
+      },
+      {
+        "eventName": "Payment Processed",
+        "description": "Payment Processed - Processing as per standard timeline",
+        "eventDate": "2024-11-14T00:00:00",
+        "isCompleted": false
+      }
+    ]
+  },
+  {
+    "claimId": "i0000000-0000-0000-0000-000000000045",
+    "claimNumber": "CLM-2024-00045",
+    "claimType": "Credit Default",
+    "claimAmount": 87557.31,
+    "currency": "ZMW",
+    "currentStep": "Initial Review",
+    "totalSteps": 7,
+    "completedSteps": 1,
+    "status": "Under Review",
+    "submittedDate": "2024-10-12T00:00:00",
+    "expectedCompletionDate": "2024-11-21T00:00:00",
+    "timeline": [
+      {
+        "eventName": "Claim Submitted",
+        "description": "Claim Submitted - Processing as per standard timeline",
+        "eventDate": "2024-10-12T00:00:00",
+        "isCompleted": true
+      },
+      {
+        "eventName": "Documents Received",
+        "description": "Documents Received - Processing as per standard timeline",
+        "eventDate": "2024-10-16T00:00:00",
+        "isCompleted": false
+      }
+    ]
+  },
+  {
+    "claimId": "i0000000-0000-0000-0000-000000000046",
+    "claimNumber": "CLM-2024-00046",
+    "claimType": "Funeral Claim",
+    "claimAmount": 408744.94,
+    "currency": "ZMW",
+    "currentStep": "Approval",
+    "totalSteps": 7,
+    "completedSteps": 4,
+    "status": "Rejected",
+    "submittedDate": "2024-11-08T00:00:00",
+    "expectedCompletionDate": "2025-01-07T00:00:00",
+    "timeline": [
+      {
+        "eventName": "Claim Submitted",
+        "description": "Claim Submitted - Processing as per standard timeline",
+        "eventDate": "2024-11-08T00:00:00",
+        "isCompleted": true
+      },
+      {
+        "eventName": "Documents Received",
+        "description": "Documents Received - Processing as per standard timeline",
+        "eventDate": "2024-11-16T00:00:00",
+        "isCompleted": true
+      },
+      {
+        "eventName": "Initial Assessment",
+        "description": "Initial Assessment - Processing as per standard timeline",
+        "eventDate": "2024-11-26T00:00:00",
+        "isCompleted": true
+      },
+      {
+        "eventName": "Investigation Started",
+        "description": "Investigation Started - Processing as per standard timeline",
+        "eventDate": "2024-11-29T00:00:00",
+        "isCompleted": true
+      },
+      {
+        "eventName": "Assessment Completed",
+        "description": "Assessment Completed - Processing as per standard timeline",
+        "eventDate": "2024-12-10T00:00:00",
+        "isCompleted": false
+      }
+    ]
+  },
+  {
+    "claimId": "i0000000-0000-0000-0000-000000000047",
+    "claimNumber": "CLM-2024-00047",
+    "claimType": "Disability Claim",
+    "claimAmount": 290814.26,
+    "currency": "ZMW",
+    "currentStep": "Initial Review",
+    "totalSteps": 7,
+    "completedSteps": 1,
+    "status": "Under Review",
+    "submittedDate": "2024-12-11T00:00:00",
+    "expectedCompletionDate": "2025-02-02T00:00:00",
+    "timeline": [
+      {
+        "eventName": "Claim Submitted",
+        "description": "Claim Submitted - Processing as per standard timeline",
+        "eventDate": "2024-12-11T00:00:00",
+        "isCompleted": true
+      },
+      {
+        "eventName": "Documents Received",
+        "description": "Documents Received - Processing as per standard timeline",
+        "eventDate": "2024-12-15T00:00:00",
+        "isCompleted": false
+      }
+    ]
+  },
+  {
+    "claimId": "i0000000-0000-0000-0000-000000000048",
+    "claimNumber": "CLM-2024-00048",
+    "claimType": "Death Claim",
+    "claimAmount": 237243.81,
+    "currency": "ZMW",
+    "currentStep": "Initial Review",
+    "totalSteps": 7,
+    "completedSteps": 1,
+    "status": "Under Review",
+    "submittedDate": "2024-01-18T00:00:00",
+    "expectedCompletionDate": "2024-03-15T00:00:00",
+    "timeline": [
+      {
+        "eventName": "Claim Submitted",
+        "description": "Claim Submitted - Processing as per standard timeline",
+        "eventDate": "2024-01-18T00:00:00",
+        "isCompleted": true
+      },
+      {
+        "eventName": "Documents Received",
+        "description": "Documents Received - Processing as per standard timeline",
+        "eventDate": "2024-01-26T00:00:00",
+        "isCompleted": false
+      }
+    ]
+  },
+  {
+    "claimId": "i0000000-0000-0000-0000-000000000049",
+    "claimNumber": "CLM-2024-00049",
+    "claimType": "Motor Accident",
+    "claimAmount": 253155.14,
+    "currency": "ZMW",
+    "currentStep": "Approval",
+    "totalSteps": 7,
+    "completedSteps": 4,
+    "status": "Rejected",
+    "submittedDate": "2024-02-28T00:00:00",
+    "expectedCompletionDate": "2024-04-23T00:00:00",
+    "timeline": [
+      {
+        "eventName": "Claim Submitted",
+        "description": "Claim Submitted - Processing as per standard timeline",
+        "eventDate": "2024-02-28T00:00:00",
+        "isCompleted": true
+      },
+      {
+        "eventName": "Documents Received",
+        "description": "Documents Received - Processing as per standard timeline",
+        "eventDate": "2024-03-09T00:00:00",
+        "isCompleted": true
+      },
+      {
+        "eventName": "Initial Assessment",
+        "description": "Initial Assessment - Processing as per standard timeline",
+        "eventDate": "2024-03-17T00:00:00",
+        "isCompleted": true
+      },
+      {
+        "eventName": "Investigation Started",
+        "description": "Investigation Started - Processing as per standard timeline",
+        "eventDate": "2024-03-08T00:00:00",
+        "isCompleted": true
+      },
+      {
+        "eventName": "Assessment Completed",
+        "description": "Assessment Completed - Processing as per standard timeline",
+        "eventDate": "2024-03-15T00:00:00",
+        "isCompleted": false
+      }
+    ]
+  },
+  {
+    "claimId": "i0000000-0000-0000-0000-000000000050",
+    "claimNumber": "CLM-2024-00050",
+    "claimType": "Medical Claim",
+    "claimAmount": 182038.06,
+    "currency": "ZMW",
+    "currentStep": "Assessment",
+    "totalSteps": 7,
+    "completedSteps": 3,
+    "status": "Approved",
+    "submittedDate": "2024-03-03T00:00:00",
+    "expectedCompletionDate": "2024-04-10T00:00:00",
+    "timeline": [
+      {
+        "eventName": "Claim Submitted",
+        "description": "Claim Submitted - Processing as per standard timeline",
+        "eventDate": "2024-03-03T00:00:00",
+        "isCompleted": true
+      },
+      {
+        "eventName": "Documents Received",
+        "description": "Documents Received - Processing as per standard timeline",
+        "eventDate": "2024-03-10T00:00:00",
+        "isCompleted": true
+      },
+      {
+        "eventName": "Initial Assessment",
+        "description": "Initial Assessment - Processing as per standard timeline",
+        "eventDate": "2024-03-13T00:00:00",
+        "isCompleted": true
+      },
+      {
+        "eventName": "Investigation Started",
+        "description": "Investigation Started - Processing as per standard timeline",
+        "eventDate": "2024-03-18T00:00:00",
+        "isCompleted": false
+      }
+    ]
+  }
+]

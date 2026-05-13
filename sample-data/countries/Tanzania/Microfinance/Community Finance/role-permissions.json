@@ -1,0 +1,127 @@
+{
+  "institutionType": "Microfinance",
+  "country": "Zambia",
+  "description": "Role-to-permission mapping for Microfinance tenants in Zambia. Matches the role structure used by the Community Finance institution sample data.",
+  "version": "1.0.0",
+  "roles": [
+    {
+      "roleName": "FieldOfficer",
+      "permissions": [
+        "Banking.Microfinance.FieldOfficers.View",
+        "Banking.Microfinance.FieldOps.View",
+        "Banking.Microfinance.FieldOps.ManageFieldOfficers",
+        "Banking.Microfinance.FieldOps.ScheduleVisits",
+        "Banking.Microfinance.Savings.View",
+        "Banking.Microfinance.ViewPortal"
+      ]
+    },
+    {
+      "roleName": "GroupLendingOfficer",
+      "permissions": [
+        "Banking.Microfinance.GroupLending.View",
+        "Banking.Microfinance.GroupLending.ManageGroups",
+        "Banking.Microfinance.GroupLending.ManageMembers",
+        "Banking.Microfinance.GroupLending.ProcessLoans",
+        "Banking.Loans.View",
+        "Banking.Loans.ViewReminders",
+        "Banking.Microfinance.KnowYourCustomer.View"
+      ]
+    },
+    {
+      "roleName": "MFIBranchManager",
+      "permissions": [
+        "Banking.Microfinance.ViewPortal",
+        "Banking.Microfinance.Dashboard",
+        "Banking.Microfinance.GroupLending.View",
+        "Banking.Microfinance.GroupLending.ManageGroups",
+        "Banking.Microfinance.IndividualLoans.View",
+        "Banking.Microfinance.IndividualLoans.Manage",
+        "Banking.Microfinance.Savings.View",
+        "Banking.Microfinance.Savings.ManageSavings",
+        "Banking.Microfinance.FieldOfficers.View",
+        "Banking.Microfinance.FieldOps.View",
+        "Banking.Microfinance.FieldOps.ScheduleVisits",
+        "Banking.Loans.View",
+        "Banking.Loans.ViewReminders",
+        "Banking.Analytics.View"
+      ]
+    },
+    {
+      "roleName": "MFILoanOfficer",
+      "permissions": [
+        "Banking.Microfinance.GroupLending.View",
+        "Banking.Microfinance.GroupLending.ManageGroups",
+        "Banking.Microfinance.IndividualLoans.View",
+        "Banking.Microfinance.IndividualLoans.Manage",
+        "Banking.Microfinance.IndividualLoans.Approve",
+        "Banking.Microfinance.KnowYourCustomer.View",
+        "Banking.Microfinance.KnowYourCustomer.Create",
+        "Banking.Microfinance.CreditScoring.View",
+        "Banking.Microfinance.FieldOps.View",
+        "Banking.Loans.View",
+        "Banking.Loans.Create",
+        "Banking.Loans.Approve",
+        "Banking.Loans.RecordPayment"
+      ]
+    },
+    {
+      "roleName": "MicrofinanceAdmin",
+      "permissions": [
+        "Banking.Microfinance.ViewPortal",
+        "Banking.Microfinance.Dashboard",
+        "Banking.Microfinance.GroupLending.View",
+        "Banking.Microfinance.GroupLending.ManageGroups",
+        "Banking.Microfinance.GroupLending.ManageMembers",
+        "Banking.Microfinance.GroupLending.ProcessLoans",
+        "Banking.Microfinance.Savings.View",
+        "Banking.Microfinance.Savings.ManageSavings",
+        "Banking.Microfinance.Savings.ProcessDeposits",
+        "Banking.Microfinance.IndividualLoans.View",
+        "Banking.Microfinance.IndividualLoans.Manage",
+        "Banking.Microfinance.IndividualLoans.Approve",
+        "Banking.Microfinance.FieldOfficers.View",
+        "Banking.Microfinance.FieldOfficers.Manage",
+        "Banking.Microfinance.FieldOps.View",
+        "Banking.Microfinance.FieldOps.ManageFieldOfficers",
+        "Banking.Microfinance.FieldOps.ScheduleVisits",
+        "Banking.Microfinance.SocialPerformance.View",
+        "Banking.Microfinance.SocialPerformance.Manage",
+        "Banking.Microfinance.FinancialLiteracy.View",
+        "Banking.Microfinance.FinancialLiteracy.Manage",
+        "Banking.Microfinance.MobileMoney.View",
+        "Banking.Microfinance.MobileMoney.Manage",
+        "Banking.Microfinance.KnowYourCustomer.View",
+        "Banking.Microfinance.KnowYourCustomer.Manage",
+        "Banking.Microfinance.CreditScoring.View",
+        "Banking.Microfinance.CreditScoring.Manage",
+        "Banking.Loans.View",
+        "Banking.Loans.Create",
+        "Banking.Loans.Approve",
+        "Banking.Documents.Manage",
+        "Banking.Risk.ViewDashboard",
+        "Banking.Regulatory.ViewReports"
+      ]
+    },
+    {
+      "roleName": "SavingsTeller",
+      "permissions": [
+        "Banking.Microfinance.Savings.View",
+        "Banking.Microfinance.Savings.ManageSavings",
+        "Banking.Microfinance.Savings.ProcessDeposits",
+        "Banking.CashManagement.View",
+        "Banking.Payments.View"
+      ]
+    },
+    {
+      "roleName": "SocialPerformanceOfficer",
+      "permissions": [
+        "Banking.Microfinance.SocialPerformance.View",
+        "Banking.Microfinance.SocialPerformance.Manage",
+        "Banking.Microfinance.FinancialLiteracy.View",
+        "Banking.Microfinance.FinancialLiteracy.Manage",
+        "Banking.Microfinance.ViewPortal",
+        "Banking.Analytics.View"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,164 @@
+[
+  {
+    "partnerId": "RP-TAN-001",
+    "businessName": "Shoprite Tanzania Tanzania Ltd",
+    "brandName": "Shoprite Tanzania",
+    "partnerType": "ConvenienceStore",
+    "country": "Tanzania",
+    "currency": "TZS",
+    "contactPerson": "Partner Manager 1",
+    "email": "banking@shopritetanz.ta",
+    "phoneNumber": "+355-255-779089",
+    "servicesOffered": [
+      "BillPayment",
+      "AirtimePurchase",
+      "LoanPayment",
+      "CashDeposit",
+      "AccountOpening"
+    ],
+    "acceptedPaymentMethods": [
+      "PhoneNumber",
+      "AccountNumber",
+      "USSD",
+      "QRCode",
+      "Cash"
+    ],
+    "totalStores": 187,
+    "activeStores": 169,
+    "storeLocations": [
+      "Dodoma",
+      "Arusha",
+      "Mwanza",
+      "Dar es Salaam"
+    ],
+    "monthlyTransactionVolume": 2627916.17,
+    "monthlyTransactionCount": 9124,
+    "averageTransactionSize": 122.12,
+    "commissionRate": 0.7,
+    "monthlyRevenue": 33136.48,
+    "partnershipStartDate": "2025-12-22T18:10:28Z",
+    "status": "PendingApproval",
+    "brandColor": "#c113ff",
+    "isIntegrated": true,
+    "lastSyncDate": "2026-03-03T18:10:28Z"
+  },
+  {
+    "partnerId": "RP-TAN-002",
+    "businessName": "Nakumatt Tanzania Ltd",
+    "brandName": "Nakumatt",
+    "partnerType": "Pharmacy",
+    "country": "Tanzania",
+    "currency": "TZS",
+    "contactPerson": "Partner Manager 2",
+    "email": "banking@nakumatt.ta",
+    "phoneNumber": "+312-441-825621",
+    "servicesOffered": [
+      "LoanPayment",
+      "BillPayment",
+      "AccountOpening",
+      "AirtimePurchase",
+      "CashDeposit",
+      "CashWithdrawal"
+    ],
+    "acceptedPaymentMethods": [
+      "AccountNumber",
+      "USSD",
+      "PhoneNumber",
+      "Cash"
+    ],
+    "totalStores": 119,
+    "activeStores": 113,
+    "storeLocations": [
+      "Dodoma",
+      "Mwanza"
+    ],
+    "monthlyTransactionVolume": 5847346.63,
+    "monthlyTransactionCount": 41905,
+    "averageTransactionSize": 135.76,
+    "commissionRate": 0.52,
+    "monthlyRevenue": 37025.43,
+    "partnershipStartDate": "2024-10-17T18:10:28Z",
+    "status": "Active",
+    "brandColor": "#d6b2da",
+    "isIntegrated": false,
+    "lastSyncDate": "2026-03-02T18:10:28Z"
+  },
+  {
+    "partnerId": "RP-TAN-003",
+    "businessName": "Uchumi Tanzania Ltd",
+    "brandName": "Uchumi",
+    "partnerType": "Pharmacy",
+    "country": "Tanzania",
+    "currency": "TZS",
+    "contactPerson": "Partner Manager 3",
+    "email": "banking@uchumi.ta",
+    "phoneNumber": "+274-420-143553",
+    "servicesOffered": [
+      "CashWithdrawal",
+      "CashDeposit",
+      "BillPayment",
+      "AirtimePurchase",
+      "MoneyTransfer"
+    ],
+    "acceptedPaymentMethods": [
+      "PhoneNumber",
+      "Cash",
+      "QRCode"
+    ],
+    "totalStores": 226,
+    "activeStores": 215,
+    "storeLocations": [
+      "Arusha",
+      "Mwanza",
+      "Dodoma",
+      "Dar es Salaam"
+    ],
+    "monthlyTransactionVolume": 1937700.0,
+    "monthlyTransactionCount": 5568,
+    "averageTransactionSize": 94.26,
+    "commissionRate": 0.62,
+    "monthlyRevenue": 10830.31,
+    "partnershipStartDate": "2023-10-21T18:10:28Z",
+    "status": "Active",
+    "brandColor": "#e8b911",
+    "isIntegrated": true,
+    "lastSyncDate": "2026-03-03T18:10:28Z"
+  },
+  {
+    "partnerId": "RP-TAN-004",
+    "businessName": "Jumbo Stores Tanzania Ltd",
+    "brandName": "Jumbo Stores",
+    "partnerType": "Supermarket",
+    "country": "Tanzania",
+    "currency": "TZS",
+    "contactPerson": "Partner Manager 4",
+    "email": "banking@jumbostores.ta",
+    "phoneNumber": "+750-708-317185",
+    "servicesOffered": [
+      "BillPayment",
+      "AirtimePurchase",
+      "CashDeposit"
+    ],
+    "acceptedPaymentMethods": [
+      "AccountNumber",
+      "CardTap",
+      "QRCode"
+    ],
+    "totalStores": 54,
+    "activeStores": 51,
+    "storeLocations": [
+      "Dar es Salaam",
+      "Dodoma"
+    ],
+    "monthlyTransactionVolume": 6804154.05,
+    "monthlyTransactionCount": 33809,
+    "averageTransactionSize": 215.96,
+    "commissionRate": 1.5,
+    "monthlyRevenue": 80331.95,
+    "partnershipStartDate": "2025-09-04T18:10:28Z",
+    "status": "Active",
+    "brandColor": "#ee0509",
+    "isIntegrated": true,
+    "lastSyncDate": "2026-03-02T18:10:28Z"
+  }
+]

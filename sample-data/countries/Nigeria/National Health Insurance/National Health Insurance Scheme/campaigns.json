@@ -1,0 +1,41 @@
+[
+  {
+    "campaignId": "cmp400000-0001",
+    "campaignName": "Membership Drive 2025",
+    "campaignType": "Enrollment",
+    "startDate": "2025-01-01",
+    "endDate": "2025-03-31",
+    "targetMembers": 25000,
+    "enrolledMembers": 18000,
+    "budget": 104000000,
+    "currency": "NGN",
+    "status": "Active",
+    "createdAt": "2025-01-01T00:00:00Z"
+  },
+  {
+    "campaignId": "cmp400000-0002",
+    "campaignName": "Health Awareness Month",
+    "campaignType": "Outreach",
+    "startDate": "2025-10-01",
+    "endDate": "2025-10-31",
+    "targetMembers": 50000,
+    "enrolledMembers": 0,
+    "budget": 104000000,
+    "currency": "NGN",
+    "status": "Completed",
+    "createdAt": "2025-10-01T00:00:00Z"
+  },
+  {
+    "campaignId": "cmp400000-0003",
+    "campaignName": "Informal Sector Enrollment",
+    "campaignType": "Enrollment",
+    "startDate": "2025-07-01",
+    "endDate": "2025-09-30",
+    "targetMembers": 15000,
+    "enrolledMembers": 11000,
+    "budget": 104000000,
+    "currency": "NGN",
+    "status": "Completed",
+    "createdAt": "2025-07-01T00:00:00Z"
+  }
+]

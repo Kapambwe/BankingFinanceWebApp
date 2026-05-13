@@ -1,0 +1,62 @@
+[
+  {
+    "idpId": "idp20000-0001-0000-0000-0000000002001",
+    "employeeId": "e2000000-0001-0000-0000-0000000002001",
+    "employeeName": "Kwame Owusu",
+    "developmentProgram": "Health Insurance Management Certification",
+    "department": "Claims Administration",
+    "targetCompletionDate": "2025-06-30",
+    "status": "InProgress",
+    "mentorName": "Ama Asante",
+    "progressNotes": "Development plan for Kwame Owusu in Health Insurance Management Certification.",
+    "createdAt": "2025-01-15T00:00:00Z"
+  },
+  {
+    "idpId": "idp20000-0002-0000-0000-0000000002002",
+    "employeeId": "e2000000-0002-0000-0000-0000000002002",
+    "employeeName": "Abena Asamoah",
+    "developmentProgram": "Claims Analysis Excellence Program",
+    "department": "Claims Administration",
+    "targetCompletionDate": "2025-09-30",
+    "status": "NotStarted",
+    "mentorName": "Akosua Boateng",
+    "progressNotes": "Development plan for Abena Asamoah in Claims Analysis Excellence Program.",
+    "createdAt": "2025-01-15T00:00:00Z"
+  },
+  {
+    "idpId": "idp20000-0003-0000-0000-0000000002003",
+    "employeeId": "e2000000-0003-0000-0000-0000000002003",
+    "employeeName": "Kofi Appiah",
+    "developmentProgram": "Data Analytics for Health Insurance",
+    "department": "Information Technology",
+    "targetCompletionDate": "2025-12-31",
+    "status": "InProgress",
+    "mentorName": "Yaw Owusu",
+    "progressNotes": "Development plan for Kofi Appiah in Data Analytics for Health Insurance.",
+    "createdAt": "2025-01-15T00:00:00Z"
+  },
+  {
+    "idpId": "idp20000-0004-0000-0000-0000000002004",
+    "employeeId": "e2000000-0004-0000-0000-0000000002004",
+    "employeeName": "Ama Ofori",
+    "developmentProgram": "Leadership Development for NHI Managers",
+    "department": "Human Resources",
+    "targetCompletionDate": "2025-08-31",
+    "status": "Completed",
+    "mentorName": "Adjoa Asamoah",
+    "progressNotes": "Development plan for Ama Ofori in Leadership Development for NHI Managers.",
+    "createdAt": "2025-01-15T00:00:00Z"
+  },
+  {
+    "idpId": "idp20000-0005-0000-0000-0000000002005",
+    "employeeId": "e2000000-0005-0000-0000-0000000002005",
+    "employeeName": "Akosua Acheampong",
+    "developmentProgram": "Medical Coding and Billing Fundamentals",
+    "department": "Medical Affairs",
+    "targetCompletionDate": "2025-10-31",
+    "status": "InProgress",
+    "mentorName": "Kwabena Appiah",
+    "progressNotes": "Development plan for Akosua Acheampong in Medical Coding and Billing Fundamentals.",
+    "createdAt": "2025-01-15T00:00:00Z"
+  }
+]

@@ -1,0 +1,93 @@
+[
+  {
+    "description": "Lucro Líquido",
+    "accountCode": "NET",
+    "amount": 1000000000.0,
+    "isSubtotal": false,
+    "category": "Operating"
+  },
+  {
+    "description": "Depreciação e Amortização",
+    "accountCode": "DA",
+    "amount": 185000000.0,
+    "isSubtotal": false,
+    "category": "Operating"
+  },
+  {
+    "description": "Variação em Contas a Receber",
+    "accountCode": "AR",
+    "amount": -450000000.0,
+    "isSubtotal": false,
+    "category": "Operating"
+  },
+  {
+    "description": "Variação em Contas a Pagar",
+    "accountCode": "AP",
+    "amount": 320000000.0,
+    "isSubtotal": false,
+    "category": "Operating"
+  },
+  {
+    "description": "Variação em Depósitos de Clientes",
+    "accountCode": "DEP",
+    "amount": 4500000000.0,
+    "isSubtotal": false,
+    "category": "Operating"
+  },
+  {
+    "description": "Total Fluxo de Caixa Operacional",
+    "accountCode": "OCF",
+    "amount": 5555000000.0,
+    "isSubtotal": true,
+    "category": "Operating"
+  },
+  {
+    "description": "Aquisição de Ativos de TI",
+    "accountCode": "CAPEX-IT",
+    "amount": -1800000000.0,
+    "isSubtotal": false,
+    "category": "Investing"
+  },
+  {
+    "description": "Investimentos em Títulos",
+    "accountCode": "SEC",
+    "amount": -3500000000.0,
+    "isSubtotal": false,
+    "category": "Investing"
+  },
+  {
+    "description": "Total Fluxo de Caixa de Investimento",
+    "accountCode": "ICF",
+    "amount": -5300000000.0,
+    "isSubtotal": true,
+    "category": "Investing"
+  },
+  {
+    "description": "Emissão de Dívida",
+    "accountCode": "DEBT",
+    "amount": 2000000000.0,
+    "isSubtotal": false,
+    "category": "Financing"
+  },
+  {
+    "description": "Pagamento de Dividendos",
+    "accountCode": "DIV",
+    "amount": -200000000.0,
+    "isSubtotal": false,
+    "category": "Financing"
+  },
+  {
+    "description": "Total Fluxo de Caixa de Financiamento",
+    "accountCode": "FCF",
+    "amount": 1800000000.0,
+    "isSubtotal": true,
+    "category": "Financing"
+  },
+  {
+    "description": "Variação Líquida de Caixa",
+    "accountCode": "NETCASH",
+    "amount": 2055000000.0,
+    "isSubtotal": true,
+    "category": "Summary"
+  }
+]

@@ -1,0 +1,202 @@
+﻿[
+    {
+        "userId":  "e219d50d-a883-4598-8e28-0f6b4203c0af",
+        "email":  "actuary.insurance",
+        "username":  "actuary.insurance",
+        "firstName":  "A",
+        "lastName":  "Actuary",
+        "institutionType":  "Insurance",
+        "institutionName":  "Prudential Life Assurance",
+        "institutionId":  "979f0345-203e-41ff-99d8-fe678232ccb4",
+        "roles":  [
+                      "Actuary"
+                  ],
+        "permissions":  [
+
+                        ],
+        "isActive":  true,
+        "isEmailVerified":  true,
+        "isPhoneVerified":  true,
+        "isIdentityVerified":  true,
+        "trustScore":  95,
+        "createdAt":  "2023-09-13T00:00:00Z",
+        "phoneNumber":  "+260977000000",
+        "gender":  "Other",
+        "nationality":  "Zambian"
+    },
+    {
+        "userId":  "eafdcaca-b444-4c68-b41b-d00068ecfcaa",
+        "email":  "bancassuranceofficer.insurance",
+        "username":  "bancassuranceofficer.insurance",
+        "firstName":  "Bancassurance",
+        "lastName":  "Officer",
+        "institutionType":  "Insurance",
+        "institutionName":  "Prudential Life Assurance",
+        "institutionId":  "ff55e561-8884-478e-89bf-228fd99cd638",
+        "roles":  [
+                      "BancassuranceOfficer"
+                  ],
+        "permissions":  [
+
+                        ],
+        "isActive":  true,
+        "isEmailVerified":  true,
+        "isPhoneVerified":  true,
+        "isIdentityVerified":  true,
+        "trustScore":  95,
+        "createdAt":  "2023-09-13T00:00:00Z",
+        "phoneNumber":  "+260977000000",
+        "gender":  "Other",
+        "nationality":  "Zambian"
+    },
+    {
+        "userId":  "04f2c93a-28bf-48a3-885a-aabda573a7d1",
+        "email":  "claimsmanager.insurance",
+        "username":  "claimsmanager.insurance",
+        "firstName":  "Claims",
+        "lastName":  "Manager",
+        "institutionType":  "Insurance",
+        "institutionName":  "Prudential Life Assurance",
+        "institutionId":  "71888abd-798b-45b1-af85-71a3d3deee93",
+        "roles":  [
+                      "ClaimsManager"
+                  ],
+        "permissions":  [
+
+                        ],
+        "isActive":  true,
+        "isEmailVerified":  true,
+        "isPhoneVerified":  true,
+        "isIdentityVerified":  true,
+        "trustScore":  95,
+        "createdAt":  "2023-09-13T00:00:00Z",
+        "phoneNumber":  "+260977000000",
+        "gender":  "Other",
+        "nationality":  "Zambian"
+    },
+    {
+        "userId":  "d4809a28-3c23-4b53-a69b-c6de8339c42a",
+        "email":  "claimsofficer.insurance",
+        "username":  "claimsofficer.insurance",
+        "firstName":  "Claims",
+        "lastName":  "Officer",
+        "institutionType":  "Insurance",
+        "institutionName":  "Prudential Life Assurance",
+        "institutionId":  "9b11aecd-4f8b-41c3-aec1-9d8f8741b667",
+        "roles":  [
+                      "ClaimsOfficer"
+                  ],
+        "permissions":  [
+
+                        ],
+        "isActive":  true,
+        "isEmailVerified":  true,
+        "isPhoneVerified":  true,
+        "isIdentityVerified":  true,
+        "trustScore":  95,
+        "createdAt":  "2023-09-13T00:00:00Z",
+        "phoneNumber":  "+260977000000",
+        "gender":  "Other",
+        "nationality":  "Zambian"
+    },
+    {
+        "userId":  "b9480142-246e-4e02-9bf8-a4ba9de5008f",
+        "email":  "insuranceadmin.insurance",
+        "username":  "insuranceadmin.insurance",
+        "firstName":  "Insurance",
+        "lastName":  "Admin",
+        "institutionType":  "Insurance",
+        "institutionName":  "Prudential Life Assurance",
+        "institutionId":  "410917a1-4f37-4a81-8bc5-5bb4da75aed8",
+        "roles":  [
+                      "InsuranceAdmin"
+                  ],
+        "permissions":  [
+
+                        ],
+        "isActive":  true,
+        "isEmailVerified":  true,
+        "isPhoneVerified":  true,
+        "isIdentityVerified":  true,
+        "trustScore":  95,
+        "createdAt":  "2023-09-13T00:00:00Z",
+        "phoneNumber":  "+260977000000",
+        "gender":  "Other",
+        "nationality":  "Zambian"
+    },
+    {
+        "userId":  "45c806f9-f03d-427f-ab93-7fcd2a8b421e",
+        "email":  "insurancecomplianceofficer.insurance",
+        "username":  "insurancecomplianceofficer.insurance",
+        "firstName":  "Insurance",
+        "lastName":  "Officer",
+        "institutionType":  "Insurance",
+        "institutionName":  "Prudential Life Assurance",
+        "institutionId":  "0ffaaf8c-2ac0-43f7-8bd4-39fdfa20d755",
+        "roles":  [
+                      "InsuranceComplianceOfficer"
+                  ],
+        "permissions":  [
+
+                        ],
+        "isActive":  true,
+        "isEmailVerified":  true,
+        "isPhoneVerified":  true,
+        "isIdentityVerified":  true,
+        "trustScore":  95,
+        "createdAt":  "2023-09-13T00:00:00Z",
+        "phoneNumber":  "+260977000000",
+        "gender":  "Other",
+        "nationality":  "Zambian"
+    },
+    {
+        "userId":  "c1487e47-08be-45a8-8944-6164037c50f5",
+        "email":  "reinsuranceofficer.insurance",
+        "username":  "reinsuranceofficer.insurance",
+        "firstName":  "Reinsurance",
+        "lastName":  "Officer",
+        "institutionType":  "Insurance",
+        "institutionName":  "Prudential Life Assurance",
+        "institutionId":  "5a4a6070-f7ee-444f-b860-31448801ad2e",
+        "roles":  [
+                      "ReinsuranceOfficer"
+                  ],
+        "permissions":  [
+
+                        ],
+        "isActive":  true,
+        "isEmailVerified":  true,
+        "isPhoneVerified":  true,
+        "isIdentityVerified":  true,
+        "trustScore":  95,
+        "createdAt":  "2023-09-13T00:00:00Z",
+        "phoneNumber":  "+260977000000",
+        "gender":  "Other",
+        "nationality":  "Zambian"
+    },
+    {
+        "userId":  "cb86068d-a533-4c0d-8a7a-e215e02b34cd",
+        "email":  "underwriter.insurance",
+        "username":  "underwriter.insurance",
+        "firstName":  "U",
+        "lastName":  "Underwriter",
+        "institutionType":  "Insurance",
+        "institutionName":  "Prudential Life Assurance",
+        "institutionId":  "0fc3c6bf-03d4-4205-bf23-77d6270bd5fc",
+        "roles":  [
+                      "Underwriter"
+                  ],
+        "permissions":  [
+
+                        ],
+        "isActive":  true,
+        "isEmailVerified":  true,
+        "isPhoneVerified":  true,
+        "isIdentityVerified":  true,
+        "trustScore":  95,
+        "createdAt":  "2023-09-13T00:00:00Z",
+        "phoneNumber":  "+260977000000",
+        "gender":  "Other",
+        "nationality":  "Zambian"
+    }
+]

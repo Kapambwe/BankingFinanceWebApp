@@ -1,0 +1,44 @@
+[
+  {
+    "planId": "ma300000-0001-0000-0000-0000000003001",
+    "planName": "Discovery Health Basic Plan",
+    "provider": "Discovery Health",
+    "tierLevel": "Basic",
+    "coverageType": "Individual",
+    "description": "Basic cover",
+    "monthlyPremium": 1025,
+    "employerContribution": 615,
+    "employeeContribution": 410,
+    "currency": "ZAR",
+    "isActive": true,
+    "createdAt": "2025-01-01T00:00:00Z"
+  },
+  {
+    "planId": "ma300000-0002-0000-0000-0000000003002",
+    "planName": "Momentum Health Standard Plan",
+    "provider": "Momentum Health",
+    "tierLevel": "Standard",
+    "coverageType": "Individual + Spouse",
+    "description": "Standard cover",
+    "monthlyPremium": 1640,
+    "employerContribution": 984,
+    "employeeContribution": 656,
+    "currency": "ZAR",
+    "isActive": true,
+    "createdAt": "2025-01-01T00:00:00Z"
+  },
+  {
+    "planId": "ma300000-0003-0000-0000-0000000003003",
+    "planName": "Bonitas Medical Fund Premium Plan",
+    "provider": "Bonitas Medical Fund",
+    "tierLevel": "Premium",
+    "coverageType": "Family",
+    "description": "Comprehensive cover",
+    "monthlyPremium": 2460,
+    "employerContribution": 1476,
+    "employeeContribution": 984,
+    "currency": "ZAR",
+    "isActive": true,
+    "createdAt": "2025-01-01T00:00:00Z"
+  }
+]

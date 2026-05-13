@@ -1,0 +1,162 @@
+[
+  {
+    "partnerId": "RP-SOU-001",
+    "businessName": "Shoprite South Africa Ltd",
+    "brandName": "Shoprite",
+    "partnerType": "Supermarket",
+    "country": "South Africa",
+    "currency": "ZAR",
+    "contactPerson": "Partner Manager 1",
+    "email": "banking@shoprite.so",
+    "phoneNumber": "+659-526-549430",
+    "servicesOffered": [
+      "CashWithdrawal",
+      "CashDeposit",
+      "AirtimePurchase",
+      "MoneyTransfer",
+      "BillPayment"
+    ],
+    "acceptedPaymentMethods": [
+      "AccountNumber",
+      "Cash",
+      "USSD"
+    ],
+    "totalStores": 80,
+    "activeStores": 77,
+    "storeLocations": [
+      "Pretoria",
+      "Johannesburg"
+    ],
+    "monthlyTransactionVolume": 7153348.43,
+    "monthlyTransactionCount": 46795,
+    "averageTransactionSize": 509.72,
+    "commissionRate": 1.9,
+    "monthlyRevenue": 39335.9,
+    "partnershipStartDate": "2023-02-05T18:10:28Z",
+    "status": "PendingApproval",
+    "brandColor": "#7b52e6",
+    "isIntegrated": false,
+    "lastSyncDate": "2026-03-02T18:10:28Z"
+  },
+  {
+    "partnerId": "RP-SOU-002",
+    "businessName": "Pick n Pay South Africa Ltd",
+    "brandName": "Pick n Pay",
+    "partnerType": "Pharmacy",
+    "country": "South Africa",
+    "currency": "ZAR",
+    "contactPerson": "Partner Manager 2",
+    "email": "banking@picknpay.so",
+    "phoneNumber": "+805-795-345110",
+    "servicesOffered": [
+      "CashDeposit",
+      "AccountOpening",
+      "BillPayment",
+      "MoneyTransfer"
+    ],
+    "acceptedPaymentMethods": [
+      "USSD",
+      "AccountNumber"
+    ],
+    "totalStores": 31,
+    "activeStores": 30,
+    "storeLocations": [
+      "Johannesburg",
+      "Cape Town",
+      "Pretoria"
+    ],
+    "monthlyTransactionVolume": 3281173.92,
+    "monthlyTransactionCount": 45543,
+    "averageTransactionSize": 94.03,
+    "commissionRate": 1.9,
+    "monthlyRevenue": 33624.85,
+    "partnershipStartDate": "2025-05-12T18:10:28Z",
+    "status": "PendingApproval",
+    "brandColor": "#361e97",
+    "isIntegrated": true,
+    "lastSyncDate": "2026-03-03T18:10:28Z"
+  },
+  {
+    "partnerId": "RP-SOU-003",
+    "businessName": "Checkers South Africa Ltd",
+    "brandName": "Checkers",
+    "partnerType": "Pharmacy",
+    "country": "South Africa",
+    "currency": "ZAR",
+    "contactPerson": "Partner Manager 3",
+    "email": "banking@checkers.so",
+    "phoneNumber": "+712-709-585882",
+    "servicesOffered": [
+      "AccountOpening",
+      "BillPayment",
+      "LoanPayment",
+      "MoneyTransfer",
+      "CashDeposit",
+      "CashWithdrawal"
+    ],
+    "acceptedPaymentMethods": [
+      "QRCode",
+      "Cash",
+      "PhoneNumber",
+      "USSD"
+    ],
+    "totalStores": 103,
+    "activeStores": 102,
+    "storeLocations": [
+      "Johannesburg",
+      "Pretoria",
+      "Cape Town",
+      "Durban"
+    ],
+    "monthlyTransactionVolume": 5470401.14,
+    "monthlyTransactionCount": 12357,
+    "averageTransactionSize": 172.29,
+    "commissionRate": 0.66,
+    "monthlyRevenue": 42829.38,
+    "partnershipStartDate": "2021-06-24T18:10:28Z",
+    "status": "Active",
+    "brandColor": "#7302f2",
+    "isIntegrated": true,
+    "lastSyncDate": null
+  },
+  {
+    "partnerId": "RP-SOU-004",
+    "businessName": "Spar SA South Africa Ltd",
+    "brandName": "Spar SA",
+    "partnerType": "Supermarket",
+    "country": "South Africa",
+    "currency": "ZAR",
+    "contactPerson": "Partner Manager 4",
+    "email": "banking@sparsa.so",
+    "phoneNumber": "+703-209-543478",
+    "servicesOffered": [
+      "CashDeposit",
+      "BillPayment",
+      "CashWithdrawal",
+      "AccountOpening"
+    ],
+    "acceptedPaymentMethods": [
+      "Cash",
+      "QRCode",
+      "AccountNumber",
+      "USSD"
+    ],
+    "totalStores": 43,
+    "activeStores": 43,
+    "storeLocations": [
+      "Durban",
+      "Pretoria",
+      "Cape Town"
+    ],
+    "monthlyTransactionVolume": 6695537.07,
+    "monthlyTransactionCount": 38322,
+    "averageTransactionSize": 182.09,
+    "commissionRate": 0.7,
+    "monthlyRevenue": 50200.21,
+    "partnershipStartDate": "2025-08-04T18:10:28Z",
+    "status": "PendingApproval",
+    "brandColor": "#f09c2e",
+    "isIntegrated": false,
+    "lastSyncDate": "2026-03-02T18:10:28Z"
+  }
+]

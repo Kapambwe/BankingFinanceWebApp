@@ -1,0 +1,74 @@
+[
+  {
+    "orderId": "CC-ORD-20240108-001",
+    "creditId": "EUE-EN-001",
+    "symbol": "WIND-EU",
+    "side": "Retire",
+    "quantity": 23,
+    "price": 32.7,
+    "totalAmount": 752.1,
+    "purpose": "ESG Portfolio Diversification",
+    "status": "Completed",
+    "timestamp": "2024-01-08T09:00:00Z"
+  },
+  {
+    "orderId": "CC-ORD-20240205-002",
+    "creditId": "EUE-EN-001",
+    "symbol": "WIND-EU",
+    "side": "Buy",
+    "quantity": 78,
+    "price": 32.86,
+    "totalAmount": 2563.08,
+    "purpose": "Social Impact Investment",
+    "status": "Completed",
+    "timestamp": "2024-02-05T08:00:00Z"
+  },
+  {
+    "orderId": "CC-ORD-20240326-003",
+    "creditId": "EUE-EN-002",
+    "symbol": "EFF-EU",
+    "side": "Buy",
+    "quantity": 25,
+    "price": 32.23,
+    "totalAmount": 805.75,
+    "purpose": "ESG Portfolio Diversification",
+    "status": "Completed",
+    "timestamp": "2024-03-26T08:00:00Z"
+  },
+  {
+    "orderId": "CC-ORD-20240417-004",
+    "creditId": "EUE-EN-002",
+    "symbol": "EFF-EU",
+    "side": "Retire",
+    "quantity": 93,
+    "price": 32.26,
+    "totalAmount": 3000.18,
+    "purpose": "Regulatory Compliance",
+    "status": "Completed",
+    "timestamp": "2024-04-17T17:00:00Z"
+  },
+  {
+    "orderId": "CC-ORD-20240506-005",
+    "creditId": "GOL-EN-003",
+    "symbol": "FOREST-EU",
+    "side": "Retire",
+    "quantity": 54,
+    "price": 27.29,
+    "totalAmount": 1473.66,
+    "purpose": "Annual Carbon Neutrality Commitment",
+    "status": "Completed",
+    "timestamp": "2024-05-06T10:00:00Z"
+  },
+  {
+    "orderId": "CC-ORD-20240621-006",
+    "creditId": "GOL-EN-003",
+    "symbol": "FOREST-EU",
+    "side": "Buy",
+    "quantity": 40,
+    "price": 27.17,
+    "totalAmount": 1086.8,
+    "purpose": "Portfolio Investment",
+    "status": "Completed",
+    "timestamp": "2024-06-21T14:00:00Z"
+  }
+]

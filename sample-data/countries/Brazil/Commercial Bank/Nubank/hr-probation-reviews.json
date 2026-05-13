@@ -1,0 +1,26 @@
+[
+  {
+    "probationId": "prb00001-0001-0001-0001-000000000001",
+    "employeeId": "a1b2c3d4-0001-0001-0001-000000000004",
+    "employeeName": "Maria Souza",
+    "hireDate": "2022-05-01",
+    "probationEndDate": "2022-07-31",
+    "reviewDate": "2022-07-28T00:00:00",
+    "outcome": "Confirmed",
+    "reviewedBy": "Guilherme Lago",
+    "comments": "Excelente adaptação e aprendizado rápido. Confirmada efetiva.",
+    "currency": "BRL"
+  },
+  {
+    "probationId": "prb00001-0001-0001-0001-000000000002",
+    "employeeId": "a1b2c3d4-0001-0001-0001-000000000002",
+    "employeeName": "Ana Santos",
+    "hireDate": "2019-03-01",
+    "probationEndDate": "2019-05-31",
+    "reviewDate": "2019-05-28T00:00:00",
+    "outcome": "Confirmed",
+    "reviewedBy": "Cristina Junqueira",
+    "comments": "Performance excepcional no período de experiência.",
+    "currency": "BRL"
+  }
+]

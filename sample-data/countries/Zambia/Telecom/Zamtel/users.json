@@ -1,0 +1,177 @@
+﻿[
+    {
+        "userId":  "88518e78-a096-4566-8b9b-c88694abd4eb",
+        "email":  "channelmanager.telecom",
+        "username":  "channelmanager.telecom",
+        "firstName":  "Channel",
+        "lastName":  "Manager",
+        "institutionType":  "Telecom",
+        "institutionName":  "Zamtel",
+        "institutionId":  "17b0e9ea-5fb6-4052-952f-568645184b1d",
+        "roles":  [
+                      "ChannelManager"
+                  ],
+        "permissions":  [
+
+                        ],
+        "isActive":  true,
+        "isEmailVerified":  true,
+        "isPhoneVerified":  true,
+        "isIdentityVerified":  true,
+        "trustScore":  95,
+        "createdAt":  "2023-09-13T00:00:00Z",
+        "phoneNumber":  "+260977000000",
+        "gender":  "Other",
+        "nationality":  "Zambian"
+    },
+    {
+        "userId":  "4ecd7aed-6c64-4456-9158-64ba8d82570f",
+        "email":  "complianceofficer.telecom",
+        "username":  "complianceofficer.telecom",
+        "firstName":  "Compliance",
+        "lastName":  "Officer",
+        "institutionType":  "Telecom",
+        "institutionName":  "Zamtel",
+        "institutionId":  "ab37e95a-43ae-491f-94f6-5450e66bc67a",
+        "roles":  [
+                      "ComplianceOfficer"
+                  ],
+        "permissions":  [
+
+                        ],
+        "isActive":  true,
+        "isEmailVerified":  true,
+        "isPhoneVerified":  true,
+        "isIdentityVerified":  true,
+        "trustScore":  95,
+        "createdAt":  "2023-09-13T00:00:00Z",
+        "phoneNumber":  "+260977000000",
+        "gender":  "Other",
+        "nationality":  "Zambian"
+    },
+    {
+        "userId":  "748fa802-9119-4047-8c52-d05f7e68aeae",
+        "email":  "customersupport.telecom",
+        "username":  "customersupport.telecom",
+        "firstName":  "Customer",
+        "lastName":  "Support",
+        "institutionType":  "Telecom",
+        "institutionName":  "Zamtel",
+        "institutionId":  "87b8359d-5320-4557-b894-be869d505a1e",
+        "roles":  [
+                      "CustomerSupport"
+                  ],
+        "permissions":  [
+
+                        ],
+        "isActive":  true,
+        "isEmailVerified":  true,
+        "isPhoneVerified":  true,
+        "isIdentityVerified":  true,
+        "trustScore":  95,
+        "createdAt":  "2023-09-13T00:00:00Z",
+        "phoneNumber":  "+260977000000",
+        "gender":  "Other",
+        "nationality":  "Zambian"
+    },
+    {
+        "userId":  "2bad27a1-7203-44b0-8e95-ea7df46feb4a",
+        "email":  "fraudanalyst.telecom",
+        "username":  "fraudanalyst.telecom",
+        "firstName":  "Fraud",
+        "lastName":  "Analyst",
+        "institutionType":  "Telecom",
+        "institutionName":  "Zamtel",
+        "institutionId":  "4d8222b2-c528-45ee-a2f3-0cff93544b43",
+        "roles":  [
+                      "FraudAnalyst"
+                  ],
+        "permissions":  [
+
+                        ],
+        "isActive":  true,
+        "isEmailVerified":  true,
+        "isPhoneVerified":  true,
+        "isIdentityVerified":  true,
+        "trustScore":  95,
+        "createdAt":  "2023-09-13T00:00:00Z",
+        "phoneNumber":  "+260977000000",
+        "gender":  "Other",
+        "nationality":  "Zambian"
+    },
+    {
+        "userId":  "730d40e9-ffaa-4e20-9bd3-349236e4dcf5",
+        "email":  "mobilemoneymanager.telecom",
+        "username":  "mobilemoneymanager.telecom",
+        "firstName":  "Mobile",
+        "lastName":  "Manager",
+        "institutionType":  "Telecom",
+        "institutionName":  "Zamtel",
+        "institutionId":  "04ee36e3-3ba6-4445-b987-00ffd4e2a090",
+        "roles":  [
+                      "MobileMoneyManager"
+                  ],
+        "permissions":  [
+
+                        ],
+        "isActive":  true,
+        "isEmailVerified":  true,
+        "isPhoneVerified":  true,
+        "isIdentityVerified":  true,
+        "trustScore":  95,
+        "createdAt":  "2023-09-13T00:00:00Z",
+        "phoneNumber":  "+260977000000",
+        "gender":  "Other",
+        "nationality":  "Zambian"
+    },
+    {
+        "userId":  "5813e057-b2f4-405c-b9a6-06e8e822ad18",
+        "email":  "paymentsmanager.telecom",
+        "username":  "paymentsmanager.telecom",
+        "firstName":  "Payments",
+        "lastName":  "Manager",
+        "institutionType":  "Telecom",
+        "institutionName":  "Zamtel",
+        "institutionId":  "1909c36d-2cd6-4050-b2f7-3b5b14fbe27a",
+        "roles":  [
+                      "PaymentsManager"
+                  ],
+        "permissions":  [
+
+                        ],
+        "isActive":  true,
+        "isEmailVerified":  true,
+        "isPhoneVerified":  true,
+        "isIdentityVerified":  true,
+        "trustScore":  95,
+        "createdAt":  "2023-09-13T00:00:00Z",
+        "phoneNumber":  "+260977000000",
+        "gender":  "Other",
+        "nationality":  "Zambian"
+    },
+    {
+        "userId":  "08d30df3-1e07-4645-91f9-3aae4c819e92",
+        "email":  "telecomadmin.telecom",
+        "username":  "telecomadmin.telecom",
+        "firstName":  "Telecom",
+        "lastName":  "Admin",
+        "institutionType":  "Telecom",
+        "institutionName":  "Zamtel",
+        "institutionId":  "8e3c0ef3-28ca-4e90-971b-1a165e22457d",
+        "roles":  [
+                      "TelecomAdmin"
+                  ],
+        "permissions":  [
+
+                        ],
+        "isActive":  true,
+        "isEmailVerified":  true,
+        "isPhoneVerified":  true,
+        "isIdentityVerified":  true,
+        "trustScore":  95,
+        "createdAt":  "2023-09-13T00:00:00Z",
+        "phoneNumber":  "+260977000000",
+        "gender":  "Other",
+        "nationality":  "Zambian"
+    }
+]

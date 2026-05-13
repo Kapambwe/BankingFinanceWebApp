@@ -1,0 +1,44 @@
+[
+  {
+    "incidentId": "ic200000-0001-0000-0000-0000000002001",
+    "incidentNumber": "INC-2-2025-001",
+    "incidentType": "IT Security Breach Attempt",
+    "reportedBy": "Ama Ofori",
+    "employeeId": "e2000000-0004-0000-0000-0000000002004",
+    "incidentDate": "2025-03-15",
+    "location": "Accra",
+    "severity": "High",
+    "status": "Resolved",
+    "actionTaken": "Security audit conducted",
+    "closedDate": "2025-04-01",
+    "createdAt": "2025-03-15T00:00:00Z"
+  },
+  {
+    "incidentId": "ic200000-0002-0000-0000-0000000002002",
+    "incidentNumber": "INC-2-2025-002",
+    "incidentType": "Workplace Injury",
+    "reportedBy": "Akosua Acheampong",
+    "employeeId": "e2000000-0005-0000-0000-0000000002005",
+    "incidentDate": "2025-04-16",
+    "location": "Accra",
+    "severity": "Medium",
+    "status": "Under Investigation",
+    "actionTaken": "Medical treatment provided",
+    "closedDate": null,
+    "createdAt": "2025-04-16T00:00:00Z"
+  },
+  {
+    "incidentId": "ic200000-0003-0000-0000-0000000002003",
+    "incidentNumber": "INC-2-2025-003",
+    "incidentType": "Data Privacy Concern",
+    "reportedBy": "Yaw Mensah",
+    "employeeId": "e2000000-0006-0000-0000-0000000002006",
+    "incidentDate": "2025-05-17",
+    "location": "Accra",
+    "severity": "High",
+    "status": "Closed",
+    "actionTaken": "Data breach notification issued",
+    "closedDate": "2025-06-01",
+    "createdAt": "2025-05-17T00:00:00Z"
+  }
+]

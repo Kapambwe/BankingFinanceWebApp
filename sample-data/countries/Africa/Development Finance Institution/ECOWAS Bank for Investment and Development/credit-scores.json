@@ -1,0 +1,5 @@
+[
+  {"customerId":"eb-c001-1234-5678-abcd-ef1234567890","customerName":"Republic of Senegal","creditScore":680,"creditRating":"BB+","riskCategory":"Medium","lastAssessmentDate":"2025-12-01T00:00:00Z","debtToGdpRatio":"68.5%"},
+  {"customerId":"eb-c002-2345-6789-bcde-f12345678901","customerName":"Republic of Mali","creditScore":560,"creditRating":"CCC","riskCategory":"High","lastAssessmentDate":"2025-12-01T00:00:00Z","debtToGdpRatio":"52.1%"},
+  {"customerId":"eb-c003-3456-7890-cdef-123456789012","customerName":"Burkina Faso","creditScore":540,"creditRating":"CCC-","riskCategory":"Very High","lastAssessmentDate":"2025-12-01T00:00:00Z","debtToGdpRatio":"58.3%"}
+]

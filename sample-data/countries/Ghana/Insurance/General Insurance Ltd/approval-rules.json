@@ -1,0 +1,80 @@
+[
+  {
+    "ruleId": 1,
+    "ruleName": "Bills GHS 76,000\u2013760,000 require Operations Manager approval",
+    "type": "Bill",
+    "minAmount": 76000,
+    "maxAmount": 760000,
+    "approverId": "manager@generalinsur.co",
+    "approverName": "Operations Manager",
+    "level": 1,
+    "isActive": true,
+    "autoApproveBelow": false,
+    "notes": "Standard operational expenditure threshold"
+  },
+  {
+    "ruleId": 2,
+    "ruleName": "Bills above GHS 760,000 require Chief Financial Officer approval",
+    "type": "Bill",
+    "minAmount": 760000,
+    "maxAmount": null,
+    "approverId": "cfo@generalinsur.co",
+    "approverName": "Chief Financial Officer",
+    "level": 2,
+    "isActive": true,
+    "autoApproveBelow": false,
+    "notes": "Capital expenditure and large operational bills"
+  },
+  {
+    "ruleId": 3,
+    "ruleName": "Bills above GHS 3,100,000 require Chief Executive Officer approval",
+    "type": "Bill",
+    "minAmount": 3100000,
+    "maxAmount": null,
+    "approverId": "ceo@generalinsur.co",
+    "approverName": "Chief Executive Officer",
+    "level": 3,
+    "isActive": true,
+    "autoApproveBelow": false,
+    "notes": "Strategic vendor contracts and major capital expenditure"
+  },
+  {
+    "ruleId": 4,
+    "ruleName": "Journal entries above GHS 380,000 require Chief Financial Officer approval",
+    "type": "JournalEntry",
+    "minAmount": 380000.0,
+    "maxAmount": null,
+    "approverId": "controller@generalinsur.co",
+    "approverName": "Financial Controller",
+    "level": 1,
+    "isActive": true,
+    "autoApproveBelow": false,
+    "notes": "SOX control \u2014 manual journal entries above threshold"
+  },
+  {
+    "ruleId": 5,
+    "ruleName": "Payments below GHS 38,000 auto-approved",
+    "type": "Payment",
+    "minAmount": 0,
+    "maxAmount": 38000,
+    "approverId": "system@generalinsur.co",
+    "approverName": "System",
+    "level": 1,
+    "isActive": true,
+    "autoApproveBelow": true,
+    "notes": "Petty cash and minor operational payments"
+  },
+  {
+    "ruleId": 6,
+    "ruleName": "Budget changes above GHS 760,000 require Chief Financial Officer approval",
+    "type": "BudgetChange",
+    "minAmount": 760000,
+    "maxAmount": null,
+    "approverId": "cfo@generalinsur.co",
+    "approverName": "Chief Financial Officer",
+    "level": 2,
+    "isActive": true,
+    "autoApproveBelow": false,
+    "notes": "Budget revisions require justification memo"
+  }
+]

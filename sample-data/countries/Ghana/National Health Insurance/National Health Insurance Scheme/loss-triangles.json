@@ -1,0 +1,46 @@
+[
+  {
+    "triangleId": "lt200000-0001",
+    "triangleType": "Paid Claims Development",
+    "periodStart": "2023-01-01",
+    "periodEnd": "2025-12-31",
+    "developmentFactors": [
+      1.35,
+      1.12,
+      1.04,
+      1.01
+    ],
+    "ultimateLoss": 5117.0,
+    "currency": "GHS",
+    "createdAt": "2025-12-31T00:00:00Z"
+  },
+  {
+    "triangleId": "lt200000-0002",
+    "triangleType": "Incurred Claims Development",
+    "periodStart": "2023-01-01",
+    "periodEnd": "2025-12-31",
+    "developmentFactors": [
+      1.2,
+      1.08,
+      1.02,
+      1.0
+    ],
+    "ultimateLoss": 5538.0,
+    "currency": "GHS",
+    "createdAt": "2025-12-31T00:00:00Z"
+  },
+  {
+    "triangleId": "lt200000-0003",
+    "triangleType": "IBNR Development",
+    "periodStart": "2024-01-01",
+    "periodEnd": "2025-12-31",
+    "developmentFactors": [
+      1.45,
+      1.18,
+      1.06
+    ],
+    "ultimateLoss": 1866.0,
+    "currency": "GHS",
+    "createdAt": "2025-12-31T00:00:00Z"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "productId": "ip500000-0001",
+    "productCode": "NHIF-BASIC",
+    "productName": "Basic Benefit Package",
+    "description": "Essential health services including outpatient and emergency care",
+    "monthlyPremium": 3600.0,
+    "annualPremium": 43200.0,
+    "currency": "KES",
+    "coverageType": "Basic",
+    "beneficiaries": 1,
+    "isActive": true,
+    "launchDate": "2025-01-01",
+    "createdAt": "2025-01-01T00:00:00Z"
+  },
+  {
+    "productId": "ip500000-0002",
+    "productCode": "NHIF-STD",
+    "productName": "Standard Benefit Package",
+    "description": "Comprehensive health services including inpatient, outpatient, and specialist care",
+    "monthlyPremium": 6300.0,
+    "annualPremium": 75600.0,
+    "currency": "KES",
+    "coverageType": "Standard",
+    "beneficiaries": 3,
+    "isActive": true,
+    "launchDate": "2025-01-01",
+    "createdAt": "2025-01-01T00:00:00Z"
+  },
+  {
+    "productId": "ip500000-0003",
+    "productCode": "NHIF-ENH",
+    "productName": "Enhanced Benefit Package",
+    "description": "Full health coverage including dental, optical, and chronic disease management",
+    "monthlyPremium": 9000.0,
+    "annualPremium": 108000.0,
+    "currency": "KES",
+    "coverageType": "Enhanced",
+    "beneficiaries": 5,
+    "isActive": true,
+    "launchDate": "2025-01-01",
+    "createdAt": "2025-01-01T00:00:00Z"
+  }
+]

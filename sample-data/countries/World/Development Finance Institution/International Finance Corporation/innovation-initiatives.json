@@ -1,0 +1,212 @@
+[
+  {
+    "initiativeId": "03ad1ef2-6d4e-64dc-5546-a5cad4d90e02",
+    "initiativeName": "India SME Finance Innovation Lab",
+    "institutionName": "International Finance Corporation",
+    "countryCode": "IN",
+    "countryName": "India",
+    "initiativeType": "AcceleratorLab",
+    "thematicFocus": "SME Finance",
+    "budgetAmount": 825000,
+    "currency": "USD",
+    "experimentsOrPilots": 4,
+    "solutionsIdentified": 8,
+    "solutionsScaled": 1,
+    "ecosystemPartners": [
+      "Local universities",
+      "Startup hub",
+      "Government innovation unit",
+      "Private sector association"
+    ],
+    "learningOutputs": [
+      "Pilot report",
+      "Open data dashboard",
+      "Scale-up concept note"
+    ],
+    "isLinkedToInvestmentPipeline": false,
+    "investmentPipelineGenerated": 3000000,
+    "status": "Active",
+    "establishedDate": "2025-02-03T22:00:00Z",
+    "createdAt": "2024-12-31T22:00:00Z"
+  },
+  {
+    "initiativeId": "713e2be5-f031-e1d9-cfb1-6a68887e9c9a",
+    "initiativeName": "Kenya Climate Business Innovation Lab",
+    "institutionName": "International Finance Corporation",
+    "countryCode": "KE",
+    "countryName": "Kenya",
+    "initiativeType": "InnovationChallenge",
+    "thematicFocus": "Climate Business",
+    "budgetAmount": 1000000,
+    "currency": "USD",
+    "experimentsOrPilots": 5,
+    "solutionsIdentified": 10,
+    "solutionsScaled": 2,
+    "ecosystemPartners": [
+      "Local universities",
+      "Startup hub",
+      "Government innovation unit",
+      "Private sector association"
+    ],
+    "learningOutputs": [
+      "Pilot report",
+      "Open data dashboard",
+      "Scale-up concept note"
+    ],
+    "isLinkedToInvestmentPipeline": true,
+    "investmentPipelineGenerated": 4000000,
+    "status": "Scaling",
+    "establishedDate": "2025-03-03T22:00:00Z",
+    "createdAt": "2025-01-01T22:00:00Z"
+  },
+  {
+    "initiativeId": "dbc2b726-4c7b-e6c0-0d34-d306bf2584cb",
+    "initiativeName": "Brazil Agribusiness Innovation Lab",
+    "institutionName": "International Finance Corporation",
+    "countryCode": "BR",
+    "countryName": "Brazil",
+    "initiativeType": "MarketCreationPilot",
+    "thematicFocus": "Agribusiness",
+    "budgetAmount": 1175000,
+    "currency": "USD",
+    "experimentsOrPilots": 6,
+    "solutionsIdentified": 12,
+    "solutionsScaled": 3,
+    "ecosystemPartners": [
+      "Local universities",
+      "Startup hub",
+      "Government innovation unit",
+      "Private sector association"
+    ],
+    "learningOutputs": [
+      "Pilot report",
+      "Open data dashboard",
+      "Scale-up concept note"
+    ],
+    "isLinkedToInvestmentPipeline": false,
+    "investmentPipelineGenerated": 5000000,
+    "status": "Evaluation",
+    "establishedDate": "2025-04-03T22:00:00Z",
+    "createdAt": "2025-01-02T22:00:00Z"
+  },
+  {
+    "initiativeId": "8c4a84f4-2673-987f-366f-adbba576be94",
+    "initiativeName": "Indonesia Digital Finance Innovation Lab",
+    "institutionName": "International Finance Corporation",
+    "countryCode": "ID",
+    "countryName": "Indonesia",
+    "initiativeType": "RegulatoryTestbed",
+    "thematicFocus": "Digital Finance",
+    "budgetAmount": 1350000,
+    "currency": "USD",
+    "experimentsOrPilots": 7,
+    "solutionsIdentified": 14,
+    "solutionsScaled": 0,
+    "ecosystemPartners": [
+      "Local universities",
+      "Startup hub",
+      "Government innovation unit",
+      "Private sector association"
+    ],
+    "learningOutputs": [
+      "Pilot report",
+      "Open data dashboard",
+      "Scale-up concept note"
+    ],
+    "isLinkedToInvestmentPipeline": true,
+    "investmentPipelineGenerated": 6000000,
+    "status": "Design",
+    "establishedDate": "2025-05-03T22:00:00Z",
+    "createdAt": "2025-01-03T22:00:00Z"
+  },
+  {
+    "initiativeId": "88bc2c80-127b-d871-ef9e-2b293e92eedc",
+    "initiativeName": "Vietnam Manufacturing Innovation Lab",
+    "institutionName": "International Finance Corporation",
+    "countryCode": "VN",
+    "countryName": "Vietnam",
+    "initiativeType": "KnowledgeHub",
+    "thematicFocus": "Manufacturing",
+    "budgetAmount": 1525000,
+    "currency": "USD",
+    "experimentsOrPilots": 8,
+    "solutionsIdentified": 16,
+    "solutionsScaled": 1,
+    "ecosystemPartners": [
+      "Local universities",
+      "Startup hub",
+      "Government innovation unit",
+      "Private sector association"
+    ],
+    "learningOutputs": [
+      "Pilot report",
+      "Open data dashboard",
+      "Scale-up concept note"
+    ],
+    "isLinkedToInvestmentPipeline": false,
+    "investmentPipelineGenerated": 7000000,
+    "status": "Completed",
+    "establishedDate": "2025-06-03T22:00:00Z",
+    "createdAt": "2025-01-04T22:00:00Z"
+  },
+  {
+    "initiativeId": "f7a12d11-7572-97f9-505d-7af123387c0c",
+    "initiativeName": "Egypt Health Innovation Lab",
+    "institutionName": "International Finance Corporation",
+    "countryCode": "EG",
+    "countryName": "Egypt",
+    "initiativeType": "EcosystemBuilder",
+    "thematicFocus": "Health",
+    "budgetAmount": 1700000,
+    "currency": "USD",
+    "experimentsOrPilots": 9,
+    "solutionsIdentified": 18,
+    "solutionsScaled": 2,
+    "ecosystemPartners": [
+      "Local universities",
+      "Startup hub",
+      "Government innovation unit",
+      "Private sector association"
+    ],
+    "learningOutputs": [
+      "Pilot report",
+      "Open data dashboard",
+      "Scale-up concept note"
+    ],
+    "isLinkedToInvestmentPipeline": true,
+    "investmentPipelineGenerated": 8000000,
+    "status": "Active",
+    "establishedDate": "2025-07-03T22:00:00Z",
+    "createdAt": "2025-01-05T22:00:00Z"
+  },
+  {
+    "initiativeId": "796af4cf-6534-0941-f491-94fc55e83103",
+    "initiativeName": "Colombia Green Buildings Innovation Lab",
+    "institutionName": "International Finance Corporation",
+    "countryCode": "CO",
+    "countryName": "Colombia",
+    "initiativeType": "ImpactLab",
+    "thematicFocus": "Green Buildings",
+    "budgetAmount": 1875000,
+    "currency": "USD",
+    "experimentsOrPilots": 10,
+    "solutionsIdentified": 20,
+    "solutionsScaled": 3,
+    "ecosystemPartners": [
+      "Local universities",
+      "Startup hub",
+      "Government innovation unit",
+      "Private sector association"
+    ],
+    "learningOutputs": [
+      "Pilot report",
+      "Open data dashboard",
+      "Scale-up concept note"
+    ],
+    "isLinkedToInvestmentPipeline": false,
+    "investmentPipelineGenerated": 9000000,
+    "status": "Scaling",
+    "establishedDate": "2025-08-03T22:00:00Z",
+    "createdAt": "2025-01-06T22:00:00Z"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "reconciliationId": "br100000-0001",
+    "bankName": "Zanaco",
+    "accountNumber": "ACC-100000001",
+    "statementDate": "2025-10-31",
+    "bankBalance": 4.0,
+    "glBalance": 4.0,
+    "outstandingDeposits": 0.0,
+    "outstandingCheques": 0.0,
+    "reconciledBalance": 4.0,
+    "difference": 0,
+    "status": "Reconciled",
+    "currency": "ZMW",
+    "preparedBy": "Mwamba Mutale",
+    "createdAt": "2025-10-31T00:00:00Z"
+  },
+  {
+    "reconciliationId": "br100000-0002",
+    "bankName": "Zanaco",
+    "accountNumber": "ACC-100000002",
+    "statementDate": "2025-11-30",
+    "bankBalance": 4.0,
+    "glBalance": 4.0,
+    "outstandingDeposits": 0.0,
+    "outstandingCheques": 0.0,
+    "reconciledBalance": 4.0,
+    "difference": 0,
+    "status": "Reconciled",
+    "currency": "ZMW",
+    "preparedBy": "Mwamba Mutale",
+    "createdAt": "2025-11-30T00:00:00Z"
+  },
+  {
+    "reconciliationId": "br100000-0003",
+    "bankName": "Zanaco",
+    "accountNumber": "ACC-100000003",
+    "statementDate": "2025-12-31",
+    "bankBalance": 4.0,
+    "glBalance": 4.0,
+    "outstandingDeposits": 0.0,
+    "outstandingCheques": 0.0,
+    "reconciledBalance": 4.0,
+    "difference": 0,
+    "status": "Reconciled",
+    "currency": "ZMW",
+    "preparedBy": "Mwamba Mutale",
+    "createdAt": "2025-12-31T00:00:00Z"
+  }
+]

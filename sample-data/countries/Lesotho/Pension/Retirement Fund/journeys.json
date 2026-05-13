@@ -1,0 +1,227 @@
+[
+  {
+    "id": "journey-pension-contrib",
+    "name": "Contribution Reactivation",
+    "description": "Engage dormant pension contributors",
+    "type": "Lifecycle",
+    "status": "Paused",
+    "updatedAt": "2026-02-13T00:00:00Z",
+    "institutionType": "Pension"
+  },
+  {
+    "id": "journey-retirement-readiness",
+    "name": "Retirement Readiness",
+    "description": "Monthly nudges to boost retirement contributions",
+    "type": "Education",
+    "status": "Published",
+    "updatedAt": "2026-02-21T00:00:00Z",
+    "institutionType": "Pension"
+  },
+  {
+    "id": "journey-pension-new-member",
+    "name": "New Member Welcome",
+    "description": "Welcome and orientation journey for newly registered pension members",
+    "type": "Lifecycle",
+    "status": "Published",
+    "updatedAt": "2026-02-20T00:00:00Z",
+    "institutionType": "Pension"
+  },
+  {
+    "id": "journey-pension-employer-onboard",
+    "name": "Employer Onboarding",
+    "description": "Guide new employers through contribution setup and remittance",
+    "type": "Lifecycle",
+    "status": "Published",
+    "updatedAt": "2026-02-18T00:00:00Z",
+    "institutionType": "Pension"
+  },
+  {
+    "id": "journey-pension-benefit-claim",
+    "name": "Benefit Claim Guidance",
+    "description": "Step-by-step process for members claiming pension benefits",
+    "type": "Service",
+    "status": "Published",
+    "updatedAt": "2026-02-15T00:00:00Z",
+    "institutionType": "Pension"
+  },
+  {
+    "id": "journey-pension-death-benefit",
+    "name": "Death Benefit Claim Support",
+    "description": "Compassionate and administrative support for beneficiaries claiming death benefits",
+    "type": "Service",
+    "status": "Published",
+    "updatedAt": "2026-02-12T00:00:00Z",
+    "institutionType": "Pension"
+  },
+  {
+    "id": "journey-pension-disability",
+    "name": "Disability Benefit Application",
+    "description": "End-to-end support for disability benefit applications",
+    "type": "Service",
+    "status": "Published",
+    "updatedAt": "2026-02-10T00:00:00Z",
+    "institutionType": "Pension"
+  },
+  {
+    "id": "journey-pension-voluntary-top-up",
+    "name": "Voluntary Contribution Top-Up",
+    "description": "Nudge members to increase voluntary contributions quarterly",
+    "type": "Growth",
+    "status": "Published",
+    "updatedAt": "2026-02-08T00:00:00Z",
+    "institutionType": "Pension"
+  },
+  {
+    "id": "journey-pension-transfer-in",
+    "name": "Pension Transfer In",
+    "description": "Facilitate smooth transfer of pension from previous employer",
+    "type": "Lifecycle",
+    "status": "Published",
+    "updatedAt": "2026-02-06T00:00:00Z",
+    "institutionType": "Pension"
+  },
+  {
+    "id": "journey-pension-statement-annual",
+    "name": "Annual Statement Journey",
+    "description": "Annual statement delivery and follow-up engagement",
+    "type": "Lifecycle",
+    "status": "Published",
+    "updatedAt": "2026-02-04T00:00:00Z",
+    "institutionType": "Pension"
+  },
+  {
+    "id": "journey-pension-retirement-5yr",
+    "name": "5-Year Pre-Retirement",
+    "description": "Detailed 5-year countdown journey for approaching retirees",
+    "type": "Lifecycle",
+    "status": "Published",
+    "updatedAt": "2026-02-02T00:00:00Z",
+    "institutionType": "Pension"
+  },
+  {
+    "id": "journey-pension-age-65",
+    "name": "Age 65 Transition",
+    "description": "Triggered journey at age 65 for benefit conversion and payout setup",
+    "type": "Lifecycle",
+    "status": "Published",
+    "updatedAt": "2026-01-30T00:00:00Z",
+    "institutionType": "Pension"
+  },
+  {
+    "id": "journey-pension-missing-docs",
+    "name": "Missing Documents Follow-Up",
+    "description": "Request outstanding documents for pending benefit applications",
+    "type": "Service",
+    "status": "Published",
+    "updatedAt": "2026-01-28T00:00:00Z",
+    "institutionType": "Pension"
+  },
+  {
+    "id": "journey-pension-employer-arrears",
+    "name": "Employer Arrears Resolution",
+    "description": "Outreach to employers with outstanding contribution arrears",
+    "type": "Behavioral",
+    "status": "Paused",
+    "updatedAt": "2026-01-25T00:00:00Z",
+    "institutionType": "Pension"
+  },
+  {
+    "id": "journey-pension-update-kyc",
+    "name": "KYC Update Reminder",
+    "description": "Prompt members to update expired identification and contact details",
+    "type": "Service",
+    "status": "Published",
+    "updatedAt": "2026-01-22T00:00:00Z",
+    "institutionType": "Pension"
+  },
+  {
+    "id": "journey-pension-investment-report",
+    "name": "Investment Performance Report",
+    "description": "Annual fund performance update and investment education",
+    "type": "Education",
+    "status": "Published",
+    "updatedAt": "2026-01-20T00:00:00Z",
+    "institutionType": "Pension"
+  },
+  {
+    "id": "journey-pension-orphan-benefit",
+    "name": "Orphan Benefit Enrolment",
+    "description": "Support families in registering children for orphan benefits",
+    "type": "Service",
+    "status": "Draft",
+    "updatedAt": "2026-01-18T00:00:00Z",
+    "institutionType": "Pension"
+  },
+  {
+    "id": "journey-pension-digital-switch",
+    "name": "Digital Self-Service Switch",
+    "description": "Migrate members from paper-based to digital self-service",
+    "type": "Growth",
+    "status": "Published",
+    "updatedAt": "2026-01-15T00:00:00Z",
+    "institutionType": "Pension"
+  },
+  {
+    "id": "journey-pension-benef-designation",
+    "name": "Beneficiary Designation Reminder",
+    "description": "Recurring annual reminder to review and update beneficiaries",
+    "type": "Lifecycle",
+    "status": "Published",
+    "updatedAt": "2026-01-12T00:00:00Z",
+    "institutionType": "Pension"
+  },
+  {
+    "id": "journey-pension-informal-enrol",
+    "name": "Informal Sector Enrolment",
+    "description": "Guided registration journey for self-employed members",
+    "type": "Growth",
+    "status": "Draft",
+    "updatedAt": "2026-01-10T00:00:00Z",
+    "institutionType": "Pension"
+  },
+  {
+    "id": "journey-pension-complaint",
+    "name": "Complaint Resolution Journey",
+    "description": "Structured journey to resolve member complaints within SLA",
+    "type": "Service",
+    "status": "Published",
+    "updatedAt": "2026-01-08T00:00:00Z",
+    "institutionType": "Pension"
+  },
+  {
+    "id": "journey-pension-app-adoption",
+    "name": "Mobile App Adoption",
+    "description": "Onboard members to mobile app for statement and contribution view",
+    "type": "Growth",
+    "status": "Published",
+    "updatedAt": "2026-01-05T00:00:00Z",
+    "institutionType": "Pension"
+  },
+  {
+    "id": "journey-pension-early-retirement",
+    "name": "Early Retirement Journey",
+    "description": "Process and options for members applying for early retirement",
+    "type": "Service",
+    "status": "Draft",
+    "updatedAt": "2026-01-03T00:00:00Z",
+    "institutionType": "Pension"
+  },
+  {
+    "id": "journey-pension-loan-scheme",
+    "name": "Member Loan Scheme",
+    "description": "Guide members through NAPSA-backed housing or education loan application",
+    "type": "Growth",
+    "status": "Paused",
+    "updatedAt": "2025-12-28T00:00:00Z",
+    "institutionType": "Pension"
+  },
+  {
+    "id": "journey-pension-nps-survey",
+    "name": "Member Satisfaction Survey",
+    "description": "Quarterly NPS survey for pension service quality",
+    "type": "Service",
+    "status": "Published",
+    "updatedAt": "2025-12-25T00:00:00Z",
+    "institutionType": "Pension"
+  }
+]

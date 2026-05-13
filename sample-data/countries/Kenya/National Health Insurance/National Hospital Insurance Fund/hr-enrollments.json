@@ -1,0 +1,67 @@
+[
+  {
+    "enrollmentId": "en500000-0001-0000-0000-0000000005001",
+    "employeeId": "e5000000-0001-0000-0000-0000000005001",
+    "employeeName": "Wanjiku Ndegwa",
+    "courseId": "cr500000-0001-0000-0000-0000000005001",
+    "courseTitle": "Claims Processing & Fraud Detection",
+    "enrollmentDate": "2025-02-01",
+    "completionDate": "2025-03-15",
+    "status": "Completed",
+    "score": 88,
+    "certificateIssued": true,
+    "createdAt": "2025-02-01T00:00:00Z"
+  },
+  {
+    "enrollmentId": "en500000-0002-0000-0000-0000000005002",
+    "employeeId": "e5000000-0002-0000-0000-0000000005002",
+    "employeeName": "Kamau Wanjiku",
+    "courseId": "cr500000-0002-0000-0000-0000000005002",
+    "courseTitle": "Member Enrollment Best Practices",
+    "enrollmentDate": "2025-03-01",
+    "completionDate": "2025-04-15",
+    "status": "Completed",
+    "score": 92,
+    "certificateIssued": true,
+    "createdAt": "2025-03-01T00:00:00Z"
+  },
+  {
+    "enrollmentId": "en500000-0003-0000-0000-0000000005003",
+    "employeeId": "e5000000-0003-0000-0000-0000000005003",
+    "employeeName": "Otieno Kipchoge",
+    "courseId": "cr500000-0003-0000-0000-0000000005003",
+    "courseTitle": "Medical Coding Fundamentals",
+    "enrollmentDate": "2025-04-01",
+    "completionDate": "2025-05-15",
+    "status": "Completed",
+    "score": 79,
+    "certificateIssued": true,
+    "createdAt": "2025-04-01T00:00:00Z"
+  },
+  {
+    "enrollmentId": "en500000-0004-0000-0000-0000000005004",
+    "employeeId": "e5000000-0004-0000-0000-0000000005004",
+    "employeeName": "Achieng Ochieng",
+    "courseId": "cr500000-0004-0000-0000-0000000005004",
+    "courseTitle": "Health Insurance Regulatory Compliance",
+    "enrollmentDate": "2025-05-01",
+    "completionDate": null,
+    "status": "InProgress",
+    "score": null,
+    "certificateIssued": false,
+    "createdAt": "2025-05-01T00:00:00Z"
+  },
+  {
+    "enrollmentId": "en500000-0005-0000-0000-0000000005005",
+    "employeeId": "e5000000-0005-0000-0000-0000000005005",
+    "employeeName": "Mwangi Mutua",
+    "courseId": "cr500000-0005-0000-0000-0000000005005",
+    "courseTitle": "Provider Relations Management",
+    "enrollmentDate": "2025-06-01",
+    "completionDate": null,
+    "status": "Enrolled",
+    "score": null,
+    "certificateIssued": false,
+    "createdAt": "2025-06-01T00:00:00Z"
+  }
+]

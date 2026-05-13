@@ -1,0 +1,639 @@
+[
+  {
+    "mapId": "9815e22e-3258-04cc-ce07-fc06361fc35e",
+    "mapCode": "EIB-KE-IOM-2026-001",
+    "title": "Kenya Renewable Energy Investment Opportunity Map",
+    "producingInstitution": "European Investment Bank",
+    "countryCode": "KE",
+    "countryName": "Kenya",
+    "region": "East Africa",
+    "scope": "Country",
+    "focusSector": "Renewable Energy",
+    "publicationYear": 2026,
+    "totalOpportunitiesIdentified": 9,
+    "totalInvestmentPotentialMin": 43500000,
+    "totalInvestmentPotentialMax": 109500000,
+    "currency": "EUR",
+    "opportunities": [
+      {
+        "opportunityId": "f34be4c1-9977-81ab-6b75-3f4ef2452762",
+        "opportunityName": "Renewable Energy platform investment",
+        "sector": "Renewable Energy",
+        "subSector": "Growth platform",
+        "primaryGoalAlignment": "DecentWork",
+        "secondaryGoalAlignments": [
+          "Partnerships",
+          "ClimateAction"
+        ],
+        "investmentRangeMin": 6000000,
+        "investmentRangeMax": 18000000,
+        "currency": "EUR",
+        "businessModel": "Blended public-private investment",
+        "keyEnablers": [
+          "Policy support",
+          "Anchor demand"
+        ],
+        "barriersToInvestment": [
+          "Preparation cost",
+          "Currency risk"
+        ],
+        "readinessLevel": "Ready",
+        "targetInvestorTypes": [
+          "DFIs",
+          "Impact investors"
+        ],
+        "requiresBlendedFinance": true,
+        "requiresPolicyReform": false
+      },
+      {
+        "opportunityId": "254c474e-9208-e9eb-4582-162d2c697cea",
+        "opportunityName": "Renewable Energy service aggregation",
+        "sector": "Renewable Energy",
+        "subSector": "Service delivery",
+        "primaryGoalAlignment": "Industry",
+        "secondaryGoalAlignments": [
+          "ReducedInequalities"
+        ],
+        "investmentRangeMin": 3800000,
+        "investmentRangeMax": 11600000,
+        "currency": "EUR",
+        "businessModel": "Concession or results-based contract",
+        "keyEnablers": [
+          "Demand aggregation"
+        ],
+        "barriersToInvestment": [
+          "Contract enforcement"
+        ],
+        "readinessLevel": "Developing",
+        "targetInvestorTypes": [
+          "Strategic investors",
+          "Local banks"
+        ],
+        "requiresBlendedFinance": false,
+        "requiresPolicyReform": false
+      }
+    ],
+    "featuredInvestorTypes": [
+      "Development finance institutions",
+      "Commercial banks",
+      "Impact investors",
+      "Strategic operators"
+    ],
+    "keyEnablingConditions": [
+      "Bankable project preparation",
+      "Transparent procurement",
+      "Risk-sharing instruments"
+    ],
+    "leadAnalyst": "Investment mapping team",
+    "status": "Published",
+    "publishedDate": "2026-02-18T22:00:00Z",
+    "lastUpdatedDate": "2026-05-18T22:00:00Z",
+    "createdAt": "2025-12-31T22:00:00Z"
+  },
+  {
+    "mapId": "fde59008-0ea2-09b4-c322-231d54d0ada1",
+    "mapCode": "EIB-MA-IOM-2026-002",
+    "title": "Morocco Water Investment Opportunity Map",
+    "producingInstitution": "European Investment Bank",
+    "countryCode": "MA",
+    "countryName": "Morocco",
+    "region": "North Africa",
+    "scope": "Sector",
+    "focusSector": "Water",
+    "publicationYear": 2026,
+    "totalOpportunitiesIdentified": 10,
+    "totalInvestmentPotentialMin": 52000000,
+    "totalInvestmentPotentialMax": 124000000,
+    "currency": "EUR",
+    "opportunities": [
+      {
+        "opportunityId": "889f68ab-ed04-a03c-fec5-a8d506c0afc4",
+        "opportunityName": "Water platform investment",
+        "sector": "Water",
+        "subSector": "Growth platform",
+        "primaryGoalAlignment": "DecentWork",
+        "secondaryGoalAlignments": [
+          "Partnerships",
+          "ClimateAction"
+        ],
+        "investmentRangeMin": 7000000,
+        "investmentRangeMax": 20000000,
+        "currency": "EUR",
+        "businessModel": "Blended public-private investment",
+        "keyEnablers": [
+          "Policy support",
+          "Anchor demand"
+        ],
+        "barriersToInvestment": [
+          "Preparation cost",
+          "Currency risk"
+        ],
+        "readinessLevel": "Ready",
+        "targetInvestorTypes": [
+          "DFIs",
+          "Impact investors"
+        ],
+        "requiresBlendedFinance": true,
+        "requiresPolicyReform": true
+      },
+      {
+        "opportunityId": "b85f5bb7-5646-4ed9-958d-afefa59c45c5",
+        "opportunityName": "Water service aggregation",
+        "sector": "Water",
+        "subSector": "Service delivery",
+        "primaryGoalAlignment": "Industry",
+        "secondaryGoalAlignments": [
+          "ReducedInequalities"
+        ],
+        "investmentRangeMin": 4600000,
+        "investmentRangeMax": 13200000,
+        "currency": "EUR",
+        "businessModel": "Concession or results-based contract",
+        "keyEnablers": [
+          "Demand aggregation"
+        ],
+        "barriersToInvestment": [
+          "Contract enforcement"
+        ],
+        "readinessLevel": "Developing",
+        "targetInvestorTypes": [
+          "Strategic investors",
+          "Local banks"
+        ],
+        "requiresBlendedFinance": false,
+        "requiresPolicyReform": false
+      }
+    ],
+    "featuredInvestorTypes": [
+      "Development finance institutions",
+      "Commercial banks",
+      "Impact investors",
+      "Strategic operators"
+    ],
+    "keyEnablingConditions": [
+      "Bankable project preparation",
+      "Transparent procurement",
+      "Risk-sharing instruments"
+    ],
+    "leadAnalyst": "Market creation unit",
+    "status": "PeerReview",
+    "publishedDate": "2026-03-18T22:00:00Z",
+    "lastUpdatedDate": "2026-06-18T22:00:00Z",
+    "createdAt": "2026-01-01T22:00:00Z"
+  },
+  {
+    "mapId": "4263af7b-bc21-f4fe-b525-43f3007ece17",
+    "mapCode": "EIB-JO-IOM-2026-003",
+    "title": "Jordan Urban Mobility Investment Opportunity Map",
+    "producingInstitution": "European Investment Bank",
+    "countryCode": "JO",
+    "countryName": "Jordan",
+    "region": "Middle East",
+    "scope": "Regional",
+    "focusSector": "Urban Mobility",
+    "publicationYear": 2026,
+    "totalOpportunitiesIdentified": 11,
+    "totalInvestmentPotentialMin": 60500000,
+    "totalInvestmentPotentialMax": 138500000,
+    "currency": "EUR",
+    "opportunities": [
+      {
+        "opportunityId": "b0ca9329-e2bf-1277-c85d-1370d04daf3d",
+        "opportunityName": "Urban Mobility platform investment",
+        "sector": "Urban Mobility",
+        "subSector": "Growth platform",
+        "primaryGoalAlignment": "DecentWork",
+        "secondaryGoalAlignments": [
+          "Partnerships",
+          "ClimateAction"
+        ],
+        "investmentRangeMin": 8000000,
+        "investmentRangeMax": 22000000,
+        "currency": "EUR",
+        "businessModel": "Blended public-private investment",
+        "keyEnablers": [
+          "Policy support",
+          "Anchor demand"
+        ],
+        "barriersToInvestment": [
+          "Preparation cost",
+          "Currency risk"
+        ],
+        "readinessLevel": "Ready",
+        "targetInvestorTypes": [
+          "DFIs",
+          "Impact investors"
+        ],
+        "requiresBlendedFinance": true,
+        "requiresPolicyReform": false
+      },
+      {
+        "opportunityId": "d008fb81-e3dd-e2cb-0d89-a8f7abf09d3a",
+        "opportunityName": "Urban Mobility service aggregation",
+        "sector": "Urban Mobility",
+        "subSector": "Service delivery",
+        "primaryGoalAlignment": "Industry",
+        "secondaryGoalAlignments": [
+          "ReducedInequalities"
+        ],
+        "investmentRangeMin": 5400000,
+        "investmentRangeMax": 14800000,
+        "currency": "EUR",
+        "businessModel": "Concession or results-based contract",
+        "keyEnablers": [
+          "Demand aggregation"
+        ],
+        "barriersToInvestment": [
+          "Contract enforcement"
+        ],
+        "readinessLevel": "Developing",
+        "targetInvestorTypes": [
+          "Strategic investors",
+          "Local banks"
+        ],
+        "requiresBlendedFinance": true,
+        "requiresPolicyReform": false
+      }
+    ],
+    "featuredInvestorTypes": [
+      "Development finance institutions",
+      "Commercial banks",
+      "Impact investors",
+      "Strategic operators"
+    ],
+    "keyEnablingConditions": [
+      "Bankable project preparation",
+      "Transparent procurement",
+      "Risk-sharing instruments"
+    ],
+    "leadAnalyst": "Sector economist",
+    "status": "Draft",
+    "publishedDate": "2026-04-18T22:00:00Z",
+    "lastUpdatedDate": "2026-07-18T22:00:00Z",
+    "createdAt": "2026-01-02T22:00:00Z"
+  },
+  {
+    "mapId": "904e28a6-96a0-365a-eab3-ab771cfb24ec",
+    "mapCode": "EIB-UA-IOM-2026-004",
+    "title": "Ukraine Health Infrastructure Investment Opportunity Map",
+    "producingInstitution": "European Investment Bank",
+    "countryCode": "UA",
+    "countryName": "Ukraine",
+    "region": "Europe",
+    "scope": "ThematicCrossCutting",
+    "focusSector": "Health Infrastructure",
+    "publicationYear": 2026,
+    "totalOpportunitiesIdentified": 12,
+    "totalInvestmentPotentialMin": 69000000,
+    "totalInvestmentPotentialMax": 153000000,
+    "currency": "EUR",
+    "opportunities": [
+      {
+        "opportunityId": "f06403fb-c3f5-eec0-5a4d-b5d1eb01a6ef",
+        "opportunityName": "Health Infrastructure platform investment",
+        "sector": "Health Infrastructure",
+        "subSector": "Growth platform",
+        "primaryGoalAlignment": "DecentWork",
+        "secondaryGoalAlignments": [
+          "Partnerships",
+          "ClimateAction"
+        ],
+        "investmentRangeMin": 9000000,
+        "investmentRangeMax": 24000000,
+        "currency": "EUR",
+        "businessModel": "Blended public-private investment",
+        "keyEnablers": [
+          "Policy support",
+          "Anchor demand"
+        ],
+        "barriersToInvestment": [
+          "Preparation cost",
+          "Currency risk"
+        ],
+        "readinessLevel": "Ready",
+        "targetInvestorTypes": [
+          "DFIs",
+          "Impact investors"
+        ],
+        "requiresBlendedFinance": true,
+        "requiresPolicyReform": true
+      },
+      {
+        "opportunityId": "27071654-16b9-b49f-e927-211782bb8351",
+        "opportunityName": "Health Infrastructure service aggregation",
+        "sector": "Health Infrastructure",
+        "subSector": "Service delivery",
+        "primaryGoalAlignment": "Industry",
+        "secondaryGoalAlignments": [
+          "ReducedInequalities"
+        ],
+        "investmentRangeMin": 6200000,
+        "investmentRangeMax": 16400000,
+        "currency": "EUR",
+        "businessModel": "Concession or results-based contract",
+        "keyEnablers": [
+          "Demand aggregation"
+        ],
+        "barriersToInvestment": [
+          "Contract enforcement"
+        ],
+        "readinessLevel": "Developing",
+        "targetInvestorTypes": [
+          "Strategic investors",
+          "Local banks"
+        ],
+        "requiresBlendedFinance": false,
+        "requiresPolicyReform": false
+      }
+    ],
+    "featuredInvestorTypes": [
+      "Development finance institutions",
+      "Commercial banks",
+      "Impact investors",
+      "Strategic operators"
+    ],
+    "keyEnablingConditions": [
+      "Bankable project preparation",
+      "Transparent procurement",
+      "Risk-sharing instruments"
+    ],
+    "leadAnalyst": "Country investment desk",
+    "status": "UpdateInProgress",
+    "publishedDate": "2026-05-18T22:00:00Z",
+    "lastUpdatedDate": "2026-08-18T22:00:00Z",
+    "createdAt": "2026-01-03T22:00:00Z"
+  },
+  {
+    "mapId": "68be77f0-6861-5ea4-bf04-c00bdf3adbbf",
+    "mapCode": "EIB-SN-IOM-2026-005",
+    "title": "Senegal SME Credit Investment Opportunity Map",
+    "producingInstitution": "European Investment Bank",
+    "countryCode": "SN",
+    "countryName": "Senegal",
+    "region": "West Africa",
+    "scope": "Country",
+    "focusSector": "SME Credit",
+    "publicationYear": 2026,
+    "totalOpportunitiesIdentified": 13,
+    "totalInvestmentPotentialMin": 77500000,
+    "totalInvestmentPotentialMax": 167500000,
+    "currency": "EUR",
+    "opportunities": [
+      {
+        "opportunityId": "918ed992-7afa-15bd-a1de-320b64591435",
+        "opportunityName": "SME Credit platform investment",
+        "sector": "SME Credit",
+        "subSector": "Growth platform",
+        "primaryGoalAlignment": "DecentWork",
+        "secondaryGoalAlignments": [
+          "Partnerships",
+          "ClimateAction"
+        ],
+        "investmentRangeMin": 10000000,
+        "investmentRangeMax": 26000000,
+        "currency": "EUR",
+        "businessModel": "Blended public-private investment",
+        "keyEnablers": [
+          "Policy support",
+          "Anchor demand"
+        ],
+        "barriersToInvestment": [
+          "Preparation cost",
+          "Currency risk"
+        ],
+        "readinessLevel": "Ready",
+        "targetInvestorTypes": [
+          "DFIs",
+          "Impact investors"
+        ],
+        "requiresBlendedFinance": true,
+        "requiresPolicyReform": false
+      },
+      {
+        "opportunityId": "9ae190f8-fdc1-8505-c662-aef7669d1cf1",
+        "opportunityName": "SME Credit service aggregation",
+        "sector": "SME Credit",
+        "subSector": "Service delivery",
+        "primaryGoalAlignment": "Industry",
+        "secondaryGoalAlignments": [
+          "ReducedInequalities"
+        ],
+        "investmentRangeMin": 7000000,
+        "investmentRangeMax": 18000000,
+        "currency": "EUR",
+        "businessModel": "Concession or results-based contract",
+        "keyEnablers": [
+          "Demand aggregation"
+        ],
+        "barriersToInvestment": [
+          "Contract enforcement"
+        ],
+        "readinessLevel": "Developing",
+        "targetInvestorTypes": [
+          "Strategic investors",
+          "Local banks"
+        ],
+        "requiresBlendedFinance": false,
+        "requiresPolicyReform": false
+      }
+    ],
+    "featuredInvestorTypes": [
+      "Development finance institutions",
+      "Commercial banks",
+      "Impact investors",
+      "Strategic operators"
+    ],
+    "keyEnablingConditions": [
+      "Bankable project preparation",
+      "Transparent procurement",
+      "Risk-sharing instruments"
+    ],
+    "leadAnalyst": "Private sector specialist",
+    "status": "Published",
+    "publishedDate": "2026-06-18T22:00:00Z",
+    "lastUpdatedDate": "2026-09-18T22:00:00Z",
+    "createdAt": "2026-01-04T22:00:00Z"
+  },
+  {
+    "mapId": "a18dbbb2-73ae-0718-7d4c-468278a01644",
+    "mapCode": "EIB-EG-IOM-2026-006",
+    "title": "Egypt Climate Adaptation Investment Opportunity Map",
+    "producingInstitution": "European Investment Bank",
+    "countryCode": "EG",
+    "countryName": "Egypt",
+    "region": "North Africa",
+    "scope": "SubNational",
+    "focusSector": "Climate Adaptation",
+    "publicationYear": 2026,
+    "totalOpportunitiesIdentified": 14,
+    "totalInvestmentPotentialMin": 86000000,
+    "totalInvestmentPotentialMax": 182000000,
+    "currency": "EUR",
+    "opportunities": [
+      {
+        "opportunityId": "c90eb87e-05dc-b124-492b-82b4a6a727ba",
+        "opportunityName": "Climate Adaptation platform investment",
+        "sector": "Climate Adaptation",
+        "subSector": "Growth platform",
+        "primaryGoalAlignment": "DecentWork",
+        "secondaryGoalAlignments": [
+          "Partnerships",
+          "ClimateAction"
+        ],
+        "investmentRangeMin": 11000000,
+        "investmentRangeMax": 28000000,
+        "currency": "EUR",
+        "businessModel": "Blended public-private investment",
+        "keyEnablers": [
+          "Policy support",
+          "Anchor demand"
+        ],
+        "barriersToInvestment": [
+          "Preparation cost",
+          "Currency risk"
+        ],
+        "readinessLevel": "Ready",
+        "targetInvestorTypes": [
+          "DFIs",
+          "Impact investors"
+        ],
+        "requiresBlendedFinance": true,
+        "requiresPolicyReform": true
+      },
+      {
+        "opportunityId": "a880ecc1-63fb-52fc-74c8-9476ae69c5b5",
+        "opportunityName": "Climate Adaptation service aggregation",
+        "sector": "Climate Adaptation",
+        "subSector": "Service delivery",
+        "primaryGoalAlignment": "Industry",
+        "secondaryGoalAlignments": [
+          "ReducedInequalities"
+        ],
+        "investmentRangeMin": 7800000,
+        "investmentRangeMax": 19600000,
+        "currency": "EUR",
+        "businessModel": "Concession or results-based contract",
+        "keyEnablers": [
+          "Demand aggregation"
+        ],
+        "barriersToInvestment": [
+          "Contract enforcement"
+        ],
+        "readinessLevel": "Developing",
+        "targetInvestorTypes": [
+          "Strategic investors",
+          "Local banks"
+        ],
+        "requiresBlendedFinance": true,
+        "requiresPolicyReform": false
+      }
+    ],
+    "featuredInvestorTypes": [
+      "Development finance institutions",
+      "Commercial banks",
+      "Impact investors",
+      "Strategic operators"
+    ],
+    "keyEnablingConditions": [
+      "Bankable project preparation",
+      "Transparent procurement",
+      "Risk-sharing instruments"
+    ],
+    "leadAnalyst": "Climate investment analyst",
+    "status": "Published",
+    "publishedDate": "2026-07-18T22:00:00Z",
+    "lastUpdatedDate": "2026-10-18T22:00:00Z",
+    "createdAt": "2026-01-05T22:00:00Z"
+  },
+  {
+    "mapId": "a3fb758f-624d-6082-9f8f-410989b1820d",
+    "mapCode": "EIB-TN-IOM-2026-007",
+    "title": "Tunisia Digital Connectivity Investment Opportunity Map",
+    "producingInstitution": "European Investment Bank",
+    "countryCode": "TN",
+    "countryName": "Tunisia",
+    "region": "North Africa",
+    "scope": "Sector",
+    "focusSector": "Digital Connectivity",
+    "publicationYear": 2026,
+    "totalOpportunitiesIdentified": 15,
+    "totalInvestmentPotentialMin": 94500000,
+    "totalInvestmentPotentialMax": 196500000,
+    "currency": "EUR",
+    "opportunities": [
+      {
+        "opportunityId": "2d10776a-7710-a2d0-2b94-6fa4a130ff15",
+        "opportunityName": "Digital Connectivity platform investment",
+        "sector": "Digital Connectivity",
+        "subSector": "Growth platform",
+        "primaryGoalAlignment": "DecentWork",
+        "secondaryGoalAlignments": [
+          "Partnerships",
+          "ClimateAction"
+        ],
+        "investmentRangeMin": 12000000,
+        "investmentRangeMax": 30000000,
+        "currency": "EUR",
+        "businessModel": "Blended public-private investment",
+        "keyEnablers": [
+          "Policy support",
+          "Anchor demand"
+        ],
+        "barriersToInvestment": [
+          "Preparation cost",
+          "Currency risk"
+        ],
+        "readinessLevel": "Ready",
+        "targetInvestorTypes": [
+          "DFIs",
+          "Impact investors"
+        ],
+        "requiresBlendedFinance": true,
+        "requiresPolicyReform": false
+      },
+      {
+        "opportunityId": "d27ec01a-5f1a-4010-6261-004ea36d2671",
+        "opportunityName": "Digital Connectivity service aggregation",
+        "sector": "Digital Connectivity",
+        "subSector": "Service delivery",
+        "primaryGoalAlignment": "Industry",
+        "secondaryGoalAlignments": [
+          "ReducedInequalities"
+        ],
+        "investmentRangeMin": 8600000,
+        "investmentRangeMax": 21200000,
+        "currency": "EUR",
+        "businessModel": "Concession or results-based contract",
+        "keyEnablers": [
+          "Demand aggregation"
+        ],
+        "barriersToInvestment": [
+          "Contract enforcement"
+        ],
+        "readinessLevel": "Developing",
+        "targetInvestorTypes": [
+          "Strategic investors",
+          "Local banks"
+        ],
+        "requiresBlendedFinance": false,
+        "requiresPolicyReform": false
+      }
+    ],
+    "featuredInvestorTypes": [
+      "Development finance institutions",
+      "Commercial banks",
+      "Impact investors",
+      "Strategic operators"
+    ],
+    "keyEnablingConditions": [
+      "Bankable project preparation",
+      "Transparent procurement",
+      "Risk-sharing instruments"
+    ],
+    "leadAnalyst": "Agriculture investment lead",
+    "status": "Archived",
+    "publishedDate": "2026-08-18T22:00:00Z",
+    "lastUpdatedDate": "2026-11-18T22:00:00Z",
+    "createdAt": "2026-01-06T22:00:00Z"
+  }
+]

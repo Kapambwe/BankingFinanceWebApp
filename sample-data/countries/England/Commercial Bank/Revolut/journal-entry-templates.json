@@ -1,0 +1,122 @@
+[
+  {
+    "jeTemplateId": 1,
+    "templateName": "Monthly Salary Accrual",
+    "templateCode": "TMPL-JE-001",
+    "category": "Payroll",
+    "description": "DR Salaries / CR Accrued Liabilities",
+    "entryType": "Accrual",
+    "isStandard": true,
+    "usageCount": 24,
+    "lastUsed": "2026-02-28T00:00:00Z",
+    "createdBy": "Charlotte Evans",
+    "lines": [
+      {
+        "accountCode": "5010",
+        "description": "Salaries and Wages",
+        "side": "Debit"
+      },
+      {
+        "accountCode": "2030",
+        "description": "Accrued Expenses",
+        "side": "Credit"
+      }
+    ]
+  },
+  {
+    "jeTemplateId": 2,
+    "templateName": "Subscription Revenue Recognition",
+    "templateCode": "TMPL-JE-002",
+    "category": "Revenue",
+    "description": "DR Deferred Revenue / CR Subscription Revenue",
+    "entryType": "Revenue",
+    "isStandard": true,
+    "usageCount": 12,
+    "lastUsed": "2026-02-28T00:00:00Z",
+    "createdBy": "Sophie Brown",
+    "lines": [
+      {
+        "accountCode": "2060",
+        "description": "Deferred Revenue",
+        "side": "Debit"
+      },
+      {
+        "accountCode": "4010",
+        "description": "Subscription Revenue",
+        "side": "Credit"
+      }
+    ]
+  },
+  {
+    "jeTemplateId": 3,
+    "templateName": "Monthly Depreciation",
+    "templateCode": "TMPL-JE-003",
+    "category": "Assets",
+    "description": "DR Depreciation Expense / CR Accumulated Depreciation",
+    "entryType": "Depreciation",
+    "isStandard": true,
+    "usageCount": 24,
+    "lastUsed": "2026-02-28T00:00:00Z",
+    "createdBy": "Charlotte Evans",
+    "lines": [
+      {
+        "accountCode": "5030",
+        "description": "Depreciation and Amortisation",
+        "side": "Debit"
+      },
+      {
+        "accountCode": "1115",
+        "description": "Accumulated Depreciation",
+        "side": "Credit"
+      }
+    ]
+  },
+  {
+    "jeTemplateId": 4,
+    "templateName": "FX Revaluation",
+    "templateCode": "TMPL-JE-004",
+    "category": "Treasury",
+    "description": "DR/CR FX Revaluation Account",
+    "entryType": "Revaluation",
+    "isStandard": false,
+    "usageCount": 12,
+    "lastUsed": "2026-02-15T00:00:00Z",
+    "createdBy": "Harry Taylor",
+    "lines": [
+      {
+        "accountCode": "1085",
+        "description": "FX Position Account",
+        "side": "Debit"
+      },
+      {
+        "accountCode": "4035",
+        "description": "FX Revaluation Gain/Loss",
+        "side": "Credit"
+      }
+    ]
+  },
+  {
+    "jeTemplateId": 5,
+    "templateName": "Loan Interest Accrual",
+    "templateCode": "TMPL-JE-005",
+    "category": "Treasury",
+    "description": "DR Interest Receivable / CR Interest Income",
+    "entryType": "Accrual",
+    "isStandard": true,
+    "usageCount": 12,
+    "lastUsed": "2026-02-28T00:00:00Z",
+    "createdBy": "Charlotte Evans",
+    "lines": [
+      {
+        "accountCode": "1045",
+        "description": "Accrued Interest Receivable",
+        "side": "Debit"
+      },
+      {
+        "accountCode": "4050",
+        "description": "Interest Income",
+        "side": "Credit"
+      }
+    ]
+  }
+]

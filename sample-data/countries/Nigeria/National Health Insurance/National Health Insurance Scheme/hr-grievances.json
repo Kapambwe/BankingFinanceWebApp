@@ -1,0 +1,41 @@
+[
+  {
+    "grievanceId": "gr400000-0001-0000-0000-0000000004001",
+    "grievanceNumber": "GRIEV-4-2025-001",
+    "employeeId": "e4000000-0003-0000-0000-0000000004003",
+    "employeeName": "Tunde Eze",
+    "category": "Working Conditions",
+    "description": "Grievance raised by Tunde Eze regarding working conditions.",
+    "filingDate": "2025-04-10",
+    "status": "Resolved",
+    "resolvedDate": "2025-06-30",
+    "hrOfficer": "Amaka Abiodun",
+    "createdAt": "2025-04-10T00:00:00Z"
+  },
+  {
+    "grievanceId": "gr400000-0002-0000-0000-0000000004002",
+    "grievanceNumber": "GRIEV-4-2025-002",
+    "employeeId": "e4000000-0004-0000-0000-0000000004004",
+    "employeeName": "Ngozi Chukwu",
+    "category": "Pay Dispute",
+    "description": "Grievance raised by Ngozi Chukwu regarding pay dispute.",
+    "filingDate": "2025-05-11",
+    "status": "Under Investigation",
+    "resolvedDate": null,
+    "hrOfficer": "Tunde Eze",
+    "createdAt": "2025-05-11T00:00:00Z"
+  },
+  {
+    "grievanceId": "gr400000-0003-0000-0000-0000000004003",
+    "grievanceNumber": "GRIEV-4-2025-003",
+    "employeeId": "e4000000-0005-0000-0000-0000000004005",
+    "employeeName": "Emeka Ibrahim",
+    "category": "Harassment",
+    "description": "Grievance raised by Emeka Ibrahim regarding harassment.",
+    "filingDate": "2025-06-12",
+    "status": "Mediation",
+    "resolvedDate": null,
+    "hrOfficer": "Ngozi Chukwu",
+    "createdAt": "2025-06-12T00:00:00Z"
+  }
+]

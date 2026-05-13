@@ -1,0 +1,261 @@
+[
+  {
+    "noteId": "aa38056d-8513-4ea8-aa99-5c4a5e947d83",
+    "noteCode": "AFC-NG-SIN-2026-001",
+    "title": "Nigeria Power Sector Investment Note",
+    "producingInstitution": "Africa Finance Corporation",
+    "countryCode": "NG",
+    "countryName": "Nigeria",
+    "sector": "Power",
+    "subSector": "Upstream pipeline",
+    "targetAudience": "MDB operations, government counterparts and co-financing partners",
+    "estimatedInvestmentNeed": 64000000,
+    "currency": "USD",
+    "investmentPriorities": [
+      "Prepare investable project pipeline",
+      "Mobilise concessional and private finance",
+      "Strengthen implementation capacity"
+    ],
+    "financingGapsIdentified": [
+      "Early-stage preparation funding",
+      "Local currency long-term finance",
+      "Guarantee coverage"
+    ],
+    "policyConstraints": [
+      "Lengthy approvals",
+      "Tariff or pricing uncertainty",
+      "Data limitations"
+    ],
+    "recommendedInterventions": [
+      "Project preparation facility",
+      "Risk-sharing instrument",
+      "Policy dialogue and technical assistance"
+    ],
+    "authorLead": "Sector economist",
+    "status": "Published",
+    "preparedDate": "2026-02-20T22:00:00Z",
+    "createdAt": "2025-12-31T22:00:00Z"
+  },
+  {
+    "noteId": "682217ca-a0c4-e0a6-09cc-18936e907e33",
+    "noteCode": "AFC-GH-SIN-2026-002",
+    "title": "Ghana Ports and Logistics Sector Investment Note",
+    "producingInstitution": "Africa Finance Corporation",
+    "countryCode": "GH",
+    "countryName": "Ghana",
+    "sector": "Ports and Logistics",
+    "subSector": "Last-mile delivery",
+    "targetAudience": "MDB operations, government counterparts and co-financing partners",
+    "estimatedInvestmentNeed": 73000000,
+    "currency": "USD",
+    "investmentPriorities": [
+      "Prepare investable project pipeline",
+      "Mobilise concessional and private finance",
+      "Strengthen implementation capacity"
+    ],
+    "financingGapsIdentified": [
+      "Early-stage preparation funding",
+      "Local currency long-term finance",
+      "Guarantee coverage"
+    ],
+    "policyConstraints": [
+      "Lengthy approvals",
+      "Tariff or pricing uncertainty",
+      "Data limitations"
+    ],
+    "recommendedInterventions": [
+      "Project preparation facility",
+      "Risk-sharing instrument",
+      "Policy dialogue and technical assistance"
+    ],
+    "authorLead": "Investment officer",
+    "status": "PeerReview",
+    "preparedDate": "2026-03-20T22:00:00Z",
+    "createdAt": "2026-01-01T22:00:00Z"
+  },
+  {
+    "noteId": "5389a4a5-bf86-6dde-8b58-2cef45cae2ba",
+    "noteCode": "AFC-KE-SIN-2026-003",
+    "title": "Kenya Rail Sector Investment Note",
+    "producingInstitution": "Africa Finance Corporation",
+    "countryCode": "KE",
+    "countryName": "Kenya",
+    "sector": "Rail",
+    "subSector": "Policy reform",
+    "targetAudience": "MDB operations, government counterparts and co-financing partners",
+    "estimatedInvestmentNeed": 82000000,
+    "currency": "USD",
+    "investmentPriorities": [
+      "Prepare investable project pipeline",
+      "Mobilise concessional and private finance",
+      "Strengthen implementation capacity"
+    ],
+    "financingGapsIdentified": [
+      "Early-stage preparation funding",
+      "Local currency long-term finance",
+      "Guarantee coverage"
+    ],
+    "policyConstraints": [
+      "Lengthy approvals",
+      "Tariff or pricing uncertainty",
+      "Data limitations"
+    ],
+    "recommendedInterventions": [
+      "Project preparation facility",
+      "Risk-sharing instrument",
+      "Policy dialogue and technical assistance"
+    ],
+    "authorLead": "Country economist",
+    "status": "Draft",
+    "preparedDate": "2026-04-20T22:00:00Z",
+    "createdAt": "2026-01-02T22:00:00Z"
+  },
+  {
+    "noteId": "218a7248-efb6-c096-f5c1-06fa99bd02ba",
+    "noteCode": "AFC-EG-SIN-2026-004",
+    "title": "Egypt Industrial Parks Sector Investment Note",
+    "producingInstitution": "Africa Finance Corporation",
+    "countryCode": "EG",
+    "countryName": "Egypt",
+    "sector": "Industrial Parks",
+    "subSector": "Market access",
+    "targetAudience": "MDB operations, government counterparts and co-financing partners",
+    "estimatedInvestmentNeed": 91000000,
+    "currency": "USD",
+    "investmentPriorities": [
+      "Prepare investable project pipeline",
+      "Mobilise concessional and private finance",
+      "Strengthen implementation capacity"
+    ],
+    "financingGapsIdentified": [
+      "Early-stage preparation funding",
+      "Local currency long-term finance",
+      "Guarantee coverage"
+    ],
+    "policyConstraints": [
+      "Lengthy approvals",
+      "Tariff or pricing uncertainty",
+      "Data limitations"
+    ],
+    "recommendedInterventions": [
+      "Project preparation facility",
+      "Risk-sharing instrument",
+      "Policy dialogue and technical assistance"
+    ],
+    "authorLead": "Climate finance analyst",
+    "status": "Published",
+    "preparedDate": "2026-05-20T22:00:00Z",
+    "createdAt": "2026-01-03T22:00:00Z"
+  },
+  {
+    "noteId": "d2491c7d-15a1-bcac-7e8c-340046df9cf4",
+    "noteCode": "AFC-ZA-SIN-2026-005",
+    "title": "South Africa Telecommunications Sector Investment Note",
+    "producingInstitution": "Africa Finance Corporation",
+    "countryCode": "ZA",
+    "countryName": "South Africa",
+    "sector": "Telecommunications",
+    "subSector": "Infrastructure services",
+    "targetAudience": "MDB operations, government counterparts and co-financing partners",
+    "estimatedInvestmentNeed": 100000000,
+    "currency": "USD",
+    "investmentPriorities": [
+      "Prepare investable project pipeline",
+      "Mobilise concessional and private finance",
+      "Strengthen implementation capacity"
+    ],
+    "financingGapsIdentified": [
+      "Early-stage preparation funding",
+      "Local currency long-term finance",
+      "Guarantee coverage"
+    ],
+    "policyConstraints": [
+      "Lengthy approvals",
+      "Tariff or pricing uncertainty",
+      "Data limitations"
+    ],
+    "recommendedInterventions": [
+      "Project preparation facility",
+      "Risk-sharing instrument",
+      "Policy dialogue and technical assistance"
+    ],
+    "authorLead": "Private sector specialist",
+    "status": "Archived",
+    "preparedDate": "2026-06-20T22:00:00Z",
+    "createdAt": "2026-01-04T22:00:00Z"
+  },
+  {
+    "noteId": "71f42176-d71e-a61e-5412-04badf578260",
+    "noteCode": "AFC-CI-SIN-2026-006",
+    "title": "Cote d'Ivoire Gas Infrastructure Sector Investment Note",
+    "producingInstitution": "Africa Finance Corporation",
+    "countryCode": "CI",
+    "countryName": "Cote d'Ivoire",
+    "sector": "Gas Infrastructure",
+    "subSector": "Digital systems",
+    "targetAudience": "MDB operations, government counterparts and co-financing partners",
+    "estimatedInvestmentNeed": 109000000,
+    "currency": "USD",
+    "investmentPriorities": [
+      "Prepare investable project pipeline",
+      "Mobilise concessional and private finance",
+      "Strengthen implementation capacity"
+    ],
+    "financingGapsIdentified": [
+      "Early-stage preparation funding",
+      "Local currency long-term finance",
+      "Guarantee coverage"
+    ],
+    "policyConstraints": [
+      "Lengthy approvals",
+      "Tariff or pricing uncertainty",
+      "Data limitations"
+    ],
+    "recommendedInterventions": [
+      "Project preparation facility",
+      "Risk-sharing instrument",
+      "Policy dialogue and technical assistance"
+    ],
+    "authorLead": "Agriculture finance lead",
+    "status": "Published",
+    "preparedDate": "2026-07-20T22:00:00Z",
+    "createdAt": "2026-01-05T22:00:00Z"
+  },
+  {
+    "noteId": "7316e27f-68e5-b05e-141b-2c1c047eaed3",
+    "noteCode": "AFC-SN-SIN-2026-007",
+    "title": "Senegal Renewable Energy Sector Investment Note",
+    "producingInstitution": "Africa Finance Corporation",
+    "countryCode": "SN",
+    "countryName": "Senegal",
+    "sector": "Renewable Energy",
+    "subSector": "Climate adaptation",
+    "targetAudience": "MDB operations, government counterparts and co-financing partners",
+    "estimatedInvestmentNeed": 118000000,
+    "currency": "USD",
+    "investmentPriorities": [
+      "Prepare investable project pipeline",
+      "Mobilise concessional and private finance",
+      "Strengthen implementation capacity"
+    ],
+    "financingGapsIdentified": [
+      "Early-stage preparation funding",
+      "Local currency long-term finance",
+      "Guarantee coverage"
+    ],
+    "policyConstraints": [
+      "Lengthy approvals",
+      "Tariff or pricing uncertainty",
+      "Data limitations"
+    ],
+    "recommendedInterventions": [
+      "Project preparation facility",
+      "Risk-sharing instrument",
+      "Policy dialogue and technical assistance"
+    ],
+    "authorLead": "Infrastructure advisor",
+    "status": "PeerReview",
+    "preparedDate": "2026-08-20T22:00:00Z",
+    "createdAt": "2026-01-06T22:00:00Z"
+  }
+]

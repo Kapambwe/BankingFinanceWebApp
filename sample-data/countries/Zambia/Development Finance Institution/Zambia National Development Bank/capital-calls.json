@@ -1,0 +1,16 @@
+[
+  {
+    "capitalCallId": "99999999-0001-0000-0000-000000000001",
+    "institutionId": "11111111-1111-1111-1111-111111111111",
+    "callReference": "CC-2026-01",
+    "callDate": "2026-03-15T00:00:00Z",
+    "dueDate": "2026-03-30T00:00:00Z",
+    "amountRequested": 50000000,
+    "amountReceived": 50000000,
+    "amountOutstanding": 0,
+    "purpose": "Initial paid-in capital top-up to support pipeline commitments.",
+    "status": "Settled",
+    "currency": "USD",
+    "createdAt": "2026-03-15T00:00:00Z"
+  }
+]

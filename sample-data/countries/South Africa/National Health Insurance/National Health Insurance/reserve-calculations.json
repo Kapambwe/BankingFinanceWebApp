@@ -1,0 +1,44 @@
+[
+  {
+    "reserveId": "res30000-0001",
+    "reserveType": "IBNR Reserve",
+    "description": "Incurred But Not Reported claims reserve",
+    "calculationDate": "2025-12-31",
+    "grossReserve": 22.0,
+    "reinsuranceRecovery": 7.0,
+    "netReserve": 15.0,
+    "currency": "ZAR",
+    "methodology": "Chain-Ladder",
+    "actuaryName": "Lerato van der Merwe",
+    "status": "Approved",
+    "createdAt": "2025-12-31T00:00:00Z"
+  },
+  {
+    "reserveId": "res30000-0002",
+    "reserveType": "Outstanding Claims Reserve",
+    "description": "Known outstanding claims reserve",
+    "calculationDate": "2025-12-31",
+    "grossReserve": 13.0,
+    "reinsuranceRecovery": 4.0,
+    "netReserve": 9.0,
+    "currency": "ZAR",
+    "methodology": "Case-by-Case",
+    "actuaryName": "Lerato van der Merwe",
+    "status": "Approved",
+    "createdAt": "2025-12-31T00:00:00Z"
+  },
+  {
+    "reserveId": "res30000-0003",
+    "reserveType": "Premium Deficiency Reserve",
+    "description": "Reserve for expected premium deficiency",
+    "calculationDate": "2025-12-31",
+    "grossReserve": 4.0,
+    "reinsuranceRecovery": 0,
+    "netReserve": 4.0,
+    "currency": "ZAR",
+    "methodology": "Actuarial Projection",
+    "actuaryName": "Lerato van der Merwe",
+    "status": "Approved",
+    "createdAt": "2025-12-31T00:00:00Z"
+  }
+]

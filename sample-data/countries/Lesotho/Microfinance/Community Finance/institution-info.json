@@ -1,0 +1,17 @@
+{
+  "registrationNumber": "REG-47955",
+  "contactEmail": "visionfundLesotho@example.zm",
+  "createdAt": "2023-02-09T00:00:00Z",
+  "branches": 43,
+  "institutionType": "Microfinance",
+  "institutionName": "Vision Fund Lesotho",
+  "country": "Lesotho",
+  "established": 1984,
+  "employees": 3396,
+  "contactPhone": "+260-319-651744",
+  "headquarters": "Teyateyaneng",
+  "institutionId": "332e22d5-63a1-4b5a-a47c-6f3d5823d612",
+  "currency": "LSL",
+  "status": "Active",
+  "website": "https://www.visionfundLesotho.co.zm"
+}

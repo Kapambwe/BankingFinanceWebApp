@@ -1,0 +1,222 @@
+[
+  {
+    "transactionType": "Fee",
+    "currency": "SZL",
+    "status": "Failed",
+    "transactionId": "2b470f16-dd5b-47a8-9a24-9ef112062186",
+    "amount": 56195165950.0,
+    "description": "Mobile Money",
+    "balance": 92951683139.0,
+    "transactionDate": "2025-11-20T13:41:36Z",
+    "accountId": "0d4b456e-dda5-4624-a345-a336af9129cb"
+  },
+  {
+    "transactionType": "Fee",
+    "currency": "SZL",
+    "status": "Completed",
+    "transactionId": "bfcffb07-e1ba-44f1-871a-ff26090cc389",
+    "amount": 198253930467.0,
+    "description": "Salary Deposit",
+    "balance": 1921124851.0,
+    "transactionDate": "2025-09-11T13:41:36Z",
+    "accountId": "6c4a2c8c-6237-4730-8fa1-baecddc101e2"
+  },
+  {
+    "transactionType": "Transfer",
+    "currency": "SZL",
+    "status": "Failed",
+    "transactionId": "9109e8ae-28c5-49d2-b86a-bdc5159878fd",
+    "amount": 127452982823.0,
+    "description": "Bill Payment",
+    "balance": 43439359575.0,
+    "transactionDate": "2025-10-15T13:41:36Z",
+    "accountId": "d2376430-5cd0-4b3b-bc6d-3b82b88e9048"
+  },
+  {
+    "transactionType": "Deposit",
+    "currency": "SZL",
+    "status": "Completed",
+    "transactionId": "bc487e2b-cdd2-4c42-8f03-2170ddbea015",
+    "amount": 33917563322.0,
+    "description": "Bill Payment",
+    "balance": 150566911242.0,
+    "transactionDate": "2026-02-04T13:41:36Z",
+    "accountId": "cd8be380-84e9-405d-9bf6-1e46ba528cf0"
+  },
+  {
+    "transactionType": "Payment",
+    "currency": "SZL",
+    "status": "Completed",
+    "transactionId": "82f1571a-4d37-488f-979a-489f2c62078b",
+    "amount": 94338737141.0,
+    "description": "Mobile Money",
+    "balance": 187881543484.0,
+    "transactionDate": "2025-09-08T13:41:36Z",
+    "accountId": "0c8fcdc7-711a-481f-a32a-39036e4847e1"
+  },
+  {
+    "transactionType": "Transfer",
+    "currency": "SZL",
+    "status": "Completed",
+    "transactionId": "c1d68d7d-d914-415f-9c16-f7b7e705ec67",
+    "amount": 47328298542.0,
+    "description": "POS Purchase",
+    "balance": 68282243556.0,
+    "transactionDate": "2025-11-07T13:41:36Z",
+    "accountId": "9aaef44f-4951-48ee-aae4-22febe87e814"
+  },
+  {
+    "transactionType": "Fee",
+    "currency": "SZL",
+    "status": "Pending",
+    "transactionId": "d5b64ee2-44a6-4334-9307-f8fa09eec362",
+    "amount": 59386705187.0,
+    "description": "ATM Withdrawal",
+    "balance": 180042969142.0,
+    "transactionDate": "2025-11-12T13:41:36Z",
+    "accountId": "d2dba206-2ffa-44b8-a9e7-97c6e0c06b9b"
+  },
+  {
+    "transactionType": "Payment",
+    "currency": "SZL",
+    "status": "Completed",
+    "transactionId": "3d3535ce-14cb-4f81-a6ae-13247f990571",
+    "amount": 31136079131.0,
+    "description": "Transfer to Account",
+    "balance": 21519925236.0,
+    "transactionDate": "2026-01-08T13:41:36Z",
+    "accountId": "f9526442-35fa-4445-9112-8d14f76ce334"
+  },
+  {
+    "transactionType": "Deposit",
+    "currency": "SZL",
+    "status": "Completed",
+    "transactionId": "182e184d-896f-4976-9a23-e8a13a59cdd4",
+    "amount": 190957246327.0,
+    "description": "POS Purchase",
+    "balance": 211019000297.0,
+    "transactionDate": "2025-12-01T13:41:36Z",
+    "accountId": "6d29c83d-cc4c-4398-a5f5-5922c53c09eb"
+  },
+  {
+    "transactionType": "Withdrawal",
+    "currency": "SZL",
+    "status": "Pending",
+    "transactionId": "f2187ef6-2c55-4e1e-b226-96cd4791638b",
+    "amount": 192884102029.0,
+    "description": "Transfer to Account",
+    "balance": 209873285076.0,
+    "transactionDate": "2025-11-09T13:41:36Z",
+    "accountId": "41e93199-1f25-4509-b89a-4346600eda3a"
+  },
+  {
+    "transactionType": "Deposit",
+    "currency": "SZL",
+    "status": "Completed",
+    "transactionId": "25ca5aec-7fec-4849-8efd-028ff70ef5db",
+    "amount": 121529458124.0,
+    "description": "POS Purchase",
+    "balance": 177748042051.0,
+    "transactionDate": "2025-08-24T13:41:36Z",
+    "accountId": "5223db98-cf36-4e93-bdba-581b31a1fae0"
+  },
+  {
+    "transactionType": "Deposit",
+    "currency": "SZL",
+    "status": "Completed",
+    "transactionId": "9e27f832-43c5-41da-93e4-49cf9167e1df",
+    "amount": 98112634748.0,
+    "description": "Bill Payment",
+    "balance": 171031554123.0,
+    "transactionDate": "2025-09-27T13:41:36Z",
+    "accountId": "57d5b337-f40e-4707-8369-b9f78b465426"
+  },
+  {
+    "transactionType": "Transfer",
+    "currency": "SZL",
+    "status": "Failed",
+    "transactionId": "97b4d7c7-c22a-4cd9-9300-4521a8f1f677",
+    "amount": 96090118331.0,
+    "description": "Bill Payment",
+    "balance": 26092015612.0,
+    "transactionDate": "2025-12-21T13:41:36Z",
+    "accountId": "87953d8b-9866-404e-aa79-2c5dd204c885"
+  },
+  {
+    "transactionType": "Transfer",
+    "currency": "SZL",
+    "status": "Pending",
+    "transactionId": "d7f9c60e-0992-4f31-a20d-0c7b1aca03a7",
+    "amount": 80475548118.0,
+    "description": "Service Charge",
+    "balance": 46244616227.0,
+    "transactionDate": "2025-09-01T13:41:36Z",
+    "accountId": "4728521d-c6be-4c6b-babe-f59afc300b4e"
+  },
+  {
+    "transactionType": "Deposit",
+    "currency": "SZL",
+    "status": "Completed",
+    "transactionId": "3b98f894-d4fc-47c3-997e-f4932b0ffa47",
+    "amount": 89251553022.0,
+    "description": "Bill Payment",
+    "balance": 41283547873.0,
+    "transactionDate": "2025-10-07T13:41:36Z",
+    "accountId": "d36944b0-c701-41dd-9860-bbcd8b0122d8"
+  },
+  {
+    "transactionType": "Withdrawal",
+    "currency": "SZL",
+    "status": "Completed",
+    "transactionId": "0886559a-696b-46a4-a08d-f16b77b45930",
+    "amount": 75506483503.0,
+    "description": "Service Charge",
+    "balance": 190290422908.0,
+    "transactionDate": "2026-02-07T13:41:36Z",
+    "accountId": "f72ec42c-7f74-4e5e-8588-c27d4b506d68"
+  },
+  {
+    "transactionType": "Fee",
+    "currency": "SZL",
+    "status": "Failed",
+    "transactionId": "ef1e6ad5-a25e-4523-aebc-f39ef000bb7b",
+    "amount": 80785308056.0,
+    "description": "Service Charge",
+    "balance": 206999579393.0,
+    "transactionDate": "2025-10-12T13:41:36Z",
+    "accountId": "390ee757-2926-48fb-8c44-6be825aa0d8e"
+  },
+  {
+    "transactionType": "Withdrawal",
+    "currency": "SZL",
+    "status": "Completed",
+    "transactionId": "7b893f45-6caa-4541-9f8f-0ef7e3d48fbd",
+    "amount": 183085117664.0,
+    "description": "POS Purchase",
+    "balance": 72467349962.0,
+    "transactionDate": "2025-12-26T13:41:36Z",
+    "accountId": "82285370-b044-4b03-b966-8083be799c99"
+  },
+  {
+    "transactionType": "Transfer",
+    "currency": "SZL",
+    "status": "Completed",
+    "transactionId": "51c7a288-04f8-469d-9a01-69f5f26a0b86",
+    "amount": 49088533302.0,
+    "description": "Service Charge",
+    "balance": 91585467118.0,
+    "transactionDate": "2026-01-30T13:41:36Z",
+    "accountId": "ba2ab478-7f15-4bcd-a819-2e563764df28"
+  },
+  {
+    "transactionType": "Deposit",
+    "currency": "SZL",
+    "status": "Failed",
+    "transactionId": "82cdc698-1901-432c-9cf0-c8cac502908b",
+    "amount": 87492737236.0,
+    "description": "Salary Deposit",
+    "balance": 130979157933.0,
+    "transactionDate": "2025-12-02T13:41:36Z",
+    "accountId": "e5acc94d-8ba2-42c9-9a02-d52479261439"
+  }
+]

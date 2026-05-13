@@ -1,0 +1,26 @@
+[
+  {
+    "fraudRingId": "fr500000-0001",
+    "ringName": "Provider Billing Ring A",
+    "description": "Network of providers submitting coordinated fraudulent claims",
+    "membersInvolved": 4,
+    "estimatedLoss": 592500000,
+    "currency": "KES",
+    "detectedDate": "2025-06-15",
+    "status": "Under Investigation",
+    "lawEnforcementRef": "CASE-KRA-2025-001",
+    "createdAt": "2025-06-15T00:00:00Z"
+  },
+  {
+    "fraudRingId": "fr500000-0002",
+    "ringName": "Ghost Member Network B",
+    "description": "Organised scheme creating fictitious member accounts for claim extraction",
+    "membersInvolved": 2,
+    "estimatedLoss": 316000000,
+    "currency": "KES",
+    "detectedDate": "2025-09-01",
+    "status": "Resolved",
+    "lawEnforcementRef": "CASE-KRA-2025-002",
+    "createdAt": "2025-09-01T00:00:00Z"
+  }
+]

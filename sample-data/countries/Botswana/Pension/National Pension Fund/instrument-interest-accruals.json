@@ -1,0 +1,68 @@
+[
+  {
+    "instrumentId": "LOAN-001",
+    "instrumentReference": "Kefilwe \u2014 National Pensio",
+    "instrumentType": "Loan",
+    "outstandingBalance": 68500000.0,
+    "nominalRate": 0.095,
+    "effectiveInterestRate": 0.095,
+    "accruedAmount": 17828.77,
+    "accrualDate": "2026-02-28T00:00:00Z",
+    "journalEntryId": null
+  },
+  {
+    "instrumentId": "LOAN-002",
+    "instrumentReference": "SME Loan \u2014 Lesego Trading Ltd",
+    "instrumentType": "Loan",
+    "outstandingBalance": 274000000.0,
+    "nominalRate": 0.085,
+    "effectiveInterestRate": 0.085,
+    "accruedAmount": 63808.22,
+    "accrualDate": "2026-02-28T00:00:00Z",
+    "journalEntryId": null
+  },
+  {
+    "instrumentId": "DEP-001",
+    "instrumentReference": "Fixed Deposit \u2014 Dineo Savings Group",
+    "instrumentType": "Deposit",
+    "outstandingBalance": 685000000.0,
+    "nominalRate": 0.07,
+    "effectiveInterestRate": 0.07,
+    "accruedAmount": 131369.86,
+    "accrualDate": "2026-02-28T00:00:00Z",
+    "journalEntryId": null
+  },
+  {
+    "instrumentId": "LOAN-003",
+    "instrumentReference": "Mortgage \u2014 Dineo",
+    "instrumentType": "Loan",
+    "outstandingBalance": 109600000.0,
+    "nominalRate": 0.09,
+    "effectiveInterestRate": 0.09,
+    "accruedAmount": 27024.66,
+    "accrualDate": "2026-02-28T00:00:00Z",
+    "journalEntryId": null
+  },
+  {
+    "instrumentId": "DEP-002",
+    "instrumentReference": "Call Deposit \u2014 National Pensio Fund",
+    "instrumentType": "Deposit",
+    "outstandingBalance": 205500000.0,
+    "nominalRate": 0.065,
+    "effectiveInterestRate": 0.065,
+    "accruedAmount": 36595.89,
+    "accrualDate": "2026-02-28T00:00:00Z",
+    "journalEntryId": null
+  },
+  {
+    "instrumentId": "LOAN-004",
+    "instrumentReference": "Corporate Bond \u2014 National Pensio",
+    "instrumentType": "Loan",
+    "outstandingBalance": 411000000.0,
+    "nominalRate": 0.1,
+    "effectiveInterestRate": 0.1,
+    "accruedAmount": 112602.74,
+    "accrualDate": "2026-02-28T00:00:00Z",
+    "journalEntryId": null
+  }
+]

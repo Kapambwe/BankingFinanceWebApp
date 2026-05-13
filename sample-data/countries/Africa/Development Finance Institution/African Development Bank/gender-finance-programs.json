@@ -1,0 +1,205 @@
+[
+  {
+    "programId": "f33fc964-9a3b-f965-18df-6dfba3d3074c",
+    "programCode": "AFDB-ZM-GEN-2026-001",
+    "programName": "Zambia Women-Led Enterprise Finance Programme",
+    "institutionName": "African Development Bank",
+    "countryCode": "ZM",
+    "countryName": "Zambia",
+    "programType": "CreditGuaranteeFacility",
+    "facilityAmount": 10500000,
+    "guaranteeComponent": 2600000,
+    "technicalAssistanceComponent": 770000,
+    "currency": "USD",
+    "financialIntermediaryPartner": "National development bank",
+    "womenBeneficiaries": 1650,
+    "loansExtendedToWomen": 970,
+    "targetSectors": [
+      "Transport",
+      "Trade",
+      "Services"
+    ],
+    "status": "Active",
+    "eligibilityCriteria": [
+      "Women-owned or women-led enterprise",
+      "Operational business registration",
+      "Verified use of funds"
+    ],
+    "startDate": "2025-01-31T22:00:00Z",
+    "createdAt": "2024-12-31T22:00:00Z"
+  },
+  {
+    "programId": "f612be61-60d2-0c8f-c415-6a02936bb010",
+    "programCode": "AFDB-KE-GEN-2026-002",
+    "programName": "Kenya Women-Led Enterprise Finance Programme",
+    "institutionName": "African Development Bank",
+    "countryCode": "KE",
+    "countryName": "Kenya",
+    "programType": "CapacityBuildingProgram",
+    "facilityAmount": 13000000,
+    "guaranteeComponent": 3200000,
+    "technicalAssistanceComponent": 890000,
+    "currency": "USD",
+    "financialIntermediaryPartner": "Women enterprise fund",
+    "womenBeneficiaries": 2100,
+    "loansExtendedToWomen": 1190,
+    "targetSectors": [
+      "Energy",
+      "Trade",
+      "Services"
+    ],
+    "status": "Approved",
+    "eligibilityCriteria": [
+      "Women-owned or women-led enterprise",
+      "Operational business registration",
+      "Verified use of funds"
+    ],
+    "startDate": "2025-02-28T22:00:00Z",
+    "createdAt": "2025-01-01T22:00:00Z"
+  },
+  {
+    "programId": "cfb47066-8213-f77e-1142-ea2ef00ab216",
+    "programCode": "AFDB-SN-GEN-2026-003",
+    "programName": "Senegal Women-Led Enterprise Finance Programme",
+    "institutionName": "African Development Bank",
+    "countryCode": "SN",
+    "countryName": "Senegal",
+    "programType": "DigitalFinanceForWomen",
+    "facilityAmount": 15500000,
+    "guaranteeComponent": 3800000,
+    "technicalAssistanceComponent": 1010000,
+    "currency": "USD",
+    "financialIntermediaryPartner": "Commercial bank partner",
+    "womenBeneficiaries": 2550,
+    "loansExtendedToWomen": 1410,
+    "targetSectors": [
+      "Agriculture",
+      "Trade",
+      "Services"
+    ],
+    "status": "Scaling",
+    "eligibilityCriteria": [
+      "Women-owned or women-led enterprise",
+      "Operational business registration",
+      "Verified use of funds"
+    ],
+    "startDate": "2025-03-31T22:00:00Z",
+    "createdAt": "2025-01-02T22:00:00Z"
+  },
+  {
+    "programId": "53713479-52e9-4b42-a27a-fdb3fcc68db6",
+    "programCode": "AFDB-GH-GEN-2026-004",
+    "programName": "Ghana Women-Led Enterprise Finance Programme",
+    "institutionName": "African Development Bank",
+    "countryCode": "GH",
+    "countryName": "Ghana",
+    "programType": "MarketAccessProgram",
+    "facilityAmount": 18000000,
+    "guaranteeComponent": 4400000,
+    "technicalAssistanceComponent": 1130000,
+    "currency": "USD",
+    "financialIntermediaryPartner": "Microfinance network",
+    "womenBeneficiaries": 3000,
+    "loansExtendedToWomen": 1630,
+    "targetSectors": [
+      "Water",
+      "Trade",
+      "Services"
+    ],
+    "status": "Design",
+    "eligibilityCriteria": [
+      "Women-owned or women-led enterprise",
+      "Operational business registration",
+      "Verified use of funds"
+    ],
+    "startDate": "2025-04-30T22:00:00Z",
+    "createdAt": "2025-01-03T22:00:00Z"
+  },
+  {
+    "programId": "637d8761-1bc4-7e8f-3e5d-179c25214491",
+    "programCode": "AFDB-RW-GEN-2026-005",
+    "programName": "Rwanda Women-Led Enterprise Finance Programme",
+    "institutionName": "African Development Bank",
+    "countryCode": "RW",
+    "countryName": "Rwanda",
+    "programType": "FinancialInstitutionSupport",
+    "facilityAmount": 20500000,
+    "guaranteeComponent": 5000000,
+    "technicalAssistanceComponent": 1250000,
+    "currency": "USD",
+    "financialIntermediaryPartner": "Digital finance provider",
+    "womenBeneficiaries": 3450,
+    "loansExtendedToWomen": 1850,
+    "targetSectors": [
+      "Digital Infrastructure",
+      "Trade",
+      "Services"
+    ],
+    "status": "Completed",
+    "eligibilityCriteria": [
+      "Women-owned or women-led enterprise",
+      "Operational business registration",
+      "Verified use of funds"
+    ],
+    "startDate": "2025-05-31T22:00:00Z",
+    "createdAt": "2025-01-04T22:00:00Z"
+  },
+  {
+    "programId": "f4e22b7c-ce4b-06e8-bf6d-7e88c9d28061",
+    "programCode": "AFDB-MA-GEN-2026-006",
+    "programName": "Morocco Women-Led Enterprise Finance Programme",
+    "institutionName": "African Development Bank",
+    "countryCode": "MA",
+    "countryName": "Morocco",
+    "programType": "PolicyAndRegulation",
+    "facilityAmount": 23000000,
+    "guaranteeComponent": 5600000,
+    "technicalAssistanceComponent": 1370000,
+    "currency": "USD",
+    "financialIntermediaryPartner": "Cooperative apex body",
+    "womenBeneficiaries": 3900,
+    "loansExtendedToWomen": 2070,
+    "targetSectors": [
+      "Health",
+      "Trade",
+      "Services"
+    ],
+    "status": "Active",
+    "eligibilityCriteria": [
+      "Women-owned or women-led enterprise",
+      "Operational business registration",
+      "Verified use of funds"
+    ],
+    "startDate": "2025-06-30T22:00:00Z",
+    "createdAt": "2025-01-05T22:00:00Z"
+  },
+  {
+    "programId": "4b70bfd1-05f7-208d-e74b-a95dd6c41a55",
+    "programCode": "AFDB-CI-GEN-2026-007",
+    "programName": "Cote d'Ivoire Women-Led Enterprise Finance Programme",
+    "institutionName": "African Development Bank",
+    "countryCode": "CI",
+    "countryName": "Cote d'Ivoire",
+    "programType": "EquityAndVentureCapital",
+    "facilityAmount": 25500000,
+    "guaranteeComponent": 6200000,
+    "technicalAssistanceComponent": 1490000,
+    "currency": "USD",
+    "financialIntermediaryPartner": "Impact investment fund",
+    "womenBeneficiaries": 4350,
+    "loansExtendedToWomen": 2290,
+    "targetSectors": [
+      "Regional Integration",
+      "Trade",
+      "Services"
+    ],
+    "status": "Approved",
+    "eligibilityCriteria": [
+      "Women-owned or women-led enterprise",
+      "Operational business registration",
+      "Verified use of funds"
+    ],
+    "startDate": "2025-07-31T22:00:00Z",
+    "createdAt": "2025-01-06T22:00:00Z"
+  }
+]

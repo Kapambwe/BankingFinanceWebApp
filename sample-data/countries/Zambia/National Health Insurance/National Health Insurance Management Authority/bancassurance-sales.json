@@ -1,0 +1,72 @@
+[
+  {
+    "saleId": "bs100000-0001",
+    "partnerId": "bp100000-0001",
+    "partnerName": "Zanaco",
+    "memberName": "Chanda Mutale",
+    "memberSchemeNumber": "MBR-1-000001",
+    "contributionAmount": 3955.0,
+    "currency": "ZMW",
+    "paymentDate": "2025-10-01",
+    "collectionMethod": "Direct Debit",
+    "status": "Collected",
+    "commissionPaid": 59.0,
+    "createdAt": "2025-10-01T00:00:00Z"
+  },
+  {
+    "saleId": "bs100000-0002",
+    "partnerId": "bp100000-0002",
+    "partnerName": "Standard Chartered Zambia",
+    "memberName": "Mutale Mwansa",
+    "memberSchemeNumber": "MBR-1-000002",
+    "contributionAmount": 4746.0,
+    "currency": "ZMW",
+    "paymentDate": "2025-10-01",
+    "collectionMethod": "Standing Order",
+    "status": "Collected",
+    "commissionPaid": 57.0,
+    "createdAt": "2025-10-01T00:00:00Z"
+  },
+  {
+    "saleId": "bs100000-0003",
+    "partnerId": "bp100000-0003",
+    "partnerName": "First National Bank Zambia",
+    "memberName": "Mwamba Mulenga",
+    "memberSchemeNumber": "MBR-1-000003",
+    "contributionAmount": 3164.0,
+    "currency": "ZMW",
+    "paymentDate": "2025-10-01",
+    "collectionMethod": "Mobile Banking",
+    "status": "Collected",
+    "commissionPaid": 32.0,
+    "createdAt": "2025-10-01T00:00:00Z"
+  },
+  {
+    "saleId": "bs100000-0004",
+    "partnerId": "bp100000-0001",
+    "partnerName": "Zanaco",
+    "memberName": "Mwansa Musonda",
+    "memberSchemeNumber": "MBR-1-000004",
+    "contributionAmount": 5933.0,
+    "currency": "ZMW",
+    "paymentDate": "2025-11-01",
+    "collectionMethod": "Direct Debit",
+    "status": "Collected",
+    "commissionPaid": 89.0,
+    "createdAt": "2025-11-01T00:00:00Z"
+  },
+  {
+    "saleId": "bs100000-0005",
+    "partnerId": "bp100000-0002",
+    "partnerName": "Standard Chartered Zambia",
+    "memberName": "Chileshe Nkosi",
+    "memberSchemeNumber": "MBR-1-000005",
+    "contributionAmount": 3560.0,
+    "currency": "ZMW",
+    "paymentDate": "2025-11-01",
+    "collectionMethod": "Standing Order",
+    "status": "Collected",
+    "commissionPaid": 43.0,
+    "createdAt": "2025-11-01T00:00:00Z"
+  }
+]

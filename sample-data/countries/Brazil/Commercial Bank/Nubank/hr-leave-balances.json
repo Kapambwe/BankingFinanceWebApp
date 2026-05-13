@@ -1,0 +1,62 @@
+[
+  {
+    "balanceId": "lb000001-0001-0001-0001-000000000001",
+    "employeeId": "a1b2c3d4-0001-0001-0001-000000000001",
+    "employeeName": "Carlos Silva",
+    "leaveType": "AnnualLeave",
+    "entitlement": 30,
+    "taken": 10,
+    "pending": 0,
+    "available": 20,
+    "year": 2026,
+    "currency": "BRL"
+  },
+  {
+    "balanceId": "lb000001-0001-0001-0001-000000000002",
+    "employeeId": "a1b2c3d4-0001-0001-0001-000000000002",
+    "employeeName": "Ana Santos",
+    "leaveType": "AnnualLeave",
+    "entitlement": 30,
+    "taken": 3,
+    "pending": 0,
+    "available": 27,
+    "year": 2026,
+    "currency": "BRL"
+  },
+  {
+    "balanceId": "lb000001-0001-0001-0001-000000000003",
+    "employeeId": "a1b2c3d4-0001-0001-0001-000000000003",
+    "employeeName": "João Oliveira",
+    "leaveType": "PaternityLeave",
+    "entitlement": 20,
+    "taken": 0,
+    "pending": 20,
+    "available": 20,
+    "year": 2026,
+    "currency": "BRL"
+  },
+  {
+    "balanceId": "lb000001-0001-0001-0001-000000000004",
+    "employeeId": "a1b2c3d4-0001-0001-0001-000000000004",
+    "employeeName": "Maria Souza",
+    "leaveType": "AnnualLeave",
+    "entitlement": 30,
+    "taken": 0,
+    "pending": 0,
+    "available": 30,
+    "year": 2026,
+    "currency": "BRL"
+  },
+  {
+    "balanceId": "lb000001-0001-0001-0001-000000000005",
+    "employeeId": "a1b2c3d4-0001-0001-0001-000000000005",
+    "employeeName": "Pedro Rodrigues",
+    "leaveType": "AnnualLeave",
+    "entitlement": 30,
+    "taken": 10,
+    "pending": 0,
+    "available": 20,
+    "year": 2026,
+    "currency": "BRL"
+  }
+]
