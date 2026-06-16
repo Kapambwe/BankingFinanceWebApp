@@ -1,0 +1,30 @@
+[
+  {
+    "assessmentId": "giz96001-0000-0000-0000-000000000001",
+    "assessmentCode": "GIZ-ZM-DFA-2025",
+    "leadInstitution": "GIZ",
+    "countryCode": "ZM",
+    "countryName": "Zambia",
+    "assessmentYear": 2025,
+    "totalDomesticRevenue": 9600000000,
+    "odaInflows": 1100000000,
+    "fdiInflows": 1000000000,
+    "remittanceInflows": 900000000,
+    "domesticPrivateCreditToGDP": 27.8,
+    "publicDebtToGDP": 82.9,
+    "taxRevenueToGDP": 16.1,
+    "climateFinanceReceived": 260000000,
+    "currency": "USD",
+    "flowAssessments": [
+      { "flowType": "DomesticPublicRevenue", "currentAmount": 9600000000, "potentialAmount": 11200000000, "currency": "USD", "trend": "Increasing", "constraints": ["Tax compliance"], "opportunities": ["Digital collection"] },
+      { "flowType": "ClimateFinance", "currentAmount": 260000000, "potentialAmount": 500000000, "currency": "USD", "trend": "Increasing", "constraints": ["Pipeline readiness"], "opportunities": ["Agriculture and water investments"] }
+    ],
+    "keyConstraints": ["Low formal sector depth", "Climate shocks", "Project preparation gaps"],
+    "policyRecommendations": ["Expand revenue digitalisation", "Strengthen agriculture value chains", "Build bankable climate pipeline"],
+    "leadAnalyst": "GIZ Economics Team",
+    "status": "Published",
+    "assessmentDate": "2025-04-01T00:00:00Z",
+    "nextAssessmentDate": "2026-04-01T00:00:00Z",
+    "createdAt": "2025-04-01T00:00:00Z"
+  }
+]

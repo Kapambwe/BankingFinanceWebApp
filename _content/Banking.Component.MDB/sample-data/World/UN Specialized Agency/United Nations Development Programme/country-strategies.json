@@ -1,0 +1,32 @@
+[
+  {
+    "strategyId": "e8d00001-0000-0000-0000-000000000001",
+    "strategyCode": "UNDP-ZM-CPD-2023-2027",
+    "institutionName": "United Nations Development Programme",
+    "countryCode": "ZM",
+    "countryName": "Zambia",
+    "region": "Southern Africa",
+    "strategyType": "CountryProgrammeDocument",
+    "countryClassification": "LowerMiddleIncome",
+    "strategyPeriodStart": 2023,
+    "strategyPeriodEnd": 2027,
+    "indicativeLendingEnvelope": 0,
+    "grantEnvelope": 60000000,
+    "currency": "USD",
+    "financingWindows": [
+      { "windowName": "Climate Finance", "windowType": "ClimateFinance", "allocatedAmount": 25000000, "currency": "USD", "interestRate": 0, "gracePeriodYears": 0, "maturityYears": 0, "isGrantElement": true, "grantEquivalent": 25000000 },
+      { "windowName": "Digital Inclusion", "windowType": "Grant", "allocatedAmount": 15000000, "currency": "USD", "interestRate": 0, "gracePeriodYears": 0, "maturityYears": 0, "isGrantElement": true, "grantEquivalent": 15000000 }
+    ],
+    "strategicPillars": ["Inclusive economic growth", "Democratic governance", "Basic services and resilience"],
+    "highLevelObjectives": ["Accelerate SDG progress", "Strengthen public institutions", "Expand livelihoods and innovation"],
+    "crossCuttingThemes": ["Gender equality", "Youth inclusion", "Digital transformation", "Climate resilience"],
+    "governmentCounterpart": "Government of the Republic of Zambia",
+    "countryDirector": "Dr. James Wakiaga",
+    "countryEconomist": "UNDP Zambia Economist",
+    "status": "Implementation",
+    "preparedDate": "2023-01-01T00:00:00Z",
+    "midTermReviewDate": "2025-06-30T00:00:00Z",
+    "completionReportDate": null,
+    "createdAt": "2023-01-01T00:00:00Z"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "operationId": "f4d00001-0000-0000-0000-000000000001",
+    "operationCode": "UNDP-ZM-CLIMATE-2024-001",
+    "operationName": "Climate Resilience in Agriculture",
+    "institutionName": "United Nations Development Programme",
+    "countryCode": "ZM",
+    "countryName": "Zambia",
+    "climateCategory": "ClimateAdaptation",
+    "instrument": "ClimateGrant",
+    "climateFinanceFundSource": "Green Climate Fund",
+    "financingAmount": 41865193,
+    "grantComponent": 41865193,
+    "currency": "USD",
+    "co2AvoidedTonsPerYear": 0,
+    "renewableCapacityMW": 0,
+    "householdsWithCleanEnergy": 0,
+    "hectaresUnderClimateSmartPractice": 120000,
+    "isParisAligned": true,
+    "isNDCAligned": true,
+    "isGreenBondEligible": false,
+    "technology": "Climate-smart agriculture, water harvesting, and advisory services",
+    "status": "Active",
+    "approvalDate": "2018-09-01T00:00:00Z",
+    "createdAt": "2018-09-01T00:00:00Z"
+  }
+]

@@ -1,4 +1,0 @@
-[
-  {"alertId":"WB-FA-001","alertType":"Procurement Fraud","severity":"High","status":"Under Investigation","dateDetected":"2025-10-15T00:00:00Z","description":"Collusive bidding in road construction project procurement","accountId":"wb01-a001-4579-a281-6d898272fbc5","customerId":"wb-c001-1234-5678-abcd-ef1234567890","amountInvolved":45000000.00,"currency":"USD"},
-  {"alertId":"WB-FA-002","alertType":"Fund Diversion","severity":"Medium","status":"Resolved","dateDetected":"2025-08-20T00:00:00Z","description":"Misallocation of education sector funds to non-project activities","accountId":"wb01-a005-4579-a281-6d898272fbc9","customerId":"wb-c005-5678-9012-efab-345678901234","amountInvolved":12000000.00,"currency":"USD"}
-]

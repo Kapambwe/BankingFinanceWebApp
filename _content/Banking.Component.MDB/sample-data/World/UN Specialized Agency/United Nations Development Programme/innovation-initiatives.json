@@ -1,0 +1,23 @@
+[
+  {
+    "initiativeId": "f5d00001-0000-0000-0000-000000000001",
+    "initiativeName": "Zambia Public Sector Innovation Lab",
+    "institutionName": "United Nations Development Programme",
+    "countryCode": "ZM",
+    "countryName": "Zambia",
+    "initiativeType": "AcceleratorLab",
+    "thematicFocus": "Digital service delivery, citizen feedback, and data-driven governance",
+    "budgetAmount": 2500000,
+    "currency": "USD",
+    "experimentsOrPilots": 8,
+    "solutionsIdentified": 5,
+    "solutionsScaled": 2,
+    "EcosystemPartners": ["Smart Zambia Institute", "Tony Blair Institute", "Ministry of Finance"],
+    "learningOutputs": ["Playbook for service design", "Prototype dashboards", "Policy notes"],
+    "isLinkedToInvestmentPipeline": true,
+    "investmentPipelineGenerated": 12000000,
+    "status": "Active",
+    "establishedDate": "2024-06-01T00:00:00Z",
+    "createdAt": "2024-06-01T00:00:00Z"
+  }
+]

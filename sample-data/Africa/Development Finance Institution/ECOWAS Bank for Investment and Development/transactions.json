@@ -1,8 +1,0 @@
-[
-  {"transactionType":"Disbursement","currency":"XOF","status":"Completed","transactionId":"eb-tx-001","amount":25000000000.00,"description":"Road Infrastructure - Dakar-Bamako Corridor","balance":85000000000.00,"transactionDate":"2025-09-15T10:00:00Z","accountId":"eb01-a001-4579-a281-6d898272fbc5"},
-  {"transactionType":"Disbursement","currency":"XOF","status":"Completed","transactionId":"eb-tx-002","amount":15000000000.00,"description":"Agricultural Irrigation Project - Mali","balance":45000000000.00,"transactionDate":"2025-10-20T10:00:00Z","accountId":"eb01-a002-4579-a281-6d898272fbc6"},
-  {"transactionType":"Disbursement","currency":"XOF","status":"Completed","transactionId":"eb-tx-003","amount":12000000000.00,"description":"Solar Power Plant - Ouagadougou","balance":32000000000.00,"transactionDate":"2025-11-10T10:00:00Z","accountId":"eb01-a003-4579-a281-6d898272fbc7"},
-  {"transactionType":"Disbursement","currency":"XOF","status":"Completed","transactionId":"eb-tx-004","amount":8000000000.00,"description":"Telecom Network Expansion - Rural West Africa","balance":18000000000.00,"transactionDate":"2025-12-05T10:00:00Z","accountId":"eb01-a004-4579-a281-6d898272fbc8"},
-  {"transactionType":"Repayment","currency":"XOF","status":"Completed","transactionId":"eb-tx-005","amount":5000000000.00,"description":"Annual Sovereign Repayment - Senegal","balance":80000000000.00,"transactionDate":"2025-12-20T10:00:00Z","accountId":"eb01-a001-4579-a281-6d898272fbc5"},
-  {"transactionType":"Fee","currency":"XOF","status":"Completed","transactionId":"eb-tx-006","amount":250000000.00,"description":"Commitment Fee Q4 2025","balance":45000000000.00,"transactionDate":"2025-12-31T10:00:00Z","accountId":"eb01-a002-4579-a281-6d898272fbc6"}
-]

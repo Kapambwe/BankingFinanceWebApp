@@ -1,5 +1,0 @@
-[
-  {"invoiceId":"DBSA-INV-001","customerId":"dbsa-c001-1234-5678-abcd-ef1234567890","amount":2500000000.00,"currency":"ZAR","status":"Paid","description":"Water and Sanitation Infrastructure Disbursement","issuedDate":"2025-09-01T00:00:00Z","paidDate":"2025-09-15T00:00:00Z"},
-  {"invoiceId":"DBSA-INV-002","customerId":"dbsa-c005-5678-9012-efab-345678901234","amount":5000000000.00,"currency":"ZAR","status":"Paid","description":"Grid Stabilization Program","issuedDate":"2025-08-10T00:00:00Z","paidDate":"2025-08-20T00:00:00Z"},
-  {"invoiceId":"DBSA-INV-003","customerId":"dbsa-c003-3456-7890-cdef-123456789012","amount":120000000.00,"currency":"USD","status":"Paid","description":"Bridge Maintenance SADC Project","issuedDate":"2025-10-30T00:00:00Z","paidDate":"2025-11-10T00:00:00Z"}
-]

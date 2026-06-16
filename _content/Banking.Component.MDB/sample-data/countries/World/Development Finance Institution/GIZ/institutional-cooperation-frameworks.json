@@ -1,0 +1,22 @@
+[
+  {
+    "frameworkId": "giz50001-0000-0000-0000-000000000001",
+    "frameworkTitle": "Zambia-GIZ Cooperation Framework",
+    "frameworkReference": "GIZ-ZM-MOU-2024",
+    "institutionA": "GIZ",
+    "institutionB": "Government of the Republic of Zambia",
+    "frameworkType": "MemorandumOfUnderstanding",
+    "frameworkScope": "Agriculture, water, governance, decentralisation, social development, and climate adaptation.",
+    "coveredActivityAreas": ["Agriculture", "Water", "PublicFinanceManagement", "DigitalEconomy"],
+    "coveredRegions": ["Southern Africa"],
+    "coveredCountries": ["Zambia"],
+    "annualWorkProgramBudget": 15000000,
+    "currency": "EUR",
+    "activeEngagements": 6,
+    "completedEngagements": 3,
+    "status": "Active",
+    "signedDate": "2024-01-01T00:00:00Z",
+    "expiryDate": "2028-12-31T00:00:00Z",
+    "createdAt": "2024-01-01T00:00:00Z"
+  }
+]

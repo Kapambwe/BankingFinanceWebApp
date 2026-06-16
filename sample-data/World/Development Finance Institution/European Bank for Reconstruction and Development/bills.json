@@ -1,6 +1,0 @@
-[
-  {"billId":"EBRD-BILL-001","customerId":"ebrd-c001-1a2b-3c4d-5e6f-7a8b9c0d1e2f","amount":64000000.00,"currency":"EUR","dueDate":"2026-03-31T00:00:00Z","status":"Pending","description":"Transition Loan Interest Payment Q1 2026 - Egypt","issuedDate":"2026-01-05T00:00:00Z"},
-  {"billId":"EBRD-BILL-002","customerId":"ebrd-c003-3c4d-5e6f-7a8b-9c0d1e2f3a4b","amount":24000000.00,"currency":"EUR","dueDate":"2026-04-15T00:00:00Z","status":"Pending","description":"SME Credit Line Interest and Fees - Tunisia","issuedDate":"2026-01-10T00:00:00Z"},
-  {"billId":"EBRD-BILL-003","customerId":"ebrd-c002-2b3c-4d5e-6f7a-8b9c0d1e2f3a","amount":36000000.00,"currency":"EUR","dueDate":"2026-06-30T00:00:00Z","status":"Pending","description":"Green Economy Finance Interest - Morocco","issuedDate":"2026-01-15T00:00:00Z"},
-  {"billId":"EBRD-BILL-004","customerId":"ebrd-c005-5e6f-7a8b-9c0d-1e2f3a4b5c6d","amount":30000000.00,"currency":"EUR","dueDate":"2026-06-30T00:00:00Z","status":"Pending","description":"Green Economy Finance Interest - South Africa","issuedDate":"2026-01-20T00:00:00Z"}
-]

@@ -1,6 +1,0 @@
-[
-  {"invoiceId":"IFC-INV-001","customerId":"ifc-c001-1a2b-3c4d-5e6f-7a8b9c0d1e2f","amount":75000000.00,"currency":"USD","status":"Paid","description":"Equity Investment - Capital Increase for SME Lending Expansion","issuedDate":"2025-08-01T00:00:00Z","paidDate":"2025-08-15T10:00:00Z"},
-  {"invoiceId":"IFC-INV-002","customerId":"ifc-c005-5e6f-7a8b-9c0d-1e2f3a4b5c6d","amount":150000000.00,"currency":"USD","status":"Paid","description":"Equity Investment - Pan-African Cement Expansion","issuedDate":"2025-11-15T00:00:00Z","paidDate":"2025-11-28T10:00:00Z"},
-  {"invoiceId":"IFC-INV-003","customerId":"ifc-c004-4d5e-6f7a-8b9c-0d1e2f3a4b5c","amount":100000000.00,"currency":"USD","status":"Paid","description":"Loan Disbursement - Trade Finance Facility for West African SMEs","issuedDate":"2025-10-20T00:00:00Z","paidDate":"2025-10-30T10:00:00Z"},
-  {"invoiceId":"IFC-INV-004","customerId":"ifc-c006-6f7a-8b9c-0d1e-2f3a4b5c6d7e","amount":10000000.00,"currency":"USD","status":"Pending","description":"SME Finance Facility - Series C Growth Capital Tranche 2","issuedDate":"2026-01-15T00:00:00Z","paidDate":null}
-]

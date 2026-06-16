@@ -1,5 +1,0 @@
-[
-  {"customerId":"sh-c001-1234-5678-abcd-ef1234567890","customerName":"Republic of Kenya","creditScore":650,"creditRating":"B+","riskCategory":"Medium-High","lastAssessmentDate":"2025-12-01T00:00:00Z","debtToGdpRatio":"68.2%"},
-  {"customerId":"sh-c003-3456-7890-cdef-123456789012","customerName":"Acorn Holdings Limited","creditScore":690,"creditRating":"BBB-","riskCategory":"Medium","lastAssessmentDate":"2025-12-01T00:00:00Z","debtToGdpRatio":"N/A"},
-  {"customerId":"sh-c004-4567-8901-defa-234567890123","customerName":"Mixta Africa Real Estate","creditScore":670,"creditRating":"BB+","riskCategory":"Medium","lastAssessmentDate":"2025-12-01T00:00:00Z","debtToGdpRatio":"N/A"}
-]

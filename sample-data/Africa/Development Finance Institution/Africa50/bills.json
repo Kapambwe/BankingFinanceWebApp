@@ -1,4 +1,0 @@
-[
-  {"billId":"AF50-BILL-001","customerId":"a50-c002-2345-6789-bcde-f12345678901","amount":8750000.00,"currency":"USD","dueDate":"2026-03-31T00:00:00Z","status":"Pending","description":"Expressway Project Finance Interest","issuedDate":"2026-01-01T00:00:00Z"},
-  {"billId":"AF50-BILL-002","customerId":"a50-c004-4567-8901-defa-234567890123","amount":3000000.00,"currency":"USD","dueDate":"2026-06-30T00:00:00Z","status":"Pending","description":"Wind Power Project Interest","issuedDate":"2026-01-15T00:00:00Z"}
-]

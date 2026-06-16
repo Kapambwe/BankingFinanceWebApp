@@ -1,6 +1,0 @@
-[
-  {"invoiceId":"AX-INV-001","customerId":"ax-c001-e5f6-7890-abcd-ef1234567890","amount":350000000.00,"currency":"USD","status":"Paid","description":"Trade Finance Facility Disbursement - Cocoa","issuedDate":"2025-09-01T00:00:00Z","paidDate":"2025-09-10T00:00:00Z"},
-  {"invoiceId":"AX-INV-002","customerId":"ax-c004-b8c9-0123-defa-234567890123","amount":200000000.00,"currency":"USD","status":"Paid","description":"Correspondent Banking Line Drawdown","issuedDate":"2025-08-15T00:00:00Z","paidDate":"2025-08-25T00:00:00Z"},
-  {"invoiceId":"AX-INV-003","customerId":"ax-c006-d0e1-2345-fabc-456789012345","amount":80000000.00,"currency":"USD","status":"Paid","description":"Export Pre-Financing - Cement","issuedDate":"2025-10-25T00:00:00Z","paidDate":"2025-11-05T00:00:00Z"},
-  {"invoiceId":"AX-INV-004","customerId":"ax-c002-f6a7-8901-bcde-f12345678901","amount":120000000.00,"currency":"USD","status":"Paid","description":"Export Credit - Cashew Processing","issuedDate":"2025-10-05T00:00:00Z","paidDate":"2025-10-15T00:00:00Z"}
-]

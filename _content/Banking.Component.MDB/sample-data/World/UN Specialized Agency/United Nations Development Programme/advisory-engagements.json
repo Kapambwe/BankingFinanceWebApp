@@ -1,0 +1,28 @@
+[
+  {
+    "engagementId": "e5d00001-0000-0000-0000-000000000001",
+    "engagementCode": "UNDP-ZM-ADV-2025-001",
+    "title": "Inclusive Growth and MSME Local Content Advisory",
+    "institutionName": "United Nations Development Programme",
+    "countryCode": "ZM",
+    "countryName": "Zambia",
+    "region": "Southern Africa",
+    "area": "SMEAndEnterpriseDevelopment",
+    "engagementType": "CapacityBuilding",
+    "budgetAmount": 1250000,
+    "disbursedAmount": 540000,
+    "currency": "USD",
+    "fundingSource": "UNDP Zambia CPD 2023-2027",
+    "clientEntity": "Ministry of Commerce, Trade and Industry",
+    "taskLead": "Dr. James Wakiaga",
+    "status": "Ongoing",
+    "deliverables": ["MSME diagnostic", "Supplier development toolkit", "Local content policy brief"],
+    "deliverablesCompleted": 2,
+    "isLinkedToInvestmentOperation": true,
+    "linkedOperationCode": "UNDP-ZM-HEALTH-2025",
+    "estimatedInvestmentLeveraged": 8000000,
+    "startDate": "2025-01-15T00:00:00Z",
+    "endDate": "2026-12-31T00:00:00Z",
+    "createdAt": "2025-01-15T00:00:00Z"
+  }
+]

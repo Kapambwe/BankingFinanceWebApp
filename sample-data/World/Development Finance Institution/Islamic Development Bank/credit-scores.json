@@ -1,8 +1,0 @@
-[
-  {"customerId":"isdb-c001-1111-aaaa-2222-bbbbccccdddd","customerName":"Republic of Senegal","creditScore":660,"creditRating":"B+","riskCategory":"Medium","lastAssessmentDate":"2025-12-01T00:00:00Z","debtToGdpRatio":"68.9%"},
-  {"customerId":"isdb-c002-2222-bbbb-3333-ccccddddeeee","customerName":"Republic of Mali","creditScore":540,"creditRating":"CCC","riskCategory":"Very High","lastAssessmentDate":"2025-12-01T00:00:00Z","debtToGdpRatio":"52.3%"},
-  {"customerId":"isdb-c003-3333-cccc-4444-ddddeeeeffff","customerName":"Republic of Niger","creditScore":510,"creditRating":"CCC-","riskCategory":"Very High","lastAssessmentDate":"2025-12-01T00:00:00Z","debtToGdpRatio":"50.8%"},
-  {"customerId":"isdb-c004-4444-dddd-5555-eeeeffff0000","customerName":"Kingdom of Morocco","creditScore":720,"creditRating":"BB+","riskCategory":"Medium","lastAssessmentDate":"2025-12-01T00:00:00Z","debtToGdpRatio":"69.5%"},
-  {"customerId":"isdb-c005-5555-eeee-6666-ffff00001111","customerName":"Arab Republic of Egypt","creditScore":640,"creditRating":"B","riskCategory":"Medium-High","lastAssessmentDate":"2025-12-01T00:00:00Z","debtToGdpRatio":"92.4%"},
-  {"customerId":"isdb-c006-6666-ffff-7777-000011112222","customerName":"Federal Republic of Nigeria","creditScore":680,"creditRating":"BBB-","riskCategory":"Medium","lastAssessmentDate":"2025-12-01T00:00:00Z","debtToGdpRatio":"38.5%"}
-]

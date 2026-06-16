@@ -1,21 +1,12 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="en">
 
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Banking Admin</title>
-    <script>
-        // Set base path before ANY relative resource is loaded (GitHub Pages needs /BankingFinanceWebApp/)
-        (function () {
-            var base = document.createElement('base');
-            base.id = 'dynamic-base';
-            base.href = window.location.pathname.includes('/BankingFinanceWebApp')
-                ? '/BankingFinanceWebApp/'
-                : '/';
-            document.head.appendChild(base);
-        })();
-    </script>
+    <base href="/BankingFinanceWebApp/" />
+    <link href="_framework/dotnet.qfwfpeka0p.js" rel="preload" as="script" fetchpriority="high" crossorigin="anonymous" integrity="sha256-Cj2PoPRwojiAs6FkDnqPUiEVUyCC8UVBOhKcgZztFkk=" />
     <link rel="stylesheet" href="lib/bootstrap/dist/css/bootstrap.min.css" />
     <link rel="stylesheet" href="css/app.css" />
     <link rel="stylesheet" href="css/theme.css" />
@@ -26,8 +17,6 @@
     <link href="Banking.Admin.Client.styles.css" rel="stylesheet" />
     <link href="_content/Radzen.Blazor/css/material-base.css" rel="stylesheet" />
     <!-- Preload critical resources (must be after base href script) -->
-    <link rel="preload" href="_framework/blazor.webassembly.js" as="script" />
-    <link rel="preload" href="_content/Radzen.Blazor/Radzen.Blazor.js" as="script" />
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.draw/1.0.4/leaflet.draw.css" />
     <!-- Vis.js Network for Customer Relationship Graphs -->
@@ -46,6 +35,25 @@
             background-color: #1a1a1a;
         }
     </style>
+<script type="importmap">{
+  "imports": {
+    "./_framework/blazor.webassembly.js": "./_framework/blazor.webassembly.66stpp682q.js",
+    "./_framework/dotnet.native.js": "./_framework/dotnet.native.eylx2ku5qd.js",
+    "./_framework/dotnet.js": "./_framework/dotnet.qfwfpeka0p.js",
+    "./_framework/dotnet.runtime.js": "./_framework/dotnet.runtime.a6jcqbs390.js"
+  },
+  "scopes": {},
+  "integrity": {
+    "./_framework/blazor.webassembly.66stpp682q.js": "sha256-3lCWrko3zwspV40aQhs2S/IMkRSarnHRKIdkHhuXIBA=",
+    "./_framework/blazor.webassembly.js": "sha256-3lCWrko3zwspV40aQhs2S/IMkRSarnHRKIdkHhuXIBA=",
+    "./_framework/dotnet.js": "sha256-Cj2PoPRwojiAs6FkDnqPUiEVUyCC8UVBOhKcgZztFkk=",
+    "./_framework/dotnet.native.eylx2ku5qd.js": "sha256-muCmmkO3yPnMift+VhsCysdF7DnzqlmcDvB7ml+7L/E=",
+    "./_framework/dotnet.native.js": "sha256-muCmmkO3yPnMift+VhsCysdF7DnzqlmcDvB7ml+7L/E=",
+    "./_framework/dotnet.qfwfpeka0p.js": "sha256-Cj2PoPRwojiAs6FkDnqPUiEVUyCC8UVBOhKcgZztFkk=",
+    "./_framework/dotnet.runtime.a6jcqbs390.js": "sha256-7i3usfTrnzC/9qWO4si5Bw4w7D9fUSnSBdhQ47blX2M=",
+    "./_framework/dotnet.runtime.js": "sha256-7i3usfTrnzC/9qWO4si5Bw4w7D9fUSnSBdhQ47blX2M="
+  }
+}</script>
 </head>
 
 <body>
@@ -62,48 +70,14 @@
     <div id="blazor-error-ui">
         An unhandled error has occurred.
         <a href="." class="reload">Reload</a>
-        <span class="dismiss">🗙</span>
+        <span class="dismiss">ðŸ—™</span>
     </div>
 
-    <script>
-        // Restore SPA path from 404.html redirect — MUST run before Blazor.start()
-        (function () {
-            var params = new URLSearchParams(window.location.search);
-            var path = params.get('path');
-            if (path) {
-                params.delete('path');
-                var remaining = params.toString();
-                // Preserve whatever base path is already in the URL (works for both
-                // root and sub-path deployments without hardcoding /BankingFinanceWebApp).
-                var isProjectPage = (window.location.hostname.split('.').length === 3);
-                var segments = window.location.pathname.split('/').filter(Boolean);
-                var base = isProjectPage && segments.length > 0 ? '/' + segments[0] : '';
-                var newUrl = base + decodeURIComponent(path)
-                             + (remaining ? '?' + remaining : '')
-                             + window.location.hash;
-                window.history.replaceState(null, null, newUrl);
-            }
-        })();
-    </script>
+    
     <script src="_content/Radzen.Blazor/Radzen.Blazor.js"></script>
-    <script src="_framework/blazor.webassembly.js" autostart="false"></script>
-    <script>
-        // Optimize Blazor startup with custom configuration
-        Blazor.start({
-            loadBootResource: function (type, name, defaultUri, integrity) {
-                // Use CDN for common libraries if available
-                if (type === 'dotnetjs') {
-                    return defaultUri;
-                }
-                // Add cache busting for development
-                if (window.location.hostname === 'localhost') {
-                    return defaultUri + '?v=' + Date.now();
-                }
-                return defaultUri;
-            }
-        });
-    </script>
-    <script>navigator.serviceWorker.register('service-worker.js');</script>
+   <script src="_framework/blazor.webassembly.66stpp682q.js"></script>
+   
+
     <script src="js/theme.js"></script>
     <script src="js/fileDownload.js"></script>
     <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
@@ -115,6 +89,7 @@
     <!-- D3.js for Network Visualization -->
     <script src="https://d3js.org/d3.v7.min.js"></script>
     <script src="js/d3-network-graph.js"></script>
+    <script src="js/performance-metrics.js"></script>
 </body>
 
 </html>

@@ -1,7 +1,0 @@
-[
-  {"entryId":"WB-JE-001","date":"2025-09-15T00:00:00Z","description":"IDA Disbursement - Nigeria Human Capital","debitAccount":"1200","creditAccount":"1000","amount":1500000000.00,"currency":"USD","status":"Posted"},
-  {"entryId":"WB-JE-002","date":"2025-10-20T00:00:00Z","description":"IDA Disbursement - Ethiopia Safety Net","debitAccount":"1200","creditAccount":"1000","amount":800000000.00,"currency":"USD","status":"Posted"},
-  {"entryId":"WB-JE-003","date":"2025-11-10T00:00:00Z","description":"IBRD Disbursement - Kenya Digital Economy","debitAccount":"1100","creditAccount":"1000","amount":600000000.00,"currency":"USD","status":"Posted"},
-  {"entryId":"WB-JE-004","date":"2025-12-01T00:00:00Z","description":"IDA Repayment - Tanzania","debitAccount":"1000","creditAccount":"1200","amount":250000000.00,"currency":"USD","status":"Posted"},
-  {"entryId":"WB-JE-005","date":"2025-12-31T00:00:00Z","description":"Interest Income Accrual - Q4 2025","debitAccount":"1300","creditAccount":"4000","amount":2300000000.00,"currency":"USD","status":"Posted"}
-]

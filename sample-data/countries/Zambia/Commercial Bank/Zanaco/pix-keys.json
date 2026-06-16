@@ -1,7 +1,0 @@
-[
-  { "keyId": "KEY-001", "keyType": "CNPJ",  "keyValue": "11.222.333/0001-44",                "accountOwner": "Empresa Principal Ltda", "status": "Active" },
-  { "keyId": "KEY-002", "keyType": "Email", "keyValue": "financeiro@empresa.com.br",          "accountOwner": "Empresa Principal Ltda", "status": "Active" },
-  { "keyId": "KEY-003", "keyType": "Phone", "keyValue": "+55 11 3000-1234",                   "accountOwner": "Empresa Principal Ltda", "status": "Active" },
-  { "keyId": "KEY-004", "keyType": "CPF",   "keyValue": "987.654.321-00",                     "accountOwner": "Titular Conta Corrente", "status": "Active" },
-  { "keyId": "KEY-005", "keyType": "EVP",   "keyValue": "a1b2c3d4-e5f6-7890-abcd-ef1234567890", "accountOwner": "Empresa Principal Ltda", "status": "Active" }
-]

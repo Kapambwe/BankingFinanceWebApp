@@ -1,6 +1,0 @@
-[
-  {"billId":"IFC-BILL-001","customerId":"ifc-c002-2b3c-4d5e-6f7a-8b9c0d1e2f3a","amount":4500000.00,"currency":"USD","dueDate":"2026-03-31T00:00:00Z","status":"Pending","description":"Loan Interest Payment Q1 2026 - Olam Agri Holdings","issuedDate":"2026-01-01T00:00:00Z"},
-  {"billId":"IFC-BILL-002","customerId":"ifc-c004-4d5e-6f7a-8b9c-0d1e2f3a4b5c","amount":8000000.00,"currency":"USD","dueDate":"2026-04-15T00:00:00Z","status":"Pending","description":"Loan Interest and Commitment Fee - Ecobank","issuedDate":"2026-01-10T00:00:00Z"},
-  {"billId":"IFC-BILL-003","customerId":"ifc-c003-3c4d-5e6f-7a8b-9c0d1e2f3a4b","amount":1125000.00,"currency":"USD","dueDate":"2026-06-30T00:00:00Z","status":"Pending","description":"SME Facility Interest - Azuri Technologies","issuedDate":"2026-01-15T00:00:00Z"},
-  {"billId":"IFC-BILL-004","customerId":"ifc-c006-6f7a-8b9c-0d1e-2f3a4b5c6d7e","amount":750000.00,"currency":"USD","dueDate":"2026-06-30T00:00:00Z","status":"Pending","description":"SME Facility Interest - M-KOPA Solar","issuedDate":"2026-01-20T00:00:00Z"}
-]

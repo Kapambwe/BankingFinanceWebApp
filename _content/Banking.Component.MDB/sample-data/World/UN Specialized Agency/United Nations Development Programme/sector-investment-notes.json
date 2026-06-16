@@ -1,0 +1,23 @@
+[
+  {
+    "noteId": "f9d00001-0000-0000-0000-000000000001",
+    "noteCode": "UNDP-ZM-SIN-HEALTH-2025",
+    "title": "Zambia Digital Health and Supply Chain Investment Note",
+    "producingInstitution": "United Nations Development Programme",
+    "countryCode": "ZM",
+    "countryName": "Zambia",
+    "sector": "Health",
+    "subSector": "Digital Supply Chain",
+    "targetAudience": "Government of Zambia, MDBs, private investors",
+    "estimatedInvestmentNeed": 25000000,
+    "currency": "USD",
+    "investmentPriorities": ["Cold chain visibility", "Warehouse automation", "Connectivity for rural clinics"],
+    "financingGapsIdentified": ["Last-mile systems integration", "Data standards", "Cybersecurity"],
+    "policyConstraints": ["Procurement fragmentation", "Slow rollout across districts"],
+    "recommendedInterventions": ["Blended financing", "Technical assistance", "Policy harmonisation"],
+    "authorLead": "UNDP Zambia Health Team",
+    "status": "Published",
+    "preparedDate": "2025-09-01T00:00:00Z",
+    "createdAt": "2025-09-01T00:00:00Z"
+  }
+]

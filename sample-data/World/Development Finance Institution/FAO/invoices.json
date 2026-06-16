@@ -1,9 +1,0 @@
-[
-  {"invoiceId":"FAO-INV-001","customerId":"fao-c001-1111-2222-aaaa-bb1234567890","amount":6800000.00,"currency":"USD","status":"Paid","description":"Zambia Food Security Programme Q1 2025","issuedDate":"2025-01-05T00:00:00Z","paidDate":"2025-01-20T00:00:00Z"},
-  {"invoiceId":"FAO-INV-002","customerId":"fao-c001-1111-2222-aaaa-bb1234567890","amount":4500000.00,"currency":"USD","status":"Paid","description":"SIFAZ Smallholder Irrigation Facility Phase 1","issuedDate":"2025-02-01T00:00:00Z","paidDate":"2025-02-15T00:00:00Z"},
-  {"invoiceId":"FAO-INV-003","customerId":"fao-c002-2222-3333-bbbb-cc2345678901","amount":7200000.00,"currency":"USD","status":"Paid","description":"Kenya Drought Resilience Programme Q1 2025","issuedDate":"2025-02-15T00:00:00Z","paidDate":"2025-02-28T00:00:00Z"},
-  {"invoiceId":"FAO-INV-004","customerId":"fao-c003-3333-4444-cccc-dd3456789012","amount":12500000.00,"currency":"USD","status":"Paid","description":"Ethiopia Safety Net Agricultural Resilience Q1 2025","issuedDate":"2025-03-01T00:00:00Z","paidDate":"2025-03-10T00:00:00Z"},
-  {"invoiceId":"FAO-INV-005","customerId":"fao-c003-3333-4444-cccc-dd3456789012","amount":15000000.00,"currency":"USD","status":"Paid","description":"Ethiopia Emergency Food Assistance - Drought Response","issuedDate":"2025-06-10T00:00:00Z","paidDate":"2025-06-22T00:00:00Z"},
-  {"invoiceId":"FAO-INV-006","customerId":"fao-c009-9999-0000-2222-339012345678","amount":9800000.00,"currency":"USD","status":"Paid","description":"India National Food Security Mission Technical Cooperation","issuedDate":"2025-05-01T00:00:00Z","paidDate":"2025-05-15T00:00:00Z"},
-  {"invoiceId":"FAO-INV-007","customerId":"fao-c001-1111-2222-aaaa-bb1234567890","amount":5900000.00,"currency":"USD","status":"Pending","description":"Zambia SIFAZ Q4 2025 - Final Tranche","issuedDate":"2025-12-20T00:00:00Z","paidDate":null}
-]
