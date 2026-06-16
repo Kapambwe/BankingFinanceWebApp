@@ -1,5 +1,0 @@
-[
-  {"invoiceId":"AFC-INV-001","customerId":"afc-c003-3456-7890-cdef-123456789012","amount":200000000.00,"currency":"USD","status":"Paid","description":"Port Construction Tranche 4","issuedDate":"2025-08-01T00:00:00Z","paidDate":"2025-08-15T00:00:00Z"},
-  {"invoiceId":"AFC-INV-002","customerId":"afc-c005-5678-9012-efab-345678901234","amount":120000000.00,"currency":"USD","status":"Paid","description":"Hydropower Turbine Installation","issuedDate":"2025-11-20T00:00:00Z","paidDate":"2025-12-01T00:00:00Z"},
-  {"invoiceId":"AFC-INV-003","customerId":"afc-c001-1234-5678-abcd-ef1234567890","amount":150000000.00,"currency":"USD","status":"Paid","description":"Road Infrastructure Phase 3","issuedDate":"2025-09-10T00:00:00Z","paidDate":"2025-09-20T00:00:00Z"}
-]
