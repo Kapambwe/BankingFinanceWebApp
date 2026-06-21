@@ -35,13 +35,21 @@
       "Agent Banking",
       "CRM & Campaigns",
       "HR",
-      "Workflows & Documents"
+      "Workflows & Documents",
+      "CRM",
+      "Accounting",
+      "Digital Tokens"
     ],
     "samplePermissions": [
       "Banking.CommercialBank.Accounts.View",
       "Banking.CommercialBank.Loans.View",
       "Banking.Analytics.*",
-      "Banking.Risk.View"
+      "Banking.Risk.View",
+      "Banking.Accounting.View",
+      "Banking.CRM.View",
+      "Banking.HR.View",
+      "Banking.DigitalTokens.View",
+      "Banking.DynamicForms.ViewFamilies"
     ],
     "allowedPermissionPatterns": [
       "Banking.Access",
@@ -90,7 +98,9 @@
       "Banking.Verification.*",
       "Banking.KYC.*",
       "Banking.ESignature.*",
-      "Banking.Collections.*"
+      "Banking.Collections.*",
+      "Banking.Accounting.*",
+      "Banking.DynamicForms.ViewFamilies"
     ]
   },
   {
@@ -110,12 +120,20 @@
       "Analytics Studio",
       "Risk & Compliance",
       "HR",
-      "Documents"
+      "Documents",
+      "CRM",
+      "Accounting",
+      "Digital Tokens"
     ],
     "samplePermissions": [
       "Banking.Insurance.Quotations.View",
       "Banking.Insurance.Policies.ManagePolicies",
-      "Banking.Insurance.Claims.RegisterClaim"
+      "Banking.Insurance.Claims.RegisterClaim",
+      "Banking.Accounting.View",
+      "Banking.CRM.View",
+      "Banking.HR.View",
+      "Banking.DigitalTokens.View",
+      "Banking.DynamicForms.ViewFamilies"
     ],
     "allowedPermissionPatterns": [
       "Banking.Access",
@@ -137,7 +155,10 @@
       "Banking.CRM.*",
       "Banking.KYC.*",
       "Banking.Verification.*",
-      "Banking.DecisionEngine.*"
+      "Banking.DecisionEngine.*",
+      "Banking.Accounting.*",
+      "Banking.DigitalTokens.*",
+      "Banking.DynamicForms.ViewFamilies"
     ]
   },
   {
@@ -152,12 +173,20 @@
       "Portfolio Analytics",
       "Regulatory Reporting",
       "HR",
-      "Documents"
+      "Documents",
+      "CRM",
+      "Accounting",
+      "Digital Tokens"
     ],
     "samplePermissions": [
       "Banking.PensionFund.Members.View",
       "Banking.PensionFund.Contributions.ProcessContributions",
-      "Banking.Investment.Portfolio.View"
+      "Banking.Investment.Portfolio.View",
+      "Banking.Accounting.View",
+      "Banking.CRM.View",
+      "Banking.HR.View",
+      "Banking.DigitalTokens.View",
+      "Banking.DynamicForms.ViewFamilies"
     ],
     "allowedPermissionPatterns": [
       "Banking.Access",
@@ -178,7 +207,10 @@
       "Banking.Audit.*",
       "Banking.CRM.*",
       "Banking.KYC.*",
-      "Banking.Verification.*"
+      "Banking.Verification.*",
+      "Banking.Accounting.*",
+      "Banking.DigitalTokens.*",
+      "Banking.DynamicForms.ViewFamilies"
     ]
   },
   {
@@ -194,12 +226,20 @@
       "Performance Reports",
       "Regulatory Reporting",
       "HR",
-      "Documents"
+      "Documents",
+      "CRM",
+      "Accounting",
+      "Digital Tokens"
     ],
     "samplePermissions": [
       "Banking.Investment.Funds.View",
       "Banking.Investment.Portfolio.ManagePortfolio",
-      "Banking.Analytics.*"
+      "Banking.Analytics.*",
+      "Banking.Accounting.View",
+      "Banking.CRM.View",
+      "Banking.HR.View",
+      "Banking.DigitalTokens.View",
+      "Banking.DynamicForms.ViewFamilies"
     ],
     "allowedPermissionPatterns": [
       "Banking.Access",
@@ -220,7 +260,10 @@
       "Banking.KYC.*",
       "Banking.DecisionEngine.*",
       "Banking.MLInsights.*",
-      "Banking.RoboAdvisory.*"
+      "Banking.RoboAdvisory.*",
+      "Banking.Accounting.*",
+      "Banking.DigitalTokens.*",
+      "Banking.DynamicForms.ViewFamilies"
     ]
   },
   {
@@ -236,12 +279,17 @@
       "Performance Reports",
       "Compliance",
       "HR",
-      "Documents"
+      "Documents",
+      "CRM",
+      "Accounting"
     ],
     "samplePermissions": [
       "Banking.Investment.Funds.View",
       "Banking.Investment.Units.ManageSubscriptions",
-      "Banking.Analytics.*"
+      "Banking.Analytics.*",
+      "Banking.Accounting.View",
+      "Banking.CRM.View",
+      "Banking.HR.View"
     ],
     "allowedPermissionPatterns": [
       "Banking.Access",
@@ -261,7 +309,8 @@
       "Banking.CRM.*",
       "Banking.KYC.*",
       "Banking.DecisionEngine.*",
-      "Banking.MLInsights.*"
+      "Banking.MLInsights.*",
+      "Banking.Accounting.*"
     ]
   },
   {
@@ -280,12 +329,20 @@
       "Agent Banking",
       "Analytics Studio",
       "HR",
-      "Documents"
+      "Documents",
+      "CRM",
+      "Accounting",
+      "Digital Tokens"
     ],
     "samplePermissions": [
       "Banking.Microfinance.View",
       "Banking.Loans.View",
-      "Banking.Analytics.*"
+      "Banking.Analytics.*",
+      "Banking.Accounting.View",
+      "Banking.CRM.View",
+      "Banking.HR.View",
+      "Banking.DigitalTokens.View",
+      "Banking.DynamicForms.ViewFamilies"
     ],
     "allowedPermissionPatterns": [
       "Banking.Access",
@@ -306,7 +363,11 @@
       "Banking.Audit.*",
       "Banking.Monetization.*",
       "Banking.KYC.*",
-      "Banking.Verification.*"
+      "Banking.Verification.*",
+      "Banking.Accounting.*",
+      "Banking.CRM.*",
+      "Banking.DigitalTokens.*",
+      "Banking.DynamicForms.ViewFamilies"
     ]
   },
   {
@@ -326,12 +387,20 @@
       "Budgets",
       "Analytics Studio",
       "HR",
-      "Documents"
+      "Documents",
+      "CRM",
+      "Accounting",
+      "Digital Tokens"
     ],
     "samplePermissions": [
       "Banking.Government.Budgets.View",
       "Banking.Analytics.*",
-      "Banking.Loans.View"
+      "Banking.Loans.View",
+      "Banking.Accounting.View",
+      "Banking.CRM.View",
+      "Banking.HR.View",
+      "Banking.DigitalTokens.View",
+      "Banking.DynamicForms.ViewFamilies"
     ],
     "allowedPermissionPatterns": [
       "Banking.Access",
@@ -358,7 +427,10 @@
       "Banking.Risk.*",
       "Banking.Compliance.*",
       "Banking.KYC.*",
-      "Banking.Verification.*"
+      "Banking.Verification.*",
+      "Banking.Accounting.*",
+      "Banking.CRM.*",
+      "Banking.DynamicForms.ViewFamilies"
     ]
   },
   {
@@ -378,13 +450,18 @@
       "Analytics",
       "Decisioning",
       "HR",
-      "Documents"
+      "Documents",
+      "CRM",
+      "Accounting"
     ],
     "samplePermissions": [
       "Banking.EmpowermentAgency.EmpowermentFund.View",
       "Banking.EmpowermentAgency.BDS.View",
       "Banking.Analytics.View",
-      "Banking.DecisionEngine.ViewDashboard"
+      "Banking.DecisionEngine.ViewDashboard",
+      "Banking.Accounting.View",
+      "Banking.CRM.View",
+      "Banking.HR.View"
     ],
     "allowedPermissionPatterns": [
       "Banking.Access",
@@ -417,7 +494,9 @@
       "Banking.Risk.*",
       "Banking.Compliance.*",
       "Banking.KYC.*",
-      "Banking.Verification.*"
+      "Banking.Verification.*",
+      "Banking.Accounting.*",
+      "Banking.CRM.*"
     ]
   },
   {
@@ -432,13 +511,25 @@
       "Due Diligence",
       "Portfolio Reporting",
       "Analytics Studio",
+      "CRM",
+      "Accounting",
+      "Cash Inventory",
+      "Bank Reconciliation",
       "HR",
-      "Documents"
+      "Documents",
+      "Digital Tokens"
     ],
     "samplePermissions": [
       "Banking.VentureCapital.Deals.View",
       "Banking.Investment.View",
-      "Banking.Analytics.*"
+      "Banking.Analytics.*",
+      "Banking.Accounting.View",
+      "Banking.CRM.View",
+      "Banking.CashManagement.View",
+      "Banking.Accounting.ViewReconciliation",
+      "Banking.HR.View",
+      "Banking.DigitalTokens.View",
+      "Banking.DynamicForms.ViewFamilies"
     ],
     "allowedPermissionPatterns": [
       "Banking.Access",
@@ -447,13 +538,18 @@
       "Banking.VentureCapital.*",
       "Banking.Investment.*",
       "Banking.Analytics.*",
+      "Banking.Accounting.*",
+      "Banking.CRM.*",
+      "Banking.CashManagement.*",
       "Banking.Accrual.*",
       "Banking.Risk.*",
       "Banking.Compliance.*",
       "Banking.Documents.*",
       "Banking.Workflows.*",
       "Banking.HR.*",
-      "Banking.Audit.*"
+      "Banking.Audit.*",
+      "Banking.DigitalTokens.*",
+      "Banking.DynamicForms.ViewFamilies"
     ]
   },
   {
@@ -470,12 +566,20 @@
       "Analytics Studio",
       "Risk & Compliance",
       "HR",
-      "Documents"
+      "Documents",
+      "CRM",
+      "Accounting",
+      "Digital Tokens"
     ],
     "samplePermissions": [
       "Banking.AssetManagement.View",
       "Banking.Investment.Portfolio.View",
-      "Banking.Analytics.*"
+      "Banking.Analytics.*",
+      "Banking.Accounting.View",
+      "Banking.CRM.View",
+      "Banking.HR.View",
+      "Banking.DigitalTokens.View",
+      "Banking.DynamicForms.ViewFamilies"
     ],
     "allowedPermissionPatterns": [
       "Banking.Access",
@@ -497,7 +601,10 @@
       "Banking.FX.*",
       "Banking.RoboAdvisory.*",
       "Banking.MLInsights.*",
-      "Banking.KYC.*"
+      "Banking.KYC.*",
+      "Banking.Accounting.*",
+      "Banking.DigitalTokens.*",
+      "Banking.DynamicForms.ViewFamilies"
     ]
   },
   {
@@ -515,12 +622,19 @@
       "Risk & Compliance",
       "CRM",
       "HR",
-      "Documents"
+      "Documents",
+      "Accounting",
+      "Digital Tokens"
     ],
     "samplePermissions": [
       "Banking.Mortgage.Applications.View",
       "Banking.CommercialBank.Loans.View",
-      "Banking.Analytics.*"
+      "Banking.Analytics.*",
+      "Banking.Accounting.View",
+      "Banking.CRM.View",
+      "Banking.HR.View",
+      "Banking.DigitalTokens.View",
+      "Banking.DynamicForms.ViewFamilies"
     ],
     "allowedPermissionPatterns": [
       "Banking.Access",
@@ -542,7 +656,10 @@
       "Banking.Audit.*",
       "Banking.Monetization.*",
       "Banking.KYC.*",
-      "Banking.Verification.*"
+      "Banking.Verification.*",
+      "Banking.Accounting.*",
+      "Banking.DigitalTokens.*",
+      "Banking.DynamicForms.ViewFamilies"
     ]
   },
   {
@@ -554,12 +671,18 @@
       "API Analytics",
       "Payments",
       "Mobile Money",
-      "Analytics Studio"
+      "Analytics Studio",
+      "CRM",
+      "Accounting",
+      "HR"
     ],
     "samplePermissions": [
       "Banking.OpenBanking.View",
       "Banking.Payments.View",
-      "Banking.Analytics.View"
+      "Banking.Analytics.View",
+      "Banking.Accounting.View",
+      "Banking.CRM.View",
+      "Banking.HR.View"
     ],
     "allowedPermissionPatterns": [
       "Banking.Access",
@@ -573,7 +696,9 @@
       "Banking.Compliance.*",
       "Banking.Documents.*",
       "Banking.HR.*",
-      "Banking.Audit.*"
+      "Banking.Audit.*",
+      "Banking.Accounting.*",
+      "Banking.CRM.*"
     ]
   },
   {
@@ -584,12 +709,18 @@
       "Regulatory Reporting",
       "Compliance Transactions",
       "Risk Dashboard",
-      "Audit Logs"
+      "Audit Logs",
+      "CRM",
+      "Accounting",
+      "HR"
     ],
     "samplePermissions": [
       "Banking.RegulatoryReporting.ViewDashboard",
       "Banking.Compliance.View",
-      "Banking.Risk.View"
+      "Banking.Risk.View",
+      "Banking.Accounting.View",
+      "Banking.CRM.View",
+      "Banking.HR.View"
     ],
     "allowedPermissionPatterns": [
       "Banking.Access",
@@ -599,7 +730,10 @@
       "Banking.Compliance.*",
       "Banking.Risk.*",
       "Banking.Audit.*",
-      "Banking.Analytics.*"
+      "Banking.Analytics.*",
+      "Banking.Accounting.*",
+      "Banking.CRM.*",
+      "Banking.HR.*"
     ]
   },
   {
@@ -609,12 +743,18 @@
     "pages": [
       "Credit Reports",
       "KYC Dashboard",
-      "Analytics Studio"
+      "Analytics Studio",
+      "CRM",
+      "Accounting",
+      "HR"
     ],
     "samplePermissions": [
       "Banking.CreditBureau.ViewReports",
       "Banking.KYC.Review",
-      "Banking.Analytics.View"
+      "Banking.Analytics.View",
+      "Banking.Accounting.View",
+      "Banking.CRM.View",
+      "Banking.HR.View"
     ],
     "allowedPermissionPatterns": [
       "Banking.Access",
@@ -624,7 +764,10 @@
       "Banking.KYC.*",
       "Banking.Verification.*",
       "Banking.Analytics.*",
-      "Banking.Risk.*"
+      "Banking.Risk.*",
+      "Banking.Accounting.*",
+      "Banking.CRM.*",
+      "Banking.HR.*"
     ]
   },
   {
