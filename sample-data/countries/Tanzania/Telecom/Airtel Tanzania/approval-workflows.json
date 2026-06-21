@@ -1,0 +1,527 @@
+[
+  {
+    "workflowId": "bb37eb79-5531-5e27-b195-706bcc1cbebc",
+    "workflowName": "Mobile Money Transaction Approval",
+    "entityType": "MobileMoneyTransaction",
+    "steps": [
+      {
+        "step": 1,
+        "approverRole": "OperationsManager",
+        "action": "Review"
+      },
+      {
+        "step": 2,
+        "approverRole": "CFO",
+        "action": "Approve"
+      }
+    ],
+    "isActive": true,
+    "createdAt": "2022-03-17T08:38:02Z"
+  },
+  {
+    "workflowId": "88e06703-bc62-eccf-9c88-df908a61f755",
+    "workflowName": "KYC Verification Workflow",
+    "entityType": "KYCRecord",
+    "steps": [
+      {
+        "step": 1,
+        "approverRole": "KYCOfficer",
+        "action": "Review"
+      },
+      {
+        "step": 2,
+        "approverRole": "ComplianceOfficer",
+        "action": "Approve"
+      }
+    ],
+    "isActive": true,
+    "createdAt": "2022-12-13T22:40:31Z"
+  },
+  {
+    "workflowId": "c6e03c9e-9bd4-a2fd-fbad-b44807c81588",
+    "workflowName": "Agent Onboarding Workflow",
+    "entityType": "AgentRegistration",
+    "steps": [
+      {
+        "step": 1,
+        "approverRole": "AgentSupervisor",
+        "action": "Review"
+      },
+      {
+        "step": 2,
+        "approverRole": "BranchManager",
+        "action": "Approve"
+      }
+    ],
+    "isActive": true,
+    "createdAt": "2023-03-08T19:44:03Z"
+  },
+  {
+    "workflowId": "44e4b56c-366c-5ff8-11b4-accdbf283a6e",
+    "workflowName": "Revenue Share Agreement Workflow",
+    "entityType": "RevenueShare",
+    "steps": [
+      {
+        "step": 1,
+        "approverRole": "FinanceManager",
+        "action": "Review"
+      },
+      {
+        "step": 2,
+        "approverRole": "CEO",
+        "action": "Approve"
+      }
+    ],
+    "isActive": true,
+    "createdAt": "2024-11-03T15:51:15Z"
+  },
+  {
+    "workflowId": "f700a851-bd99-8ac1-7495-ce1cf387f91d",
+    "workflowName": "LoanRequest Workflow 5",
+    "entityType": "LoanRequest",
+    "steps": [
+      {
+        "step": 1,
+        "approverRole": "FinanceManager",
+        "action": "Review"
+      },
+      {
+        "step": 2,
+        "approverRole": "HeadOfRisk",
+        "action": "Approve"
+      }
+    ],
+    "isActive": true,
+    "createdAt": "2021-10-02T23:46:02Z"
+  },
+  {
+    "workflowId": "ea759e9b-10db-44ca-41f8-22e25dcbec43",
+    "workflowName": "FraudInvestigation Workflow 6",
+    "entityType": "FraudInvestigation",
+    "steps": [
+      {
+        "step": 1,
+        "approverRole": "HeadOfRisk",
+        "action": "Review"
+      },
+      {
+        "step": 2,
+        "approverRole": "InternalAuditor",
+        "action": "Approve"
+      },
+      {
+        "step": 3,
+        "approverRole": "BoardDirector",
+        "action": "Verify"
+      }
+    ],
+    "isActive": true,
+    "createdAt": "2022-10-18T15:14:13Z"
+  },
+  {
+    "workflowId": "a39fca63-f615-c124-4b13-ab550a4849d1",
+    "workflowName": "SettlementApproval Workflow 7",
+    "entityType": "SettlementApproval",
+    "steps": [
+      {
+        "step": 1,
+        "approverRole": "InternalAuditor",
+        "action": "Review"
+      },
+      {
+        "step": 2,
+        "approverRole": "BoardDirector",
+        "action": "Approve"
+      },
+      {
+        "step": 3,
+        "approverRole": "RegionalManager",
+        "action": "Verify"
+      },
+      {
+        "step": 4,
+        "approverRole": "TeamLead",
+        "action": "Escalate"
+      }
+    ],
+    "isActive": true,
+    "createdAt": "2023-07-10T01:42:09Z"
+  },
+  {
+    "workflowId": "190fc47d-17de-5d13-8ec2-70b4a4b45c8b",
+    "workflowName": "DisbursementRequest Workflow 8",
+    "entityType": "DisbursementRequest",
+    "steps": [
+      {
+        "step": 1,
+        "approverRole": "BoardDirector",
+        "action": "Review"
+      }
+    ],
+    "isActive": false,
+    "createdAt": "2021-06-17T16:47:27Z"
+  },
+  {
+    "workflowId": "256c6a73-cbbd-d252-abd1-760fbe552b18",
+    "workflowName": "ComplianceReview Workflow 9",
+    "entityType": "ComplianceReview",
+    "steps": [
+      {
+        "step": 1,
+        "approverRole": "RegionalManager",
+        "action": "Review"
+      },
+      {
+        "step": 2,
+        "approverRole": "TeamLead",
+        "action": "Approve"
+      }
+    ],
+    "isActive": true,
+    "createdAt": "2021-07-15T08:19:28Z"
+  },
+  {
+    "workflowId": "6b45a788-4063-9c3d-7308-ee3791ad3a99",
+    "workflowName": "AuditTask Workflow 10",
+    "entityType": "AuditTask",
+    "steps": [
+      {
+        "step": 1,
+        "approverRole": "TeamLead",
+        "action": "Review"
+      },
+      {
+        "step": 2,
+        "approverRole": "DepartmentHead",
+        "action": "Approve"
+      },
+      {
+        "step": 3,
+        "approverRole": "SeniorAnalyst",
+        "action": "Verify"
+      }
+    ],
+    "isActive": true,
+    "createdAt": "2023-02-12T10:39:25Z"
+  },
+  {
+    "workflowId": "15fd8e15-3e53-8ce2-43df-27ea0ed77671",
+    "workflowName": "SystemChange Workflow 11",
+    "entityType": "SystemChange",
+    "steps": [
+      {
+        "step": 1,
+        "approverRole": "DepartmentHead",
+        "action": "Review"
+      },
+      {
+        "step": 2,
+        "approverRole": "SeniorAnalyst",
+        "action": "Approve"
+      },
+      {
+        "step": 3,
+        "approverRole": "ChiefRiskOfficer",
+        "action": "Verify"
+      },
+      {
+        "step": 4,
+        "approverRole": "ManagingDirector",
+        "action": "Escalate"
+      }
+    ],
+    "isActive": true,
+    "createdAt": "2023-12-22T19:59:39Z"
+  },
+  {
+    "workflowId": "6b5bf084-0c6f-bbf0-ce88-cdfd159e4451",
+    "workflowName": "PolicyUpdate Workflow 12",
+    "entityType": "PolicyUpdate",
+    "steps": [
+      {
+        "step": 1,
+        "approverRole": "SeniorAnalyst",
+        "action": "Review"
+      }
+    ],
+    "isActive": true,
+    "createdAt": "2022-02-05T01:58:58Z"
+  },
+  {
+    "workflowId": "a846096f-db59-a3d6-f5cd-3197c9b04d36",
+    "workflowName": "PartnerOnboarding Workflow 13",
+    "entityType": "PartnerOnboarding",
+    "steps": [
+      {
+        "step": 1,
+        "approverRole": "ChiefRiskOfficer",
+        "action": "Review"
+      },
+      {
+        "step": 2,
+        "approverRole": "ManagingDirector",
+        "action": "Approve"
+      }
+    ],
+    "isActive": true,
+    "createdAt": "2021-06-10T11:19:29Z"
+  },
+  {
+    "workflowId": "3868cce7-a4d0-25fc-aa1e-95beae5ec653",
+    "workflowName": "RegulatorReport Workflow 14",
+    "entityType": "RegulatorReport",
+    "steps": [
+      {
+        "step": 1,
+        "approverRole": "ManagingDirector",
+        "action": "Review"
+      },
+      {
+        "step": 2,
+        "approverRole": "OperationsManager",
+        "action": "Approve"
+      },
+      {
+        "step": 3,
+        "approverRole": "CFO",
+        "action": "Verify"
+      }
+    ],
+    "isActive": true,
+    "createdAt": "2023-01-09T02:39:52Z"
+  },
+  {
+    "workflowId": "34e1df77-e513-26c3-2500-1193f2e95c0d",
+    "workflowName": "MobileMoneyTransaction Workflow 15",
+    "entityType": "MobileMoneyTransaction",
+    "steps": [
+      {
+        "step": 1,
+        "approverRole": "OperationsManager",
+        "action": "Review"
+      },
+      {
+        "step": 2,
+        "approverRole": "CFO",
+        "action": "Approve"
+      },
+      {
+        "step": 3,
+        "approverRole": "CEO",
+        "action": "Verify"
+      },
+      {
+        "step": 4,
+        "approverRole": "BranchManager",
+        "action": "Escalate"
+      }
+    ],
+    "isActive": true,
+    "createdAt": "2021-04-02T08:10:34Z"
+  },
+  {
+    "workflowId": "4a507e3e-5010-07dd-8b74-bacd7d97eab0",
+    "workflowName": "KYCRecord Workflow 16",
+    "entityType": "KYCRecord",
+    "steps": [
+      {
+        "step": 1,
+        "approverRole": "CFO",
+        "action": "Review"
+      }
+    ],
+    "isActive": false,
+    "createdAt": "2022-12-26T13:04:10Z"
+  },
+  {
+    "workflowId": "e91082a6-d000-b5dd-c7e4-8323e4c56a55",
+    "workflowName": "AgentRegistration Workflow 17",
+    "entityType": "AgentRegistration",
+    "steps": [
+      {
+        "step": 1,
+        "approverRole": "CEO",
+        "action": "Review"
+      },
+      {
+        "step": 2,
+        "approverRole": "BranchManager",
+        "action": "Approve"
+      }
+    ],
+    "isActive": true,
+    "createdAt": "2021-04-13T08:57:52Z"
+  },
+  {
+    "workflowId": "b8c5f25b-5b99-fbf8-577f-fe56e607612c",
+    "workflowName": "RevenueShare Workflow 18",
+    "entityType": "RevenueShare",
+    "steps": [
+      {
+        "step": 1,
+        "approverRole": "BranchManager",
+        "action": "Review"
+      },
+      {
+        "step": 2,
+        "approverRole": "ComplianceOfficer",
+        "action": "Approve"
+      },
+      {
+        "step": 3,
+        "approverRole": "FinanceManager",
+        "action": "Verify"
+      }
+    ],
+    "isActive": true,
+    "createdAt": "2023-08-08T14:55:19Z"
+  },
+  {
+    "workflowId": "92852dbc-04e8-b702-4590-b43bce9470b6",
+    "workflowName": "BillPayment Workflow 19",
+    "entityType": "BillPayment",
+    "steps": [
+      {
+        "step": 1,
+        "approverRole": "ComplianceOfficer",
+        "action": "Review"
+      },
+      {
+        "step": 2,
+        "approverRole": "FinanceManager",
+        "action": "Approve"
+      },
+      {
+        "step": 3,
+        "approverRole": "HeadOfRisk",
+        "action": "Verify"
+      },
+      {
+        "step": 4,
+        "approverRole": "InternalAuditor",
+        "action": "Escalate"
+      }
+    ],
+    "isActive": true,
+    "createdAt": "2021-07-23T20:46:50Z"
+  },
+  {
+    "workflowId": "380e825c-d3ee-1b43-6fdc-b6082a260439",
+    "workflowName": "LoanRequest Workflow 20",
+    "entityType": "LoanRequest",
+    "steps": [
+      {
+        "step": 1,
+        "approverRole": "FinanceManager",
+        "action": "Review"
+      }
+    ],
+    "isActive": true,
+    "createdAt": "2021-12-29T02:50:20Z"
+  },
+  {
+    "workflowId": "45e8ce6c-f77a-591d-cd8a-219ce1153c6f",
+    "workflowName": "FraudInvestigation Workflow 21",
+    "entityType": "FraudInvestigation",
+    "steps": [
+      {
+        "step": 1,
+        "approverRole": "HeadOfRisk",
+        "action": "Review"
+      },
+      {
+        "step": 2,
+        "approverRole": "InternalAuditor",
+        "action": "Approve"
+      }
+    ],
+    "isActive": true,
+    "createdAt": "2023-12-27T21:10:33Z"
+  },
+  {
+    "workflowId": "3144675b-82ee-c3ad-1759-4a15740ebe61",
+    "workflowName": "SettlementApproval Workflow 22",
+    "entityType": "SettlementApproval",
+    "steps": [
+      {
+        "step": 1,
+        "approverRole": "InternalAuditor",
+        "action": "Review"
+      },
+      {
+        "step": 2,
+        "approverRole": "BoardDirector",
+        "action": "Approve"
+      },
+      {
+        "step": 3,
+        "approverRole": "RegionalManager",
+        "action": "Verify"
+      }
+    ],
+    "isActive": true,
+    "createdAt": "2022-09-28T19:46:38Z"
+  },
+  {
+    "workflowId": "4009fc57-3f73-4962-f142-c943563a1ec0",
+    "workflowName": "DisbursementRequest Workflow 23",
+    "entityType": "DisbursementRequest",
+    "steps": [
+      {
+        "step": 1,
+        "approverRole": "BoardDirector",
+        "action": "Review"
+      },
+      {
+        "step": 2,
+        "approverRole": "RegionalManager",
+        "action": "Approve"
+      },
+      {
+        "step": 3,
+        "approverRole": "TeamLead",
+        "action": "Verify"
+      },
+      {
+        "step": 4,
+        "approverRole": "DepartmentHead",
+        "action": "Escalate"
+      }
+    ],
+    "isActive": true,
+    "createdAt": "2022-04-06T03:38:05Z"
+  },
+  {
+    "workflowId": "a2a2835c-1b96-770b-9db8-902f6d4c3b2f",
+    "workflowName": "ComplianceReview Workflow 24",
+    "entityType": "ComplianceReview",
+    "steps": [
+      {
+        "step": 1,
+        "approverRole": "RegionalManager",
+        "action": "Review"
+      }
+    ],
+    "isActive": false,
+    "createdAt": "2021-03-06T10:20:09Z"
+  },
+  {
+    "workflowId": "c1e90452-def1-a213-8a7d-de9fcc5ddf14",
+    "workflowName": "AuditTask Workflow 25",
+    "entityType": "AuditTask",
+    "steps": [
+      {
+        "step": 1,
+        "approverRole": "TeamLead",
+        "action": "Review"
+      },
+      {
+        "step": 2,
+        "approverRole": "DepartmentHead",
+        "action": "Approve"
+      }
+    ],
+    "isActive": true,
+    "createdAt": "2021-03-16T07:54:57Z"
+  }
+]

@@ -1,0 +1,7 @@
+[
+  { "id": "ins-admin-001", "username": "admin.insurance", "fullName": "Pamela Zulu", "role": "Administrator", "email": "pamela.zulu@insurance.zm", "isActive": true },
+  { "id": "ins-underwriter-001", "username": "underwriter.insurance", "fullName": "Brian Kunda", "role": "Underwriter", "email": "brian.kunda@insurance.zm", "isActive": true },
+  { "id": "ins-claims-001", "username": "claims.insurance", "fullName": "Mable Chisenga", "role": "Claims Officer", "email": "mable.chisenga@insurance.zm", "isActive": true },
+  { "id": "ins-actuary-001", "username": "actuary.insurance", "fullName": "Victor Mwansa", "role": "Actuary", "email": "victor.mwansa@insurance.zm", "isActive": true },
+  { "id": "ins-sales-001", "username": "sales.insurance", "fullName": "Brenda Sampa", "role": "Sales Advisor", "email": "brenda.sampa@insurance.zm", "isActive": true }
+]

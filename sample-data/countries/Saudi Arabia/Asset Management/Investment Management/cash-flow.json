@@ -1,0 +1,177 @@
+[
+  {
+    "description": "Net Profit / (Loss)",
+    "accountCode": "NET",
+    "amount": 705375.0,
+    "isSubtotal": false,
+    "category": "Operating"
+  },
+  {
+    "description": "Add: Depreciation and amortisation",
+    "accountCode": "5030",
+    "amount": 207900.0,
+    "isSubtotal": false,
+    "category": "Operating"
+  },
+  {
+    "description": "Add: Impairment losses",
+    "accountCode": "5040",
+    "amount": 61875.0,
+    "isSubtotal": false,
+    "category": "Operating"
+  },
+  {
+    "description": "Less: Increase in accounts receivable",
+    "accountCode": "1040",
+    "amount": -79200.0,
+    "isSubtotal": false,
+    "category": "Operating"
+  },
+  {
+    "description": "Less: Increase in prepayments",
+    "accountCode": "1050",
+    "amount": -27225.0,
+    "isSubtotal": false,
+    "category": "Operating"
+  },
+  {
+    "description": "Add: Increase in accounts payable",
+    "accountCode": "2010",
+    "amount": 47025.0,
+    "isSubtotal": false,
+    "category": "Operating"
+  },
+  {
+    "description": "Add: Increase in accrued expenses",
+    "accountCode": "2030",
+    "amount": 37125.0,
+    "isSubtotal": false,
+    "category": "Operating"
+  },
+  {
+    "description": "Less: Tax paid",
+    "accountCode": "TAX",
+    "amount": -178200.0,
+    "isSubtotal": false,
+    "category": "Operating"
+  },
+  {
+    "description": "Add: Interest received",
+    "accountCode": "4010",
+    "amount": 111375.0,
+    "isSubtotal": false,
+    "category": "Operating"
+  },
+  {
+    "description": "Add: Exchange rate movements",
+    "accountCode": "4040",
+    "amount": 19800.0,
+    "isSubtotal": false,
+    "category": "Operating"
+  },
+  {
+    "description": "Net Cash from Operating Activities",
+    "accountCode": "OCF",
+    "amount": 905850.0,
+    "isSubtotal": true,
+    "category": "Operating"
+  },
+  {
+    "description": "Purchase of property and equipment",
+    "accountCode": "1110",
+    "amount": -297000.0,
+    "isSubtotal": false,
+    "category": "Investing"
+  },
+  {
+    "description": "Purchase of intangible assets",
+    "accountCode": "1130",
+    "amount": -86625.0,
+    "isSubtotal": false,
+    "category": "Investing"
+  },
+  {
+    "description": "Proceeds from sale of investments",
+    "accountCode": "1120",
+    "amount": 136125.0,
+    "isSubtotal": false,
+    "category": "Investing"
+  },
+  {
+    "description": "Long-term investment additions",
+    "accountCode": "1125",
+    "amount": -198000.0,
+    "isSubtotal": false,
+    "category": "Investing"
+  },
+  {
+    "description": "Proceeds from asset disposals",
+    "accountCode": "1115",
+    "amount": 44550.0,
+    "isSubtotal": false,
+    "category": "Investing"
+  },
+  {
+    "description": "Net investment in interbank placements",
+    "accountCode": "1080",
+    "amount": -99000.0,
+    "isSubtotal": false,
+    "category": "Investing"
+  },
+  {
+    "description": "Net Cash used in Investing Activities",
+    "accountCode": "ICF",
+    "amount": -499950.0,
+    "isSubtotal": true,
+    "category": "Investing"
+  },
+  {
+    "description": "Proceeds from long-term borrowings",
+    "accountCode": "2110",
+    "amount": 371250.0,
+    "isSubtotal": false,
+    "category": "Financing"
+  },
+  {
+    "description": "Repayment of borrowings",
+    "accountCode": "2115",
+    "amount": -222750.0,
+    "isSubtotal": false,
+    "category": "Financing"
+  },
+  {
+    "description": "Dividends paid to shareholders",
+    "accountCode": "3040",
+    "amount": -148500.0,
+    "isSubtotal": false,
+    "category": "Financing"
+  },
+  {
+    "description": "Net Cash from Financing Activities",
+    "accountCode": "FCF",
+    "amount": 0.0,
+    "isSubtotal": true,
+    "category": "Financing"
+  },
+  {
+    "description": "Net Increase / (Decrease) in Cash",
+    "accountCode": "NCH",
+    "amount": 405900.0,
+    "isSubtotal": true,
+    "category": "Summary"
+  },
+  {
+    "description": "Opening Cash Balance",
+    "accountCode": "OPN",
+    "amount": 1126125.0,
+    "isSubtotal": false,
+    "category": "Summary"
+  },
+  {
+    "description": "Closing Cash Balance",
+    "accountCode": "CLO",
+    "amount": 1532025.0,
+    "isSubtotal": true,
+    "category": "Summary"
+  }
+]

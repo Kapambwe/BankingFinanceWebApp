@@ -1,0 +1,79 @@
+[
+  {
+    "section": "Revenue",
+    "accountCode": "4001",
+    "accountName": "Member Contributions",
+    "amount": 404.0,
+    "currency": "KES"
+  },
+  {
+    "section": "Revenue",
+    "accountCode": "4002",
+    "accountName": "Government Subvention",
+    "amount": 220.0,
+    "currency": "KES"
+  },
+  {
+    "section": "Revenue",
+    "accountCode": "4003",
+    "accountName": "Employer Contributions",
+    "amount": 73.0,
+    "currency": "KES"
+  },
+  {
+    "section": "Revenue",
+    "accountCode": "4004",
+    "accountName": "Investment Income",
+    "amount": 37.0,
+    "currency": "KES"
+  },
+  {
+    "section": "Expenses",
+    "accountCode": "5001",
+    "accountName": "Claims Paid",
+    "amount": 426.0,
+    "currency": "KES"
+  },
+  {
+    "section": "Expenses",
+    "accountCode": "5002",
+    "accountName": "Staff Costs",
+    "amount": 132.0,
+    "currency": "KES"
+  },
+  {
+    "section": "Expenses",
+    "accountCode": "5003",
+    "accountName": "Administrative Expenses",
+    "amount": 59.0,
+    "currency": "KES"
+  },
+  {
+    "section": "Expenses",
+    "accountCode": "5004",
+    "accountName": "Provider Management Costs",
+    "amount": 29.0,
+    "currency": "KES"
+  },
+  {
+    "section": "Expenses",
+    "accountCode": "5005",
+    "accountName": "Depreciation",
+    "amount": 22.0,
+    "currency": "KES"
+  },
+  {
+    "section": "Expenses",
+    "accountCode": "5006",
+    "accountName": "Audit and Legal Fees",
+    "amount": 7.0,
+    "currency": "KES"
+  },
+  {
+    "section": "NetSurplus",
+    "accountCode": "9001",
+    "accountName": "Net Surplus/(Deficit) for the Year",
+    "amount": 59.0,
+    "currency": "KES"
+  }
+]

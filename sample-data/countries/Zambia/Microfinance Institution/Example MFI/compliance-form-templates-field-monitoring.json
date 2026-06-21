@@ -1,0 +1,33 @@
+[
+  {
+    "id": "form-field-officer-visit-report",
+    "code": "FORM-FIELD-OFFICER-VISIT-REPORT",
+    "name": "Field Officer Visit Report",
+    "purpose": "Captures field visit observations and client follow-up actions.",
+    "owner": "Field Operations",
+    "status": "Active",
+    "lifecycle": "Production-ready",
+    "lastUpdated": "2026-06-19T16:00:00Z",
+    "usedFor": [ "Field visit", "Client monitoring" ],
+    "sections": [
+      {
+        "title": "Visit Details",
+        "description": "Capture the visit date, officer and location.",
+        "fields": [
+          { "key": "officerName", "label": "Officer name", "type": "Text", "required": true },
+          { "key": "visitDate", "label": "Visit date", "type": "Date", "required": true },
+          { "key": "visitLocation", "label": "Visit location", "type": "Text", "required": true }
+        ]
+      },
+      {
+        "title": "Observations",
+        "description": "Capture client condition and follow-up actions.",
+        "fields": [
+          { "key": "observationNotes", "label": "Observation notes", "type": "Multiline", "required": true },
+          { "key": "actionItems", "label": "Action items", "type": "Multiline", "required": true },
+          { "key": "sitePhotos", "label": "Site photos", "type": "File", "required": false }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,4 @@
+[
+  { "id": "insco-admin-001", "username": "admin.insurancecompany", "fullName": "Mwamba Tembo", "role": "Administrator", "email": "mwamba.tembo@insurancecompany.zm", "isActive": true },
+  { "id": "insco-claims-001", "username": "claims.insurancecompany", "fullName": "Faith Kabwe", "role": "Claims Officer", "email": "faith.kabwe@insurancecompany.zm", "isActive": true }
+]

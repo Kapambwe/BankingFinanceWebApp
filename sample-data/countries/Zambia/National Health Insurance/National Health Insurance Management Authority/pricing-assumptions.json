@@ -1,0 +1,35 @@
+[
+  {
+    "assumptionId": "pa100000-0001",
+    "assumptionName": "Average Claims Per Member Per Year",
+    "value": 2.8,
+    "unit": "Claims",
+    "description": "Expected number of claims per member annually",
+    "validFrom": "2025-01-01",
+    "validTo": "2025-12-31",
+    "isActive": true,
+    "createdAt": "2025-01-01T00:00:00Z"
+  },
+  {
+    "assumptionId": "pa100000-0002",
+    "assumptionName": "Medical Inflation Rate",
+    "value": 0.085,
+    "unit": "Percentage",
+    "description": "Expected annual medical cost inflation rate",
+    "validFrom": "2025-01-01",
+    "validTo": "2025-12-31",
+    "isActive": true,
+    "createdAt": "2025-01-01T00:00:00Z"
+  },
+  {
+    "assumptionId": "pa100000-0003",
+    "assumptionName": "Healthcare Utilization Rate",
+    "value": 0.72,
+    "unit": "Percentage",
+    "description": "Proportion of members expected to use services",
+    "validFrom": "2025-01-01",
+    "validTo": "2025-12-31",
+    "isActive": true,
+    "createdAt": "2025-01-01T00:00:00Z"
+  }
+]

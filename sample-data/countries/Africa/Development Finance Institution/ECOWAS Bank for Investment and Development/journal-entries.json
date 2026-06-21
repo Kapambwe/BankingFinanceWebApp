@@ -1,0 +1,6 @@
+[
+  {"entryId":"EBID-JE-001","date":"2025-09-15T00:00:00Z","description":"Sovereign Loan - Senegal Road Infrastructure","debitAccount":"1100","creditAccount":"1000","amount":25000000000.00,"currency":"XOF","status":"Posted"},
+  {"entryId":"EBID-JE-002","date":"2025-10-20T00:00:00Z","description":"Sovereign Loan - Mali Agriculture","debitAccount":"1100","creditAccount":"1000","amount":15000000000.00,"currency":"XOF","status":"Posted"},
+  {"entryId":"EBID-JE-003","date":"2025-12-20T00:00:00Z","description":"Repayment Received - Senegal","debitAccount":"1000","creditAccount":"1100","amount":5000000000.00,"currency":"XOF","status":"Posted"},
+  {"entryId":"EBID-JE-004","date":"2025-12-31T00:00:00Z","description":"Interest Income Accrual - Q4 2025","debitAccount":"1300","creditAccount":"4000","amount":21250000000.00,"currency":"XOF","status":"Posted"}
+]

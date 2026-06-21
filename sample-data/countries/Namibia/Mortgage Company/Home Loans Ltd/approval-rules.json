@@ -1,0 +1,80 @@
+[
+  {
+    "ruleId": 1,
+    "ruleName": "Bills NAD 280,000\u20132,800,000 require Mortgage Manager approval",
+    "type": "Bill",
+    "minAmount": 280000,
+    "maxAmount": 2800000,
+    "approverId": "manager@homeloansltd.co",
+    "approverName": "Mortgage Manager",
+    "level": 1,
+    "isActive": true,
+    "autoApproveBelow": false,
+    "notes": "Standard operational expenditure threshold"
+  },
+  {
+    "ruleId": 2,
+    "ruleName": "Bills above NAD 2,800,000 require Chief Financial Officer approval",
+    "type": "Bill",
+    "minAmount": 2800000,
+    "maxAmount": null,
+    "approverId": "cfo@homeloansltd.co",
+    "approverName": "Chief Financial Officer",
+    "level": 2,
+    "isActive": true,
+    "autoApproveBelow": false,
+    "notes": "Capital expenditure and large operational bills"
+  },
+  {
+    "ruleId": 3,
+    "ruleName": "Bills above NAD 9,200,000 require Managing Director approval",
+    "type": "Bill",
+    "minAmount": 9200000,
+    "maxAmount": null,
+    "approverId": "ceo@homeloansltd.co",
+    "approverName": "Managing Director",
+    "level": 3,
+    "isActive": true,
+    "autoApproveBelow": false,
+    "notes": "Strategic vendor contracts and major capital expenditure"
+  },
+  {
+    "ruleId": 4,
+    "ruleName": "Journal entries above NAD 1,400,000 require Chief Financial Officer approval",
+    "type": "JournalEntry",
+    "minAmount": 1400000.0,
+    "maxAmount": null,
+    "approverId": "controller@homeloansltd.co",
+    "approverName": "Financial Controller",
+    "level": 1,
+    "isActive": true,
+    "autoApproveBelow": false,
+    "notes": "SOX control \u2014 manual journal entries above threshold"
+  },
+  {
+    "ruleId": 5,
+    "ruleName": "Payments below NAD 140,000 auto-approved",
+    "type": "Payment",
+    "minAmount": 0,
+    "maxAmount": 140000,
+    "approverId": "system@homeloansltd.co",
+    "approverName": "System",
+    "level": 1,
+    "isActive": true,
+    "autoApproveBelow": true,
+    "notes": "Petty cash and minor operational payments"
+  },
+  {
+    "ruleId": 6,
+    "ruleName": "Budget changes above NAD 2,800,000 require Chief Financial Officer approval",
+    "type": "BudgetChange",
+    "minAmount": 2800000,
+    "maxAmount": null,
+    "approverId": "cfo@homeloansltd.co",
+    "approverName": "Chief Financial Officer",
+    "level": 2,
+    "isActive": true,
+    "autoApproveBelow": false,
+    "notes": "Budget revisions require justification memo"
+  }
+]

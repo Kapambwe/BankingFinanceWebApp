@@ -1,0 +1,50 @@
+[
+  {
+    "contractGroupId": "ig500000-0001",
+    "groupName": "NHIF Contract Group 1",
+    "measurementModel": "GMM",
+    "portfolioName": "NHIF Main Portfolio",
+    "groupType": "Onerous",
+    "inceptionDate": "2025-01-01",
+    "reportingDate": "2025-12-31",
+    "grossInsuranceLiability": 66.0,
+    "reinsuranceHeld": 22.0,
+    "netLiability": 44.0,
+    "csm": 0.0,
+    "currency": "KES",
+    "status": "Active",
+    "createdAt": "2025-01-01T00:00:00Z"
+  },
+  {
+    "contractGroupId": "ig500000-0002",
+    "groupName": "NHIF Contract Group 2",
+    "measurementModel": "GMM",
+    "portfolioName": "NHIF Main Portfolio",
+    "groupType": "Non-Onerous Profitable",
+    "inceptionDate": "2025-01-01",
+    "reportingDate": "2025-12-31",
+    "grossInsuranceLiability": 118.0,
+    "reinsuranceHeld": 37.0,
+    "netLiability": 81.0,
+    "csm": 18.0,
+    "currency": "KES",
+    "status": "Active",
+    "createdAt": "2025-01-01T00:00:00Z"
+  },
+  {
+    "contractGroupId": "ig500000-0003",
+    "groupName": "NHIF Contract Group 3",
+    "measurementModel": "GMM",
+    "portfolioName": "NHIF Main Portfolio",
+    "groupType": "Non-Onerous Remaining Margin",
+    "inceptionDate": "2025-01-01",
+    "reportingDate": "2025-12-31",
+    "grossInsuranceLiability": 37.0,
+    "reinsuranceHeld": 12.0,
+    "netLiability": 25.0,
+    "csm": 7.0,
+    "currency": "KES",
+    "status": "Active",
+    "createdAt": "2025-01-01T00:00:00Z"
+  }
+]

@@ -1,0 +1,64 @@
+[
+  {
+    "id": "form-portfolio-company-onboarding",
+    "code": "FORM-PORTFOLIO-COMPANY-ONBOARDING",
+    "name": "Portfolio Company Onboarding",
+    "purpose": "Captures new portfolio company onboarding and governance details.",
+    "owner": "Portfolio Management",
+    "status": "Active",
+    "lifecycle": "Production-ready",
+    "lastUpdated": "2026-06-19T18:10:00Z",
+    "usedFor": [ "Portfolio onboarding", "Company setup" ],
+    "sections": [
+      {
+        "title": "Company Profile",
+        "description": "Capture company identity and sector.",
+        "fields": [
+          { "key": "companyName", "label": "Company name", "type": "Text", "required": true },
+          { "key": "registrationNumber", "label": "Registration number", "type": "Text", "required": true },
+          { "key": "sector", "label": "Sector", "type": "Text", "required": true }
+        ]
+      },
+      {
+        "title": "Onboarding Pack",
+        "description": "Capture cap table and governance documents.",
+        "fields": [
+          { "key": "capTable", "label": "Cap table", "type": "File", "required": true },
+          { "key": "boardMembers", "label": "Board members", "type": "Multiline", "required": true },
+          { "key": "shareholderAgreements", "label": "Shareholder agreements", "type": "File", "required": false }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "form-portco-financial-review",
+    "code": "FORM-PORTCO-FINANCIAL-REVIEW",
+    "name": "Portfolio Financial Review",
+    "purpose": "Captures periodic financial review details for portfolio companies.",
+    "owner": "Portfolio Management",
+    "status": "Active",
+    "lifecycle": "Production-ready",
+    "lastUpdated": "2026-06-19T18:20:00Z",
+    "usedFor": [ "Portfolio review", "Financial oversight" ],
+    "sections": [
+      {
+        "title": "Review Context",
+        "description": "Capture company and review period.",
+        "fields": [
+          { "key": "companyName", "label": "Company name", "type": "Text", "required": true },
+          { "key": "reviewPeriod", "label": "Review period", "type": "Text", "required": true },
+          { "key": "reviewerName", "label": "Reviewer name", "type": "Text", "required": true }
+        ]
+      },
+      {
+        "title": "Financial Pack",
+        "description": "Capture financial results and commentary.",
+        "fields": [
+          { "key": "financialStatements", "label": "Financial statements", "type": "File", "required": true },
+          { "key": "varianceCommentary", "label": "Variance commentary", "type": "Multiline", "required": true },
+          { "key": "nextAction", "label": "Next action", "type": "Multiline", "required": false }
+        ]
+      }
+    ]
+  }
+]

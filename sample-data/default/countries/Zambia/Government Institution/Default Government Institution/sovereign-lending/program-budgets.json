@@ -1,0 +1,18 @@
+[
+  {
+    "BudgetId": "11111111-1111-1111-1111-111111111113",
+    "ProgramId": "11111111-1111-1111-1111-111111111111",
+    "ProgramName": "National SME Recovery Facility",
+    "FiscalYear": "2026",
+    "ApprovedBudget": 250000000,
+    "RevisedBudget": 250000000,
+    "DisbursedAmount": 97500000,
+    "CommittedAmount": 118000000,
+    "AvailableBalance": 40500000,
+    "AdminCosts": 2500000,
+    "UtilizationRate": 39,
+    "Currency": "ZMW",
+    "Status": "Active",
+    "CreatedAt": "2026-01-05T00:00:00Z"
+  }
+]

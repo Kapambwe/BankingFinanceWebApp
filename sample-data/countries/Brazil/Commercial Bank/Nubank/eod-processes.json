@@ -1,0 +1,76 @@
+[
+  {
+    "processId": "eod001-1111-1111-1111-000000000001",
+    "businessDate": "2026-01-02T00:00:00Z",
+    "processName": "Processamento de Juros — Cartão de Crédito",
+    "type": "InterestAccrual",
+    "startedAt": "2026-01-02T20:00:00Z",
+    "completedAt": "2026-01-02T20:35:00Z",
+    "status": "Completed",
+    "totalTransactions": 9500000,
+    "processedTransactions": 9500000,
+    "failedTransactions": 0,
+    "runBy": "Sistema Batch Nubank",
+    "errors": []
+  },
+  {
+    "processId": "eod001-1111-1111-1111-000000000002",
+    "businessDate": "2026-01-02T00:00:00Z",
+    "processName": "Cobrança de Tarifas",
+    "type": "FeeCollection",
+    "startedAt": "2026-01-02T20:36:00Z",
+    "completedAt": "2026-01-02T20:58:00Z",
+    "status": "Completed",
+    "totalTransactions": 450000,
+    "processedTransactions": 449800,
+    "failedTransactions": 200,
+    "runBy": "Sistema Batch Nubank",
+    "errors": [
+      "Fee collection error for 200 dormant accounts"
+    ]
+  },
+  {
+    "processId": "eod001-1111-1111-1111-000000000003",
+    "businessDate": "2026-01-02T00:00:00Z",
+    "processName": "Liquidação Pix EOD",
+    "type": "Settlement",
+    "startedAt": "2026-01-02T21:00:00Z",
+    "completedAt": "2026-01-02T21:45:00Z",
+    "status": "Completed",
+    "totalTransactions": 15000000,
+    "processedTransactions": 15000000,
+    "failedTransactions": 0,
+    "runBy": "Sistema Batch Nubank",
+    "errors": []
+  },
+  {
+    "processId": "eod001-1111-1111-1111-000000000004",
+    "businessDate": "2026-01-02T00:00:00Z",
+    "processName": "Cálculo de Score de Crédito",
+    "type": "CreditScoring",
+    "startedAt": "2026-01-02T22:00:00Z",
+    "completedAt": "2026-01-02T23:30:00Z",
+    "status": "Completed",
+    "totalTransactions": 95000000,
+    "processedTransactions": 94850000,
+    "failedTransactions": 150000,
+    "runBy": "Motor de IA Nubank",
+    "errors": [
+      "150000 accounts missing data for scoring"
+    ]
+  },
+  {
+    "processId": "eod001-1111-1111-1111-000000000005",
+    "businessDate": "2026-01-02T00:00:00Z",
+    "processName": "Relatório Bacen COSIF",
+    "type": "RegulatoryReport",
+    "startedAt": "2026-01-02T23:45:00Z",
+    "completedAt": "2026-01-03T00:15:00Z",
+    "status": "Completed",
+    "totalTransactions": 1,
+    "processedTransactions": 1,
+    "failedTransactions": 0,
+    "runBy": "Sistema de Compliance Nubank",
+    "errors": []
+  }
+]

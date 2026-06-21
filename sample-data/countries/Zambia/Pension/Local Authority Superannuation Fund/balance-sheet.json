@@ -1,0 +1,152 @@
+[
+  {
+    "section": "CurrentAssets",
+    "accountCode": "1010",
+    "accountName": "Cash — Operating Account",
+    "balance": 46980000.0
+  },
+  {
+    "section": "CurrentAssets",
+    "accountCode": "1020",
+    "accountName": "Cash — Savings Account",
+    "balance": 93960000.0
+  },
+  {
+    "section": "CurrentAssets",
+    "accountCode": "1030",
+    "accountName": "Short-Term Investments",
+    "balance": 75168000.0
+  },
+  {
+    "section": "CurrentAssets",
+    "accountCode": "1040",
+    "accountName": "Accounts Receivable",
+    "balance": 65772000.0
+  },
+  {
+    "section": "CurrentAssets",
+    "accountCode": "1050",
+    "accountName": "Prepaid Expenses",
+    "balance": 18792000.0
+  },
+  {
+    "section": "CurrentAssets",
+    "accountCode": "1060",
+    "accountName": "Other Current Assets",
+    "balance": 28188000.0
+  },
+  {
+    "section": "CurrentAssets",
+    "accountCode": "1070",
+    "accountName": "Tax Refund Receivable",
+    "balance": 9396000.0
+  },
+  {
+    "section": "CurrentAssets",
+    "accountCode": "1080",
+    "accountName": "Interbank Placements",
+    "balance": 112752000.0
+  },
+  {
+    "section": "NonCurrentAssets",
+    "accountCode": "1110",
+    "accountName": "Property and Equipment (Net)",
+    "balance": 140940000.0
+  },
+  {
+    "section": "NonCurrentAssets",
+    "accountCode": "1120",
+    "accountName": "Long-Term Investments",
+    "balance": 187920000.0
+  },
+  {
+    "section": "NonCurrentAssets",
+    "accountCode": "1130",
+    "accountName": "Intangible Assets",
+    "balance": 28188000.0
+  },
+  {
+    "section": "NonCurrentAssets",
+    "accountCode": "1140",
+    "accountName": "Deferred Tax Asset",
+    "balance": 18792000.0
+  },
+  {
+    "section": "NonCurrentAssets",
+    "accountCode": "1150",
+    "accountName": "Goodwill",
+    "balance": 56376000.0
+  },
+  {
+    "section": "CurrentLiabilities",
+    "accountCode": "2010",
+    "accountName": "Accounts Payable",
+    "balance": 56376000.0
+  },
+  {
+    "section": "CurrentLiabilities",
+    "accountCode": "2020",
+    "accountName": "Short-Term Borrowings",
+    "balance": 75168000.0
+  },
+  {
+    "section": "CurrentLiabilities",
+    "accountCode": "2030",
+    "accountName": "Accrued Expenses",
+    "balance": 28188000.0
+  },
+  {
+    "section": "CurrentLiabilities",
+    "accountCode": "2040",
+    "accountName": "Tax Payable",
+    "balance": 18792000.0
+  },
+  {
+    "section": "CurrentLiabilities",
+    "accountCode": "2050",
+    "accountName": "Customer Deposits — Current",
+    "balance": 234900000.0
+  },
+  {
+    "section": "NonCurrentLiabilities",
+    "accountCode": "2110",
+    "accountName": "Long-Term Debt",
+    "balance": 140940000.0
+  },
+  {
+    "section": "NonCurrentLiabilities",
+    "accountCode": "2120",
+    "accountName": "Deferred Tax Liability",
+    "balance": 18792000.0
+  },
+  {
+    "section": "NonCurrentLiabilities",
+    "accountCode": "2130",
+    "accountName": "Pension Obligations",
+    "balance": 28188000.0
+  },
+  {
+    "section": "NonCurrentLiabilities",
+    "accountCode": "2140",
+    "accountName": "Subordinated Debt",
+    "balance": 46980000.0
+  },
+  {
+    "section": "Equity",
+    "accountCode": "3010",
+    "accountName": "Share Capital",
+    "balance": 93960000.0
+  },
+  {
+    "section": "Equity",
+    "accountCode": "3020",
+    "accountName": "Retained Earnings",
+    "balance": 75168000.0
+  },
+  {
+    "section": "Equity",
+    "accountCode": "3030",
+    "accountName": "General Reserves",
+    "balance": 37584000.0
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "branchId": "br001a1a-1111-1111-1111-000000000001",
+    "branchName": "São Paulo Digital HQ",
+    "branchCode": "BR001",
+    "region": "Sudeste",
+    "totalAccounts": 8500000,
+    "totalDeposits": 45000000000,
+    "totalLoans": 28000000000,
+    "newAccountsThisMonth": 125000,
+    "revenueThisMonth": 850000000,
+    "staffCount": 2500,
+    "asOfDate": "2026-01-31T00:00:00Z"
+  },
+  {
+    "branchId": "br001a1a-1111-1111-1111-000000000002",
+    "branchName": "Rio de Janeiro Operations",
+    "branchCode": "BR002",
+    "region": "Sudeste",
+    "totalAccounts": 4200000,
+    "totalDeposits": 22000000000,
+    "totalLoans": 14000000000,
+    "newAccountsThisMonth": 65000,
+    "revenueThisMonth": 420000000,
+    "staffCount": 1200,
+    "asOfDate": "2026-01-31T00:00:00Z"
+  },
+  {
+    "branchId": "br001a1a-1111-1111-1111-000000000003",
+    "branchName": "Nordeste Ops — Fortaleza",
+    "branchCode": "BR003",
+    "region": "Nordeste",
+    "totalAccounts": 3100000,
+    "totalDeposits": 16000000000,
+    "totalLoans": 10500000000,
+    "newAccountsThisMonth": 48000,
+    "revenueThisMonth": 310000000,
+    "staffCount": 900,
+    "asOfDate": "2026-01-31T00:00:00Z"
+  },
+  {
+    "branchId": "br001a1a-1111-1111-1111-000000000004",
+    "branchName": "Sul Ops — Porto Alegre",
+    "branchCode": "BR004",
+    "region": "Sul",
+    "totalAccounts": 2800000,
+    "totalDeposits": 14500000000,
+    "totalLoans": 9200000000,
+    "newAccountsThisMonth": 42000,
+    "revenueThisMonth": 280000000,
+    "staffCount": 800,
+    "asOfDate": "2026-01-31T00:00:00Z"
+  },
+  {
+    "branchId": "br001a1a-1111-1111-1111-000000000005",
+    "branchName": "Centro-Oeste — Brasília",
+    "branchCode": "BR005",
+    "region": "Centro-Oeste",
+    "totalAccounts": 2200000,
+    "totalDeposits": 11500000000,
+    "totalLoans": 7500000000,
+    "newAccountsThisMonth": 35000,
+    "revenueThisMonth": 220000000,
+    "staffCount": 600,
+    "asOfDate": "2026-01-31T00:00:00Z"
+  }
+]

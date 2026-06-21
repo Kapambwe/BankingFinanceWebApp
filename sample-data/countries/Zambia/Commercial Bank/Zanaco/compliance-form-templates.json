@@ -1,0 +1,209 @@
+[
+  {
+    "id": "form-policy-exception",
+    "code": "FORM-POLICY-EXCEPTION",
+    "name": "Policy Exception Request",
+    "purpose": "Collects approval data for policy overrides and temporary exceptions.",
+    "owner": "Compliance",
+    "status": "Active",
+    "lifecycle": "Production-ready",
+    "lastUpdated": "2026-06-11T08:00:00Z",
+    "usedFor": [ "Credit policy exceptions", "Operational waivers" ],
+    "sections": [
+      {
+        "title": "Request Details",
+        "description": "Capture the exception, the control being overridden and the business justification.",
+        "fields": [
+          { "key": "requestorName", "label": "Requestor name", "type": "Text", "required": true, "placeholder": "Enter the requestor" },
+          {
+            "key": "controlArea",
+            "label": "Control area",
+            "type": "Select",
+            "required": true,
+            "options": [
+              { "value": "credit", "label": "Credit" },
+              { "value": "aml", "label": "AML" },
+              { "value": "treasury", "label": "Treasury" },
+              { "value": "operations", "label": "Operations" }
+            ]
+          },
+          { "key": "businessJustification", "label": "Business justification", "type": "Multiline", "required": true, "placeholder": "Explain the exception" }
+        ]
+      },
+      {
+        "title": "Approval Details",
+        "description": "Capture the intended expiry date and the approval routing.",
+        "fields": [
+          { "key": "expiryDate", "label": "Expiry date", "type": "Date", "required": true },
+          { "key": "requiresBoardApproval", "label": "Requires board approval", "type": "Checkbox", "required": false }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "form-basel-evidence",
+    "code": "FORM-BASEL-EVIDENCE",
+    "name": "Basel Evidence Upload",
+    "purpose": "Captures supporting evidence for capital and liquidity reporting.",
+    "owner": "Treasury",
+    "status": "Active",
+    "lifecycle": "Production-ready",
+    "lastUpdated": "2026-06-13T08:00:00Z",
+    "usedFor": [ "Basel III", "Liquidity reporting" ],
+    "sections": [
+      {
+        "title": "Evidence Pack",
+        "description": "Provide the quarter, the metric and the supporting artefacts.",
+        "fields": [
+          {
+            "key": "reportingQuarter",
+            "label": "Reporting quarter",
+            "type": "Select",
+            "required": true,
+            "options": [
+              { "value": "Q1", "label": "Q1" },
+              { "value": "Q2", "label": "Q2" },
+              { "value": "Q3", "label": "Q3" },
+              { "value": "Q4", "label": "Q4" }
+            ]
+          },
+          { "key": "metricName", "label": "Metric", "type": "Text", "required": true, "placeholder": "e.g. Liquidity Coverage Ratio" },
+          { "key": "supportingFile", "label": "Supporting file", "type": "File", "required": true, "helpText": "Upload the evidence pack or supporting extract." }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "form-kyc-attestation",
+    "code": "FORM-KYC-ATTESTATION",
+    "name": "Customer Due Diligence Attestation",
+    "purpose": "Records the reviewer attestation for onboarding and periodic review.",
+    "owner": "KYC",
+    "status": "UnderReview",
+    "lifecycle": "Pilot",
+    "lastUpdated": "2026-06-06T08:00:00Z",
+    "usedFor": [ "Onboarding review", "Periodic KYC refresh" ],
+    "sections": [
+      {
+        "title": "Attestation",
+        "description": "Capture the reviewer view and disposition.",
+        "fields": [
+          { "key": "reviewedBy", "label": "Reviewed by", "type": "Text", "required": true },
+          {
+            "key": "attestationDecision",
+            "label": "Decision",
+            "type": "Select",
+            "required": true,
+            "options": [
+              { "value": "approve", "label": "Approve" },
+              { "value": "refer", "label": "Refer" },
+              { "value": "reject", "label": "Reject" }
+            ]
+          },
+          { "key": "reviewNotes", "label": "Review notes", "type": "Multiline", "required": false }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "form-mortgage-origination",
+    "code": "FORM-MORTGAGE-ORIGINATION",
+    "name": "Mortgage Origination Application",
+    "purpose": "Captures borrower, property and affordability details for mortgage review.",
+    "owner": "Mortgage",
+    "status": "Active",
+    "lifecycle": "Production-ready",
+    "lastUpdated": "2026-06-12T08:00:00Z",
+    "usedFor": [ "Mortgage origination", "Home loan review" ],
+    "sections": [
+      {
+        "title": "Applicant Details",
+        "description": "Capture borrower identity and household information.",
+        "fields": [
+          { "key": "fullName", "label": "Full name", "type": "Text", "required": true, "placeholder": "Enter applicant name" },
+          { "key": "idNumber", "label": "ID number", "type": "Text", "required": true, "placeholder": "Enter ID number" },
+          { "key": "employmentStatus", "label": "Employment status", "type": "Select", "required": true, "options": [
+            { "value": "employed", "label": "Employed" },
+            { "value": "self-employed", "label": "Self-employed" },
+            { "value": "contract", "label": "Contract" }
+          ] }
+        ]
+      },
+      {
+        "title": "Property & Finance",
+        "description": "Capture property and affordability evidence.",
+        "fields": [
+          { "key": "propertyValue", "label": "Property value", "type": "Number", "required": true, "placeholder": "0" },
+          { "key": "depositAmount", "label": "Deposit amount", "type": "Number", "required": true, "placeholder": "0" },
+          { "key": "incomeProof", "label": "Income proof", "type": "File", "required": true, "helpText": "Upload salary slips or financial statements." }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "form-trade-finance",
+    "code": "FORM-TRADE-FINANCE",
+    "name": "Trade Finance Application",
+    "purpose": "Captures letters of credit and cross-border trade finance requests.",
+    "owner": "Trade Finance",
+    "status": "Active",
+    "lifecycle": "Production-ready",
+    "lastUpdated": "2026-06-12T09:00:00Z",
+    "usedFor": [ "Trade finance", "Letters of credit" ],
+    "sections": [
+      {
+        "title": "Trade Parties",
+        "description": "Capture importer, exporter and beneficiary details.",
+        "fields": [
+          { "key": "importerName", "label": "Importer name", "type": "Text", "required": true },
+          { "key": "exporterName", "label": "Exporter name", "type": "Text", "required": true },
+          { "key": "beneficiaryBank", "label": "Beneficiary bank", "type": "Text", "required": true }
+        ]
+      },
+      {
+        "title": "Transaction",
+        "description": "Provide transaction value and documentary evidence.",
+        "fields": [
+          { "key": "transactionValue", "label": "Transaction value", "type": "Number", "required": true },
+          { "key": "lcTerms", "label": "LC terms", "type": "Multiline", "required": true, "placeholder": "Enter LC terms" },
+          { "key": "shippingDocs", "label": "Shipping documents", "type": "File", "required": true }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "form-merchant-onboarding",
+    "code": "FORM-MERCHANT-ONBOARDING",
+    "name": "Merchant Onboarding",
+    "purpose": "Captures merchant registration and settlement configuration.",
+    "owner": "Merchant Operations",
+    "status": "Active",
+    "lifecycle": "Production-ready",
+    "lastUpdated": "2026-06-12T10:00:00Z",
+    "usedFor": [ "Merchant onboarding", "POS onboarding" ],
+    "sections": [
+      {
+        "title": "Merchant Details",
+        "description": "Capture business registration and contact details.",
+        "fields": [
+          { "key": "businessName", "label": "Business name", "type": "Text", "required": true },
+          { "key": "registrationNumber", "label": "Registration number", "type": "Text", "required": true },
+          { "key": "merchantType", "label": "Merchant type", "type": "Select", "required": true, "options": [
+            { "value": "retail", "label": "Retail" },
+            { "value": "ecommerce", "label": "E-commerce" },
+            { "value": "service", "label": "Service" }
+          ] }
+        ]
+      },
+      {
+        "title": "Settlement & Compliance",
+        "description": "Capture settlement and compliance evidence.",
+        "fields": [
+          { "key": "settlementAccount", "label": "Settlement account", "type": "Text", "required": true },
+          { "key": "merchantAgreement", "label": "Merchant agreement", "type": "File", "required": true },
+          { "key": "kycDeclaration", "label": "KYC declaration", "type": "Checkbox", "required": true }
+        ]
+      }
+    ]
+  }
+]

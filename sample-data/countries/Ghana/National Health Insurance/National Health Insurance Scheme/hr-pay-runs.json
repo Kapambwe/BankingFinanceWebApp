@@ -1,0 +1,50 @@
+[
+  {
+    "payRunId": "pr200000-0001-0000-0000-0000000002001",
+    "payRunReference": "PAYRUN-2-2025-10",
+    "payPeriod": "October 2025",
+    "startDate": "2025-10-01",
+    "endDate": "2025-10-31",
+    "payDate": "2025-10-28",
+    "totalEmployees": 2800,
+    "totalGrossPay": 30100000,
+    "totalDeductions": 8428000,
+    "totalNetPay": 21672000,
+    "currency": "GHS",
+    "status": "Completed",
+    "processedBy": "Kwame Asante",
+    "createdAt": "2025-10-01T00:00:00Z"
+  },
+  {
+    "payRunId": "pr200000-0002-0000-0000-0000000002002",
+    "payRunReference": "PAYRUN-2-2025-11",
+    "payPeriod": "November 2025",
+    "startDate": "2025-11-01",
+    "endDate": "2025-11-30",
+    "payDate": "2025-11-28",
+    "totalEmployees": 2800,
+    "totalGrossPay": 30100000,
+    "totalDeductions": 8428000,
+    "totalNetPay": 21672000,
+    "currency": "GHS",
+    "status": "Completed",
+    "processedBy": "Kwame Asante",
+    "createdAt": "2025-11-01T00:00:00Z"
+  },
+  {
+    "payRunId": "pr200000-0003-0000-0000-0000000002003",
+    "payRunReference": "PAYRUN-2-2025-12",
+    "payPeriod": "December 2025",
+    "startDate": "2025-12-01",
+    "endDate": "2025-12-31",
+    "payDate": "2025-12-28",
+    "totalEmployees": 2800,
+    "totalGrossPay": 30100000,
+    "totalDeductions": 8428000,
+    "totalNetPay": 21672000,
+    "currency": "GHS",
+    "status": "Draft",
+    "processedBy": "Kwame Asante",
+    "createdAt": "2025-12-01T00:00:00Z"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "DashboardId": "f5f5f5f5-f5f5-f5f5-f5f5-f5f5f5f5f501",
+    "Period": "2026-Q2",
+    "TotalBeneficiaries": 3400,
+    "JobsCreated": 820,
+    "SMEsSupported": 460,
+    "WomenBeneficiaries": 1600,
+    "WomenPercentage": 47.1,
+    "YouthBeneficiaries": 1700,
+    "YouthPercentage": 50,
+    "PWDBeneficiaries": 280,
+    "RuralBeneficiaries": 2100,
+    "RuralPercentage": 61.8,
+    "TotalDisbursed": 98000000,
+    "TotalRecovered": 22400000,
+    "RecoveryRate": 22.9,
+    "DefaultRate": 4.1,
+    "Currency": "ZMW",
+    "CreatedAt": "2026-06-30T00:00:00Z"
+  }
+]

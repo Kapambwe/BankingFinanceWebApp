@@ -1,0 +1,41 @@
+[
+  {
+    "id": "form-investment-proposal",
+    "code": "FORM-INVESTMENT-PROPOSAL",
+    "name": "Investment Proposal",
+    "purpose": "Captures investment committee proposal and decision support details.",
+    "owner": "Investment Committee",
+    "status": "Active",
+    "lifecycle": "Production-ready",
+    "lastUpdated": "2026-06-19T18:30:00Z",
+    "usedFor": [ "Investment proposal", "IC review" ],
+    "sections": [
+      {
+        "title": "Proposal Summary",
+        "description": "Capture the company and deal overview.",
+        "fields": [
+          { "key": "companyName", "label": "Company name", "type": "Text", "required": true },
+          { "key": "dealSize", "label": "Deal size", "type": "Number", "required": true },
+          { "key": "instrumentType", "label": "Instrument type", "type": "Select", "required": true, "options": [
+            { "value": "equity", "label": "Equity" },
+            { "value": "convertible", "label": "Convertible note" },
+            { "value": "debt", "label": "Debt" }
+          ] }
+        ]
+      },
+      {
+        "title": "Decision Support",
+        "description": "Capture recommendation, risks and committee pack.",
+        "fields": [
+          { "key": "investmentMemo", "label": "Investment memo", "type": "File", "required": true },
+          { "key": "riskSummary", "label": "Risk summary", "type": "Multiline", "required": true },
+          { "key": "committeeDecision", "label": "Committee decision", "type": "Select", "required": false, "options": [
+            { "value": "approve", "label": "Approve" },
+            { "value": "defer", "label": "Defer" },
+            { "value": "reject", "label": "Reject" }
+          ] }
+        ]
+      }
+    ]
+  }
+]

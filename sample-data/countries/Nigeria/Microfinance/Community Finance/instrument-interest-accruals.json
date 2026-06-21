@@ -1,0 +1,68 @@
+[
+  {
+    "instrumentId": "LOAN-001",
+    "instrumentReference": "Emeka \u2014 Community Finan",
+    "instrumentType": "Loan",
+    "outstandingBalance": 8000000.0,
+    "nominalRate": 0.36,
+    "effectiveInterestRate": 0.396,
+    "accruedAmount": 8679.45,
+    "accrualDate": "2026-02-28T00:00:00Z",
+    "journalEntryId": null
+  },
+  {
+    "instrumentId": "LOAN-002",
+    "instrumentReference": "SME Loan \u2014 Chidi Trading Ltd",
+    "instrumentType": "Loan",
+    "outstandingBalance": 40000000.0,
+    "nominalRate": 0.3,
+    "effectiveInterestRate": 0.33,
+    "accruedAmount": 36164.38,
+    "accrualDate": "2026-02-28T00:00:00Z",
+    "journalEntryId": null
+  },
+  {
+    "instrumentId": "DEP-001",
+    "instrumentReference": "Fixed Deposit \u2014 Adaeze Savings Group",
+    "instrumentType": "Deposit",
+    "outstandingBalance": 240000000.0,
+    "nominalRate": 0.06,
+    "effectiveInterestRate": 0.06,
+    "accruedAmount": 39452.05,
+    "accrualDate": "2026-02-28T00:00:00Z",
+    "journalEntryId": null
+  },
+  {
+    "instrumentId": "LOAN-003",
+    "instrumentReference": "Mortgage \u2014 Adaeze",
+    "instrumentType": "Loan",
+    "outstandingBalance": 16000000.0,
+    "nominalRate": 0.32,
+    "effectiveInterestRate": 0.352,
+    "accruedAmount": 15430.14,
+    "accrualDate": "2026-02-28T00:00:00Z",
+    "journalEntryId": null
+  },
+  {
+    "instrumentId": "DEP-002",
+    "instrumentReference": "Call Deposit \u2014 Community Finan Fund",
+    "instrumentType": "Deposit",
+    "outstandingBalance": 80000000.0,
+    "nominalRate": 0.05,
+    "effectiveInterestRate": 0.05,
+    "accruedAmount": 10958.9,
+    "accrualDate": "2026-02-28T00:00:00Z",
+    "journalEntryId": null
+  },
+  {
+    "instrumentId": "LOAN-004",
+    "instrumentReference": "Corporate Bond \u2014 Community Finan",
+    "instrumentType": "Loan",
+    "outstandingBalance": 320000000.0,
+    "nominalRate": 0.28,
+    "effectiveInterestRate": 0.308,
+    "accruedAmount": 270027.4,
+    "accrualDate": "2026-02-28T00:00:00Z",
+    "journalEntryId": null
+  }
+]

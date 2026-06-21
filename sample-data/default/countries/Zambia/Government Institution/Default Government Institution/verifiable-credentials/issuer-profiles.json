@@ -1,0 +1,28 @@
+[
+  {
+    "IssuerId": "4f0d2f33-9d73-4aef-8d4d-6cd8ebfbc001",
+    "IssuerName": "Zambia National Development Bank",
+    "LegalEntityType": "Development Finance Institution",
+    "CountryIsoCode": "ZM",
+    "TrustRole": 2,
+    "PublicDid": "did:zm:finance:zn-db",
+    "AccreditationNumber": "VC-ZM-DFI-001",
+    "SupportedFamilies": [0, 2, 4],
+    "IsActive": true,
+    "LastVerifiedAtUtc": "2026-06-18T00:00:00Z",
+    "CreatedAtUtc": "2025-06-01T00:00:00Z"
+  },
+  {
+    "IssuerId": "4f0d2f33-9d73-4aef-8d4d-6cd8ebfbc002",
+    "IssuerName": "National Insurance Authority",
+    "LegalEntityType": "Regulator",
+    "CountryIsoCode": "ZM",
+    "TrustRole": 1,
+    "PublicDid": "did:zm:gov:nia",
+    "AccreditationNumber": "VC-ZM-INS-002",
+    "SupportedFamilies": [1],
+    "IsActive": true,
+    "LastVerifiedAtUtc": "2026-06-12T00:00:00Z",
+    "CreatedAtUtc": "2025-08-01T00:00:00Z"
+  }
+]

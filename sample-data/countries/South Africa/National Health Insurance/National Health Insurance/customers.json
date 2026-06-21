@@ -1,0 +1,57 @@
+[
+  {
+    "customerId": "cust3000-0001",
+    "customerNumber": "CUST-3-00001",
+    "customerName": "Department of Health South Africa",
+    "customerType": "Government",
+    "email": "info@department-of-health.za",
+    "phone": "+27-12-3120000",
+    "country": "South Africa",
+    "status": "Active",
+    "createdAt": "2025-01-01T00:00:00Z"
+  },
+  {
+    "customerId": "cust3000-0002",
+    "customerNumber": "CUST-3-00002",
+    "customerName": "National Treasury South Africa",
+    "customerType": "Government",
+    "email": "info@national-treasury-so.za",
+    "phone": "+27-12-3120000",
+    "country": "South Africa",
+    "status": "Active",
+    "createdAt": "2025-01-01T00:00:00Z"
+  },
+  {
+    "customerId": "cust3000-0003",
+    "customerNumber": "CUST-3-00003",
+    "customerName": "Department of Labour South Africa",
+    "customerType": "Government",
+    "email": "info@department-of-labour.za",
+    "phone": "+27-12-3120000",
+    "country": "South Africa",
+    "status": "Active",
+    "createdAt": "2025-01-01T00:00:00Z"
+  },
+  {
+    "customerId": "cust3000-0004",
+    "customerNumber": "CUST-3-00004",
+    "customerName": "Standard Bank Group",
+    "customerType": "Corporate",
+    "email": "info@standard-bank-group.za",
+    "phone": "+27-12-3120000",
+    "country": "South Africa",
+    "status": "Active",
+    "createdAt": "2025-01-01T00:00:00Z"
+  },
+  {
+    "customerId": "cust3000-0005",
+    "customerNumber": "CUST-3-00005",
+    "customerName": "Anglo American PLC",
+    "customerType": "Corporate",
+    "email": "info@anglo-american-plc.za",
+    "phone": "+27-12-3120000",
+    "country": "South Africa",
+    "status": "Active",
+    "createdAt": "2025-01-01T00:00:00Z"
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "userId": "usr500000-0001",
+    "username": "kamau.wanjiku",
+    "fullName": "Kamau Wanjiku",
+    "email": "kamau.wanjiku@nhif.gov.ke",
+    "role": "Admin",
+    "department": "Information Technology",
+    "isActive": true,
+    "lastLogin": "2025-12-21T08:00:00Z",
+    "createdAt": "2025-01-01T00:00:00Z"
+  },
+  {
+    "userId": "usr500000-0002",
+    "username": "otieno.kipchoge",
+    "fullName": "Otieno Kipchoge",
+    "email": "otieno.kipchoge@nhif.gov.ke",
+    "role": "Manager",
+    "department": "Claims Administration",
+    "isActive": true,
+    "lastLogin": "2025-12-22T08:00:00Z",
+    "createdAt": "2025-01-01T00:00:00Z"
+  },
+  {
+    "userId": "usr500000-0003",
+    "username": "achieng.ochieng",
+    "fullName": "Achieng Ochieng",
+    "email": "achieng.ochieng@nhif.gov.ke",
+    "role": "Operator",
+    "department": "Member Services",
+    "isActive": true,
+    "lastLogin": "2025-12-23T08:00:00Z",
+    "createdAt": "2025-01-01T00:00:00Z"
+  },
+  {
+    "userId": "usr500000-0004",
+    "username": "mwangi.mutua",
+    "fullName": "Mwangi Mutua",
+    "email": "mwangi.mutua@nhif.gov.ke",
+    "role": "Manager",
+    "department": "Finance & Accounts",
+    "isActive": true,
+    "lastLogin": "2025-12-24T08:00:00Z",
+    "createdAt": "2025-01-01T00:00:00Z"
+  },
+  {
+    "userId": "usr500000-0005",
+    "username": "ndegwa.kamau",
+    "fullName": "Ndegwa Kamau",
+    "email": "ndegwa.kamau@nhif.gov.ke",
+    "role": "Operator",
+    "department": "Enrollment & Registration",
+    "isActive": true,
+    "lastLogin": "2025-12-25T08:00:00Z",
+    "createdAt": "2025-01-01T00:00:00Z"
+  }
+]

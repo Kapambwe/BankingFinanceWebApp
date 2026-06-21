@@ -1,0 +1,107 @@
+[
+  {
+    "section": "CurrentAssets",
+    "accountCode": "1001",
+    "accountName": "Cash and Bank Balances",
+    "balance": 176.0,
+    "currency": "KES"
+  },
+  {
+    "section": "CurrentAssets",
+    "accountCode": "1002",
+    "accountName": "Member Contribution Receivable",
+    "balance": 118.0,
+    "currency": "KES"
+  },
+  {
+    "section": "CurrentAssets",
+    "accountCode": "1003",
+    "accountName": "Government Subvention Receivable",
+    "balance": 73.0,
+    "currency": "KES"
+  },
+  {
+    "section": "CurrentAssets",
+    "accountCode": "1004",
+    "accountName": "Short-Term Investments",
+    "balance": 147.0,
+    "currency": "KES"
+  },
+  {
+    "section": "CurrentAssets",
+    "accountCode": "1005",
+    "accountName": "Prepaid Expenses",
+    "balance": 29.0,
+    "currency": "KES"
+  },
+  {
+    "section": "NonCurrentAssets",
+    "accountCode": "1101",
+    "accountName": "Property and Equipment",
+    "balance": 514.0,
+    "currency": "KES"
+  },
+  {
+    "section": "NonCurrentAssets",
+    "accountCode": "1102",
+    "accountName": "Claims Management System",
+    "balance": 118.0,
+    "currency": "KES"
+  },
+  {
+    "section": "NonCurrentAssets",
+    "accountCode": "1103",
+    "accountName": "Long-Term Investments",
+    "balance": 294.0,
+    "currency": "KES"
+  },
+  {
+    "section": "CurrentLiabilities",
+    "accountCode": "2001",
+    "accountName": "Outstanding Claims Payable",
+    "balance": 132.0,
+    "currency": "KES"
+  },
+  {
+    "section": "CurrentLiabilities",
+    "accountCode": "2002",
+    "accountName": "Accrued Staff Costs",
+    "balance": 59.0,
+    "currency": "KES"
+  },
+  {
+    "section": "CurrentLiabilities",
+    "accountCode": "2003",
+    "accountName": "Provider Fees Payable",
+    "balance": 44.0,
+    "currency": "KES"
+  },
+  {
+    "section": "NonCurrentLiabilities",
+    "accountCode": "2101",
+    "accountName": "Claims Reserve",
+    "balance": 367.0,
+    "currency": "KES"
+  },
+  {
+    "section": "NonCurrentLiabilities",
+    "accountCode": "2102",
+    "accountName": "IBNR Reserve",
+    "balance": 147.0,
+    "currency": "KES"
+  },
+  {
+    "section": "Equity",
+    "accountCode": "3001",
+    "accountName": "Government Capital Contribution",
+    "balance": 441.0,
+    "currency": "KES"
+  },
+  {
+    "section": "Equity",
+    "accountCode": "3002",
+    "accountName": "Retained Surplus",
+    "balance": 132.0,
+    "currency": "KES"
+  }
+]

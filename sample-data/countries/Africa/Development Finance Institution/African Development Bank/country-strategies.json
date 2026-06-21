@@ -1,0 +1,436 @@
+[
+  {
+    "strategyId": "7ef0b5ec-8920-2ab1-da97-7cd0bbea067b",
+    "strategyCode": "AFDB-ZM-STR-2026-001",
+    "institutionName": "African Development Bank",
+    "countryCode": "ZM",
+    "countryName": "Zambia",
+    "region": "Southern Africa",
+    "strategyType": "CountryStrategyPaper",
+    "countryClassification": "LowerMiddleIncome",
+    "strategyPeriodStart": 2026,
+    "strategyPeriodEnd": 2030,
+    "indicativeLendingEnvelope": 100000000,
+    "grantEnvelope": 7750000,
+    "currency": "USD",
+    "financingWindows": [
+      {
+        "windowName": "Core sovereign window",
+        "windowType": "NonConcessional",
+        "allocatedAmount": 50000000,
+        "currency": "USD",
+        "interestRate": 2.1,
+        "gracePeriodYears": 5,
+        "maturityYears": 25,
+        "isGrantElement": false,
+        "grantEquivalent": 0
+      },
+      {
+        "windowName": "Climate and inclusion window",
+        "windowType": "ClimateFinance",
+        "allocatedAmount": 14000000,
+        "currency": "USD",
+        "interestRate": 0.7,
+        "gracePeriodYears": 7,
+        "maturityYears": 30,
+        "isGrantElement": true,
+        "grantEquivalent": 3500000
+      }
+    ],
+    "strategicPillars": [
+      "Transport",
+      "Institutional capacity",
+      "Inclusive and climate-resilient growth"
+    ],
+    "highLevelObjectives": [
+      "Improve development outcomes",
+      "Mobilise co-financing",
+      "Strengthen delivery systems"
+    ],
+    "crossCuttingThemes": [
+      "Gender inclusion",
+      "Climate resilience",
+      "Digital monitoring"
+    ],
+    "governmentCounterpart": "Ministry of Finance and National Planning",
+    "countryDirector": "Amadou Kane",
+    "countryEconomist": "Fiscal and debt economist",
+    "status": "Implementation",
+    "preparedDate": "2025-02-07T22:00:00Z",
+    "midTermReviewDate": "2028-02-07T22:00:00Z",
+    "completionReportDate": "2031-02-07T22:00:00Z",
+    "createdAt": "2024-12-31T22:00:00Z"
+  },
+  {
+    "strategyId": "04540792-96c8-2ee3-3702-9d13ed52f225",
+    "strategyCode": "AFDB-KE-STR-2026-002",
+    "institutionName": "African Development Bank",
+    "countryCode": "KE",
+    "countryName": "Kenya",
+    "region": "East Africa",
+    "strategyType": "CountryProgrammeDocument",
+    "countryClassification": "LowIncome",
+    "strategyPeriodStart": 2026,
+    "strategyPeriodEnd": 2030,
+    "indicativeLendingEnvelope": 115000000,
+    "grantEnvelope": 9500000,
+    "currency": "USD",
+    "financingWindows": [
+      {
+        "windowName": "Core sovereign window",
+        "windowType": "NonConcessional",
+        "allocatedAmount": 55000000,
+        "currency": "USD",
+        "interestRate": 2.1,
+        "gracePeriodYears": 5,
+        "maturityYears": 25,
+        "isGrantElement": false,
+        "grantEquivalent": 0
+      },
+      {
+        "windowName": "Climate and inclusion window",
+        "windowType": "ClimateFinance",
+        "allocatedAmount": 16000000,
+        "currency": "USD",
+        "interestRate": 0.7,
+        "gracePeriodYears": 7,
+        "maturityYears": 30,
+        "isGrantElement": true,
+        "grantEquivalent": 3500000
+      }
+    ],
+    "strategicPillars": [
+      "Energy",
+      "Institutional capacity",
+      "Inclusive and climate-resilient growth"
+    ],
+    "highLevelObjectives": [
+      "Improve development outcomes",
+      "Mobilise co-financing",
+      "Strengthen delivery systems"
+    ],
+    "crossCuttingThemes": [
+      "Gender inclusion",
+      "Climate resilience",
+      "Digital monitoring"
+    ],
+    "governmentCounterpart": "National Treasury and Economic Planning",
+    "countryDirector": "Sarah Mensah",
+    "countryEconomist": "Country macroeconomist",
+    "status": "BoardApproval",
+    "preparedDate": "2025-03-07T22:00:00Z",
+    "midTermReviewDate": "2028-03-07T22:00:00Z",
+    "completionReportDate": "2031-03-07T22:00:00Z",
+    "createdAt": "2025-01-01T22:00:00Z"
+  },
+  {
+    "strategyId": "b705126c-6020-ea69-98e5-3a61c1ed01bc",
+    "strategyCode": "AFDB-SN-STR-2026-003",
+    "institutionName": "African Development Bank",
+    "countryCode": "SN",
+    "countryName": "Senegal",
+    "region": "West Africa",
+    "strategyType": "CountryPartnershipFramework",
+    "countryClassification": "BlendEligible",
+    "strategyPeriodStart": 2026,
+    "strategyPeriodEnd": 2030,
+    "indicativeLendingEnvelope": 130000000,
+    "grantEnvelope": 11250000,
+    "currency": "USD",
+    "financingWindows": [
+      {
+        "windowName": "Core sovereign window",
+        "windowType": "NonConcessional",
+        "allocatedAmount": 60000000,
+        "currency": "USD",
+        "interestRate": 2.1,
+        "gracePeriodYears": 5,
+        "maturityYears": 25,
+        "isGrantElement": false,
+        "grantEquivalent": 0
+      },
+      {
+        "windowName": "Climate and inclusion window",
+        "windowType": "ClimateFinance",
+        "allocatedAmount": 18000000,
+        "currency": "USD",
+        "interestRate": 0.7,
+        "gracePeriodYears": 7,
+        "maturityYears": 30,
+        "isGrantElement": true,
+        "grantEquivalent": 3500000
+      }
+    ],
+    "strategicPillars": [
+      "Agriculture",
+      "Institutional capacity",
+      "Inclusive and climate-resilient growth"
+    ],
+    "highLevelObjectives": [
+      "Improve development outcomes",
+      "Mobilise co-financing",
+      "Strengthen delivery systems"
+    ],
+    "crossCuttingThemes": [
+      "Gender inclusion",
+      "Climate resilience",
+      "Digital monitoring"
+    ],
+    "governmentCounterpart": "Ministry of Economy, Planning and Cooperation",
+    "countryDirector": "Elena Rossi",
+    "countryEconomist": "Portfolio economist",
+    "status": "Consultation",
+    "preparedDate": "2025-04-07T22:00:00Z",
+    "midTermReviewDate": "2028-04-07T22:00:00Z",
+    "completionReportDate": "2031-04-07T22:00:00Z",
+    "createdAt": "2025-01-02T22:00:00Z"
+  },
+  {
+    "strategyId": "282ca5db-ca00-a295-f613-7603242cda72",
+    "strategyCode": "AFDB-GH-STR-2026-004",
+    "institutionName": "African Development Bank",
+    "countryCode": "GH",
+    "countryName": "Ghana",
+    "region": "West Africa",
+    "strategyType": "CountryAssistanceStrategy",
+    "countryClassification": "LandlockedDevelopingCountry",
+    "strategyPeriodStart": 2026,
+    "strategyPeriodEnd": 2030,
+    "indicativeLendingEnvelope": 145000000,
+    "grantEnvelope": 13000000,
+    "currency": "USD",
+    "financingWindows": [
+      {
+        "windowName": "Core sovereign window",
+        "windowType": "NonConcessional",
+        "allocatedAmount": 65000000,
+        "currency": "USD",
+        "interestRate": 2.1,
+        "gracePeriodYears": 5,
+        "maturityYears": 25,
+        "isGrantElement": false,
+        "grantEquivalent": 0
+      },
+      {
+        "windowName": "Climate and inclusion window",
+        "windowType": "ClimateFinance",
+        "allocatedAmount": 20000000,
+        "currency": "USD",
+        "interestRate": 0.7,
+        "gracePeriodYears": 7,
+        "maturityYears": 30,
+        "isGrantElement": true,
+        "grantEquivalent": 3500000
+      }
+    ],
+    "strategicPillars": [
+      "Water",
+      "Institutional capacity",
+      "Inclusive and climate-resilient growth"
+    ],
+    "highLevelObjectives": [
+      "Improve development outcomes",
+      "Mobilise co-financing",
+      "Strengthen delivery systems"
+    ],
+    "crossCuttingThemes": [
+      "Gender inclusion",
+      "Climate resilience",
+      "Digital monitoring"
+    ],
+    "governmentCounterpart": "Ministry of Finance",
+    "countryDirector": "Michael Okoro",
+    "countryEconomist": "Development finance analyst",
+    "status": "MidTermReview",
+    "preparedDate": "2025-05-07T22:00:00Z",
+    "midTermReviewDate": "2028-05-07T22:00:00Z",
+    "completionReportDate": "2031-05-07T22:00:00Z",
+    "createdAt": "2025-01-03T22:00:00Z"
+  },
+  {
+    "strategyId": "4895b524-84d2-ee4d-e7c6-d5b843d748b4",
+    "strategyCode": "AFDB-RW-STR-2026-005",
+    "institutionName": "African Development Bank",
+    "countryCode": "RW",
+    "countryName": "Rwanda",
+    "region": "East Africa",
+    "strategyType": "CountryInvestmentPlan",
+    "countryClassification": "LeastDeveloped",
+    "strategyPeriodStart": 2026,
+    "strategyPeriodEnd": 2030,
+    "indicativeLendingEnvelope": 160000000,
+    "grantEnvelope": 14750000,
+    "currency": "USD",
+    "financingWindows": [
+      {
+        "windowName": "Core sovereign window",
+        "windowType": "NonConcessional",
+        "allocatedAmount": 70000000,
+        "currency": "USD",
+        "interestRate": 2.1,
+        "gracePeriodYears": 5,
+        "maturityYears": 25,
+        "isGrantElement": false,
+        "grantEquivalent": 0
+      },
+      {
+        "windowName": "Climate and inclusion window",
+        "windowType": "ClimateFinance",
+        "allocatedAmount": 22000000,
+        "currency": "USD",
+        "interestRate": 0.7,
+        "gracePeriodYears": 7,
+        "maturityYears": 30,
+        "isGrantElement": true,
+        "grantEquivalent": 3500000
+      }
+    ],
+    "strategicPillars": [
+      "Digital Infrastructure",
+      "Institutional capacity",
+      "Inclusive and climate-resilient growth"
+    ],
+    "highLevelObjectives": [
+      "Improve development outcomes",
+      "Mobilise co-financing",
+      "Strengthen delivery systems"
+    ],
+    "crossCuttingThemes": [
+      "Gender inclusion",
+      "Climate resilience",
+      "Digital monitoring"
+    ],
+    "governmentCounterpart": "Ministry of Finance and Economic Planning",
+    "countryDirector": "Priya Nair",
+    "countryEconomist": "Senior country economist",
+    "status": "Preparation",
+    "preparedDate": "2025-06-07T22:00:00Z",
+    "midTermReviewDate": "2028-06-07T22:00:00Z",
+    "completionReportDate": "2031-06-07T22:00:00Z",
+    "createdAt": "2025-01-04T22:00:00Z"
+  },
+  {
+    "strategyId": "b1840164-747b-2817-11f7-01e2c70928db",
+    "strategyCode": "AFDB-MA-STR-2026-006",
+    "institutionName": "African Development Bank",
+    "countryCode": "MA",
+    "countryName": "Morocco",
+    "region": "North Africa",
+    "strategyType": "RegionalStrategyPaper",
+    "countryClassification": "UpperMiddleIncome",
+    "strategyPeriodStart": 2026,
+    "strategyPeriodEnd": 2030,
+    "indicativeLendingEnvelope": 175000000,
+    "grantEnvelope": 16500000,
+    "currency": "USD",
+    "financingWindows": [
+      {
+        "windowName": "Core sovereign window",
+        "windowType": "NonConcessional",
+        "allocatedAmount": 75000000,
+        "currency": "USD",
+        "interestRate": 2.1,
+        "gracePeriodYears": 5,
+        "maturityYears": 25,
+        "isGrantElement": false,
+        "grantEquivalent": 0
+      },
+      {
+        "windowName": "Climate and inclusion window",
+        "windowType": "ClimateFinance",
+        "allocatedAmount": 24000000,
+        "currency": "USD",
+        "interestRate": 0.7,
+        "gracePeriodYears": 7,
+        "maturityYears": 30,
+        "isGrantElement": true,
+        "grantEquivalent": 3500000
+      }
+    ],
+    "strategicPillars": [
+      "Health",
+      "Institutional capacity",
+      "Inclusive and climate-resilient growth"
+    ],
+    "highLevelObjectives": [
+      "Improve development outcomes",
+      "Mobilise co-financing",
+      "Strengthen delivery systems"
+    ],
+    "crossCuttingThemes": [
+      "Gender inclusion",
+      "Climate resilience",
+      "Digital monitoring"
+    ],
+    "governmentCounterpart": "Ministry of Economy and Finance",
+    "countryDirector": "Jonas Becker",
+    "countryEconomist": "Regional economist",
+    "status": "Implementation",
+    "preparedDate": "2025-07-07T22:00:00Z",
+    "midTermReviewDate": "2028-07-07T22:00:00Z",
+    "completionReportDate": "2031-07-07T22:00:00Z",
+    "createdAt": "2025-01-05T22:00:00Z"
+  },
+  {
+    "strategyId": "32987969-8a0a-7425-cf43-795b3db83194",
+    "strategyCode": "AFDB-CI-STR-2026-007",
+    "institutionName": "African Development Bank",
+    "countryCode": "CI",
+    "countryName": "Cote d'Ivoire",
+    "region": "West Africa",
+    "strategyType": "InterimCountryStrategy",
+    "countryClassification": "FragileOrConflictAffected",
+    "strategyPeriodStart": 2026,
+    "strategyPeriodEnd": 2030,
+    "indicativeLendingEnvelope": 190000000,
+    "grantEnvelope": 18250000,
+    "currency": "USD",
+    "financingWindows": [
+      {
+        "windowName": "Core sovereign window",
+        "windowType": "NonConcessional",
+        "allocatedAmount": 80000000,
+        "currency": "USD",
+        "interestRate": 2.1,
+        "gracePeriodYears": 5,
+        "maturityYears": 25,
+        "isGrantElement": false,
+        "grantEquivalent": 0
+      },
+      {
+        "windowName": "Climate and inclusion window",
+        "windowType": "ClimateFinance",
+        "allocatedAmount": 26000000,
+        "currency": "USD",
+        "interestRate": 0.7,
+        "gracePeriodYears": 7,
+        "maturityYears": 30,
+        "isGrantElement": true,
+        "grantEquivalent": 3500000
+      }
+    ],
+    "strategicPillars": [
+      "Regional Integration",
+      "Institutional capacity",
+      "Inclusive and climate-resilient growth"
+    ],
+    "highLevelObjectives": [
+      "Improve development outcomes",
+      "Mobilise co-financing",
+      "Strengthen delivery systems"
+    ],
+    "crossCuttingThemes": [
+      "Gender inclusion",
+      "Climate resilience",
+      "Digital monitoring"
+    ],
+    "governmentCounterpart": "Ministry of Finance and Budget",
+    "countryDirector": "Miriam Banda",
+    "countryEconomist": "Public finance specialist",
+    "status": "CompletionReport",
+    "preparedDate": "2025-08-07T22:00:00Z",
+    "midTermReviewDate": "2028-08-07T22:00:00Z",
+    "completionReportDate": "2031-08-07T22:00:00Z",
+    "createdAt": "2025-01-06T22:00:00Z"
+  }
+]

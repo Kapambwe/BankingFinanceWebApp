@@ -1,0 +1,62 @@
+[
+  {
+    "riskId": "RISK001",
+    "description": "Risco de concentração de crédito no segmento de cartão de crédito — 55% da carteira em clientes com renda até R$5.000/mês",
+    "category": "Credit Risk",
+    "riskLevel": 3,
+    "impact": "High",
+    "status": "In Progress",
+    "reportedDate": "2026-01-15T00:00:00",
+    "dueDate": "2026-06-15T00:00:00",
+    "owner": "Ana Ferreira",
+    "mitigationNotes": "Diversificação via produtos para PME e segmento premium Ultraviolet"
+  },
+  {
+    "riskId": "RISK002",
+    "description": "Risco cibernético — Crescente sofisticação de ataques de engenharia social contra clientes e funcionários",
+    "category": "Operational Risk",
+    "riskLevel": 4,
+    "impact": "Critical",
+    "status": "In Progress",
+    "reportedDate": "2026-01-20T00:00:00",
+    "dueDate": "2026-04-30T00:00:00",
+    "owner": "Pedro Rodrigues",
+    "mitigationNotes": "Implementação de MFA universal e treinamento contínuo de funcionários"
+  },
+  {
+    "riskId": "RISK003",
+    "description": "Risco regulatório — Possíveis mudanças nas regras de capital mínimo pelo Bacen impactando crescimento",
+    "category": "Regulatory Risk",
+    "riskLevel": 2,
+    "impact": "Medium",
+    "status": "Monitoring",
+    "reportedDate": "2025-11-01T00:00:00",
+    "dueDate": "2026-12-31T00:00:00",
+    "owner": "Ana Ferreira",
+    "mitigationNotes": "Monitoramento contínuo de consultas públicas do Bacen; buffers de capital mantidos acima do mínimo"
+  },
+  {
+    "riskId": "RISK004",
+    "description": "Risco de privacidade de dados — Conformidade com LGPD em processos de IA e análise de crédito",
+    "category": "Legal Risk",
+    "riskLevel": 3,
+    "impact": "High",
+    "status": "In Progress",
+    "reportedDate": "2026-02-01T00:00:00",
+    "dueDate": "2026-09-30T00:00:00",
+    "owner": "Rafael Rocha",
+    "mitigationNotes": "Auditoria de impacto de privacidade em andamento; DPO contratado"
+  },
+  {
+    "riskId": "RISK005",
+    "description": "Risco de mercado — Volatilidade da taxa Selic impactando custo de captação e margem de crédito",
+    "category": "Market Risk",
+    "riskLevel": 2,
+    "impact": "Medium",
+    "status": "Monitoring",
+    "reportedDate": "2025-10-15T00:00:00",
+    "dueDate": "2026-12-31T00:00:00",
+    "owner": "Guilherme Lago",
+    "mitigationNotes": "Hedge via instrumentos de taxa de juros; revisão trimestral de ALM"
+  }
+]

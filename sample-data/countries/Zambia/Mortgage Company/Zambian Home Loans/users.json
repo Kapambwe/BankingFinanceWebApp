@@ -1,0 +1,152 @@
+﻿[
+    {
+        "userId":  "63c9da0f-21de-4dae-b935-8de8e35af10d",
+        "email":  "collectionsofficer.mortgagecompany",
+        "username":  "collectionsofficer.mortgagecompany",
+        "firstName":  "Collections",
+        "lastName":  "Officer",
+        "institutionType":  "Mortgage Company",
+        "institutionName":  "Zambian Home Loans",
+        "institutionId":  "55824699-d0bd-4747-8bf2-d20e56fe8c96",
+        "roles":  [
+                      "CollectionsOfficer"
+                  ],
+        "permissions":  [
+
+                        ],
+        "isActive":  true,
+        "isEmailVerified":  true,
+        "isPhoneVerified":  true,
+        "isIdentityVerified":  true,
+        "trustScore":  95,
+        "createdAt":  "2023-09-13T00:00:00Z",
+        "phoneNumber":  "+260977000000",
+        "gender":  "Other",
+        "nationality":  "Zambian"
+    },
+    {
+        "userId":  "85ec98ea-05c1-449a-b578-da400fce5c93",
+        "email":  "mortgageadmin.mortgagecompany",
+        "username":  "mortgageadmin.mortgagecompany",
+        "firstName":  "Mortgage",
+        "lastName":  "Admin",
+        "institutionType":  "Mortgage Company",
+        "institutionName":  "Zambian Home Loans",
+        "institutionId":  "67977b49-b6df-4d7d-999a-f072df3bbc8d",
+        "roles":  [
+                      "MortgageAdmin"
+                  ],
+        "permissions":  [
+
+                        ],
+        "isActive":  true,
+        "isEmailVerified":  true,
+        "isPhoneVerified":  true,
+        "isIdentityVerified":  true,
+        "trustScore":  95,
+        "createdAt":  "2023-09-13T00:00:00Z",
+        "phoneNumber":  "+260977000000",
+        "gender":  "Other",
+        "nationality":  "Zambian"
+    },
+    {
+        "userId":  "7ac23a49-f44f-4565-b66d-5ff6eda3be4f",
+        "email":  "mortgagecomplianceofficer.mortgagecompany",
+        "username":  "mortgagecomplianceofficer.mortgagecompany",
+        "firstName":  "Mortgage",
+        "lastName":  "Officer",
+        "institutionType":  "Mortgage Company",
+        "institutionName":  "Zambian Home Loans",
+        "institutionId":  "973b9202-1b36-4dca-87c8-cdfe6eb24575",
+        "roles":  [
+                      "MortgageComplianceOfficer"
+                  ],
+        "permissions":  [
+
+                        ],
+        "isActive":  true,
+        "isEmailVerified":  true,
+        "isPhoneVerified":  true,
+        "isIdentityVerified":  true,
+        "trustScore":  95,
+        "createdAt":  "2023-09-13T00:00:00Z",
+        "phoneNumber":  "+260977000000",
+        "gender":  "Other",
+        "nationality":  "Zambian"
+    },
+    {
+        "userId":  "9e76ead3-4e94-4573-a105-44b3287e11bb",
+        "email":  "mortgageloanofficer.mortgagecompany",
+        "username":  "mortgageloanofficer.mortgagecompany",
+        "firstName":  "Mortgage",
+        "lastName":  "Officer",
+        "institutionType":  "Mortgage Company",
+        "institutionName":  "Zambian Home Loans",
+        "institutionId":  "cbc47305-4f1f-4d5c-894f-2a02dc2a8705",
+        "roles":  [
+                      "MortgageLoanOfficer"
+                  ],
+        "permissions":  [
+
+                        ],
+        "isActive":  true,
+        "isEmailVerified":  true,
+        "isPhoneVerified":  true,
+        "isIdentityVerified":  true,
+        "trustScore":  95,
+        "createdAt":  "2023-09-13T00:00:00Z",
+        "phoneNumber":  "+260977000000",
+        "gender":  "Other",
+        "nationality":  "Zambian"
+    },
+    {
+        "userId":  "b3691d32-72e3-4a23-95fb-4019ea10e453",
+        "email":  "mortgagemanager.mortgagecompany",
+        "username":  "mortgagemanager.mortgagecompany",
+        "firstName":  "Mortgage",
+        "lastName":  "Manager",
+        "institutionType":  "Mortgage Company",
+        "institutionName":  "Zambian Home Loans",
+        "institutionId":  "c535862b-ec45-48a1-9f5f-5b2551dcbd77",
+        "roles":  [
+                      "MortgageManager"
+                  ],
+        "permissions":  [
+
+                        ],
+        "isActive":  true,
+        "isEmailVerified":  true,
+        "isPhoneVerified":  true,
+        "isIdentityVerified":  true,
+        "trustScore":  95,
+        "createdAt":  "2023-09-13T00:00:00Z",
+        "phoneNumber":  "+260977000000",
+        "gender":  "Other",
+        "nationality":  "Zambian"
+    },
+    {
+        "userId":  "e9a88fc5-6305-4c94-a75e-0940605e353b",
+        "email":  "valuationofficer.mortgagecompany",
+        "username":  "valuationofficer.mortgagecompany",
+        "firstName":  "Valuation",
+        "lastName":  "Officer",
+        "institutionType":  "Mortgage Company",
+        "institutionName":  "Zambian Home Loans",
+        "institutionId":  "ab0ea50d-5ef4-42f0-94ce-9c2537f83af5",
+        "roles":  [
+                      "ValuationOfficer"
+                  ],
+        "permissions":  [
+
+                        ],
+        "isActive":  true,
+        "isEmailVerified":  true,
+        "isPhoneVerified":  true,
+        "isIdentityVerified":  true,
+        "trustScore":  95,
+        "createdAt":  "2023-09-13T00:00:00Z",
+        "phoneNumber":  "+260977000000",
+        "gender":  "Other",
+        "nationality":  "Zambian"
+    }
+]

@@ -1,0 +1,17 @@
+{
+  "registrationNumber": "REG-71245",
+  "contactEmail": "stockbrokersRwanda@example.zm",
+  "createdAt": "2025-07-31T00:00:00Z",
+  "branches": 24,
+  "institutionType": "Investment",
+  "institutionName": "Stockbrokers Rwanda",
+  "country": "Rwanda",
+  "established": 2010,
+  "employees": 4286,
+  "contactPhone": "+260-303-583118",
+  "headquarters": "Ruhengeri",
+  "institutionId": "b9789734-2fe9-40d3-bd18-65ebed4ef22b",
+  "currency": "RWF",
+  "status": "Active",
+  "website": "https://www.stockbrokersRwanda.co.zm"
+}

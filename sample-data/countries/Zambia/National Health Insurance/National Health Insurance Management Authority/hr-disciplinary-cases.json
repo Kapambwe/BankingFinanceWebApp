@@ -1,0 +1,41 @@
+[
+  {
+    "caseId": "dc100000-0001-0000-0000-0000000001001",
+    "caseNumber": "DISC-1-2025-001",
+    "employeeId": "e1000000-0005-0000-0000-0000000001005",
+    "employeeName": "Chileshe Nkosi",
+    "offenseType": "Unauthorized data access",
+    "dateOfIncident": "2025-07-10",
+    "caseStatus": "Resolved",
+    "outcome": "Written Warning",
+    "hearingDate": "2025-08-01",
+    "investigatingOfficer": "Lubinda Mutale",
+    "createdAt": "2025-07-10T00:00:00Z"
+  },
+  {
+    "caseId": "dc100000-0002-0000-0000-0000000001002",
+    "caseNumber": "DISC-1-2025-002",
+    "employeeId": "e1000000-0006-0000-0000-0000000001006",
+    "employeeName": "Lubinda Phiri",
+    "offenseType": "Absenteeism",
+    "dateOfIncident": "2025-08-11",
+    "caseStatus": "InProgress",
+    "outcome": "Final Warning",
+    "hearingDate": "2025-09-02",
+    "investigatingOfficer": "Bwalya Mwansa",
+    "createdAt": "2025-08-11T00:00:00Z"
+  },
+  {
+    "caseId": "dc100000-0003-0000-0000-0000000001003",
+    "caseNumber": "DISC-1-2025-003",
+    "employeeId": "e1000000-0007-0000-0000-0000000001007",
+    "employeeName": "Bwalya Banda",
+    "offenseType": "Claims fraud attempt",
+    "dateOfIncident": "2025-09-12",
+    "caseStatus": "Pending Hearing",
+    "outcome": "Pending",
+    "hearingDate": "2025-010-03",
+    "investigatingOfficer": "Tembo Mulenga",
+    "createdAt": "2025-09-12T00:00:00Z"
+  }
+]

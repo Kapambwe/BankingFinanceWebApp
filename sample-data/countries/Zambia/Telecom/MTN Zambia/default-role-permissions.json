@@ -1,0 +1,89 @@
+﻿{
+    "institutionType":  "Telecom",
+    "country":  "Zambia",
+    "description":  "Default role-to-permission mapping for Telecom tenants in Zambia. Matches the role structure used by the MTN Zambia institution sample data.",
+    "version":  "1.0.0",
+    "roles":  [
+                  {
+                      "roleName":  "ChannelManager",
+                      "displayName":  "C ha nn el Ma na ge r",
+                      "description":  "ChannelManager role for MTN Zambia sample data",
+                      "isSystemRole":  true,
+                      "permissions":  [
+                                          "Banking.Channels.View",
+                                          "Banking.Channels.ManageAgents",
+                                          "Banking.Channels.ManageMobileMoney"
+                                      ]
+                  },
+                  {
+                      "roleName":  "ComplianceOfficer",
+                      "displayName":  "C om pl ia nc eO ff ic er",
+                      "description":  "ComplianceOfficer role for MTN Zambia sample data",
+                      "isSystemRole":  true,
+                      "permissions":  [
+                                          "Banking.Regulatory.ViewReports",
+                                          "Banking.Risk.ViewDashboard"
+                                      ]
+                  },
+                  {
+                      "roleName":  "CustomerSupport",
+                      "displayName":  "C us to me rS up po rt",
+                      "description":  "CustomerSupport role for MTN Zambia sample data",
+                      "isSystemRole":  true,
+                      "permissions":  [
+                                          "Banking.CRM.ViewCustomers",
+                                          "Banking.CRM.ViewTickets",
+                                          "Banking.CRM.ViewLeads"
+                                      ]
+                  },
+                  {
+                      "roleName":  "FraudAnalyst",
+                      "displayName":  "F ra ud An al ys t",
+                      "description":  "FraudAnalyst role for MTN Zambia sample data",
+                      "isSystemRole":  true,
+                      "permissions":  [
+                                          "Banking.Risk.ViewDashboard",
+                                          "Banking.TransactionsMonitoring.ViewDashboard",
+                                          "Banking.Risk.ViewReports"
+                                      ]
+                  },
+                  {
+                      "roleName":  "MobileMoneyManager",
+                      "displayName":  "M ob il eM on ey Ma na ge r",
+                      "description":  "MobileMoneyManager role for MTN Zambia sample data",
+                      "isSystemRole":  true,
+                      "permissions":  [
+                                          "Banking.Channels.ManageMobileMoney",
+                                          "Banking.Payments.View",
+                                          "Banking.Payments.Settlements"
+                                      ]
+                  },
+                  {
+                      "roleName":  "PaymentsManager",
+                      "displayName":  "P ay me nt sM an ag er",
+                      "description":  "PaymentsManager role for MTN Zambia sample data",
+                      "isSystemRole":  true,
+                      "permissions":  [
+                                          "Banking.Payments.View",
+                                          "Banking.Payments.Settlements",
+                                          "Banking.Payments.Refund"
+                                      ]
+                  },
+                  {
+                      "roleName":  "TelecomAdmin",
+                      "displayName":  "T el ec om Ad mi n",
+                      "description":  "TelecomAdmin role for MTN Zambia sample data",
+                      "isSystemRole":  true,
+                      "permissions":  [
+                                          "Banking.Channels.View",
+                                          "Banking.Channels.ManageAgents",
+                                          "Banking.Channels.ManageMobileMoney",
+                                          "Banking.Channels.ManageRemittances",
+                                          "Banking.Payments.View",
+                                          "Banking.Payments.Settlements",
+                                          "Banking.Marketing.ViewCRM",
+                                          "Banking.TransactionsMonitoring.ViewDashboard"
+                                      ]
+                  }
+              ]
+}

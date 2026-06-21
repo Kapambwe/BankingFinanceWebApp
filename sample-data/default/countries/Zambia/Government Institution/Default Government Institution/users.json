@@ -1,0 +1,7 @@
+[
+  { "id": "gov-admin-001", "username": "admin.government", "fullName": "Chileshe Mwansa", "role": "Administrator", "email": "chileshe.mwansa@gov.zm", "isActive": true },
+  { "id": "gov-officer-001", "username": "officer.government", "fullName": "Grace Nyirenda", "role": "Officer", "email": "grace.nyirenda@gov.zm", "isActive": true },
+  { "id": "gov-it-001", "username": "it.government", "fullName": "Kelvin Sampa", "role": "IT Support", "email": "kelvin.sampa@gov.zm", "isActive": true },
+  { "id": "gov-policy-001", "username": "policy.government", "fullName": "Diana Phiri", "role": "Policy Analyst", "email": "diana.phiri@gov.zm", "isActive": true },
+  { "id": "gov-audit-001", "username": "audit.government", "fullName": "Martin Chola", "role": "Internal Auditor", "email": "martin.chola@gov.zm", "isActive": true }
+]

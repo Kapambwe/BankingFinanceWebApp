@@ -1,0 +1,98 @@
+[
+  {
+    "jeTemplateId": 1,
+    "templateName": "Accrual Mensal de Salários",
+    "templateCode": "TMPL-JE-001",
+    "category": "Payroll",
+    "description": "DR Salários / CR Despesas Acumuladas",
+    "entryType": "Accrual",
+    "isStandard": true,
+    "usageCount": 36,
+    "lastUsed": "2026-02-28T00:00:00Z",
+    "createdBy": "Ana Ferreira",
+    "lines": [
+      {
+        "accountCode": "5030",
+        "description": "Salários e Encargos Sociais",
+        "side": "Debit"
+      },
+      {
+        "accountCode": "2030",
+        "description": "Despesas Acumuladas",
+        "side": "Credit"
+      }
+    ]
+  },
+  {
+    "jeTemplateId": 2,
+    "templateName": "Reconhecimento de Receita de Juros",
+    "templateCode": "TMPL-JE-002",
+    "category": "Revenue",
+    "description": "DR Juros a Receber / CR Receita de Juros",
+    "entryType": "Accrual",
+    "isStandard": true,
+    "usageCount": 36,
+    "lastUsed": "2026-02-28T00:00:00Z",
+    "createdBy": "Ana Ferreira",
+    "lines": [
+      {
+        "accountCode": "1040",
+        "description": "Juros a Receber",
+        "side": "Debit"
+      },
+      {
+        "accountCode": "4010",
+        "description": "Receita de Juros",
+        "side": "Credit"
+      }
+    ]
+  },
+  {
+    "jeTemplateId": 3,
+    "templateName": "Provisão ECL Mensal",
+    "templateCode": "TMPL-JE-003",
+    "category": "Credit",
+    "description": "DR Provisão para Créditos Duvidosos / CR Provisão Acumulada",
+    "entryType": "Provision",
+    "isStandard": true,
+    "usageCount": 24,
+    "lastUsed": "2026-02-28T00:00:00Z",
+    "createdBy": "João Oliveira",
+    "lines": [
+      {
+        "accountCode": "5010",
+        "description": "Provisão para Créditos Duvidosos",
+        "side": "Debit"
+      },
+      {
+        "accountCode": "1045",
+        "description": "Provisão Acumulada — Carteira de Crédito",
+        "side": "Credit"
+      }
+    ]
+  },
+  {
+    "jeTemplateId": 4,
+    "templateName": "Depreciação Mensal de Ativos",
+    "templateCode": "TMPL-JE-004",
+    "category": "Assets",
+    "description": "DR Depreciação / CR Depreciação Acumulada",
+    "entryType": "Depreciation",
+    "isStandard": true,
+    "usageCount": 36,
+    "lastUsed": "2026-02-28T00:00:00Z",
+    "createdBy": "Maria Souza",
+    "lines": [
+      {
+        "accountCode": "5070",
+        "description": "Depreciação e Amortização",
+        "side": "Debit"
+      },
+      {
+        "accountCode": "1115",
+        "description": "Depreciação Acumulada",
+        "side": "Credit"
+      }
+    ]
+  }
+]

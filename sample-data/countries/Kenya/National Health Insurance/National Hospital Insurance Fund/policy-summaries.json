@@ -1,0 +1,67 @@
+[
+  {
+    "summaryId": "ps5m0000-0001",
+    "policyId": "pol50000-0001",
+    "policyNumber": "POL-5-2025-00001",
+    "memberName": "Wanjiku Mwangi",
+    "coverType": "Basic",
+    "premiumAmount": 3600.0,
+    "currency": "KES",
+    "claimsCount": 3,
+    "claimsAmount": 9000.0,
+    "status": "Active",
+    "lastUpdated": "2025-12-31T00:00:00Z"
+  },
+  {
+    "summaryId": "ps5m0000-0002",
+    "policyId": "pol50000-0002",
+    "policyNumber": "POL-5-2025-00002",
+    "memberName": "Kamau Ndegwa",
+    "coverType": "Standard",
+    "premiumAmount": 6300.0,
+    "currency": "KES",
+    "claimsCount": 1,
+    "claimsAmount": 7560.0,
+    "status": "Active",
+    "lastUpdated": "2025-12-31T00:00:00Z"
+  },
+  {
+    "summaryId": "ps5m0000-0003",
+    "policyId": "pol50000-0003",
+    "policyNumber": "POL-5-2025-00003",
+    "memberName": "Otieno Wanjiku",
+    "coverType": "Enhanced",
+    "premiumAmount": 9000.0,
+    "currency": "KES",
+    "claimsCount": 5,
+    "claimsAmount": 36000.0,
+    "status": "Active",
+    "lastUpdated": "2025-12-31T00:00:00Z"
+  },
+  {
+    "summaryId": "ps5m0000-0004",
+    "policyId": "pol50000-0004",
+    "policyNumber": "POL-5-2025-00004",
+    "memberName": "Achieng Kipchoge",
+    "coverType": "Basic",
+    "premiumAmount": 3600.0,
+    "currency": "KES",
+    "claimsCount": 0,
+    "claimsAmount": 0.0,
+    "status": "Lapsed",
+    "lastUpdated": "2025-12-31T00:00:00Z"
+  },
+  {
+    "summaryId": "ps5m0000-0005",
+    "policyId": "pol50000-0005",
+    "policyNumber": "POL-5-2025-00005",
+    "memberName": "Mwangi Ochieng",
+    "coverType": "Standard",
+    "premiumAmount": 6300.0,
+    "currency": "KES",
+    "claimsCount": 2,
+    "claimsAmount": 11340.0,
+    "status": "Active",
+    "lastUpdated": "2025-12-31T00:00:00Z"
+  }
+]

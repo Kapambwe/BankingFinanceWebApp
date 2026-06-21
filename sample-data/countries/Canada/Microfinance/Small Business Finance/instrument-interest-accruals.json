@@ -1,0 +1,68 @@
+[
+  {
+    "instrumentId": "LOAN-001",
+    "instrumentReference": "Sarah \u2014 Small Business ",
+    "instrumentType": "Loan",
+    "outstandingBalance": 6900.0,
+    "nominalRate": 0.36,
+    "effectiveInterestRate": 0.396,
+    "accruedAmount": 7.49,
+    "accrualDate": "2026-02-28T00:00:00Z",
+    "journalEntryId": null
+  },
+  {
+    "instrumentId": "LOAN-002",
+    "instrumentReference": "SME Loan \u2014 Jennifer Trading Ltd",
+    "instrumentType": "Loan",
+    "outstandingBalance": 34000.0,
+    "nominalRate": 0.3,
+    "effectiveInterestRate": 0.33,
+    "accruedAmount": 30.74,
+    "accrualDate": "2026-02-28T00:00:00Z",
+    "journalEntryId": null
+  },
+  {
+    "instrumentId": "DEP-001",
+    "instrumentReference": "Fixed Deposit \u2014 David Savings Group",
+    "instrumentType": "Deposit",
+    "outstandingBalance": 210000.0,
+    "nominalRate": 0.06,
+    "effectiveInterestRate": 0.06,
+    "accruedAmount": 34.52,
+    "accrualDate": "2026-02-28T00:00:00Z",
+    "journalEntryId": null
+  },
+  {
+    "instrumentId": "LOAN-003",
+    "instrumentReference": "Mortgage \u2014 David",
+    "instrumentType": "Loan",
+    "outstandingBalance": 14000.0,
+    "nominalRate": 0.32,
+    "effectiveInterestRate": 0.352,
+    "accruedAmount": 13.5,
+    "accrualDate": "2026-02-28T00:00:00Z",
+    "journalEntryId": null
+  },
+  {
+    "instrumentId": "DEP-002",
+    "instrumentReference": "Call Deposit \u2014 Small Business  Fund",
+    "instrumentType": "Deposit",
+    "outstandingBalance": 69000.0,
+    "nominalRate": 0.05,
+    "effectiveInterestRate": 0.05,
+    "accruedAmount": 9.45,
+    "accrualDate": "2026-02-28T00:00:00Z",
+    "journalEntryId": null
+  },
+  {
+    "instrumentId": "LOAN-004",
+    "instrumentReference": "Corporate Bond \u2014 Small Business ",
+    "instrumentType": "Loan",
+    "outstandingBalance": 280000.0,
+    "nominalRate": 0.28,
+    "effectiveInterestRate": 0.308,
+    "accruedAmount": 236.27,
+    "accrualDate": "2026-02-28T00:00:00Z",
+    "journalEntryId": null
+  }
+]

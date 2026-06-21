@@ -1,0 +1,677 @@
+[
+  {
+    "journalEntryId": "JE-VOD-00001",
+    "entryDate": "2026-04-17T05:41:07Z",
+    "description": "Accrual \u2014 Vodacom Tanzania period reconciliation",
+    "reference": "REF-VOD-566191",
+    "status": "Draft",
+    "entryType": "Accrual",
+    "currency": "TZS",
+    "totalDebits": 3124791.06,
+    "totalCredits": 3124791.06,
+    "createdBy": "AccountingBot",
+    "postedBy": "Finance Officer 1",
+    "lines": [
+      {
+        "accountCode": "4773",
+        "accountName": "Accrual Account",
+        "debit": 3124791.06,
+        "credit": 0.0
+      },
+      {
+        "accountCode": "5121",
+        "accountName": "Settlement/Clearing Account",
+        "debit": 0.0,
+        "credit": 3124791.06
+      }
+    ]
+  },
+  {
+    "journalEntryId": "JE-VOD-00002",
+    "entryDate": "2026-04-06T22:09:57Z",
+    "description": "Settlement \u2014 Vodacom Tanzania period reconciliation",
+    "reference": "REF-VOD-539352",
+    "status": "Pending",
+    "entryType": "Settlement",
+    "currency": "TZS",
+    "totalDebits": 3489228.12,
+    "totalCredits": 3489228.12,
+    "createdBy": "AccountingBot",
+    "postedBy": "Finance Officer 5",
+    "lines": [
+      {
+        "accountCode": "3023",
+        "accountName": "Settlement Account",
+        "debit": 3489228.12,
+        "credit": 0.0
+      },
+      {
+        "accountCode": "5432",
+        "accountName": "Settlement/Clearing Account",
+        "debit": 0.0,
+        "credit": 3489228.12
+      }
+    ]
+  },
+  {
+    "journalEntryId": "JE-VOD-00003",
+    "entryDate": "2026-05-29T05:06:28Z",
+    "description": "Settlement \u2014 Vodacom Tanzania period reconciliation",
+    "reference": "REF-VOD-621644",
+    "status": "Posted",
+    "entryType": "Settlement",
+    "currency": "TZS",
+    "totalDebits": 3479256.56,
+    "totalCredits": 3479256.56,
+    "createdBy": "AccountingBot",
+    "postedBy": "Finance Officer 1",
+    "lines": [
+      {
+        "accountCode": "2234",
+        "accountName": "Settlement Account",
+        "debit": 3479256.56,
+        "credit": 0.0
+      },
+      {
+        "accountCode": "4201",
+        "accountName": "Settlement/Clearing Account",
+        "debit": 0.0,
+        "credit": 3479256.56
+      }
+    ]
+  },
+  {
+    "journalEntryId": "JE-VOD-00004",
+    "entryDate": "2026-10-01T10:43:49Z",
+    "description": "Tax \u2014 Vodacom Tanzania period reconciliation",
+    "reference": "REF-VOD-518647",
+    "status": "Pending",
+    "entryType": "Tax",
+    "currency": "TZS",
+    "totalDebits": 1915508.43,
+    "totalCredits": 1915508.43,
+    "createdBy": "AccountingBot",
+    "postedBy": "Finance Officer 4",
+    "lines": [
+      {
+        "accountCode": "2399",
+        "accountName": "Tax Account",
+        "debit": 1915508.43,
+        "credit": 0.0
+      },
+      {
+        "accountCode": "3899",
+        "accountName": "Settlement/Clearing Account",
+        "debit": 0.0,
+        "credit": 1915508.43
+      }
+    ]
+  },
+  {
+    "journalEntryId": "JE-VOD-00005",
+    "entryDate": "2025-04-18T11:19:32Z",
+    "description": "Revenue \u2014 Vodacom Tanzania period reconciliation",
+    "reference": "REF-VOD-439395",
+    "status": "Draft",
+    "entryType": "Revenue",
+    "currency": "TZS",
+    "totalDebits": 2894993.42,
+    "totalCredits": 2894993.42,
+    "createdBy": "AccountingBot",
+    "postedBy": "Finance Officer 2",
+    "lines": [
+      {
+        "accountCode": "3523",
+        "accountName": "Revenue Account",
+        "debit": 2894993.42,
+        "credit": 0.0
+      },
+      {
+        "accountCode": "5155",
+        "accountName": "Settlement/Clearing Account",
+        "debit": 0.0,
+        "credit": 2894993.42
+      }
+    ]
+  },
+  {
+    "journalEntryId": "JE-VOD-00006",
+    "entryDate": "2025-09-24T17:58:22Z",
+    "description": "Expense \u2014 Vodacom Tanzania period reconciliation",
+    "reference": "REF-VOD-441993",
+    "status": "Posted",
+    "entryType": "Expense",
+    "currency": "TZS",
+    "totalDebits": 2986224.24,
+    "totalCredits": 2986224.24,
+    "createdBy": "AccountingBot",
+    "postedBy": "Finance Officer 5",
+    "lines": [
+      {
+        "accountCode": "3235",
+        "accountName": "Expense Account",
+        "debit": 2986224.24,
+        "credit": 0.0
+      },
+      {
+        "accountCode": "4564",
+        "accountName": "Settlement/Clearing Account",
+        "debit": 0.0,
+        "credit": 2986224.24
+      }
+    ]
+  },
+  {
+    "journalEntryId": "JE-VOD-00007",
+    "entryDate": "2026-08-17T09:55:22Z",
+    "description": "Revenue \u2014 Vodacom Tanzania period reconciliation",
+    "reference": "REF-VOD-565921",
+    "status": "Posted",
+    "entryType": "Revenue",
+    "currency": "TZS",
+    "totalDebits": 3159959.17,
+    "totalCredits": 3159959.17,
+    "createdBy": "AccountingBot",
+    "postedBy": "Finance Officer 2",
+    "lines": [
+      {
+        "accountCode": "5745",
+        "accountName": "Revenue Account",
+        "debit": 3159959.17,
+        "credit": 0.0
+      },
+      {
+        "accountCode": "5979",
+        "accountName": "Settlement/Clearing Account",
+        "debit": 0.0,
+        "credit": 3159959.17
+      }
+    ]
+  },
+  {
+    "journalEntryId": "JE-VOD-00008",
+    "entryDate": "2026-05-03T07:36:47Z",
+    "description": "Settlement \u2014 Vodacom Tanzania period reconciliation",
+    "reference": "REF-VOD-598261",
+    "status": "Posted",
+    "entryType": "Settlement",
+    "currency": "TZS",
+    "totalDebits": 161250.33,
+    "totalCredits": 161250.33,
+    "createdBy": "AccountingBot",
+    "postedBy": "Finance Officer 5",
+    "lines": [
+      {
+        "accountCode": "4375",
+        "accountName": "Settlement Account",
+        "debit": 161250.33,
+        "credit": 0.0
+      },
+      {
+        "accountCode": "4465",
+        "accountName": "Settlement/Clearing Account",
+        "debit": 0.0,
+        "credit": 161250.33
+      }
+    ]
+  },
+  {
+    "journalEntryId": "JE-VOD-00009",
+    "entryDate": "2025-02-18T21:05:02Z",
+    "description": "Settlement \u2014 Vodacom Tanzania period reconciliation",
+    "reference": "REF-VOD-901604",
+    "status": "Draft",
+    "entryType": "Settlement",
+    "currency": "TZS",
+    "totalDebits": 2971815.06,
+    "totalCredits": 2971815.06,
+    "createdBy": "AccountingBot",
+    "postedBy": "Finance Officer 5",
+    "lines": [
+      {
+        "accountCode": "4246",
+        "accountName": "Settlement Account",
+        "debit": 2971815.06,
+        "credit": 0.0
+      },
+      {
+        "accountCode": "4968",
+        "accountName": "Settlement/Clearing Account",
+        "debit": 0.0,
+        "credit": 2971815.06
+      }
+    ]
+  },
+  {
+    "journalEntryId": "JE-VOD-00010",
+    "entryDate": "2026-03-06T17:14:56Z",
+    "description": "Revenue \u2014 Vodacom Tanzania period reconciliation",
+    "reference": "REF-VOD-919825",
+    "status": "Pending",
+    "entryType": "Revenue",
+    "currency": "TZS",
+    "totalDebits": 156888.75,
+    "totalCredits": 156888.75,
+    "createdBy": "AccountingBot",
+    "postedBy": "Finance Officer 4",
+    "lines": [
+      {
+        "accountCode": "3514",
+        "accountName": "Revenue Account",
+        "debit": 156888.75,
+        "credit": 0.0
+      },
+      {
+        "accountCode": "5079",
+        "accountName": "Settlement/Clearing Account",
+        "debit": 0.0,
+        "credit": 156888.75
+      }
+    ]
+  },
+  {
+    "journalEntryId": "JE-VOD-00011",
+    "entryDate": "2026-06-17T12:12:38Z",
+    "description": "Settlement \u2014 Vodacom Tanzania period reconciliation",
+    "reference": "REF-VOD-747817",
+    "status": "Pending",
+    "entryType": "Settlement",
+    "currency": "TZS",
+    "totalDebits": 1311805.0,
+    "totalCredits": 1311805.0,
+    "createdBy": "AccountingBot",
+    "postedBy": "Finance Officer 3",
+    "lines": [
+      {
+        "accountCode": "4322",
+        "accountName": "Settlement Account",
+        "debit": 1311805.0,
+        "credit": 0.0
+      },
+      {
+        "accountCode": "3259",
+        "accountName": "Settlement/Clearing Account",
+        "debit": 0.0,
+        "credit": 1311805.0
+      }
+    ]
+  },
+  {
+    "journalEntryId": "JE-VOD-00012",
+    "entryDate": "2025-05-31T07:52:13Z",
+    "description": "Adjustment \u2014 Vodacom Tanzania period reconciliation",
+    "reference": "REF-VOD-941721",
+    "status": "Pending",
+    "entryType": "Adjustment",
+    "currency": "TZS",
+    "totalDebits": 422576.45,
+    "totalCredits": 422576.45,
+    "createdBy": "AccountingBot",
+    "postedBy": "Finance Officer 5",
+    "lines": [
+      {
+        "accountCode": "3476",
+        "accountName": "Adjustment Account",
+        "debit": 422576.45,
+        "credit": 0.0
+      },
+      {
+        "accountCode": "1921",
+        "accountName": "Settlement/Clearing Account",
+        "debit": 0.0,
+        "credit": 422576.45
+      }
+    ]
+  },
+  {
+    "journalEntryId": "JE-VOD-00013",
+    "entryDate": "2025-08-13T10:53:21Z",
+    "description": "Expense \u2014 Vodacom Tanzania period reconciliation",
+    "reference": "REF-VOD-979645",
+    "status": "Draft",
+    "entryType": "Expense",
+    "currency": "TZS",
+    "totalDebits": 2084219.77,
+    "totalCredits": 2084219.77,
+    "createdBy": "AccountingBot",
+    "postedBy": "Finance Officer 5",
+    "lines": [
+      {
+        "accountCode": "3812",
+        "accountName": "Expense Account",
+        "debit": 2084219.77,
+        "credit": 0.0
+      },
+      {
+        "accountCode": "2689",
+        "accountName": "Settlement/Clearing Account",
+        "debit": 0.0,
+        "credit": 2084219.77
+      }
+    ]
+  },
+  {
+    "journalEntryId": "JE-VOD-00014",
+    "entryDate": "2026-02-21T15:52:10Z",
+    "description": "Adjustment \u2014 Vodacom Tanzania period reconciliation",
+    "reference": "REF-VOD-947697",
+    "status": "Pending",
+    "entryType": "Adjustment",
+    "currency": "TZS",
+    "totalDebits": 2023406.58,
+    "totalCredits": 2023406.58,
+    "createdBy": "AccountingBot",
+    "postedBy": "Finance Officer 1",
+    "lines": [
+      {
+        "accountCode": "4119",
+        "accountName": "Adjustment Account",
+        "debit": 2023406.58,
+        "credit": 0.0
+      },
+      {
+        "accountCode": "3399",
+        "accountName": "Settlement/Clearing Account",
+        "debit": 0.0,
+        "credit": 2023406.58
+      }
+    ]
+  },
+  {
+    "journalEntryId": "JE-VOD-00015",
+    "entryDate": "2025-01-22T17:06:26Z",
+    "description": "Adjustment \u2014 Vodacom Tanzania period reconciliation",
+    "reference": "REF-VOD-378104",
+    "status": "Posted",
+    "entryType": "Adjustment",
+    "currency": "TZS",
+    "totalDebits": 3893208.38,
+    "totalCredits": 3893208.38,
+    "createdBy": "AccountingBot",
+    "postedBy": "Finance Officer 3",
+    "lines": [
+      {
+        "accountCode": "1080",
+        "accountName": "Adjustment Account",
+        "debit": 3893208.38,
+        "credit": 0.0
+      },
+      {
+        "accountCode": "5955",
+        "accountName": "Settlement/Clearing Account",
+        "debit": 0.0,
+        "credit": 3893208.38
+      }
+    ]
+  },
+  {
+    "journalEntryId": "JE-VOD-00016",
+    "entryDate": "2024-12-02T14:32:27Z",
+    "description": "Expense \u2014 Vodacom Tanzania period 16",
+    "reference": "REF-VOD-299777",
+    "status": "Draft",
+    "entryType": "Expense",
+    "currency": "TZS",
+    "totalDebits": 5054763.72,
+    "totalCredits": 5054763.72,
+    "createdBy": "AccountingBot",
+    "postedBy": "Finance Officer 7",
+    "lines": [
+      {
+        "accountCode": "1221",
+        "accountName": "Expense Account",
+        "debit": 5054763.72,
+        "credit": 0.0
+      },
+      {
+        "accountCode": "5433",
+        "accountName": "Settlement/Clearing Account",
+        "debit": 0.0,
+        "credit": 5054763.72
+      }
+    ]
+  },
+  {
+    "journalEntryId": "JE-VOD-00017",
+    "entryDate": "2025-10-08T05:35:36Z",
+    "description": "Settlement \u2014 Vodacom Tanzania period 17",
+    "reference": "REF-VOD-279971",
+    "status": "Posted",
+    "entryType": "Settlement",
+    "currency": "TZS",
+    "totalDebits": 6111664.97,
+    "totalCredits": 6111664.97,
+    "createdBy": "AccountingBot",
+    "postedBy": "Finance Officer 3",
+    "lines": [
+      {
+        "accountCode": "5189",
+        "accountName": "Settlement Account",
+        "debit": 6111664.97,
+        "credit": 0.0
+      },
+      {
+        "accountCode": "3365",
+        "accountName": "Settlement/Clearing Account",
+        "debit": 0.0,
+        "credit": 6111664.97
+      }
+    ]
+  },
+  {
+    "journalEntryId": "JE-VOD-00018",
+    "entryDate": "2024-07-12T05:03:26Z",
+    "description": "Accrual \u2014 Vodacom Tanzania period 18",
+    "reference": "REF-VOD-907114",
+    "status": "Posted",
+    "entryType": "Accrual",
+    "currency": "TZS",
+    "totalDebits": 5714429.46,
+    "totalCredits": 5714429.46,
+    "createdBy": "AccountingBot",
+    "postedBy": "Finance Officer 6",
+    "lines": [
+      {
+        "accountCode": "4534",
+        "accountName": "Accrual Account",
+        "debit": 5714429.46,
+        "credit": 0.0
+      },
+      {
+        "accountCode": "2146",
+        "accountName": "Settlement/Clearing Account",
+        "debit": 0.0,
+        "credit": 5714429.46
+      }
+    ]
+  },
+  {
+    "journalEntryId": "JE-VOD-00019",
+    "entryDate": "2025-04-15T00:42:18Z",
+    "description": "Adjustment \u2014 Vodacom Tanzania period 19",
+    "reference": "REF-VOD-418167",
+    "status": "Posted",
+    "entryType": "Adjustment",
+    "currency": "TZS",
+    "totalDebits": 1129780.96,
+    "totalCredits": 1129780.96,
+    "createdBy": "AccountingBot",
+    "postedBy": "Finance Officer 5",
+    "lines": [
+      {
+        "accountCode": "3724",
+        "accountName": "Adjustment Account",
+        "debit": 1129780.96,
+        "credit": 0.0
+      },
+      {
+        "accountCode": "5229",
+        "accountName": "Settlement/Clearing Account",
+        "debit": 0.0,
+        "credit": 1129780.96
+      }
+    ]
+  },
+  {
+    "journalEntryId": "JE-VOD-00020",
+    "entryDate": "2024-06-03T03:02:48Z",
+    "description": "Tax \u2014 Vodacom Tanzania period 20",
+    "reference": "REF-VOD-126521",
+    "status": "Pending",
+    "entryType": "Tax",
+    "currency": "TZS",
+    "totalDebits": 6122713.73,
+    "totalCredits": 6122713.73,
+    "createdBy": "AccountingBot",
+    "postedBy": "Finance Officer 1",
+    "lines": [
+      {
+        "accountCode": "2410",
+        "accountName": "Tax Account",
+        "debit": 6122713.73,
+        "credit": 0.0
+      },
+      {
+        "accountCode": "3162",
+        "accountName": "Settlement/Clearing Account",
+        "debit": 0.0,
+        "credit": 6122713.73
+      }
+    ]
+  },
+  {
+    "journalEntryId": "JE-VOD-00021",
+    "entryDate": "2025-11-24T18:32:06Z",
+    "description": "Commission \u2014 Vodacom Tanzania period 21",
+    "reference": "REF-VOD-758109",
+    "status": "Posted",
+    "entryType": "Commission",
+    "currency": "TZS",
+    "totalDebits": 5585284.83,
+    "totalCredits": 5585284.83,
+    "createdBy": "AccountingBot",
+    "postedBy": "Finance Officer 5",
+    "lines": [
+      {
+        "accountCode": "4574",
+        "accountName": "Commission Account",
+        "debit": 5585284.83,
+        "credit": 0.0
+      },
+      {
+        "accountCode": "2914",
+        "accountName": "Settlement/Clearing Account",
+        "debit": 0.0,
+        "credit": 5585284.83
+      }
+    ]
+  },
+  {
+    "journalEntryId": "JE-VOD-00022",
+    "entryDate": "2025-10-08T08:33:16Z",
+    "description": "Depreciation \u2014 Vodacom Tanzania period 22",
+    "reference": "REF-VOD-477021",
+    "status": "Posted",
+    "entryType": "Depreciation",
+    "currency": "TZS",
+    "totalDebits": 1797042.41,
+    "totalCredits": 1797042.41,
+    "createdBy": "AccountingBot",
+    "postedBy": "Finance Officer 3",
+    "lines": [
+      {
+        "accountCode": "4795",
+        "accountName": "Depreciation Account",
+        "debit": 1797042.41,
+        "credit": 0.0
+      },
+      {
+        "accountCode": "5851",
+        "accountName": "Settlement/Clearing Account",
+        "debit": 0.0,
+        "credit": 1797042.41
+      }
+    ]
+  },
+  {
+    "journalEntryId": "JE-VOD-00023",
+    "entryDate": "2024-02-25T11:56:36Z",
+    "description": "Provision \u2014 Vodacom Tanzania period 23",
+    "reference": "REF-VOD-213116",
+    "status": "Pending",
+    "entryType": "Provision",
+    "currency": "TZS",
+    "totalDebits": 7528606.53,
+    "totalCredits": 7528606.53,
+    "createdBy": "AccountingBot",
+    "postedBy": "Finance Officer 5",
+    "lines": [
+      {
+        "accountCode": "1268",
+        "accountName": "Provision Account",
+        "debit": 7528606.53,
+        "credit": 0.0
+      },
+      {
+        "accountCode": "2138",
+        "accountName": "Settlement/Clearing Account",
+        "debit": 0.0,
+        "credit": 7528606.53
+      }
+    ]
+  },
+  {
+    "journalEntryId": "JE-VOD-00024",
+    "entryDate": "2025-02-15T20:25:40Z",
+    "description": "Revaluation \u2014 Vodacom Tanzania period 24",
+    "reference": "REF-VOD-977744",
+    "status": "Posted",
+    "entryType": "Revaluation",
+    "currency": "TZS",
+    "totalDebits": 3496338.39,
+    "totalCredits": 3496338.39,
+    "createdBy": "AccountingBot",
+    "postedBy": "Finance Officer 3",
+    "lines": [
+      {
+        "accountCode": "2969",
+        "accountName": "Revaluation Account",
+        "debit": 3496338.39,
+        "credit": 0.0
+      },
+      {
+        "accountCode": "4334",
+        "accountName": "Settlement/Clearing Account",
+        "debit": 0.0,
+        "credit": 3496338.39
+      }
+    ]
+  },
+  {
+    "journalEntryId": "JE-VOD-00025",
+    "entryDate": "2024-07-07T11:45:05Z",
+    "description": "Intercompany \u2014 Vodacom Tanzania period 25",
+    "reference": "REF-VOD-636046",
+    "status": "Posted",
+    "entryType": "Intercompany",
+    "currency": "TZS",
+    "totalDebits": 451966.09,
+    "totalCredits": 451966.09,
+    "createdBy": "AccountingBot",
+    "postedBy": "Finance Officer 6",
+    "lines": [
+      {
+        "accountCode": "4850",
+        "accountName": "Intercompany Account",
+        "debit": 451966.09,
+        "credit": 0.0
+      },
+      {
+        "accountCode": "1480",
+        "accountName": "Settlement/Clearing Account",
+        "debit": 0.0,
+        "credit": 451966.09
+      }
+    ]
+  }
+]

@@ -1,0 +1,7 @@
+[
+  { "id": "mmo-admin-001", "username": "admin.mobilemoney", "fullName": "Kelwa Banda", "role": "Administrator", "email": "kelwa.banda@mobilemoney.zm", "isActive": true },
+  { "id": "mmo-ops-001", "username": "ops.mobilemoney", "fullName": "Ruth Phiri", "role": "Operations", "email": "ruth.phiri@mobilemoney.zm", "isActive": true },
+  { "id": "mmo-agent-001", "username": "agent.mobilemoney", "fullName": "Patrick Mwila", "role": "Agent Manager", "email": "patrick.mwila@mobilemoney.zm", "isActive": true },
+  { "id": "mmo-support-001", "username": "support.mobilemoney", "fullName": "Clara Tembo", "role": "Support Specialist", "email": "clara.tembo@mobilemoney.zm", "isActive": true },
+  { "id": "mmo-risk-001", "username": "risk.mobilemoney", "fullName": "Austin Chikondi", "role": "Risk Analyst", "email": "austin.chikondi@mobilemoney.zm", "isActive": true }
+]

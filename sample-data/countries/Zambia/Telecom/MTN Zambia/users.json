@@ -1,0 +1,177 @@
+﻿[
+    {
+        "userId":  "8379dcb1-0893-46ce-90c3-1eb9025d07cd",
+        "email":  "channelmanager.telecom",
+        "username":  "channelmanager.telecom",
+        "firstName":  "Channel",
+        "lastName":  "Manager",
+        "institutionType":  "Telecom",
+        "institutionName":  "MTN Zambia",
+        "institutionId":  "42803643-5522-40aa-8507-0c6efda36a26",
+        "roles":  [
+                      "ChannelManager"
+                  ],
+        "permissions":  [
+
+                        ],
+        "isActive":  true,
+        "isEmailVerified":  true,
+        "isPhoneVerified":  true,
+        "isIdentityVerified":  true,
+        "trustScore":  95,
+        "createdAt":  "2023-09-13T00:00:00Z",
+        "phoneNumber":  "+260977000000",
+        "gender":  "Other",
+        "nationality":  "Zambian"
+    },
+    {
+        "userId":  "5db8f7ae-e175-4eb1-a3c4-3ded40185650",
+        "email":  "complianceofficer.telecom",
+        "username":  "complianceofficer.telecom",
+        "firstName":  "Compliance",
+        "lastName":  "Officer",
+        "institutionType":  "Telecom",
+        "institutionName":  "MTN Zambia",
+        "institutionId":  "48e0ded3-c182-42b7-a1cd-1eaa06585838",
+        "roles":  [
+                      "ComplianceOfficer"
+                  ],
+        "permissions":  [
+
+                        ],
+        "isActive":  true,
+        "isEmailVerified":  true,
+        "isPhoneVerified":  true,
+        "isIdentityVerified":  true,
+        "trustScore":  95,
+        "createdAt":  "2023-09-13T00:00:00Z",
+        "phoneNumber":  "+260977000000",
+        "gender":  "Other",
+        "nationality":  "Zambian"
+    },
+    {
+        "userId":  "91323a64-77ae-4038-941e-ca97b1ccdacd",
+        "email":  "customersupport.telecom",
+        "username":  "customersupport.telecom",
+        "firstName":  "Customer",
+        "lastName":  "Support",
+        "institutionType":  "Telecom",
+        "institutionName":  "MTN Zambia",
+        "institutionId":  "a127f0b9-fb22-4d8e-9225-f00fa0f74d06",
+        "roles":  [
+                      "CustomerSupport"
+                  ],
+        "permissions":  [
+
+                        ],
+        "isActive":  true,
+        "isEmailVerified":  true,
+        "isPhoneVerified":  true,
+        "isIdentityVerified":  true,
+        "trustScore":  95,
+        "createdAt":  "2023-09-13T00:00:00Z",
+        "phoneNumber":  "+260977000000",
+        "gender":  "Other",
+        "nationality":  "Zambian"
+    },
+    {
+        "userId":  "9bc565c2-4d12-41ce-bdca-7e4209fd0c67",
+        "email":  "fraudanalyst.telecom",
+        "username":  "fraudanalyst.telecom",
+        "firstName":  "Fraud",
+        "lastName":  "Analyst",
+        "institutionType":  "Telecom",
+        "institutionName":  "MTN Zambia",
+        "institutionId":  "9bb067b0-28bb-411c-a7cf-237005fa50c4",
+        "roles":  [
+                      "FraudAnalyst"
+                  ],
+        "permissions":  [
+
+                        ],
+        "isActive":  true,
+        "isEmailVerified":  true,
+        "isPhoneVerified":  true,
+        "isIdentityVerified":  true,
+        "trustScore":  95,
+        "createdAt":  "2023-09-13T00:00:00Z",
+        "phoneNumber":  "+260977000000",
+        "gender":  "Other",
+        "nationality":  "Zambian"
+    },
+    {
+        "userId":  "64179a06-8c03-48f3-90a4-d0f6797464b5",
+        "email":  "mobilemoneymanager.telecom",
+        "username":  "mobilemoneymanager.telecom",
+        "firstName":  "Mobile",
+        "lastName":  "Manager",
+        "institutionType":  "Telecom",
+        "institutionName":  "MTN Zambia",
+        "institutionId":  "d4480709-3c1c-41bf-9124-4c93eaebb55d",
+        "roles":  [
+                      "MobileMoneyManager"
+                  ],
+        "permissions":  [
+
+                        ],
+        "isActive":  true,
+        "isEmailVerified":  true,
+        "isPhoneVerified":  true,
+        "isIdentityVerified":  true,
+        "trustScore":  95,
+        "createdAt":  "2023-09-13T00:00:00Z",
+        "phoneNumber":  "+260977000000",
+        "gender":  "Other",
+        "nationality":  "Zambian"
+    },
+    {
+        "userId":  "34bde30b-a951-40a8-8af5-6bbe4c259847",
+        "email":  "paymentsmanager.telecom",
+        "username":  "paymentsmanager.telecom",
+        "firstName":  "Payments",
+        "lastName":  "Manager",
+        "institutionType":  "Telecom",
+        "institutionName":  "MTN Zambia",
+        "institutionId":  "9c6ae1bc-93da-4b65-b561-3bd82437f968",
+        "roles":  [
+                      "PaymentsManager"
+                  ],
+        "permissions":  [
+
+                        ],
+        "isActive":  true,
+        "isEmailVerified":  true,
+        "isPhoneVerified":  true,
+        "isIdentityVerified":  true,
+        "trustScore":  95,
+        "createdAt":  "2023-09-13T00:00:00Z",
+        "phoneNumber":  "+260977000000",
+        "gender":  "Other",
+        "nationality":  "Zambian"
+    },
+    {
+        "userId":  "57041031-c2f5-4301-80dc-7790b9c25d02",
+        "email":  "telecomadmin.telecom",
+        "username":  "telecomadmin.telecom",
+        "firstName":  "Telecom",
+        "lastName":  "Admin",
+        "institutionType":  "Telecom",
+        "institutionName":  "MTN Zambia",
+        "institutionId":  "d83ba8b6-022f-4fb2-be02-d81b9a0521c1",
+        "roles":  [
+                      "TelecomAdmin"
+                  ],
+        "permissions":  [
+
+                        ],
+        "isActive":  true,
+        "isEmailVerified":  true,
+        "isPhoneVerified":  true,
+        "isIdentityVerified":  true,
+        "trustScore":  95,
+        "createdAt":  "2023-09-13T00:00:00Z",
+        "phoneNumber":  "+260977000000",
+        "gender":  "Other",
+        "nationality":  "Zambian"
+    }
+]

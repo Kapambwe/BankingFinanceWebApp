@@ -1,0 +1,57 @@
+[
+  {
+    "rateId": "pr1r0000-0001",
+    "category": "Formal Sector Employee",
+    "contributionRateEmployee": 0.035,
+    "contributionRateEmployer": 0.025,
+    "monthlyCapAmount": 4500.0,
+    "currency": "ZMW",
+    "effectiveDate": "2025-01-01",
+    "status": "Active",
+    "createdAt": "2025-01-01T00:00:00Z"
+  },
+  {
+    "rateId": "pr1r0000-0002",
+    "category": "Employer",
+    "contributionRateEmployee": 0.0,
+    "contributionRateEmployer": 0.035,
+    "monthlyCapAmount": 4500.0,
+    "currency": "ZMW",
+    "effectiveDate": "2025-01-01",
+    "status": "Active",
+    "createdAt": "2025-01-01T00:00:00Z"
+  },
+  {
+    "rateId": "pr1r0000-0003",
+    "category": "Government",
+    "contributionRateEmployee": 0.0,
+    "contributionRateEmployer": 0.025,
+    "monthlyCapAmount": 4500.0,
+    "currency": "ZMW",
+    "effectiveDate": "2025-01-01",
+    "status": "Active",
+    "createdAt": "2025-01-01T00:00:00Z"
+  },
+  {
+    "rateId": "pr1r0000-0004",
+    "category": "Informal Sector",
+    "contributionRateEmployee": 0.02,
+    "contributionRateEmployer": 0.0,
+    "monthlyCapAmount": 4500.0,
+    "currency": "ZMW",
+    "effectiveDate": "2025-01-01",
+    "status": "Active",
+    "createdAt": "2025-01-01T00:00:00Z"
+  },
+  {
+    "rateId": "pr1r0000-0005",
+    "category": "Pensioner",
+    "contributionRateEmployee": 0.01,
+    "contributionRateEmployer": 0.005,
+    "monthlyCapAmount": 4500.0,
+    "currency": "ZMW",
+    "effectiveDate": "2025-01-01",
+    "status": "Active",
+    "createdAt": "2025-01-01T00:00:00Z"
+  }
+]

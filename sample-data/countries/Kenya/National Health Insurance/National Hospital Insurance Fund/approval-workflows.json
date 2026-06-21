@@ -1,0 +1,74 @@
+[
+  {
+    "workflowId": "aw500000-0001",
+    "workflowName": "Claims Approval Workflow",
+    "description": "Multi-level approval for claims exceeding threshold",
+    "steps": [
+      {
+        "step": 1,
+        "role": "Claims Officer",
+        "action": "Review & Submit"
+      },
+      {
+        "step": 2,
+        "role": "Head of Claims",
+        "action": "Approve"
+      },
+      {
+        "step": 3,
+        "role": "CFO",
+        "action": "Final Approval (high-value)"
+      }
+    ],
+    "isActive": true,
+    "createdAt": "2025-01-01T00:00:00Z"
+  },
+  {
+    "workflowId": "aw500000-0002",
+    "workflowName": "Vendor Payment Workflow",
+    "description": "Approval workflow for vendor payments",
+    "steps": [
+      {
+        "step": 1,
+        "role": "Finance Manager",
+        "action": "Review"
+      },
+      {
+        "step": 2,
+        "role": "CFO",
+        "action": "Approve"
+      },
+      {
+        "step": 3,
+        "role": "CEO",
+        "action": "Final Approval (above threshold)"
+      }
+    ],
+    "isActive": true,
+    "createdAt": "2025-01-01T00:00:00Z"
+  },
+  {
+    "workflowId": "aw500000-0003",
+    "workflowName": "Staff Recruitment Workflow",
+    "description": "Approval workflow for staff recruitment",
+    "steps": [
+      {
+        "step": 1,
+        "role": "HR Manager",
+        "action": "Requisition Submission"
+      },
+      {
+        "step": 2,
+        "role": "Department Head",
+        "action": "Approval"
+      },
+      {
+        "step": 3,
+        "role": "CEO",
+        "action": "Final Approval"
+      }
+    ],
+    "isActive": true,
+    "createdAt": "2025-01-01T00:00:00Z"
+  }
+]

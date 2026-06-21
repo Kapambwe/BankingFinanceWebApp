@@ -1,0 +1,436 @@
+[
+  {
+    "strategyId": "f0f13e3e-d4c4-7254-392f-804bb7a4ed2d",
+    "strategyCode": "IFC-IN-STR-2026-001",
+    "institutionName": "International Finance Corporation",
+    "countryCode": "IN",
+    "countryName": "India",
+    "region": "South Asia",
+    "strategyType": "CountryStrategyPaper",
+    "countryClassification": "LowerMiddleIncome",
+    "strategyPeriodStart": 2026,
+    "strategyPeriodEnd": 2030,
+    "indicativeLendingEnvelope": 100000000,
+    "grantEnvelope": 7750000,
+    "currency": "USD",
+    "financingWindows": [
+      {
+        "windowName": "Core sovereign window",
+        "windowType": "NonConcessional",
+        "allocatedAmount": 50000000,
+        "currency": "USD",
+        "interestRate": 2.1,
+        "gracePeriodYears": 5,
+        "maturityYears": 25,
+        "isGrantElement": false,
+        "grantEquivalent": 0
+      },
+      {
+        "windowName": "Climate and inclusion window",
+        "windowType": "ClimateFinance",
+        "allocatedAmount": 14000000,
+        "currency": "USD",
+        "interestRate": 0.7,
+        "gracePeriodYears": 7,
+        "maturityYears": 30,
+        "isGrantElement": true,
+        "grantEquivalent": 3500000
+      }
+    ],
+    "strategicPillars": [
+      "SME Finance",
+      "Institutional capacity",
+      "Inclusive and climate-resilient growth"
+    ],
+    "highLevelObjectives": [
+      "Improve development outcomes",
+      "Mobilise co-financing",
+      "Strengthen delivery systems"
+    ],
+    "crossCuttingThemes": [
+      "Gender inclusion",
+      "Climate resilience",
+      "Digital monitoring"
+    ],
+    "governmentCounterpart": "Department of Economic Affairs",
+    "countryDirector": "Amadou Kane",
+    "countryEconomist": "Fiscal and debt economist",
+    "status": "Implementation",
+    "preparedDate": "2025-02-07T22:00:00Z",
+    "midTermReviewDate": "2028-02-07T22:00:00Z",
+    "completionReportDate": "2031-02-07T22:00:00Z",
+    "createdAt": "2024-12-31T22:00:00Z"
+  },
+  {
+    "strategyId": "3f8f8cd2-eb90-68ce-82d4-f55d6958a459",
+    "strategyCode": "IFC-KE-STR-2026-002",
+    "institutionName": "International Finance Corporation",
+    "countryCode": "KE",
+    "countryName": "Kenya",
+    "region": "East Africa",
+    "strategyType": "CountryProgrammeDocument",
+    "countryClassification": "LowIncome",
+    "strategyPeriodStart": 2026,
+    "strategyPeriodEnd": 2030,
+    "indicativeLendingEnvelope": 115000000,
+    "grantEnvelope": 9500000,
+    "currency": "USD",
+    "financingWindows": [
+      {
+        "windowName": "Core sovereign window",
+        "windowType": "NonConcessional",
+        "allocatedAmount": 55000000,
+        "currency": "USD",
+        "interestRate": 2.1,
+        "gracePeriodYears": 5,
+        "maturityYears": 25,
+        "isGrantElement": false,
+        "grantEquivalent": 0
+      },
+      {
+        "windowName": "Climate and inclusion window",
+        "windowType": "ClimateFinance",
+        "allocatedAmount": 16000000,
+        "currency": "USD",
+        "interestRate": 0.7,
+        "gracePeriodYears": 7,
+        "maturityYears": 30,
+        "isGrantElement": true,
+        "grantEquivalent": 3500000
+      }
+    ],
+    "strategicPillars": [
+      "Climate Business",
+      "Institutional capacity",
+      "Inclusive and climate-resilient growth"
+    ],
+    "highLevelObjectives": [
+      "Improve development outcomes",
+      "Mobilise co-financing",
+      "Strengthen delivery systems"
+    ],
+    "crossCuttingThemes": [
+      "Gender inclusion",
+      "Climate resilience",
+      "Digital monitoring"
+    ],
+    "governmentCounterpart": "National Treasury and Economic Planning",
+    "countryDirector": "Sarah Mensah",
+    "countryEconomist": "Country macroeconomist",
+    "status": "BoardApproval",
+    "preparedDate": "2025-03-07T22:00:00Z",
+    "midTermReviewDate": "2028-03-07T22:00:00Z",
+    "completionReportDate": "2031-03-07T22:00:00Z",
+    "createdAt": "2025-01-01T22:00:00Z"
+  },
+  {
+    "strategyId": "a8164d41-98ba-472d-7592-743af9470bf0",
+    "strategyCode": "IFC-BR-STR-2026-003",
+    "institutionName": "International Finance Corporation",
+    "countryCode": "BR",
+    "countryName": "Brazil",
+    "region": "Latin America",
+    "strategyType": "CountryPartnershipFramework",
+    "countryClassification": "BlendEligible",
+    "strategyPeriodStart": 2026,
+    "strategyPeriodEnd": 2030,
+    "indicativeLendingEnvelope": 130000000,
+    "grantEnvelope": 11250000,
+    "currency": "USD",
+    "financingWindows": [
+      {
+        "windowName": "Core sovereign window",
+        "windowType": "NonConcessional",
+        "allocatedAmount": 60000000,
+        "currency": "USD",
+        "interestRate": 2.1,
+        "gracePeriodYears": 5,
+        "maturityYears": 25,
+        "isGrantElement": false,
+        "grantEquivalent": 0
+      },
+      {
+        "windowName": "Climate and inclusion window",
+        "windowType": "ClimateFinance",
+        "allocatedAmount": 18000000,
+        "currency": "USD",
+        "interestRate": 0.7,
+        "gracePeriodYears": 7,
+        "maturityYears": 30,
+        "isGrantElement": true,
+        "grantEquivalent": 3500000
+      }
+    ],
+    "strategicPillars": [
+      "Agribusiness",
+      "Institutional capacity",
+      "Inclusive and climate-resilient growth"
+    ],
+    "highLevelObjectives": [
+      "Improve development outcomes",
+      "Mobilise co-financing",
+      "Strengthen delivery systems"
+    ],
+    "crossCuttingThemes": [
+      "Gender inclusion",
+      "Climate resilience",
+      "Digital monitoring"
+    ],
+    "governmentCounterpart": "Ministry of Finance",
+    "countryDirector": "Elena Rossi",
+    "countryEconomist": "Portfolio economist",
+    "status": "Consultation",
+    "preparedDate": "2025-04-07T22:00:00Z",
+    "midTermReviewDate": "2028-04-07T22:00:00Z",
+    "completionReportDate": "2031-04-07T22:00:00Z",
+    "createdAt": "2025-01-02T22:00:00Z"
+  },
+  {
+    "strategyId": "f66ecd9a-072d-729a-b993-e84fa2a4f079",
+    "strategyCode": "IFC-ID-STR-2026-004",
+    "institutionName": "International Finance Corporation",
+    "countryCode": "ID",
+    "countryName": "Indonesia",
+    "region": "East Asia and Pacific",
+    "strategyType": "CountryAssistanceStrategy",
+    "countryClassification": "LandlockedDevelopingCountry",
+    "strategyPeriodStart": 2026,
+    "strategyPeriodEnd": 2030,
+    "indicativeLendingEnvelope": 145000000,
+    "grantEnvelope": 13000000,
+    "currency": "USD",
+    "financingWindows": [
+      {
+        "windowName": "Core sovereign window",
+        "windowType": "NonConcessional",
+        "allocatedAmount": 65000000,
+        "currency": "USD",
+        "interestRate": 2.1,
+        "gracePeriodYears": 5,
+        "maturityYears": 25,
+        "isGrantElement": false,
+        "grantEquivalent": 0
+      },
+      {
+        "windowName": "Climate and inclusion window",
+        "windowType": "ClimateFinance",
+        "allocatedAmount": 20000000,
+        "currency": "USD",
+        "interestRate": 0.7,
+        "gracePeriodYears": 7,
+        "maturityYears": 30,
+        "isGrantElement": true,
+        "grantEquivalent": 3500000
+      }
+    ],
+    "strategicPillars": [
+      "Digital Finance",
+      "Institutional capacity",
+      "Inclusive and climate-resilient growth"
+    ],
+    "highLevelObjectives": [
+      "Improve development outcomes",
+      "Mobilise co-financing",
+      "Strengthen delivery systems"
+    ],
+    "crossCuttingThemes": [
+      "Gender inclusion",
+      "Climate resilience",
+      "Digital monitoring"
+    ],
+    "governmentCounterpart": "Ministry of Finance",
+    "countryDirector": "Michael Okoro",
+    "countryEconomist": "Development finance analyst",
+    "status": "MidTermReview",
+    "preparedDate": "2025-05-07T22:00:00Z",
+    "midTermReviewDate": "2028-05-07T22:00:00Z",
+    "completionReportDate": "2031-05-07T22:00:00Z",
+    "createdAt": "2025-01-03T22:00:00Z"
+  },
+  {
+    "strategyId": "01fe4478-2d61-6201-2eeb-8e4ebbe0a630",
+    "strategyCode": "IFC-VN-STR-2026-005",
+    "institutionName": "International Finance Corporation",
+    "countryCode": "VN",
+    "countryName": "Vietnam",
+    "region": "East Asia and Pacific",
+    "strategyType": "CountryInvestmentPlan",
+    "countryClassification": "LeastDeveloped",
+    "strategyPeriodStart": 2026,
+    "strategyPeriodEnd": 2030,
+    "indicativeLendingEnvelope": 160000000,
+    "grantEnvelope": 14750000,
+    "currency": "USD",
+    "financingWindows": [
+      {
+        "windowName": "Core sovereign window",
+        "windowType": "NonConcessional",
+        "allocatedAmount": 70000000,
+        "currency": "USD",
+        "interestRate": 2.1,
+        "gracePeriodYears": 5,
+        "maturityYears": 25,
+        "isGrantElement": false,
+        "grantEquivalent": 0
+      },
+      {
+        "windowName": "Climate and inclusion window",
+        "windowType": "ClimateFinance",
+        "allocatedAmount": 22000000,
+        "currency": "USD",
+        "interestRate": 0.7,
+        "gracePeriodYears": 7,
+        "maturityYears": 30,
+        "isGrantElement": true,
+        "grantEquivalent": 3500000
+      }
+    ],
+    "strategicPillars": [
+      "Manufacturing",
+      "Institutional capacity",
+      "Inclusive and climate-resilient growth"
+    ],
+    "highLevelObjectives": [
+      "Improve development outcomes",
+      "Mobilise co-financing",
+      "Strengthen delivery systems"
+    ],
+    "crossCuttingThemes": [
+      "Gender inclusion",
+      "Climate resilience",
+      "Digital monitoring"
+    ],
+    "governmentCounterpart": "Ministry of Planning and Investment",
+    "countryDirector": "Priya Nair",
+    "countryEconomist": "Senior country economist",
+    "status": "Preparation",
+    "preparedDate": "2025-06-07T22:00:00Z",
+    "midTermReviewDate": "2028-06-07T22:00:00Z",
+    "completionReportDate": "2031-06-07T22:00:00Z",
+    "createdAt": "2025-01-04T22:00:00Z"
+  },
+  {
+    "strategyId": "0296defd-d6bd-2f58-c1f3-b95adfbba2b5",
+    "strategyCode": "IFC-EG-STR-2026-006",
+    "institutionName": "International Finance Corporation",
+    "countryCode": "EG",
+    "countryName": "Egypt",
+    "region": "Middle East and North Africa",
+    "strategyType": "RegionalStrategyPaper",
+    "countryClassification": "UpperMiddleIncome",
+    "strategyPeriodStart": 2026,
+    "strategyPeriodEnd": 2030,
+    "indicativeLendingEnvelope": 175000000,
+    "grantEnvelope": 16500000,
+    "currency": "USD",
+    "financingWindows": [
+      {
+        "windowName": "Core sovereign window",
+        "windowType": "NonConcessional",
+        "allocatedAmount": 75000000,
+        "currency": "USD",
+        "interestRate": 2.1,
+        "gracePeriodYears": 5,
+        "maturityYears": 25,
+        "isGrantElement": false,
+        "grantEquivalent": 0
+      },
+      {
+        "windowName": "Climate and inclusion window",
+        "windowType": "ClimateFinance",
+        "allocatedAmount": 24000000,
+        "currency": "USD",
+        "interestRate": 0.7,
+        "gracePeriodYears": 7,
+        "maturityYears": 30,
+        "isGrantElement": true,
+        "grantEquivalent": 3500000
+      }
+    ],
+    "strategicPillars": [
+      "Health",
+      "Institutional capacity",
+      "Inclusive and climate-resilient growth"
+    ],
+    "highLevelObjectives": [
+      "Improve development outcomes",
+      "Mobilise co-financing",
+      "Strengthen delivery systems"
+    ],
+    "crossCuttingThemes": [
+      "Gender inclusion",
+      "Climate resilience",
+      "Digital monitoring"
+    ],
+    "governmentCounterpart": "Ministry of International Cooperation",
+    "countryDirector": "Jonas Becker",
+    "countryEconomist": "Regional economist",
+    "status": "Implementation",
+    "preparedDate": "2025-07-07T22:00:00Z",
+    "midTermReviewDate": "2028-07-07T22:00:00Z",
+    "completionReportDate": "2031-07-07T22:00:00Z",
+    "createdAt": "2025-01-05T22:00:00Z"
+  },
+  {
+    "strategyId": "c8a67989-e569-2a5d-71f5-27ce1324c31f",
+    "strategyCode": "IFC-CO-STR-2026-007",
+    "institutionName": "International Finance Corporation",
+    "countryCode": "CO",
+    "countryName": "Colombia",
+    "region": "Latin America",
+    "strategyType": "InterimCountryStrategy",
+    "countryClassification": "FragileOrConflictAffected",
+    "strategyPeriodStart": 2026,
+    "strategyPeriodEnd": 2030,
+    "indicativeLendingEnvelope": 190000000,
+    "grantEnvelope": 18250000,
+    "currency": "USD",
+    "financingWindows": [
+      {
+        "windowName": "Core sovereign window",
+        "windowType": "NonConcessional",
+        "allocatedAmount": 80000000,
+        "currency": "USD",
+        "interestRate": 2.1,
+        "gracePeriodYears": 5,
+        "maturityYears": 25,
+        "isGrantElement": false,
+        "grantEquivalent": 0
+      },
+      {
+        "windowName": "Climate and inclusion window",
+        "windowType": "ClimateFinance",
+        "allocatedAmount": 26000000,
+        "currency": "USD",
+        "interestRate": 0.7,
+        "gracePeriodYears": 7,
+        "maturityYears": 30,
+        "isGrantElement": true,
+        "grantEquivalent": 3500000
+      }
+    ],
+    "strategicPillars": [
+      "Green Buildings",
+      "Institutional capacity",
+      "Inclusive and climate-resilient growth"
+    ],
+    "highLevelObjectives": [
+      "Improve development outcomes",
+      "Mobilise co-financing",
+      "Strengthen delivery systems"
+    ],
+    "crossCuttingThemes": [
+      "Gender inclusion",
+      "Climate resilience",
+      "Digital monitoring"
+    ],
+    "governmentCounterpart": "Ministry of Finance and Public Credit",
+    "countryDirector": "Miriam Banda",
+    "countryEconomist": "Public finance specialist",
+    "status": "CompletionReport",
+    "preparedDate": "2025-08-07T22:00:00Z",
+    "midTermReviewDate": "2028-08-07T22:00:00Z",
+    "completionReportDate": "2031-08-07T22:00:00Z",
+    "createdAt": "2025-01-06T22:00:00Z"
+  }
+]

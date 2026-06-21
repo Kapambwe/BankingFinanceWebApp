@@ -1,0 +1,160 @@
+[
+  {
+    "partnerId": "RP-ZIM-001",
+    "businessName": "OK Zimbabwe Zimbabwe Ltd",
+    "brandName": "OK Zimbabwe",
+    "partnerType": "ConvenienceStore",
+    "country": "Zimbabwe",
+    "currency": "ZWL",
+    "contactPerson": "Partner Manager 1",
+    "email": "banking@okzimbabwe.zi",
+    "phoneNumber": "+855-620-444802",
+    "servicesOffered": [
+      "AccountOpening",
+      "BillPayment",
+      "LoanPayment",
+      "CashDeposit",
+      "AirtimePurchase",
+      "MoneyTransfer"
+    ],
+    "acceptedPaymentMethods": [
+      "USSD",
+      "Cash"
+    ],
+    "totalStores": 226,
+    "activeStores": 204,
+    "storeLocations": [
+      "Bulawayo",
+      "Mutare",
+      "Gweru"
+    ],
+    "monthlyTransactionVolume": 3402309.24,
+    "monthlyTransactionCount": 15008,
+    "averageTransactionSize": 86.71,
+    "commissionRate": 1.04,
+    "monthlyRevenue": 21057.06,
+    "partnershipStartDate": "2021-10-17T18:10:28Z",
+    "status": "PendingApproval",
+    "brandColor": "#8d68e6",
+    "isIntegrated": false,
+    "lastSyncDate": null
+  },
+  {
+    "partnerId": "RP-ZIM-002",
+    "businessName": "TM Supermarkets Zimbabwe Ltd",
+    "brandName": "TM Supermarkets",
+    "partnerType": "Pharmacy",
+    "country": "Zimbabwe",
+    "currency": "ZWL",
+    "contactPerson": "Partner Manager 2",
+    "email": "banking@tmsupermarke.zi",
+    "phoneNumber": "+603-835-880465",
+    "servicesOffered": [
+      "BillPayment",
+      "AccountOpening",
+      "AirtimePurchase"
+    ],
+    "acceptedPaymentMethods": [
+      "CardTap",
+      "USSD"
+    ],
+    "totalStores": 55,
+    "activeStores": 52,
+    "storeLocations": [
+      "Harare",
+      "Bulawayo",
+      "Mutare",
+      "Gweru"
+    ],
+    "monthlyTransactionVolume": 4626222.92,
+    "monthlyTransactionCount": 14658,
+    "averageTransactionSize": 122.86,
+    "commissionRate": 0.61,
+    "monthlyRevenue": 48881.85,
+    "partnershipStartDate": "2024-04-30T18:10:28Z",
+    "status": "Active",
+    "brandColor": "#4607e5",
+    "isIntegrated": false,
+    "lastSyncDate": "2026-03-04T18:10:28Z"
+  },
+  {
+    "partnerId": "RP-ZIM-003",
+    "businessName": "Spar Zimbabwe Zimbabwe Ltd",
+    "brandName": "Spar Zimbabwe",
+    "partnerType": "ConvenienceStore",
+    "country": "Zimbabwe",
+    "currency": "ZWL",
+    "contactPerson": "Partner Manager 3",
+    "email": "banking@sparzimbabwe.zi",
+    "phoneNumber": "+987-912-268393",
+    "servicesOffered": [
+      "MoneyTransfer",
+      "LoanPayment",
+      "BillPayment",
+      "AirtimePurchase"
+    ],
+    "acceptedPaymentMethods": [
+      "USSD",
+      "QRCode"
+    ],
+    "totalStores": 146,
+    "activeStores": 134,
+    "storeLocations": [
+      "Bulawayo",
+      "Gweru",
+      "Harare"
+    ],
+    "monthlyTransactionVolume": 3595755.57,
+    "monthlyTransactionCount": 22373,
+    "averageTransactionSize": 152.65,
+    "commissionRate": 1.35,
+    "monthlyRevenue": 42711.51,
+    "partnershipStartDate": "2021-06-26T18:10:28Z",
+    "status": "Active",
+    "brandColor": "#54e169",
+    "isIntegrated": false,
+    "lastSyncDate": null
+  },
+  {
+    "partnerId": "RP-ZIM-004",
+    "businessName": "Choppies Zimbabwe Zimbabwe Ltd",
+    "brandName": "Choppies Zimbabwe",
+    "partnerType": "SmallShop",
+    "country": "Zimbabwe",
+    "currency": "ZWL",
+    "contactPerson": "Partner Manager 4",
+    "email": "banking@choppieszimb.zi",
+    "phoneNumber": "+530-116-216895",
+    "servicesOffered": [
+      "MoneyTransfer",
+      "BillPayment",
+      "LoanPayment",
+      "AccountOpening"
+    ],
+    "acceptedPaymentMethods": [
+      "USSD",
+      "Cash",
+      "QRCode",
+      "CardTap",
+      "PhoneNumber"
+    ],
+    "totalStores": 200,
+    "activeStores": 183,
+    "storeLocations": [
+      "Bulawayo",
+      "Gweru",
+      "Harare",
+      "Mutare"
+    ],
+    "monthlyTransactionVolume": 1657085.48,
+    "monthlyTransactionCount": 6618,
+    "averageTransactionSize": 257.59,
+    "commissionRate": 1.51,
+    "monthlyRevenue": 23160.04,
+    "partnershipStartDate": "2022-06-15T18:10:28Z",
+    "status": "PendingApproval",
+    "brandColor": "#d25526",
+    "isIntegrated": false,
+    "lastSyncDate": "2026-03-03T18:10:28Z"
+  }
+]

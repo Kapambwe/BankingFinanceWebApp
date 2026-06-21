@@ -1,0 +1,612 @@
+[
+  {
+    "id": "ti-fc-001",
+    "familyId": "tf-financial-credentials",
+    "tokenName": "KYC attestation",
+    "industry": "Compliance and Identity",
+    "issuerType": "Public Authority",
+    "instrument": "Identity proof",
+    "issuer": "National Identity Authority",
+    "status": "Issued",
+    "issuedAt": "2026-06-18T07:00:00Z",
+    "route": "/digital-tokens/industry/financial-credentials",
+    "useCase": "Account opening",
+    "visibility": "Financial Sector",
+    "isFinancialSectorInvestable": false,
+    "investmentAudience": "Banks, insurers, and regulated fintechs",
+    "signatureChain": [
+      {
+        "step": "Identity proof issued",
+        "signer": "National Identity Authority",
+        "signerType": "Public Authority",
+        "role": "Issuer",
+        "signedAt": "2026-06-18T04:00:00Z",
+        "method": "DID + QES",
+        "status": "Signed",
+        "verificationReference": "VC-REF-001",
+        "did": "did:gov:identity"
+      },
+      {
+        "step": "Compliance attested",
+        "signer": "Financial Crime Unit",
+        "signerType": "Regulator",
+        "role": "Reviewer",
+        "signedAt": "2026-06-18T05:00:00Z",
+        "method": "Policy signature",
+        "status": "Signed",
+        "verificationReference": "VC-REF-002",
+        "did": "did:reg:fcu"
+      }
+    ],
+    "ownershipHistory": [
+      {
+        "effectiveAt": "2026-06-18T04:00:00Z",
+        "holder": "Citizen",
+        "holderType": "Individual",
+        "event": "Created",
+        "ownershipShare": "100%",
+        "reference": "REG-OWN-001"
+      },
+      {
+        "effectiveAt": "2026-06-18T07:00:00Z",
+        "holder": "National Identity Authority",
+        "holderType": "Public Authority",
+        "event": "Issued",
+        "ownershipShare": "100%",
+        "reference": "REG-OWN-002"
+      }
+    ],
+    "signatures": [
+      {
+        "keyId": "kid:vcred-001",
+        "algorithm": "Ed25519",
+        "scope": "Verifiable credential offline check",
+        "payloadHash": "6YH2n8kQ9f0P1sA2dF7G8hJ1kL4mN6pQ9rT2uV5wX8yZ=",
+        "signatures": "TnJtLkQv8V3xJ0fG2hM9pQ1rS4uW7yZ0aC3eF6iH9jK=",
+        "generatedAt": "2026-06-18T07:00:00Z",
+        "expiresAt": "2026-07-18T07:00:00Z"
+      }
+    ]
+  },
+  {
+    "id": "ti-fc-002",
+    "familyId": "tf-financial-credentials",
+    "tokenName": "AML clearance",
+    "industry": "Compliance and Identity",
+    "issuerType": "Public Authority",
+    "instrument": "Screening token",
+    "issuer": "Financial Crime Unit",
+    "status": "Issued",
+    "issuedAt": "2026-06-18T08:00:00Z",
+    "route": "/digital-tokens/industry/financial-credentials",
+    "useCase": "Customer due diligence",
+    "visibility": "Financial Sector",
+    "isFinancialSectorInvestable": false,
+    "investmentAudience": "Compliance desks and regulated counterparties",
+    "signatureChain": [
+      {
+        "step": "AML screening completed",
+        "signer": "Financial Crime Unit",
+        "signerType": "Regulator",
+        "role": "Issuer",
+        "signedAt": "2026-06-18T06:00:00Z",
+        "method": "DID + QES",
+        "status": "Signed",
+        "verificationReference": "VC-REF-004",
+        "did": "did:reg:fcu"
+      }
+    ],
+    "ownershipHistory": [
+      {
+        "effectiveAt": "2026-06-18T08:00:00Z",
+        "holder": "Compliance Desk",
+        "holderType": "Institution",
+        "event": "Issued",
+        "ownershipShare": "100%",
+        "reference": "REG-OWN-003"
+      }
+    ]
+  },
+  {
+    "id": "ti-fc-003",
+    "familyId": "tf-financial-credentials",
+    "tokenName": "Sanctions clearance",
+    "industry": "Compliance and Identity",
+    "instrument": "Screening token",
+    "issuer": "Compliance Desk",
+    "status": "Issued",
+    "issuedAt": "2026-06-18T09:00:00Z",
+    "route": "/digital-tokens/industry/financial-credentials",
+    "useCase": "Transaction onboarding"
+  },
+  {
+    "id": "ti-commercial-001",
+    "familyId": "tf-commercial-banking",
+    "tokenName": "Deposit token",
+    "industry": "Commercial Banking",
+    "instrument": "Deposit entitlement",
+    "issuer": "Retail Banking",
+    "status": "Issued",
+    "issuedAt": "2026-06-17T10:00:00Z",
+    "route": "/digital-tokens/marketplace",
+    "useCase": "Transaction account"
+  },
+  {
+    "id": "ti-commercial-002",
+    "familyId": "tf-commercial-banking",
+    "tokenName": "Collateral token",
+    "industry": "Commercial Banking",
+    "instrument": "Collateral registry",
+    "issuer": "Credit Operations",
+    "status": "Pending",
+    "issuedAt": "2026-06-17T11:00:00Z",
+    "route": "/digital-tokens/marketplace",
+    "useCase": "Secured lending"
+  },
+  {
+    "id": "ti-openbanking-001",
+    "familyId": "tf-open-banking",
+    "tokenName": "Consent token",
+    "industry": "Open Banking",
+    "instrument": "Consent grant",
+    "issuer": "Open Banking Hub",
+    "status": "Issued",
+    "issuedAt": "2026-06-17T12:00:00Z",
+    "route": "/open-banking/dashboard",
+    "useCase": "API data sharing"
+  },
+  {
+    "id": "ti-trade-001",
+    "familyId": "tf-trade-finance",
+    "tokenName": "LC token",
+    "industry": "Trade Finance",
+    "issuerType": "Commercial Bank",
+    "instrument": "Letter of credit",
+    "issuer": "Trade Desk",
+    "status": "Issued",
+    "issuedAt": "2026-06-16T10:00:00Z",
+    "route": "/digital-tokens/industry/trade-finance",
+    "useCase": "Import financing",
+    "visibility": "Financial Sector",
+    "isFinancialSectorInvestable": true,
+    "investmentAudience": "Commercial banks, trade funds, and insurers",
+    "signatureChain": [
+      {
+        "step": "LC approved",
+        "signer": "Trade Desk",
+        "signerType": "Commercial Bank",
+        "role": "Issuer",
+        "signedAt": "2026-06-16T08:00:00Z",
+        "method": "QES",
+        "status": "Signed",
+        "verificationReference": "TF-VC-001",
+        "did": "did:bank:trade"
+      },
+      {
+        "step": "Document set anchored",
+        "signer": "Trade Registry",
+        "signerType": "Network Service",
+        "role": "Registry",
+        "signedAt": "2026-06-16T10:00:00Z",
+        "method": "Blockchain anchor",
+        "status": "Signed",
+        "verificationReference": "TF-VC-003",
+        "did": "did:trade:registry"
+      }
+    ],
+    "ownershipHistory": [
+      {
+        "effectiveAt": "2026-06-16T10:00:00Z",
+        "holder": "Importer",
+        "holderType": "Corporate",
+        "event": "Created",
+        "ownershipShare": "100%",
+        "reference": "TF-OWN-001"
+      },
+      {
+        "effectiveAt": "2026-06-16T11:00:00Z",
+        "holder": "Trade Desk",
+        "holderType": "Commercial Bank",
+        "event": "Accepted",
+        "ownershipShare": "100%",
+        "reference": "TF-OWN-002"
+      }
+    ],
+    "signatures": [
+      {
+        "keyId": "kid:trade-001",
+        "algorithm": "RSA-PSS",
+        "scope": "Trade finance offline validation",
+        "payloadHash": "2b9dC1eF4gH7jK0mN3pQ6rT8uV1wX4yZ7aB0cD2eF5g=",
+        "signatures": "AqZ9l3Qv7Wk2mP5sT8uX1yC4eF7gH0jK3nR6tV9wZ2a=",
+        "generatedAt": "2026-06-16T10:00:00Z",
+        "expiresAt": "2026-08-15T10:00:00Z"
+      }
+    ]
+  },
+  {
+    "id": "ti-trade-002",
+    "familyId": "tf-trade-finance",
+    "tokenName": "Invoice token",
+    "industry": "Trade Finance",
+    "issuerType": "Third Party",
+    "instrument": "Receivables finance",
+    "issuer": "Trade Desk",
+    "status": "Issued",
+    "issuedAt": "2026-06-16T11:00:00Z",
+    "route": "/digital-tokens/industry/trade-finance",
+    "useCase": "Invoice discounting",
+    "visibility": "Financial Sector",
+    "isFinancialSectorInvestable": true,
+    "investmentAudience": "Banks, factors, and development finance institutions",
+    "signatureChain": [
+      {
+        "step": "Invoice submitted",
+        "signer": "Exporter",
+        "signerType": "Third Party",
+        "role": "Originator",
+        "signedAt": "2026-06-16T05:00:00Z",
+        "method": "Digital signature",
+        "status": "Signed",
+        "verificationReference": "TF-VC-004",
+        "did": "did:thirdparty:exporter"
+      },
+      {
+        "step": "Receivables verified",
+        "signer": "Trade Desk",
+        "signerType": "Commercial Bank",
+        "role": "Verifier",
+        "signedAt": "2026-06-16T08:00:00Z",
+        "method": "Policy signature",
+        "status": "Signed",
+        "verificationReference": "TF-VC-005",
+        "did": "did:bank:trade"
+      }
+    ],
+    "ownershipHistory": [
+      {
+        "effectiveAt": "2026-06-16T11:00:00Z",
+        "holder": "Exporter",
+        "holderType": "Corporate",
+        "event": "Created",
+        "ownershipShare": "100%",
+        "reference": "TF-OWN-003"
+      }
+    ]
+  },
+  {
+    "id": "ti-alm-001",
+    "familyId": "tf-treasury-alm",
+    "tokenName": "Liquidity token",
+    "industry": "Treasury and ALM",
+    "instrument": "Liquidity buffer",
+    "issuer": "Treasury",
+    "status": "Issued",
+    "issuedAt": "2026-06-16T12:00:00Z",
+    "route": "/alm/dashboard",
+    "useCase": "Liquidity coverage"
+  },
+  {
+    "id": "ti-fx-001",
+    "familyId": "tf-fx",
+    "tokenName": "FX settlement token",
+    "industry": "Foreign Exchange",
+    "instrument": "Settlement corridor",
+    "issuer": "FX Desk",
+    "status": "Issued",
+    "issuedAt": "2026-06-15T10:00:00Z",
+    "route": "/foreign-exchange/dashboard",
+    "useCase": "Cross-border settlement"
+  },
+  {
+    "id": "ti-lending-001",
+    "familyId": "tf-lending",
+    "tokenName": "Loan token",
+    "industry": "Lending and Credit",
+    "instrument": "Credit entitlement",
+    "issuer": "Retail Credit",
+    "status": "Issued",
+    "issuedAt": "2026-06-15T11:00:00Z",
+    "route": "/monetization/credit-products",
+    "useCase": "Personal loan"
+  },
+  {
+    "id": "ti-mortgage-001",
+    "familyId": "tf-mortgage",
+    "tokenName": "Mortgage approval token",
+    "industry": "Mortgage",
+    "instrument": "Property approval",
+    "issuer": "Mortgage Desk",
+    "status": "Pending",
+    "issuedAt": "2026-06-15T12:00:00Z",
+    "route": "/regulatory/compliance-controls/review/mortgage",
+    "useCase": "Home finance"
+  },
+  {
+    "id": "ti-insurance-001",
+    "familyId": "tf-insurance",
+    "tokenName": "Policy token",
+    "industry": "Insurance",
+    "instrument": "Policy issuance",
+    "issuer": "Underwriting",
+    "status": "Issued",
+    "issuedAt": "2026-06-14T10:00:00Z",
+    "route": "/regulatory/compliance-controls/review/insurance-underwriting",
+    "useCase": "Policy administration"
+  },
+  {
+    "id": "ti-investment-001",
+    "familyId": "tf-investment",
+    "tokenName": "Fund unit token",
+    "industry": "Investment and Wealth",
+    "instrument": "Fund ownership",
+    "issuer": "Investment Ops",
+    "status": "Issued",
+    "issuedAt": "2026-06-14T11:00:00Z",
+    "route": "/venture-capital/forms",
+    "useCase": "Fund investment"
+  },
+  {
+    "id": "ti-vc-001",
+    "familyId": "tf-vc",
+    "tokenName": "Commitment token",
+    "industry": "Venture Capital",
+    "issuerType": "Fund Manager",
+    "instrument": "Fund commitment",
+    "issuer": "Fund Management",
+    "status": "Issued",
+    "issuedAt": "2026-06-13T10:00:00Z",
+    "route": "/digital-tokens/industry/venture-capital",
+    "useCase": "Capital commitment",
+    "visibility": "Financial Sector",
+    "isFinancialSectorInvestable": true,
+    "investmentAudience": "Asset managers, pension funds, family offices, and banks",
+    "signatureChain": [
+      {
+        "step": "Commitment accepted",
+        "signer": "Fund Management",
+        "signerType": "Fund Manager",
+        "role": "Issuer",
+        "signedAt": "2026-06-13T02:00:00Z",
+        "method": "QES",
+        "status": "Signed",
+        "verificationReference": "VC-OWN-001",
+        "did": "did:vc:fund"
+      }
+    ],
+    "ownershipHistory": [
+      {
+        "effectiveAt": "2026-06-13T10:00:00Z",
+        "holder": "Limited Partner",
+        "holderType": "Investor",
+        "event": "Committed",
+        "ownershipShare": "25%",
+        "reference": "VC-OWN-001"
+      }
+    ],
+    "signatures": [
+      {
+        "keyId": "kid:vc-001",
+        "algorithm": "Ed25519",
+        "scope": "Portfolio ownership offline validation",
+        "payloadHash": "3c1dE4fG7hJ0kL2mN5pQ8rT1uV4wX7yZ0aB3cD6eF9g=",
+        "signatures": "BpW8m2Qv6Tk1nR4sU7xY0zA3dF6hJ9kL2pQ5rT8uV1w=",
+        "generatedAt": "2026-06-13T11:00:00Z",
+        "expiresAt": "2026-07-13T11:00:00Z"
+      }
+    ]
+  },
+  {
+    "id": "ti-vc-002",
+    "familyId": "tf-vc",
+    "tokenName": "Capital call token",
+    "industry": "Venture Capital",
+    "issuerType": "Fund Manager",
+    "instrument": "Investor call notice",
+    "issuer": "Fund Management",
+    "status": "Issued",
+    "issuedAt": "2026-06-13T11:00:00Z",
+    "route": "/digital-tokens/industry/venture-capital",
+    "useCase": "Capital call",
+    "visibility": "Financial Sector",
+    "isFinancialSectorInvestable": true,
+    "investmentAudience": "Institutional investors and regulated funds",
+    "signatureChain": [
+      {
+        "step": "Capital call issued",
+        "signer": "Fund Management",
+        "signerType": "Fund Manager",
+        "role": "Issuer",
+        "signedAt": "2026-06-13T03:00:00Z",
+        "method": "QES",
+        "status": "Signed",
+        "verificationReference": "VC-OWN-003",
+        "did": "did:vc:fund"
+      }
+    ],
+    "ownershipHistory": [
+      {
+        "effectiveAt": "2026-06-13T11:00:00Z",
+        "holder": "Fund Manager",
+        "holderType": "Financial Sector",
+        "event": "Issued",
+        "ownershipShare": "100%",
+        "reference": "VC-OWN-003"
+      }
+    ]
+  },
+  {
+    "id": "ti-dev-001",
+    "familyId": "tf-development-finance",
+    "tokenName": "Project finance token",
+    "industry": "Development Finance",
+    "issuerType": "DFI",
+    "instrument": "Project finance",
+    "issuer": "Development Finance",
+    "status": "Issued",
+    "issuedAt": "2026-06-12T10:00:00Z",
+    "route": "/digital-tokens/industry/development-finance",
+    "useCase": "Project finance",
+    "visibility": "Financial Sector",
+    "isFinancialSectorInvestable": true,
+    "investmentAudience": "DFIs, banks, impact funds, and treasury desks",
+    "signatureChain": [
+      {
+        "step": "Project approved",
+        "signer": "Development Finance",
+        "signerType": "DFI",
+        "role": "Issuer",
+        "signedAt": "2026-06-12T02:00:00Z",
+        "method": "QES",
+        "status": "Signed",
+        "verificationReference": "DF-VC-001",
+        "did": "did:dfi:issuer"
+      }
+    ],
+    "ownershipHistory": [
+      {
+        "effectiveAt": "2026-06-12T10:00:00Z",
+        "holder": "Program Office",
+        "holderType": "Institution",
+        "event": "Allocated",
+        "ownershipShare": "100%",
+        "reference": "DF-OWN-001"
+      }
+    ]
+  },
+  {
+    "id": "ti-dev-002",
+    "familyId": "tf-development-finance",
+    "tokenName": "Grant token",
+    "industry": "Development Finance",
+    "instrument": "Grant allocation",
+    "issuer": "Grants",
+    "status": "Issued",
+    "issuedAt": "2026-06-12T11:00:00Z",
+    "route": "/digital-tokens/industry/development-finance",
+    "useCase": "Grant funding"
+  },
+  {
+    "id": "ti-sc-001",
+    "familyId": "tf-supply-chain",
+    "tokenName": "Shipment token",
+    "industry": "Supply Chain",
+    "instrument": "Shipment traceability",
+    "issuer": "Logistics Operations",
+    "status": "Issued",
+    "issuedAt": "2026-06-12T12:00:00Z",
+    "route": "/digital-tokens/industry/supply-chain",
+    "useCase": "Track goods in transit"
+  },
+  {
+    "id": "ti-sc-002",
+    "familyId": "tf-supply-chain",
+    "tokenName": "Warehouse receipt token",
+    "industry": "Supply Chain",
+    "instrument": "Warehouse inventory proof",
+    "issuer": "Warehouse Network",
+    "status": "Pending",
+    "issuedAt": "2026-06-12T13:00:00Z",
+    "route": "/digital-tokens/industry/supply-chain",
+    "useCase": "Inventory and collateral tracking"
+  },
+  {
+    "id": "ti-pow-001",
+    "familyId": "tf-proof-of-work",
+    "tokenName": "Validation token",
+    "industry": "Proof of Work",
+    "instrument": "Hash validation",
+    "issuer": "Mining Pool",
+    "status": "Issued",
+    "issuedAt": "2026-06-12T14:00:00Z",
+    "route": "/digital-tokens/industry/proof-of-work",
+    "useCase": "Mining reward validation"
+  },
+  {
+    "id": "ti-pow-002",
+    "familyId": "tf-proof-of-work",
+    "tokenName": "Mining reward token",
+    "industry": "Proof of Work",
+    "instrument": "Reward settlement",
+    "issuer": "Protocol Treasury",
+    "status": "Issued",
+    "issuedAt": "2026-06-12T15:00:00Z",
+    "route": "/digital-tokens/industry/proof-of-work",
+    "useCase": "Proof settlement"
+  },
+  {
+    "id": "ti-min-001",
+    "familyId": "tf-minerals",
+    "tokenName": "Mine title token",
+    "industry": "Minerals",
+    "instrument": "Title registry",
+    "issuer": "Mining Registry",
+    "status": "Issued",
+    "issuedAt": "2026-06-12T16:00:00Z",
+    "route": "/digital-tokens/industry/minerals",
+    "useCase": "Mine ownership confirmation"
+  },
+  {
+    "id": "ti-min-002",
+    "familyId": "tf-minerals",
+    "tokenName": "Royalty token",
+    "industry": "Minerals",
+    "instrument": "Royalty entitlement",
+    "issuer": "Mineral Revenue Office",
+    "status": "Pending",
+    "issuedAt": "2026-06-12T17:00:00Z",
+    "route": "/digital-tokens/industry/minerals",
+    "useCase": "Royalty collection"
+  },
+  {
+    "id": "ti-emp-001",
+    "familyId": "tf-empowerment",
+    "tokenName": "Eligibility token",
+    "industry": "Citizen Empowerment",
+    "instrument": "Eligibility proof",
+    "issuer": "Citizen Empowerment",
+    "status": "Issued",
+    "issuedAt": "2026-06-11T10:00:00Z",
+    "route": "/empowerment-agency/empowerment-funds",
+    "useCase": "Fund eligibility"
+  },
+  {
+    "id": "ti-mob-001",
+    "familyId": "tf-mobile-money",
+    "tokenName": "Wallet token",
+    "industry": "Mobile Money and Payments",
+    "issuerType": "Mobile Money Operator",
+    "instrument": "Wallet entitlement",
+    "issuer": "Wallet Ops",
+    "status": "Issued",
+    "issuedAt": "2026-06-11T11:00:00Z",
+    "route": "/digital-tokens/industry/mobile-money",
+    "useCase": "Wallet activation",
+    "visibility": "Financial Sector",
+    "isFinancialSectorInvestable": false,
+    "investmentAudience": "Mobile money operators and payment institutions",
+    "signatureChain": [
+      {
+        "step": "Wallet created",
+        "signer": "Wallet Ops",
+        "signerType": "Mobile Money Operator",
+        "role": "Issuer",
+        "signedAt": "2026-06-11T02:00:00Z",
+        "method": "Digital signature",
+        "status": "Signed",
+        "verificationReference": "MM-VC-001",
+        "did": "did:mm:ops"
+      }
+    ],
+    "ownershipHistory": [
+      {
+        "effectiveAt": "2026-06-11T11:00:00Z",
+        "holder": "Customer",
+        "holderType": "Individual",
+        "event": "Created",
+        "ownershipShare": "100%",
+        "reference": "MM-OWN-001"
+      }
+    ]
+  }
+]

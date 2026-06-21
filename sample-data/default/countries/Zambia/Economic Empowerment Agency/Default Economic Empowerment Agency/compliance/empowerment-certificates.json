@@ -1,0 +1,12 @@
+[
+  {
+    "CertificateId": "f3f3f3f3-f3f3-f3f3-f3f3-f3f3f3f3f302",
+    "ApplicationId": "f3f3f3f3-f3f3-f3f3-f3f3-f3f3f3f3f301",
+    "CertificateNumber": "CERT-2026-0001",
+    "BusinessName": "Mwamba Agro Inputs",
+    "Score": 78,
+    "Status": "Issued",
+    "IssuedAt": "2026-06-20T00:00:00Z",
+    "CreatedAt": "2026-06-20T00:00:00Z"
+  }
+]

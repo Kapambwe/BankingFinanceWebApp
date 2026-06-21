@@ -1,0 +1,5 @@
+[
+  {"billId":"AFC-BILL-001","customerId":"afc-c003-3456-7890-cdef-123456789012","amount":15500000.00,"currency":"USD","dueDate":"2026-03-31T00:00:00Z","status":"Pending","description":"Project Finance Interest - Port Construction Q1","issuedDate":"2026-01-01T00:00:00Z"},
+  {"billId":"AFC-BILL-002","customerId":"afc-c005-5678-9012-efab-345678901234","amount":8750000.00,"currency":"USD","dueDate":"2026-06-30T00:00:00Z","status":"Pending","description":"Hydropower Loan Interest H1 2026","issuedDate":"2026-01-15T00:00:00Z"},
+  {"billId":"AFC-BILL-003","customerId":"afc-c001-1234-5678-abcd-ef1234567890","amount":6200000.00,"currency":"USD","dueDate":"2026-04-15T00:00:00Z","status":"Pending","description":"Infrastructure Loan Service Payment","issuedDate":"2026-01-20T00:00:00Z"}
+]

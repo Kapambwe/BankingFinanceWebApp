@@ -1,0 +1,26 @@
+[
+  {
+    "EntryId": "d81bda6c-8f17-49d3-8b5e-500d3e1e0001",
+    "RegistryName": "Zambia VC Trust Registry",
+    "EntityName": "Zambia National Development Bank",
+    "EntityDid": "did:zm:finance:zn-db",
+    "Role": 2,
+    "CredentialFamily": 0,
+    "CountryIsoCode": "ZM",
+    "AccreditationStatus": "Active",
+    "EffectiveFromUtc": "2025-06-01T00:00:00Z",
+    "EffectiveToUtc": null
+  },
+  {
+    "EntryId": "d81bda6c-8f17-49d3-8b5e-500d3e1e0002",
+    "RegistryName": "Zambia VC Trust Registry",
+    "EntityName": "National Insurance Authority",
+    "EntityDid": "did:zm:gov:nia",
+    "Role": 1,
+    "CredentialFamily": 1,
+    "CountryIsoCode": "ZM",
+    "AccreditationStatus": "Active",
+    "EffectiveFromUtc": "2025-08-01T00:00:00Z",
+    "EffectiveToUtc": null
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "benefitId": "bn100000-0001-0000-0000-0000000001001",
+    "employeeId": "e1000000-0001-0000-0000-0000000001001",
+    "employeeName": "Chanda Mutale",
+    "benefitType": "MedicalAid",
+    "provider": "Madison Life Insurance",
+    "contributionEmployee": 1862,
+    "contributionEmployer": 3725,
+    "currency": "ZMW",
+    "effectiveDate": "2025-01-01",
+    "isActive": true,
+    "createdAt": "2025-01-01T00:00:00Z"
+  },
+  {
+    "benefitId": "bn100000-0002-0000-0000-0000000001002",
+    "employeeId": "e1000000-0002-0000-0000-0000000001002",
+    "employeeName": "Mutale Mwansa",
+    "benefitType": "Pension",
+    "provider": "Unitrust Insurance",
+    "contributionEmployee": 2093,
+    "contributionEmployer": 4187,
+    "currency": "ZMW",
+    "effectiveDate": "2025-01-01",
+    "isActive": true,
+    "createdAt": "2025-01-01T00:00:00Z"
+  },
+  {
+    "benefitId": "bn100000-0003-0000-0000-0000000001003",
+    "employeeId": "e1000000-0003-0000-0000-0000000001003",
+    "employeeName": "Mwamba Mulenga",
+    "benefitType": "LifeInsurance",
+    "provider": "Zambia State Insurance Corporation",
+    "contributionEmployee": 2324,
+    "contributionEmployer": 4649,
+    "currency": "ZMW",
+    "effectiveDate": "2025-01-01",
+    "isActive": true,
+    "createdAt": "2025-01-01T00:00:00Z"
+  },
+  {
+    "benefitId": "bn100000-0004-0000-0000-0000000001004",
+    "employeeId": "e1000000-0004-0000-0000-0000000001004",
+    "employeeName": "Mwansa Musonda",
+    "benefitType": "HousingAllowance",
+    "provider": "NAPSA",
+    "contributionEmployee": 2555,
+    "contributionEmployer": 5111,
+    "currency": "ZMW",
+    "effectiveDate": "2025-01-01",
+    "isActive": true,
+    "createdAt": "2025-01-01T00:00:00Z"
+  },
+  {
+    "benefitId": "bn100000-0005-0000-0000-0000000001005",
+    "employeeId": "e1000000-0005-0000-0000-0000000001005",
+    "employeeName": "Chileshe Nkosi",
+    "benefitType": "TransportAllowance",
+    "provider": "Life Assurance Co",
+    "contributionEmployee": 2786,
+    "contributionEmployer": 5573,
+    "currency": "ZMW",
+    "effectiveDate": "2025-01-01",
+    "isActive": true,
+    "createdAt": "2025-01-01T00:00:00Z"
+  }
+]

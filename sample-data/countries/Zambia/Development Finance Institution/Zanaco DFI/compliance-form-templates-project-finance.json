@@ -1,0 +1,64 @@
+[
+  {
+    "id": "form-project-finance-application",
+    "code": "FORM-PROJECT-FINANCE-APPLICATION",
+    "name": "Project Finance Application",
+    "purpose": "Captures sponsor, project and financing details for large-scale project finance review.",
+    "owner": "Project Finance",
+    "status": "Active",
+    "lifecycle": "Production-ready",
+    "lastUpdated": "2026-06-19T14:30:00Z",
+    "usedFor": [ "Project finance", "Infrastructure finance" ],
+    "sections": [
+      {
+        "title": "Sponsor Details",
+        "description": "Capture sponsor and lead entity information.",
+        "fields": [
+          { "key": "sponsorName", "label": "Sponsor name", "type": "Text", "required": true },
+          { "key": "projectCompany", "label": "Project company", "type": "Text", "required": true },
+          { "key": "contactPerson", "label": "Contact person", "type": "Text", "required": true }
+        ]
+      },
+      {
+        "title": "Project & Funding",
+        "description": "Capture scope, funding request and evidence pack.",
+        "fields": [
+          { "key": "projectTitle", "label": "Project title", "type": "Text", "required": true },
+          { "key": "fundingRequested", "label": "Funding requested", "type": "Number", "required": true },
+          { "key": "projectInformationMemorandum", "label": "Project information memorandum", "type": "File", "required": true }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "form-milestone-drawdown",
+    "code": "FORM-MILESTONE-DRAWDOWN",
+    "name": "Milestone Drawdown Request",
+    "purpose": "Captures tranche release requests against milestone achievement evidence.",
+    "owner": "Project Finance",
+    "status": "Active",
+    "lifecycle": "Production-ready",
+    "lastUpdated": "2026-06-19T14:45:00Z",
+    "usedFor": [ "Milestone drawdown", "Project tranche release" ],
+    "sections": [
+      {
+        "title": "Facility Reference",
+        "description": "Capture the approved project facility and tranche details.",
+        "fields": [
+          { "key": "facilityReference", "label": "Facility reference", "type": "Text", "required": true },
+          { "key": "trancheNumber", "label": "Tranche number", "type": "Number", "required": true },
+          { "key": "requestDate", "label": "Request date", "type": "Date", "required": true }
+        ]
+      },
+      {
+        "title": "Milestone Evidence",
+        "description": "Capture evidence that the milestone has been achieved.",
+        "fields": [
+          { "key": "milestoneDescription", "label": "Milestone description", "type": "Multiline", "required": true },
+          { "key": "evidencePack", "label": "Evidence pack", "type": "File", "required": true },
+          { "key": "amountRequested", "label": "Amount requested", "type": "Number", "required": true }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,677 @@
+[
+  {
+    "journalEntryId": "JE-AIR-00001",
+    "entryDate": "2025-08-10T05:13:44Z",
+    "description": "Settlement \u2014 Airtel Nigeria period reconciliation",
+    "reference": "REF-AIR-785970",
+    "status": "Posted",
+    "entryType": "Settlement",
+    "currency": "NGN",
+    "totalDebits": 3867365.69,
+    "totalCredits": 3867365.69,
+    "createdBy": "AccountingBot",
+    "postedBy": "Finance Officer 3",
+    "lines": [
+      {
+        "accountCode": "4702",
+        "accountName": "Settlement Account",
+        "debit": 3867365.69,
+        "credit": 0.0
+      },
+      {
+        "accountCode": "3905",
+        "accountName": "Settlement/Clearing Account",
+        "debit": 0.0,
+        "credit": 3867365.69
+      }
+    ]
+  },
+  {
+    "journalEntryId": "JE-AIR-00002",
+    "entryDate": "2026-06-20T10:46:28Z",
+    "description": "Revenue \u2014 Airtel Nigeria period reconciliation",
+    "reference": "REF-AIR-509992",
+    "status": "Posted",
+    "entryType": "Revenue",
+    "currency": "NGN",
+    "totalDebits": 4967896.43,
+    "totalCredits": 4967896.43,
+    "createdBy": "AccountingBot",
+    "postedBy": "Finance Officer 3",
+    "lines": [
+      {
+        "accountCode": "3043",
+        "accountName": "Revenue Account",
+        "debit": 4967896.43,
+        "credit": 0.0
+      },
+      {
+        "accountCode": "3792",
+        "accountName": "Settlement/Clearing Account",
+        "debit": 0.0,
+        "credit": 4967896.43
+      }
+    ]
+  },
+  {
+    "journalEntryId": "JE-AIR-00003",
+    "entryDate": "2025-06-12T13:35:48Z",
+    "description": "Adjustment \u2014 Airtel Nigeria period reconciliation",
+    "reference": "REF-AIR-740914",
+    "status": "Pending",
+    "entryType": "Adjustment",
+    "currency": "NGN",
+    "totalDebits": 2919708.43,
+    "totalCredits": 2919708.43,
+    "createdBy": "AccountingBot",
+    "postedBy": "Finance Officer 3",
+    "lines": [
+      {
+        "accountCode": "5650",
+        "accountName": "Adjustment Account",
+        "debit": 2919708.43,
+        "credit": 0.0
+      },
+      {
+        "accountCode": "1443",
+        "accountName": "Settlement/Clearing Account",
+        "debit": 0.0,
+        "credit": 2919708.43
+      }
+    ]
+  },
+  {
+    "journalEntryId": "JE-AIR-00004",
+    "entryDate": "2026-07-01T20:18:30Z",
+    "description": "Adjustment \u2014 Airtel Nigeria period reconciliation",
+    "reference": "REF-AIR-920842",
+    "status": "Pending",
+    "entryType": "Adjustment",
+    "currency": "NGN",
+    "totalDebits": 2337203.14,
+    "totalCredits": 2337203.14,
+    "createdBy": "AccountingBot",
+    "postedBy": "Finance Officer 4",
+    "lines": [
+      {
+        "accountCode": "3980",
+        "accountName": "Adjustment Account",
+        "debit": 2337203.14,
+        "credit": 0.0
+      },
+      {
+        "accountCode": "5147",
+        "accountName": "Settlement/Clearing Account",
+        "debit": 0.0,
+        "credit": 2337203.14
+      }
+    ]
+  },
+  {
+    "journalEntryId": "JE-AIR-00005",
+    "entryDate": "2026-01-30T02:18:26Z",
+    "description": "Accrual \u2014 Airtel Nigeria period reconciliation",
+    "reference": "REF-AIR-893067",
+    "status": "Posted",
+    "entryType": "Accrual",
+    "currency": "NGN",
+    "totalDebits": 4282606.59,
+    "totalCredits": 4282606.59,
+    "createdBy": "AccountingBot",
+    "postedBy": "Finance Officer 4",
+    "lines": [
+      {
+        "accountCode": "3702",
+        "accountName": "Accrual Account",
+        "debit": 4282606.59,
+        "credit": 0.0
+      },
+      {
+        "accountCode": "4413",
+        "accountName": "Settlement/Clearing Account",
+        "debit": 0.0,
+        "credit": 4282606.59
+      }
+    ]
+  },
+  {
+    "journalEntryId": "JE-AIR-00006",
+    "entryDate": "2026-03-05T21:04:58Z",
+    "description": "Commission \u2014 Airtel Nigeria period reconciliation",
+    "reference": "REF-AIR-175542",
+    "status": "Draft",
+    "entryType": "Commission",
+    "currency": "NGN",
+    "totalDebits": 3346666.11,
+    "totalCredits": 3346666.11,
+    "createdBy": "AccountingBot",
+    "postedBy": "Finance Officer 4",
+    "lines": [
+      {
+        "accountCode": "5311",
+        "accountName": "Commission Account",
+        "debit": 3346666.11,
+        "credit": 0.0
+      },
+      {
+        "accountCode": "3534",
+        "accountName": "Settlement/Clearing Account",
+        "debit": 0.0,
+        "credit": 3346666.11
+      }
+    ]
+  },
+  {
+    "journalEntryId": "JE-AIR-00007",
+    "entryDate": "2025-08-27T03:07:19Z",
+    "description": "Expense \u2014 Airtel Nigeria period reconciliation",
+    "reference": "REF-AIR-810085",
+    "status": "Posted",
+    "entryType": "Expense",
+    "currency": "NGN",
+    "totalDebits": 4980187.6,
+    "totalCredits": 4980187.6,
+    "createdBy": "AccountingBot",
+    "postedBy": "Finance Officer 4",
+    "lines": [
+      {
+        "accountCode": "2724",
+        "accountName": "Expense Account",
+        "debit": 4980187.6,
+        "credit": 0.0
+      },
+      {
+        "accountCode": "1465",
+        "accountName": "Settlement/Clearing Account",
+        "debit": 0.0,
+        "credit": 4980187.6
+      }
+    ]
+  },
+  {
+    "journalEntryId": "JE-AIR-00008",
+    "entryDate": "2026-06-05T08:17:16Z",
+    "description": "Tax \u2014 Airtel Nigeria period reconciliation",
+    "reference": "REF-AIR-202615",
+    "status": "Draft",
+    "entryType": "Tax",
+    "currency": "NGN",
+    "totalDebits": 4980589.54,
+    "totalCredits": 4980589.54,
+    "createdBy": "AccountingBot",
+    "postedBy": "Finance Officer 4",
+    "lines": [
+      {
+        "accountCode": "4177",
+        "accountName": "Tax Account",
+        "debit": 4980589.54,
+        "credit": 0.0
+      },
+      {
+        "accountCode": "1769",
+        "accountName": "Settlement/Clearing Account",
+        "debit": 0.0,
+        "credit": 4980589.54
+      }
+    ]
+  },
+  {
+    "journalEntryId": "JE-AIR-00009",
+    "entryDate": "2026-05-10T15:12:11Z",
+    "description": "Tax \u2014 Airtel Nigeria period reconciliation",
+    "reference": "REF-AIR-302695",
+    "status": "Posted",
+    "entryType": "Tax",
+    "currency": "NGN",
+    "totalDebits": 4406799.06,
+    "totalCredits": 4406799.06,
+    "createdBy": "AccountingBot",
+    "postedBy": "Finance Officer 1",
+    "lines": [
+      {
+        "accountCode": "1021",
+        "accountName": "Tax Account",
+        "debit": 4406799.06,
+        "credit": 0.0
+      },
+      {
+        "accountCode": "5029",
+        "accountName": "Settlement/Clearing Account",
+        "debit": 0.0,
+        "credit": 4406799.06
+      }
+    ]
+  },
+  {
+    "journalEntryId": "JE-AIR-00010",
+    "entryDate": "2025-10-29T07:03:30Z",
+    "description": "Expense \u2014 Airtel Nigeria period reconciliation",
+    "reference": "REF-AIR-712230",
+    "status": "Posted",
+    "entryType": "Expense",
+    "currency": "NGN",
+    "totalDebits": 2563912.28,
+    "totalCredits": 2563912.28,
+    "createdBy": "AccountingBot",
+    "postedBy": "Finance Officer 2",
+    "lines": [
+      {
+        "accountCode": "2562",
+        "accountName": "Expense Account",
+        "debit": 2563912.28,
+        "credit": 0.0
+      },
+      {
+        "accountCode": "2616",
+        "accountName": "Settlement/Clearing Account",
+        "debit": 0.0,
+        "credit": 2563912.28
+      }
+    ]
+  },
+  {
+    "journalEntryId": "JE-AIR-00011",
+    "entryDate": "2025-09-07T18:04:03Z",
+    "description": "Adjustment \u2014 Airtel Nigeria period reconciliation",
+    "reference": "REF-AIR-396244",
+    "status": "Posted",
+    "entryType": "Adjustment",
+    "currency": "NGN",
+    "totalDebits": 3591707.94,
+    "totalCredits": 3591707.94,
+    "createdBy": "AccountingBot",
+    "postedBy": "Finance Officer 2",
+    "lines": [
+      {
+        "accountCode": "2549",
+        "accountName": "Adjustment Account",
+        "debit": 3591707.94,
+        "credit": 0.0
+      },
+      {
+        "accountCode": "4348",
+        "accountName": "Settlement/Clearing Account",
+        "debit": 0.0,
+        "credit": 3591707.94
+      }
+    ]
+  },
+  {
+    "journalEntryId": "JE-AIR-00012",
+    "entryDate": "2025-09-22T03:19:07Z",
+    "description": "Adjustment \u2014 Airtel Nigeria period reconciliation",
+    "reference": "REF-AIR-236205",
+    "status": "Pending",
+    "entryType": "Adjustment",
+    "currency": "NGN",
+    "totalDebits": 2929132.14,
+    "totalCredits": 2929132.14,
+    "createdBy": "AccountingBot",
+    "postedBy": "Finance Officer 3",
+    "lines": [
+      {
+        "accountCode": "1354",
+        "accountName": "Adjustment Account",
+        "debit": 2929132.14,
+        "credit": 0.0
+      },
+      {
+        "accountCode": "2534",
+        "accountName": "Settlement/Clearing Account",
+        "debit": 0.0,
+        "credit": 2929132.14
+      }
+    ]
+  },
+  {
+    "journalEntryId": "JE-AIR-00013",
+    "entryDate": "2025-04-18T09:03:59Z",
+    "description": "Commission \u2014 Airtel Nigeria period reconciliation",
+    "reference": "REF-AIR-961259",
+    "status": "Draft",
+    "entryType": "Commission",
+    "currency": "NGN",
+    "totalDebits": 1159831.18,
+    "totalCredits": 1159831.18,
+    "createdBy": "AccountingBot",
+    "postedBy": "Finance Officer 3",
+    "lines": [
+      {
+        "accountCode": "2602",
+        "accountName": "Commission Account",
+        "debit": 1159831.18,
+        "credit": 0.0
+      },
+      {
+        "accountCode": "2299",
+        "accountName": "Settlement/Clearing Account",
+        "debit": 0.0,
+        "credit": 1159831.18
+      }
+    ]
+  },
+  {
+    "journalEntryId": "JE-AIR-00014",
+    "entryDate": "2026-06-24T07:43:45Z",
+    "description": "Settlement \u2014 Airtel Nigeria period reconciliation",
+    "reference": "REF-AIR-803564",
+    "status": "Posted",
+    "entryType": "Settlement",
+    "currency": "NGN",
+    "totalDebits": 2320073.73,
+    "totalCredits": 2320073.73,
+    "createdBy": "AccountingBot",
+    "postedBy": "Finance Officer 1",
+    "lines": [
+      {
+        "accountCode": "3332",
+        "accountName": "Settlement Account",
+        "debit": 2320073.73,
+        "credit": 0.0
+      },
+      {
+        "accountCode": "4690",
+        "accountName": "Settlement/Clearing Account",
+        "debit": 0.0,
+        "credit": 2320073.73
+      }
+    ]
+  },
+  {
+    "journalEntryId": "JE-AIR-00015",
+    "entryDate": "2026-06-20T22:00:32Z",
+    "description": "Adjustment \u2014 Airtel Nigeria period reconciliation",
+    "reference": "REF-AIR-156235",
+    "status": "Posted",
+    "entryType": "Adjustment",
+    "currency": "NGN",
+    "totalDebits": 821582.09,
+    "totalCredits": 821582.09,
+    "createdBy": "AccountingBot",
+    "postedBy": "Finance Officer 2",
+    "lines": [
+      {
+        "accountCode": "2048",
+        "accountName": "Adjustment Account",
+        "debit": 821582.09,
+        "credit": 0.0
+      },
+      {
+        "accountCode": "3012",
+        "accountName": "Settlement/Clearing Account",
+        "debit": 0.0,
+        "credit": 821582.09
+      }
+    ]
+  },
+  {
+    "journalEntryId": "JE-AIR-00016",
+    "entryDate": "2025-09-26T02:00:54Z",
+    "description": "Expense \u2014 Airtel Nigeria period 16",
+    "reference": "REF-AIR-121523",
+    "status": "Draft",
+    "entryType": "Expense",
+    "currency": "NGN",
+    "totalDebits": 3966329.75,
+    "totalCredits": 3966329.75,
+    "createdBy": "AccountingBot",
+    "postedBy": "Finance Officer 2",
+    "lines": [
+      {
+        "accountCode": "1342",
+        "accountName": "Expense Account",
+        "debit": 3966329.75,
+        "credit": 0.0
+      },
+      {
+        "accountCode": "2485",
+        "accountName": "Settlement/Clearing Account",
+        "debit": 0.0,
+        "credit": 3966329.75
+      }
+    ]
+  },
+  {
+    "journalEntryId": "JE-AIR-00017",
+    "entryDate": "2024-06-11T19:13:49Z",
+    "description": "Settlement \u2014 Airtel Nigeria period 17",
+    "reference": "REF-AIR-317392",
+    "status": "Posted",
+    "entryType": "Settlement",
+    "currency": "NGN",
+    "totalDebits": 2254072.87,
+    "totalCredits": 2254072.87,
+    "createdBy": "AccountingBot",
+    "postedBy": "Finance Officer 7",
+    "lines": [
+      {
+        "accountCode": "5743",
+        "accountName": "Settlement Account",
+        "debit": 2254072.87,
+        "credit": 0.0
+      },
+      {
+        "accountCode": "1633",
+        "accountName": "Settlement/Clearing Account",
+        "debit": 0.0,
+        "credit": 2254072.87
+      }
+    ]
+  },
+  {
+    "journalEntryId": "JE-AIR-00018",
+    "entryDate": "2025-02-28T00:25:44Z",
+    "description": "Accrual \u2014 Airtel Nigeria period 18",
+    "reference": "REF-AIR-854852",
+    "status": "Posted",
+    "entryType": "Accrual",
+    "currency": "NGN",
+    "totalDebits": 5223413.16,
+    "totalCredits": 5223413.16,
+    "createdBy": "AccountingBot",
+    "postedBy": "Finance Officer 7",
+    "lines": [
+      {
+        "accountCode": "5783",
+        "accountName": "Accrual Account",
+        "debit": 5223413.16,
+        "credit": 0.0
+      },
+      {
+        "accountCode": "4624",
+        "accountName": "Settlement/Clearing Account",
+        "debit": 0.0,
+        "credit": 5223413.16
+      }
+    ]
+  },
+  {
+    "journalEntryId": "JE-AIR-00019",
+    "entryDate": "2024-05-25T05:58:47Z",
+    "description": "Adjustment \u2014 Airtel Nigeria period 19",
+    "reference": "REF-AIR-942828",
+    "status": "Pending",
+    "entryType": "Adjustment",
+    "currency": "NGN",
+    "totalDebits": 2032004.75,
+    "totalCredits": 2032004.75,
+    "createdBy": "AccountingBot",
+    "postedBy": "Finance Officer 8",
+    "lines": [
+      {
+        "accountCode": "3722",
+        "accountName": "Adjustment Account",
+        "debit": 2032004.75,
+        "credit": 0.0
+      },
+      {
+        "accountCode": "4172",
+        "accountName": "Settlement/Clearing Account",
+        "debit": 0.0,
+        "credit": 2032004.75
+      }
+    ]
+  },
+  {
+    "journalEntryId": "JE-AIR-00020",
+    "entryDate": "2025-06-26T12:57:23Z",
+    "description": "Tax \u2014 Airtel Nigeria period 20",
+    "reference": "REF-AIR-523869",
+    "status": "Pending",
+    "entryType": "Tax",
+    "currency": "NGN",
+    "totalDebits": 5410852.6,
+    "totalCredits": 5410852.6,
+    "createdBy": "AccountingBot",
+    "postedBy": "Finance Officer 3",
+    "lines": [
+      {
+        "accountCode": "2853",
+        "accountName": "Tax Account",
+        "debit": 5410852.6,
+        "credit": 0.0
+      },
+      {
+        "accountCode": "3002",
+        "accountName": "Settlement/Clearing Account",
+        "debit": 0.0,
+        "credit": 5410852.6
+      }
+    ]
+  },
+  {
+    "journalEntryId": "JE-AIR-00021",
+    "entryDate": "2025-04-28T04:53:19Z",
+    "description": "Commission \u2014 Airtel Nigeria period 21",
+    "reference": "REF-AIR-641523",
+    "status": "Posted",
+    "entryType": "Commission",
+    "currency": "NGN",
+    "totalDebits": 4087119.18,
+    "totalCredits": 4087119.18,
+    "createdBy": "AccountingBot",
+    "postedBy": "Finance Officer 2",
+    "lines": [
+      {
+        "accountCode": "1120",
+        "accountName": "Commission Account",
+        "debit": 4087119.18,
+        "credit": 0.0
+      },
+      {
+        "accountCode": "4590",
+        "accountName": "Settlement/Clearing Account",
+        "debit": 0.0,
+        "credit": 4087119.18
+      }
+    ]
+  },
+  {
+    "journalEntryId": "JE-AIR-00022",
+    "entryDate": "2024-10-03T02:11:43Z",
+    "description": "Depreciation \u2014 Airtel Nigeria period 22",
+    "reference": "REF-AIR-556731",
+    "status": "Pending",
+    "entryType": "Depreciation",
+    "currency": "NGN",
+    "totalDebits": 121346.8,
+    "totalCredits": 121346.8,
+    "createdBy": "AccountingBot",
+    "postedBy": "Finance Officer 7",
+    "lines": [
+      {
+        "accountCode": "4636",
+        "accountName": "Depreciation Account",
+        "debit": 121346.8,
+        "credit": 0.0
+      },
+      {
+        "accountCode": "2569",
+        "accountName": "Settlement/Clearing Account",
+        "debit": 0.0,
+        "credit": 121346.8
+      }
+    ]
+  },
+  {
+    "journalEntryId": "JE-AIR-00023",
+    "entryDate": "2024-09-05T06:41:50Z",
+    "description": "Provision \u2014 Airtel Nigeria period 23",
+    "reference": "REF-AIR-172076",
+    "status": "Posted",
+    "entryType": "Provision",
+    "currency": "NGN",
+    "totalDebits": 6569814.21,
+    "totalCredits": 6569814.21,
+    "createdBy": "AccountingBot",
+    "postedBy": "Finance Officer 6",
+    "lines": [
+      {
+        "accountCode": "3274",
+        "accountName": "Provision Account",
+        "debit": 6569814.21,
+        "credit": 0.0
+      },
+      {
+        "accountCode": "4647",
+        "accountName": "Settlement/Clearing Account",
+        "debit": 0.0,
+        "credit": 6569814.21
+      }
+    ]
+  },
+  {
+    "journalEntryId": "JE-AIR-00024",
+    "entryDate": "2025-01-19T10:28:21Z",
+    "description": "Revaluation \u2014 Airtel Nigeria period 24",
+    "reference": "REF-AIR-487815",
+    "status": "Draft",
+    "entryType": "Revaluation",
+    "currency": "NGN",
+    "totalDebits": 6464643.64,
+    "totalCredits": 6464643.64,
+    "createdBy": "AccountingBot",
+    "postedBy": "Finance Officer 2",
+    "lines": [
+      {
+        "accountCode": "4821",
+        "accountName": "Revaluation Account",
+        "debit": 6464643.64,
+        "credit": 0.0
+      },
+      {
+        "accountCode": "5893",
+        "accountName": "Settlement/Clearing Account",
+        "debit": 0.0,
+        "credit": 6464643.64
+      }
+    ]
+  },
+  {
+    "journalEntryId": "JE-AIR-00025",
+    "entryDate": "2024-06-27T16:06:02Z",
+    "description": "Intercompany \u2014 Airtel Nigeria period 25",
+    "reference": "REF-AIR-212156",
+    "status": "Pending",
+    "entryType": "Intercompany",
+    "currency": "NGN",
+    "totalDebits": 3390951.96,
+    "totalCredits": 3390951.96,
+    "createdBy": "AccountingBot",
+    "postedBy": "Finance Officer 1",
+    "lines": [
+      {
+        "accountCode": "2802",
+        "accountName": "Intercompany Account",
+        "debit": 3390951.96,
+        "credit": 0.0
+      },
+      {
+        "accountCode": "5766",
+        "accountName": "Settlement/Clearing Account",
+        "debit": 0.0,
+        "credit": 3390951.96
+      }
+    ]
+  }
+]

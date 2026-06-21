@@ -1,0 +1,76 @@
+{
+  "institutionType": "Microfinance Institution",
+  "country": "Default",
+  "description": "Default role-to-permission mapping for microfinance institution tenants.",
+  "version": "1.0.0",
+  "roles": [
+    {
+      "role": "MicrofinanceInstitutionAdmin",
+      "permissions": [
+        "Banking.Microfinance.View",
+        "Banking.Microfinance.Dashboard",
+        "Banking.Microfinance.GroupLending.View",
+        "Banking.Microfinance.Savings.View",
+        "Banking.Microfinance.FieldOfficers.View",
+        "Banking.Microfinance.FinancialLiteracy.View",
+        "Banking.Microfinance.IndividualLoans.View",
+        "Banking.Microfinance.SocialPerformance.View",
+        "Banking.Microfinance.MobileMoney.View",
+        "Banking.Microfinance.CreditScoring.View",
+        "Banking.Accounting.View",
+        "Banking.Accrual.ViewDashboard",
+        "Banking.CRM.ViewCustomers",
+        "Banking.CRM.ViewLeads",
+        "Banking.HR.View",
+        "Banking.Documents.View",
+        "Banking.Workflows.View"
+      ]
+    },
+    {
+      "role": "LoanOfficer",
+      "permissions": [
+        "Banking.Microfinance.GroupLending.View",
+        "Banking.Microfinance.IndividualLoans.View",
+        "Banking.Microfinance.IndividualLoans.Manage",
+        "Banking.KnowYourCustomer.View",
+        "Banking.KnowYourCustomer.Manage",
+        "Banking.Microfinance.CreditScoring.View",
+        "Banking.CRM.ViewCustomers",
+        "Banking.Documents.View",
+        "Banking.Workflows.View"
+      ]
+    },
+    {
+      "role": "RecoveryOfficer",
+      "permissions": [
+        "Banking.Loans.Collections.ViewActivities",
+        "Banking.Loans.Collections.ViewDashboard",
+        "Banking.Microfinance.MobileMoney.Reconcile",
+        "Banking.Microfinance.SocialPerformance.View",
+        "Banking.Accounting.View",
+        "Banking.CRM.ViewCustomers"
+      ]
+    },
+    {
+      "role": "FieldOfficer",
+      "permissions": [
+        "Banking.Microfinance.FieldOfficers.View",
+        "Banking.Microfinance.FieldOfficers.Manage",
+        "Banking.Microfinance.FinancialLiteracy.View",
+        "Banking.KnowYourCustomer.Create",
+        "Banking.CRM.ViewCustomers",
+        "Banking.Documents.View"
+      ]
+    },
+    {
+      "role": "ComplianceOfficer",
+      "permissions": [
+        "Banking.Regulatory.ViewReports",
+        "Banking.Risk.ViewDashboard",
+        "Banking.KnowYourCustomer.Approve",
+        "Banking.KnowYourCustomer.Reject",
+        "Banking.Documents.View"
+      ]
+    }
+  ]
+}

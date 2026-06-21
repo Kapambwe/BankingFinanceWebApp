@@ -1,0 +1,5 @@
+[
+  {"billId":"EBID-BILL-001","customerId":"eb-c001-1234-5678-abcd-ef1234567890","amount":2125000000.00,"currency":"XOF","dueDate":"2026-03-31T00:00:00Z","status":"Pending","description":"Sovereign Loan Interest Q1 2026","issuedDate":"2026-01-01T00:00:00Z"},
+  {"billId":"EBID-BILL-002","customerId":"eb-c002-2345-6789-bcde-f12345678901","amount":1125000000.00,"currency":"XOF","dueDate":"2026-06-30T00:00:00Z","status":"Pending","description":"Agricultural Project Loan Interest","issuedDate":"2026-01-15T00:00:00Z"},
+  {"billId":"EBID-BILL-003","customerId":"eb-c004-4567-8901-defa-234567890123","amount":450000000.00,"currency":"XOF","dueDate":"2026-04-15T00:00:00Z","status":"Pending","description":"Private Sector Loan Service","issuedDate":"2026-01-20T00:00:00Z"}
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "ruleId": 1,
+    "ruleName": "Bills NGN 32,000,000\u2013320,000,000 require Fund Manager approval",
+    "type": "Bill",
+    "minAmount": 32000000,
+    "maxAmount": 320000000,
+    "approverId": "manager@wealthmanage.co",
+    "approverName": "Fund Manager",
+    "level": 1,
+    "isActive": true,
+    "autoApproveBelow": false,
+    "notes": "Standard operational expenditure threshold"
+  },
+  {
+    "ruleId": 2,
+    "ruleName": "Bills above NGN 320,000,000 require Chief Investment Officer approval",
+    "type": "Bill",
+    "minAmount": 320000000,
+    "maxAmount": null,
+    "approverId": "cfo@wealthmanage.co",
+    "approverName": "Chief Investment Officer",
+    "level": 2,
+    "isActive": true,
+    "autoApproveBelow": false,
+    "notes": "Capital expenditure and large operational bills"
+  },
+  {
+    "ruleId": 3,
+    "ruleName": "Bills above NGN 800,000,000 require Managing Director approval",
+    "type": "Bill",
+    "minAmount": 800000000,
+    "maxAmount": null,
+    "approverId": "ceo@wealthmanage.co",
+    "approverName": "Managing Director",
+    "level": 3,
+    "isActive": true,
+    "autoApproveBelow": false,
+    "notes": "Strategic vendor contracts and major capital expenditure"
+  },
+  {
+    "ruleId": 4,
+    "ruleName": "Journal entries above NGN 160,000,000 require Chief Investment Officer approval",
+    "type": "JournalEntry",
+    "minAmount": 160000000.0,
+    "maxAmount": null,
+    "approverId": "controller@wealthmanage.co",
+    "approverName": "Financial Controller",
+    "level": 1,
+    "isActive": true,
+    "autoApproveBelow": false,
+    "notes": "SOX control \u2014 manual journal entries above threshold"
+  },
+  {
+    "ruleId": 5,
+    "ruleName": "Payments below NGN 16,000,000 auto-approved",
+    "type": "Payment",
+    "minAmount": 0,
+    "maxAmount": 16000000,
+    "approverId": "system@wealthmanage.co",
+    "approverName": "System",
+    "level": 1,
+    "isActive": true,
+    "autoApproveBelow": true,
+    "notes": "Petty cash and minor operational payments"
+  },
+  {
+    "ruleId": 6,
+    "ruleName": "Budget changes above NGN 320,000,000 require Chief Investment Officer approval",
+    "type": "BudgetChange",
+    "minAmount": 320000000,
+    "maxAmount": null,
+    "approverId": "cfo@wealthmanage.co",
+    "approverName": "Chief Investment Officer",
+    "level": 2,
+    "isActive": true,
+    "autoApproveBelow": false,
+    "notes": "Budget revisions require justification memo"
+  }
+]

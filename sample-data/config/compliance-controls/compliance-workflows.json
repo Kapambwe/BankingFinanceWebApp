@@ -1,0 +1,402 @@
+[
+  {
+    "key": "account-opening-review",
+    "title": "Account Opening Review",
+    "description": "Standard approval workflow for new account opening applications.",
+    "route": "/regulatory/compliance-controls/application-review",
+    "enableAutoDecision": true,
+    "useCases": [ "AccountOpening" ],
+    "stages": [
+      {
+        "key": "intake",
+        "title": "Intake",
+        "description": "Verify submission completeness and required evidence.",
+        "order": 1
+      },
+      {
+        "key": "validation",
+        "title": "Cryptographic Validation",
+        "description": "Validate verifiable credential signatures and integrity.",
+        "order": 2
+      },
+      {
+        "key": "approval",
+        "title": "Approval",
+        "description": "Approve the application and dispatch the result to the wallet app.",
+        "order": 3
+      }
+    ],
+    "evidenceRequirements": [
+      {
+        "key": "id-doc",
+        "title": "Identity document",
+        "description": "Government-issued identity proof must be present.",
+        "evidenceType": "PdfDocument",
+        "required": true
+      },
+      {
+        "key": "address-proof",
+        "title": "Address verification",
+        "description": "Proof of residential or business address.",
+        "evidenceType": "PdfDocument",
+        "required": true
+      },
+      {
+        "key": "vc-proof",
+        "title": "Verifiable credential proof",
+        "description": "Cryptographic verification evidence from the wallet app.",
+        "evidenceType": "Credential",
+        "required": true
+      }
+    ]
+  },
+  {
+    "key": "kyc-refresh-review",
+    "title": "KYC Refresh Review",
+    "description": "Periodic refresh workflow for existing customers.",
+    "route": "/regulatory/compliance-controls/application-review",
+    "enableAutoDecision": false,
+    "useCases": [ "KycRefresh" ],
+    "stages": [
+      {
+        "key": "screening",
+        "title": "Screening",
+        "description": "Run sanctions and risk re-screening.",
+        "order": 1
+      },
+      {
+        "key": "validation",
+        "title": "Credential Validation",
+        "description": "Validate the supplied verifiable credential.",
+        "order": 2
+      },
+      {
+        "key": "review",
+        "title": "Reviewer Approval",
+        "description": "Reviewer signs off and sends update to wallet.",
+        "order": 3
+      }
+    ],
+    "evidenceRequirements": [
+      {
+        "key": "refresh-evidence",
+        "title": "Refresh evidence",
+        "description": "Current compliance refresh evidence and declarations.",
+        "evidenceType": "PdfDocument",
+        "required": true
+      },
+      {
+        "key": "vc-proof",
+        "title": "Verifiable credential proof",
+        "description": "Valid credential proof from the applicant wallet.",
+        "evidenceType": "Credential",
+        "required": true
+      }
+    ]
+  },
+  {
+    "key": "enhanced-due-diligence-review",
+    "title": "Enhanced Due Diligence Review",
+    "description": "Escalated review workflow for high-risk cases.",
+    "route": "/regulatory/compliance-controls/application-review",
+    "enableAutoDecision": false,
+    "useCases": [ "LoanOrigination", "InsuranceUnderwriting" ],
+    "stages": [
+      {
+        "key": "triage",
+        "title": "Triage",
+        "description": "Assess risk and identify mandatory checks.",
+        "order": 1
+      },
+      {
+        "key": "validation",
+        "title": "Cryptographic Validation",
+        "description": "Validate all verifiable credentials and proofs.",
+        "order": 2
+      },
+      {
+        "key": "committee",
+        "title": "Committee Approval",
+        "description": "Obtain committee approval before wallet dispatch.",
+        "order": 3
+      }
+    ],
+    "evidenceRequirements": [
+      {
+        "key": "edd-pack",
+        "title": "EDD pack",
+        "description": "Escalation memo and enhanced due diligence pack.",
+        "evidenceType": "PdfDocument",
+        "required": true
+      },
+      {
+        "key": "vc-proof",
+        "title": "Verifiable credential proof",
+        "description": "Proof of credential validity and integrity.",
+        "evidenceType": "Credential",
+        "required": true
+      }
+    ]
+  },
+  {
+    "key": "development-finance-review",
+    "title": "Development Finance Review",
+    "description": "Approval workflow for development finance applications.",
+    "route": "/regulatory/compliance-controls/application-review",
+    "enableAutoDecision": false,
+    "useCases": [ "DevelopmentFinance" ],
+    "stages": [
+      {
+        "key": "intake",
+        "title": "Intake",
+        "description": "Check mandated documents and policy alignment.",
+        "order": 1
+      },
+      {
+        "key": "technical",
+        "title": "Technical Assessment",
+        "description": "Assess project viability, impact, and funding structure.",
+        "order": 2
+      },
+      {
+        "key": "committee",
+        "title": "Committee Approval",
+        "description": "Committee reviews and approves the financing proposal.",
+        "order": 3
+      },
+      {
+        "key": "wallet",
+        "title": "Wallet Dispatch",
+        "description": "Approved outcome is sent to the wallet app.",
+        "order": 4
+      }
+    ],
+    "evidenceRequirements": [
+      {
+        "key": "project-plan",
+        "title": "Project plan",
+        "description": "Detailed project plan and funding use case.",
+        "evidenceType": "PdfDocument",
+        "required": true
+      },
+      {
+        "key": "impact-note",
+        "title": "Impact note",
+        "description": "Expected economic and social impact statement.",
+        "evidenceType": "PdfDocument",
+        "required": true
+      },
+      {
+        "key": "vc-proof",
+        "title": "Verifiable credential proof",
+        "description": "Cryptographic proof from the applicant wallet.",
+        "evidenceType": "Credential",
+        "required": true
+      }
+    ]
+  },
+  {
+    "key": "citizen-empowerment-funds-review",
+    "title": "Citizen Empowerment Funds Review",
+    "description": "Approval workflow for citizen empowerment and beneficiary funding.",
+    "route": "/regulatory/compliance-controls/application-review",
+    "enableAutoDecision": false,
+    "useCases": [ "CitizenEmpowermentFunds" ],
+    "stages": [
+      {
+        "key": "intake",
+        "title": "Intake",
+        "description": "Verify eligibility and completeness of the request.",
+        "order": 1
+      },
+      {
+        "key": "verification",
+        "title": "Eligibility Verification",
+        "description": "Confirm citizen identity and program eligibility.",
+        "order": 2
+      },
+      {
+        "key": "approval",
+        "title": "Approval",
+        "description": "Approve the funding request and dispatch to wallet.",
+        "order": 3
+      }
+    ],
+    "evidenceRequirements": [
+      {
+        "key": "citizen-id",
+        "title": "Citizen identity",
+        "description": "Identity evidence for the applicant.",
+        "evidenceType": "PdfDocument",
+        "required": true
+      },
+      {
+        "key": "eligibility",
+        "title": "Eligibility evidence",
+        "description": "Proof of eligibility for the empowerment fund.",
+        "evidenceType": "PdfDocument",
+        "required": true
+      },
+      {
+        "key": "vc-proof",
+        "title": "Verifiable credential proof",
+        "description": "Credential proof from the citizen wallet app.",
+        "evidenceType": "Credential",
+        "required": true
+      }
+    ]
+  },
+  {
+    "key": "mortgage-origination-review",
+    "title": "Mortgage Origination Review",
+    "description": "Approval workflow for mortgage applications.",
+    "route": "/regulatory/compliance-controls/application-review",
+    "enableAutoDecision": false,
+    "useCases": [ "MortgageOrigination" ],
+    "stages": [
+      {
+        "key": "intake",
+        "title": "Intake",
+        "description": "Check mortgage pack completeness.",
+        "order": 1
+      },
+      {
+        "key": "valuation",
+        "title": "Valuation Review",
+        "description": "Review collateral valuation and affordability.",
+        "order": 2
+      },
+      {
+        "key": "approval",
+        "title": "Approval",
+        "description": "Approve mortgage and dispatch to wallet.",
+        "order": 3
+      }
+    ],
+    "evidenceRequirements": [
+      {
+        "key": "income-proof",
+        "title": "Income proof",
+        "description": "Income and affordability evidence.",
+        "evidenceType": "PdfDocument",
+        "required": true
+      },
+      {
+        "key": "valuation-report",
+        "title": "Valuation report",
+        "description": "Collateral valuation evidence.",
+        "evidenceType": "PdfDocument",
+        "required": true
+      },
+      {
+        "key": "vc-proof",
+        "title": "Verifiable credential proof",
+        "description": "Cryptographic proof from the applicant wallet.",
+        "evidenceType": "Credential",
+        "required": true
+      }
+    ]
+  },
+  {
+    "key": "trade-finance-review",
+    "title": "Trade Finance Review",
+    "description": "Approval workflow for letters of credit and related trade finance requests.",
+    "route": "/regulatory/compliance-controls/application-review",
+    "enableAutoDecision": false,
+    "useCases": [ "TradeFinance" ],
+    "stages": [
+      {
+        "key": "intake",
+        "title": "Intake",
+        "description": "Confirm counterparties and trade documents.",
+        "order": 1
+      },
+      {
+        "key": "risk",
+        "title": "Risk Review",
+        "description": "Review sanctions, exposure, and country risk.",
+        "order": 2
+      },
+      {
+        "key": "approval",
+        "title": "Approval",
+        "description": "Approve issuance and dispatch to wallet.",
+        "order": 3
+      }
+    ],
+    "evidenceRequirements": [
+      {
+        "key": "invoice",
+        "title": "Commercial invoice",
+        "description": "Invoice and shipment documentation.",
+        "evidenceType": "PdfDocument",
+        "required": true
+      },
+      {
+        "key": "lc-terms",
+        "title": "LC terms",
+        "description": "Letters of credit terms and issuance instructions.",
+        "evidenceType": "PdfDocument",
+        "required": true
+      },
+      {
+        "key": "vc-proof",
+        "title": "Verifiable credential proof",
+        "description": "Cryptographic proof from the applicant wallet.",
+        "evidenceType": "Credential",
+        "required": true
+      }
+    ]
+  },
+  {
+    "key": "merchant-onboarding-review",
+    "title": "Merchant Onboarding Review",
+    "description": "Approval workflow for merchant onboarding applications.",
+    "route": "/regulatory/compliance-controls/application-review",
+    "enableAutoDecision": true,
+    "useCases": [ "MerchantOnboarding" ],
+    "stages": [
+      {
+        "key": "intake",
+        "title": "Intake",
+        "description": "Verify merchant application completeness.",
+        "order": 1
+      },
+      {
+        "key": "validation",
+        "title": "Validation",
+        "description": "Validate business registration and credentials.",
+        "order": 2
+      },
+      {
+        "key": "approval",
+        "title": "Approval",
+        "description": "Approve merchant onboarding and send to wallet.",
+        "order": 3
+      }
+    ],
+    "evidenceRequirements": [
+      {
+        "key": "registration",
+        "title": "Business registration",
+        "description": "Business registration and owner documents.",
+        "evidenceType": "PdfDocument",
+        "required": true
+      },
+      {
+        "key": "bank-details",
+        "title": "Bank details",
+        "description": "Bank account and settlement details.",
+        "evidenceType": "PdfDocument",
+        "required": true
+      },
+      {
+        "key": "vc-proof",
+        "title": "Verifiable credential proof",
+        "description": "Cryptographic proof from the merchant wallet.",
+        "evidenceType": "Credential",
+        "required": true
+      }
+    ]
+  }
+]

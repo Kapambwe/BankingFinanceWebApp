@@ -1,0 +1,42 @@
+[
+  {
+    "PayRunId": "pr000000-0001-0001-0001-000000000001",
+    "PayRunNumber": "PR-NUB-2026-01",
+    "PayPeriod": "Janeiro 2026",
+    "RunType": "Regular",
+    "Status": "Paid",
+    "TotalEmployees": 8000,
+    "TotalGrossPay": 185000000.0,
+    "TotalIRRF": 32500000.0,
+    "TotalINSS": 20350000.0,
+    "TotalFGTS": 14800000.0,
+    "TotalOtherDeductions": 8500000.0,
+    "TotalNetPay": 109150000.0,
+    "Currency": "BRL",
+    "PreparedBy": "Juliana Mendes",
+    "ApprovedBy": "Guilherme Lago",
+    "PaymentDate": "2026-01-31T00:00:00",
+    "ApprovalDate": "2026-01-30T00:00:00",
+    "CreatedAt": "2026-01-25T00:00:00"
+  },
+  {
+    "PayRunId": "pr000000-0001-0001-0001-000000000002",
+    "PayRunNumber": "PR-NUB-2025-12",
+    "PayPeriod": "Dezembro 2025",
+    "RunType": "Regular",
+    "Status": "Paid",
+    "TotalEmployees": 7850,
+    "TotalGrossPay": 180500000.0,
+    "TotalIRRF": 31600000.0,
+    "TotalINSS": 19855000.0,
+    "TotalFGTS": 14440000.0,
+    "TotalOtherDeductions": 8200000.0,
+    "TotalNetPay": 106405000.0,
+    "Currency": "BRL",
+    "PreparedBy": "Juliana Mendes",
+    "ApprovedBy": "Guilherme Lago",
+    "PaymentDate": "2025-12-31T00:00:00",
+    "ApprovalDate": "2025-12-30T00:00:00",
+    "CreatedAt": "2025-12-25T00:00:00"
+  }
+]

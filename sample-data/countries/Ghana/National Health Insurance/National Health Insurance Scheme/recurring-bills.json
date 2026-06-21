@@ -1,0 +1,35 @@
+[
+  {
+    "recurringBillId": "rb200000-0001",
+    "name": "Monthly Office Rent",
+    "vendor": "Prime Properties Accra",
+    "amount": 15.0,
+    "currency": "GHS",
+    "frequency": "Monthly",
+    "nextBillDate": "2026-01-01",
+    "status": "Active",
+    "createdAt": "2025-01-01T00:00:00Z"
+  },
+  {
+    "recurringBillId": "rb200000-0002",
+    "name": "Monthly IT Maintenance",
+    "vendor": "IBM Ghana",
+    "amount": 9.0,
+    "currency": "GHS",
+    "frequency": "Monthly",
+    "nextBillDate": "2026-01-01",
+    "status": "Active",
+    "createdAt": "2025-01-01T00:00:00Z"
+  },
+  {
+    "recurringBillId": "rb200000-0003",
+    "name": "Monthly Utilities",
+    "vendor": "National Utilities Ghana",
+    "amount": 3.0,
+    "currency": "GHS",
+    "frequency": "Monthly",
+    "nextBillDate": "2026-01-01",
+    "status": "Active",
+    "createdAt": "2025-01-01T00:00:00Z"
+  }
+]

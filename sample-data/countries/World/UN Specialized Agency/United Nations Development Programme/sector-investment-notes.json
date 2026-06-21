@@ -1,0 +1,261 @@
+[
+  {
+    "noteId": "bfe32a6f-7169-d8d6-37f8-6bc904b58f4c",
+    "noteCode": "UNDP-ZM-SIN-2026-001",
+    "title": "Zambia Governance Sector Investment Note",
+    "producingInstitution": "United Nations Development Programme",
+    "countryCode": "ZM",
+    "countryName": "Zambia",
+    "sector": "Governance",
+    "subSector": "Upstream pipeline",
+    "targetAudience": "MDB operations, government counterparts and co-financing partners",
+    "estimatedInvestmentNeed": 64000000,
+    "currency": "USD",
+    "investmentPriorities": [
+      "Prepare investable project pipeline",
+      "Mobilise concessional and private finance",
+      "Strengthen implementation capacity"
+    ],
+    "financingGapsIdentified": [
+      "Early-stage preparation funding",
+      "Local currency long-term finance",
+      "Guarantee coverage"
+    ],
+    "policyConstraints": [
+      "Lengthy approvals",
+      "Tariff or pricing uncertainty",
+      "Data limitations"
+    ],
+    "recommendedInterventions": [
+      "Project preparation facility",
+      "Risk-sharing instrument",
+      "Policy dialogue and technical assistance"
+    ],
+    "authorLead": "Sector economist",
+    "status": "Published",
+    "preparedDate": "2026-02-20T22:00:00Z",
+    "createdAt": "2025-12-31T22:00:00Z"
+  },
+  {
+    "noteId": "b3f561ab-1ff5-3a46-6595-df544c1d637f",
+    "noteCode": "UNDP-GH-SIN-2026-002",
+    "title": "Ghana Inclusive Growth Sector Investment Note",
+    "producingInstitution": "United Nations Development Programme",
+    "countryCode": "GH",
+    "countryName": "Ghana",
+    "sector": "Inclusive Growth",
+    "subSector": "Last-mile delivery",
+    "targetAudience": "MDB operations, government counterparts and co-financing partners",
+    "estimatedInvestmentNeed": 73000000,
+    "currency": "USD",
+    "investmentPriorities": [
+      "Prepare investable project pipeline",
+      "Mobilise concessional and private finance",
+      "Strengthen implementation capacity"
+    ],
+    "financingGapsIdentified": [
+      "Early-stage preparation funding",
+      "Local currency long-term finance",
+      "Guarantee coverage"
+    ],
+    "policyConstraints": [
+      "Lengthy approvals",
+      "Tariff or pricing uncertainty",
+      "Data limitations"
+    ],
+    "recommendedInterventions": [
+      "Project preparation facility",
+      "Risk-sharing instrument",
+      "Policy dialogue and technical assistance"
+    ],
+    "authorLead": "Investment officer",
+    "status": "PeerReview",
+    "preparedDate": "2026-03-20T22:00:00Z",
+    "createdAt": "2026-01-01T22:00:00Z"
+  },
+  {
+    "noteId": "3165ba50-0c83-7c26-e472-6a4ae4bba224",
+    "noteCode": "UNDP-RW-SIN-2026-003",
+    "title": "Rwanda Digital Public Infrastructure Sector Investment Note",
+    "producingInstitution": "United Nations Development Programme",
+    "countryCode": "RW",
+    "countryName": "Rwanda",
+    "sector": "Digital Public Infrastructure",
+    "subSector": "Policy reform",
+    "targetAudience": "MDB operations, government counterparts and co-financing partners",
+    "estimatedInvestmentNeed": 82000000,
+    "currency": "USD",
+    "investmentPriorities": [
+      "Prepare investable project pipeline",
+      "Mobilise concessional and private finance",
+      "Strengthen implementation capacity"
+    ],
+    "financingGapsIdentified": [
+      "Early-stage preparation funding",
+      "Local currency long-term finance",
+      "Guarantee coverage"
+    ],
+    "policyConstraints": [
+      "Lengthy approvals",
+      "Tariff or pricing uncertainty",
+      "Data limitations"
+    ],
+    "recommendedInterventions": [
+      "Project preparation facility",
+      "Risk-sharing instrument",
+      "Policy dialogue and technical assistance"
+    ],
+    "authorLead": "Country economist",
+    "status": "Draft",
+    "preparedDate": "2026-04-20T22:00:00Z",
+    "createdAt": "2026-01-02T22:00:00Z"
+  },
+  {
+    "noteId": "14f513fc-3488-83fe-7b10-74c59ad5e27a",
+    "noteCode": "UNDP-NP-SIN-2026-004",
+    "title": "Nepal Climate Resilience Sector Investment Note",
+    "producingInstitution": "United Nations Development Programme",
+    "countryCode": "NP",
+    "countryName": "Nepal",
+    "sector": "Climate Resilience",
+    "subSector": "Market access",
+    "targetAudience": "MDB operations, government counterparts and co-financing partners",
+    "estimatedInvestmentNeed": 91000000,
+    "currency": "USD",
+    "investmentPriorities": [
+      "Prepare investable project pipeline",
+      "Mobilise concessional and private finance",
+      "Strengthen implementation capacity"
+    ],
+    "financingGapsIdentified": [
+      "Early-stage preparation funding",
+      "Local currency long-term finance",
+      "Guarantee coverage"
+    ],
+    "policyConstraints": [
+      "Lengthy approvals",
+      "Tariff or pricing uncertainty",
+      "Data limitations"
+    ],
+    "recommendedInterventions": [
+      "Project preparation facility",
+      "Risk-sharing instrument",
+      "Policy dialogue and technical assistance"
+    ],
+    "authorLead": "Climate finance analyst",
+    "status": "Published",
+    "preparedDate": "2026-05-20T22:00:00Z",
+    "createdAt": "2026-01-03T22:00:00Z"
+  },
+  {
+    "noteId": "c7870817-1fe0-0f0a-fd7b-afa976426fbb",
+    "noteCode": "UNDP-BD-SIN-2026-005",
+    "title": "Bangladesh Crisis Recovery Sector Investment Note",
+    "producingInstitution": "United Nations Development Programme",
+    "countryCode": "BD",
+    "countryName": "Bangladesh",
+    "sector": "Crisis Recovery",
+    "subSector": "Infrastructure services",
+    "targetAudience": "MDB operations, government counterparts and co-financing partners",
+    "estimatedInvestmentNeed": 100000000,
+    "currency": "USD",
+    "investmentPriorities": [
+      "Prepare investable project pipeline",
+      "Mobilise concessional and private finance",
+      "Strengthen implementation capacity"
+    ],
+    "financingGapsIdentified": [
+      "Early-stage preparation funding",
+      "Local currency long-term finance",
+      "Guarantee coverage"
+    ],
+    "policyConstraints": [
+      "Lengthy approvals",
+      "Tariff or pricing uncertainty",
+      "Data limitations"
+    ],
+    "recommendedInterventions": [
+      "Project preparation facility",
+      "Risk-sharing instrument",
+      "Policy dialogue and technical assistance"
+    ],
+    "authorLead": "Private sector specialist",
+    "status": "Archived",
+    "preparedDate": "2026-06-20T22:00:00Z",
+    "createdAt": "2026-01-04T22:00:00Z"
+  },
+  {
+    "noteId": "aa758980-2f56-0a7e-3c53-c6bef4ab2f5a",
+    "noteCode": "UNDP-JO-SIN-2026-006",
+    "title": "Jordan SDG Finance Sector Investment Note",
+    "producingInstitution": "United Nations Development Programme",
+    "countryCode": "JO",
+    "countryName": "Jordan",
+    "sector": "SDG Finance",
+    "subSector": "Digital systems",
+    "targetAudience": "MDB operations, government counterparts and co-financing partners",
+    "estimatedInvestmentNeed": 109000000,
+    "currency": "USD",
+    "investmentPriorities": [
+      "Prepare investable project pipeline",
+      "Mobilise concessional and private finance",
+      "Strengthen implementation capacity"
+    ],
+    "financingGapsIdentified": [
+      "Early-stage preparation funding",
+      "Local currency long-term finance",
+      "Guarantee coverage"
+    ],
+    "policyConstraints": [
+      "Lengthy approvals",
+      "Tariff or pricing uncertainty",
+      "Data limitations"
+    ],
+    "recommendedInterventions": [
+      "Project preparation facility",
+      "Risk-sharing instrument",
+      "Policy dialogue and technical assistance"
+    ],
+    "authorLead": "Agriculture finance lead",
+    "status": "Published",
+    "preparedDate": "2026-07-20T22:00:00Z",
+    "createdAt": "2026-01-05T22:00:00Z"
+  },
+  {
+    "noteId": "23b9cc2c-d5bc-4d8a-f57b-b867ea752767",
+    "noteCode": "UNDP-TL-SIN-2026-007",
+    "title": "Timor-Leste Local Development Sector Investment Note",
+    "producingInstitution": "United Nations Development Programme",
+    "countryCode": "TL",
+    "countryName": "Timor-Leste",
+    "sector": "Local Development",
+    "subSector": "Climate adaptation",
+    "targetAudience": "MDB operations, government counterparts and co-financing partners",
+    "estimatedInvestmentNeed": 118000000,
+    "currency": "USD",
+    "investmentPriorities": [
+      "Prepare investable project pipeline",
+      "Mobilise concessional and private finance",
+      "Strengthen implementation capacity"
+    ],
+    "financingGapsIdentified": [
+      "Early-stage preparation funding",
+      "Local currency long-term finance",
+      "Guarantee coverage"
+    ],
+    "policyConstraints": [
+      "Lengthy approvals",
+      "Tariff or pricing uncertainty",
+      "Data limitations"
+    ],
+    "recommendedInterventions": [
+      "Project preparation facility",
+      "Risk-sharing instrument",
+      "Policy dialogue and technical assistance"
+    ],
+    "authorLead": "Infrastructure advisor",
+    "status": "PeerReview",
+    "preparedDate": "2026-08-20T22:00:00Z",
+    "createdAt": "2026-01-06T22:00:00Z"
+  }
+]

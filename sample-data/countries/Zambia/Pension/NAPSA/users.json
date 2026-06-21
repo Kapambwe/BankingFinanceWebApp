@@ -1,0 +1,177 @@
+﻿[
+    {
+        "userId":  "fa26d605-9d4a-4fda-951e-5ef51256fb32",
+        "email":  "actuarialanalyst.pension",
+        "username":  "actuarialanalyst.pension",
+        "firstName":  "Actuarial",
+        "lastName":  "Analyst",
+        "institutionType":  "Pension",
+        "institutionName":  "NAPSA",
+        "institutionId":  "7a0a46c7-dd6c-464d-a5ec-80d2d325f0b5",
+        "roles":  [
+                      "ActuarialAnalyst"
+                  ],
+        "permissions":  [
+
+                        ],
+        "isActive":  true,
+        "isEmailVerified":  true,
+        "isPhoneVerified":  true,
+        "isIdentityVerified":  true,
+        "trustScore":  95,
+        "createdAt":  "2023-09-13T00:00:00Z",
+        "phoneNumber":  "+260977000000",
+        "gender":  "Other",
+        "nationality":  "Zambian"
+    },
+    {
+        "userId":  "15d03eaf-c2c7-49dd-88d5-577adaa57748",
+        "email":  "benefitsofficer.pension",
+        "username":  "benefitsofficer.pension",
+        "firstName":  "Benefits",
+        "lastName":  "Officer",
+        "institutionType":  "Pension",
+        "institutionName":  "NAPSA",
+        "institutionId":  "b2a03356-367f-4ce8-901d-a964369f10cc",
+        "roles":  [
+                      "BenefitsOfficer"
+                  ],
+        "permissions":  [
+
+                        ],
+        "isActive":  true,
+        "isEmailVerified":  true,
+        "isPhoneVerified":  true,
+        "isIdentityVerified":  true,
+        "trustScore":  95,
+        "createdAt":  "2023-09-13T00:00:00Z",
+        "phoneNumber":  "+260977000000",
+        "gender":  "Other",
+        "nationality":  "Zambian"
+    },
+    {
+        "userId":  "8e75a3de-ae63-45ab-9eec-c00a3de34187",
+        "email":  "complianceofficer.pension",
+        "username":  "complianceofficer.pension",
+        "firstName":  "Compliance",
+        "lastName":  "Officer",
+        "institutionType":  "Pension",
+        "institutionName":  "NAPSA",
+        "institutionId":  "71e78475-b532-42d5-b905-8d3638dac26d",
+        "roles":  [
+                      "ComplianceOfficer"
+                  ],
+        "permissions":  [
+
+                        ],
+        "isActive":  true,
+        "isEmailVerified":  true,
+        "isPhoneVerified":  true,
+        "isIdentityVerified":  true,
+        "trustScore":  95,
+        "createdAt":  "2023-09-13T00:00:00Z",
+        "phoneNumber":  "+260977000000",
+        "gender":  "Other",
+        "nationality":  "Zambian"
+    },
+    {
+        "userId":  "f98537fa-8c1f-4caf-8a96-ea156465d187",
+        "email":  "contributionsofficer.pension",
+        "username":  "contributionsofficer.pension",
+        "firstName":  "Contributions",
+        "lastName":  "Officer",
+        "institutionType":  "Pension",
+        "institutionName":  "NAPSA",
+        "institutionId":  "9cbf425e-976e-4dc3-9992-50549d317e28",
+        "roles":  [
+                      "ContributionsOfficer"
+                  ],
+        "permissions":  [
+
+                        ],
+        "isActive":  true,
+        "isEmailVerified":  true,
+        "isPhoneVerified":  true,
+        "isIdentityVerified":  true,
+        "trustScore":  95,
+        "createdAt":  "2023-09-13T00:00:00Z",
+        "phoneNumber":  "+260977000000",
+        "gender":  "Other",
+        "nationality":  "Zambian"
+    },
+    {
+        "userId":  "0d64e47c-5999-4882-8041-bcde74f0cf17",
+        "email":  "enrollmentofficer.pension",
+        "username":  "enrollmentofficer.pension",
+        "firstName":  "Enrollment",
+        "lastName":  "Officer",
+        "institutionType":  "Pension",
+        "institutionName":  "NAPSA",
+        "institutionId":  "f05225db-1df9-4ad1-9014-a3565aed71de",
+        "roles":  [
+                      "EnrollmentOfficer"
+                  ],
+        "permissions":  [
+
+                        ],
+        "isActive":  true,
+        "isEmailVerified":  true,
+        "isPhoneVerified":  true,
+        "isIdentityVerified":  true,
+        "trustScore":  95,
+        "createdAt":  "2023-09-13T00:00:00Z",
+        "phoneNumber":  "+260977000000",
+        "gender":  "Other",
+        "nationality":  "Zambian"
+    },
+    {
+        "userId":  "1b67f3ec-7205-418a-b12b-6b6db75f065f",
+        "email":  "pensionadmin.pension",
+        "username":  "pensionadmin.pension",
+        "firstName":  "Pension",
+        "lastName":  "Admin",
+        "institutionType":  "Pension",
+        "institutionName":  "NAPSA",
+        "institutionId":  "93ec2f47-7e0b-4fdc-b97e-c4fa656eb386",
+        "roles":  [
+                      "PensionAdmin"
+                  ],
+        "permissions":  [
+
+                        ],
+        "isActive":  true,
+        "isEmailVerified":  true,
+        "isPhoneVerified":  true,
+        "isIdentityVerified":  true,
+        "trustScore":  95,
+        "createdAt":  "2023-09-13T00:00:00Z",
+        "phoneNumber":  "+260977000000",
+        "gender":  "Other",
+        "nationality":  "Zambian"
+    },
+    {
+        "userId":  "eab59662-3823-4e11-b1fb-bb1e7f009a3f",
+        "email":  "portfoliomanager.pension",
+        "username":  "portfoliomanager.pension",
+        "firstName":  "Portfolio",
+        "lastName":  "Manager",
+        "institutionType":  "Pension",
+        "institutionName":  "NAPSA",
+        "institutionId":  "cd35cc35-35a5-4f1c-ad73-158069ebdeed",
+        "roles":  [
+                      "PortfolioManager"
+                  ],
+        "permissions":  [
+
+                        ],
+        "isActive":  true,
+        "isEmailVerified":  true,
+        "isPhoneVerified":  true,
+        "isIdentityVerified":  true,
+        "trustScore":  95,
+        "createdAt":  "2023-09-13T00:00:00Z",
+        "phoneNumber":  "+260977000000",
+        "gender":  "Other",
+        "nationality":  "Zambian"
+    }
+]

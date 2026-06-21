@@ -1,0 +1,227 @@
+[
+  {
+    "id": "journey-insurance-renewal",
+    "name": "Policy Renewal Reminder",
+    "description": "Multi-channel renewal journey for expiring policies",
+    "type": "Retention",
+    "status": "Published",
+    "updatedAt": "2026-02-22T00:00:00Z",
+    "institutionType": "Insurance"
+  },
+  {
+    "id": "journey-claims-followup",
+    "name": "Claims Follow-Up",
+    "description": "Post-claim satisfaction and next-step guidance",
+    "type": "Service",
+    "status": "Paused",
+    "updatedAt": "2026-02-18T00:00:00Z",
+    "institutionType": "Insurance"
+  },
+  {
+    "id": "journey-new-policy-onboarding",
+    "name": "New Policy Onboarding",
+    "description": "Welcome journey for newly issued policyholders",
+    "type": "Lifecycle",
+    "status": "Published",
+    "updatedAt": "2026-02-20T00:00:00Z",
+    "institutionType": "Insurance"
+  },
+  {
+    "id": "journey-premium-payment-nudge",
+    "name": "Premium Payment Nudge",
+    "description": "Automated reminders before and after premium due dates",
+    "type": "Behavioral",
+    "status": "Published",
+    "updatedAt": "2026-02-18T00:00:00Z",
+    "institutionType": "Insurance"
+  },
+  {
+    "id": "journey-claims-intake",
+    "name": "Claims Intake Guidance",
+    "description": "Step-by-step guide for customers starting a claims process",
+    "type": "Service",
+    "status": "Published",
+    "updatedAt": "2026-02-15T00:00:00Z",
+    "institutionType": "Insurance"
+  },
+  {
+    "id": "journey-beneficiary-update",
+    "name": "Beneficiary Update Campaign",
+    "description": "Prompt policyholders with outdated beneficiary records",
+    "type": "Lifecycle",
+    "status": "Published",
+    "updatedAt": "2026-02-12T00:00:00Z",
+    "institutionType": "Insurance"
+  },
+  {
+    "id": "journey-cross-sell-health",
+    "name": "Health Cover Cross-Sell",
+    "description": "Offer health insurance to life policy holders without health cover",
+    "type": "Growth",
+    "status": "Published",
+    "updatedAt": "2026-02-10T00:00:00Z",
+    "institutionType": "Insurance"
+  },
+  {
+    "id": "journey-expiring-policy-alert",
+    "name": "Expiring Policy Alert",
+    "description": "60/30/14 day alerts before policy expiry",
+    "type": "Retention",
+    "status": "Published",
+    "updatedAt": "2026-02-08T00:00:00Z",
+    "institutionType": "Insurance"
+  },
+  {
+    "id": "journey-win-back-lapsed",
+    "name": "Lapsed Policy Win-Back",
+    "description": "Re-engagement flow for customers whose policies lapsed",
+    "type": "Retention",
+    "status": "Paused",
+    "updatedAt": "2026-02-05T00:00:00Z",
+    "institutionType": "Insurance"
+  },
+  {
+    "id": "journey-post-claim-care",
+    "name": "Post-Claim Care Journey",
+    "description": "Wellbeing check-in and upsell opportunity after claim settlement",
+    "type": "Service",
+    "status": "Published",
+    "updatedAt": "2026-02-03T00:00:00Z",
+    "institutionType": "Insurance"
+  },
+  {
+    "id": "journey-education-endowment",
+    "name": "Education Endowment Nurture",
+    "description": "Annual milestone updates for endowment policy holders",
+    "type": "Education",
+    "status": "Draft",
+    "updatedAt": "2026-01-30T00:00:00Z",
+    "institutionType": "Insurance"
+  },
+  {
+    "id": "journey-bancassurance-intro",
+    "name": "Bancassurance Introduction",
+    "description": "Introduce insurance products to new bank customers",
+    "type": "Growth",
+    "status": "Published",
+    "updatedAt": "2026-01-28T00:00:00Z",
+    "institutionType": "Insurance"
+  },
+  {
+    "id": "journey-motor-renewal",
+    "name": "Motor Policy Renewal",
+    "description": "Automated renewal sequence for motor insurance customers",
+    "type": "Retention",
+    "status": "Published",
+    "updatedAt": "2026-01-25T00:00:00Z",
+    "institutionType": "Insurance"
+  },
+  {
+    "id": "journey-agent-onboarding",
+    "name": "Insurance Agent Onboarding",
+    "description": "Training and activation journey for new insurance agents",
+    "type": "Lifecycle",
+    "status": "Published",
+    "updatedAt": "2026-01-22T00:00:00Z",
+    "institutionType": "Insurance"
+  },
+  {
+    "id": "journey-fraud-detection-alert",
+    "name": "Fraud Suspicion Alert",
+    "description": "Notify claims investigators when fraud indicators are triggered",
+    "type": "Service",
+    "status": "Published",
+    "updatedAt": "2026-01-20T00:00:00Z",
+    "institutionType": "Insurance"
+  },
+  {
+    "id": "journey-reinsurance-bordereaux",
+    "name": "Reinsurance Reporting Reminder",
+    "description": "Prompt underwriters to submit cession reports on time",
+    "type": "Service",
+    "status": "Draft",
+    "updatedAt": "2026-01-18T00:00:00Z",
+    "institutionType": "Insurance"
+  },
+  {
+    "id": "journey-micro-insurance-upsell",
+    "name": "Micro-Insurance Upgrade",
+    "description": "Encourage micro-policy holders to upgrade to full cover",
+    "type": "Growth",
+    "status": "Paused",
+    "updatedAt": "2026-01-15T00:00:00Z",
+    "institutionType": "Insurance"
+  },
+  {
+    "id": "journey-group-scheme-enrolment",
+    "name": "Group Scheme Enrolment",
+    "description": "Employee onboarding to employer-sponsored group insurance",
+    "type": "Lifecycle",
+    "status": "Published",
+    "updatedAt": "2026-01-12T00:00:00Z",
+    "institutionType": "Insurance"
+  },
+  {
+    "id": "journey-annuity-retirement",
+    "name": "Retirement Annuity Conversion",
+    "description": "Prompt near-retirement policyholders to convert to annuity",
+    "type": "Lifecycle",
+    "status": "Draft",
+    "updatedAt": "2026-01-10T00:00:00Z",
+    "institutionType": "Insurance"
+  },
+  {
+    "id": "journey-agricultural-season",
+    "name": "Agricultural Season Reminders",
+    "description": "Seasonal crop insurance reminders tied to farming calendar",
+    "type": "Behavioral",
+    "status": "Published",
+    "updatedAt": "2026-01-08T00:00:00Z",
+    "institutionType": "Insurance"
+  },
+  {
+    "id": "journey-claims-doc-checklist",
+    "name": "Claims Document Checklist",
+    "description": "Guide customers through required documentation for faster settlement",
+    "type": "Service",
+    "status": "Published",
+    "updatedAt": "2026-01-05T00:00:00Z",
+    "institutionType": "Insurance"
+  },
+  {
+    "id": "journey-annual-review",
+    "name": "Annual Policy Review",
+    "description": "Annual outreach encouraging policy review and top-up",
+    "type": "Lifecycle",
+    "status": "Published",
+    "updatedAt": "2026-01-03T00:00:00Z",
+    "institutionType": "Insurance"
+  },
+  {
+    "id": "journey-hospital-discharge",
+    "name": "Hospital Discharge Follow-Up",
+    "description": "Post-hospitalisation support and claim completion assistance",
+    "type": "Service",
+    "status": "Paused",
+    "updatedAt": "2025-12-28T00:00:00Z",
+    "institutionType": "Insurance"
+  },
+  {
+    "id": "journey-sme-liability",
+    "name": "SME Liability Awareness",
+    "description": "Educate SME owners on employer liability and public liability risk",
+    "type": "Education",
+    "status": "Draft",
+    "updatedAt": "2025-12-25T00:00:00Z",
+    "institutionType": "Insurance"
+  },
+  {
+    "id": "journey-referral-program",
+    "name": "Refer-a-Friend Program",
+    "description": "Incentivised referral journey for existing policyholders",
+    "type": "Growth",
+    "status": "Published",
+    "updatedAt": "2025-12-22T00:00:00Z",
+    "institutionType": "Insurance"
+  }
+]

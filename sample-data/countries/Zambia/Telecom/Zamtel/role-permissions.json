@@ -1,0 +1,68 @@
+﻿{
+    "institutionType":  "Telecom",
+    "country":  "Zambia",
+    "description":  "Role-to-permission mapping for Telecom tenants in Zambia. Matches the role structure used by the Zamtel institution sample data.",
+    "version":  "1.0.0",
+    "roles":  [
+                  {
+                      "roleName":  "ChannelManager",
+                      "permissions":  [
+                                          "Banking.Channels.View",
+                                          "Banking.Channels.ManageAgents",
+                                          "Banking.Channels.ManageMobileMoney"
+                                      ]
+                  },
+                  {
+                      "roleName":  "ComplianceOfficer",
+                      "permissions":  [
+                                          "Banking.Regulatory.ViewReports",
+                                          "Banking.Risk.ViewDashboard"
+                                      ]
+                  },
+                  {
+                      "roleName":  "CustomerSupport",
+                      "permissions":  [
+                                          "Banking.CRM.ViewCustomers",
+                                          "Banking.CRM.ViewTickets",
+                                          "Banking.CRM.ViewLeads"
+                                      ]
+                  },
+                  {
+                      "roleName":  "FraudAnalyst",
+                      "permissions":  [
+                                          "Banking.Risk.ViewDashboard",
+                                          "Banking.TransactionsMonitoring.ViewDashboard",
+                                          "Banking.Risk.ViewReports"
+                                      ]
+                  },
+                  {
+                      "roleName":  "MobileMoneyManager",
+                      "permissions":  [
+                                          "Banking.Channels.ManageMobileMoney",
+                                          "Banking.Payments.View",
+                                          "Banking.Payments.Settlements"
+                                      ]
+                  },
+                  {
+                      "roleName":  "PaymentsManager",
+                      "permissions":  [
+                                          "Banking.Payments.View",
+                                          "Banking.Payments.Settlements",
+                                          "Banking.Payments.Refund"
+                                      ]
+                  },
+                  {
+                      "roleName":  "TelecomAdmin",
+                      "permissions":  [
+                                          "Banking.Channels.View",
+                                          "Banking.Channels.ManageAgents",
+                                          "Banking.Channels.ManageMobileMoney",
+                                          "Banking.Channels.ManageRemittances",
+                                          "Banking.Payments.View",
+                                          "Banking.Payments.Settlements",
+                                          "Banking.Marketing.ViewCRM",
+                                          "Banking.TransactionsMonitoring.ViewDashboard"
+                                      ]
+                  }
+              ]
+}

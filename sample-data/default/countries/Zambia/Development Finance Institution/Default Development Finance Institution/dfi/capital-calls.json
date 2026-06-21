@@ -1,0 +1,16 @@
+[
+  {
+    "CapitalCallId": "dddddddd-dddd-dddd-dddd-ddddddddddd9",
+    "InstitutionId": "dddddddd-dddd-dddd-dddd-ddddddddddd1",
+    "CallReference": "CC-2026-001",
+    "CallDate": "2026-05-01T00:00:00Z",
+    "DueDate": "2026-06-01T00:00:00Z",
+    "AmountRequested": 50000000,
+    "AmountReceived": 50000000,
+    "AmountOutstanding": 0,
+    "Purpose": "Capital replenishment",
+    "Status": "Settled",
+    "Currency": "ZMW",
+    "CreatedAt": "2026-05-01T00:00:00Z"
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "DisbursementId": "eeeeeeee-eeee-eeee-eeee-eeeeeeeeeee2",
+    "ApplicationId": "eeeeeeee-eeee-eeee-eeee-eeeeeeeeeee1",
+    "ApplicationNumber": "GRA-2026-0001",
+    "BeneficiaryName": "Mwamba Cooperative",
+    "DisbursementAmount": 425000,
+    "Currency": "ZMW",
+    "Status": "Approved",
+    "DisbursementDate": "2026-06-20T00:00:00Z",
+    "CreatedAt": "2026-06-20T00:00:00Z"
+  }
+]

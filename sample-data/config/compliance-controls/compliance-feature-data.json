@@ -1,0 +1,597 @@
+{
+  "formDesigners": [
+    {
+      "id": "fd-001",
+      "name": "KYC onboarding form",
+      "useCase": "Account opening",
+      "owner": "Compliance Ops",
+      "workflowKey": "account-opening-review",
+      "status": 1,
+      "lastUpdated": "2026-06-17T10:00:00Z",
+      "changeCount": 4
+    },
+    {
+      "id": "fd-002",
+      "name": "Loan origination form",
+      "useCase": "Loan application",
+      "owner": "Credit Risk",
+      "workflowKey": "loan-application-review",
+      "status": 1,
+      "lastUpdated": "2026-06-16T11:00:00Z",
+      "changeCount": 5
+    },
+    {
+      "id": "fd-003",
+      "name": "Insurance underwriting form",
+      "useCase": "Insurance",
+      "owner": "Underwriting",
+      "workflowKey": "insurance-underwriting-review",
+      "status": 2,
+      "lastUpdated": "2026-06-15T12:00:00Z",
+      "changeCount": 3
+    },
+    {
+      "id": "fd-004",
+      "name": "Investment suitability form",
+      "useCase": "Investments",
+      "owner": "Investment Ops",
+      "workflowKey": "investment-suitability-review",
+      "status": 0,
+      "lastUpdated": "2026-06-14T13:00:00Z",
+      "changeCount": 2
+    },
+    {
+      "id": "fd-005",
+      "name": "Development finance application form",
+      "useCase": "Development finance",
+      "owner": "Development Finance",
+      "workflowKey": "development-finance-review",
+      "status": 1,
+      "lastUpdated": "2026-06-13T14:00:00Z",
+      "changeCount": 7
+    },
+    {
+      "id": "fd-006",
+      "name": "Citizen empowerment funds form",
+      "useCase": "Citizen empowerment funds",
+      "owner": "Citizen Empowerment",
+      "workflowKey": "citizen-empowerment-funds-review",
+      "status": 1,
+      "lastUpdated": "2026-06-12T15:00:00Z",
+      "changeCount": 5
+    },
+    {
+      "id": "fd-007",
+      "name": "Mortgage origination form",
+      "useCase": "Mortgage origination",
+      "owner": "Mortgage",
+      "workflowKey": "mortgage-origination-review",
+      "status": 1,
+      "lastUpdated": "2026-06-11T16:00:00Z",
+      "changeCount": 8
+    },
+    {
+      "id": "fd-008",
+      "name": "Trade finance application form",
+      "useCase": "Trade finance",
+      "owner": "Trade Finance",
+      "workflowKey": "trade-finance-review",
+      "status": 1,
+      "lastUpdated": "2026-06-10T17:00:00Z",
+      "changeCount": 4
+    },
+    {
+      "id": "fd-009",
+      "name": "Merchant onboarding form",
+      "useCase": "Merchant onboarding",
+      "owner": "Merchant Operations",
+      "workflowKey": "merchant-onboarding-review",
+      "status": 1,
+      "lastUpdated": "2026-06-09T18:00:00Z",
+      "changeCount": 6
+    }
+  ],
+  "applicationQueue": [
+    {
+      "id": "aq-001",
+      "applicationNumber": "APP-1001",
+      "applicantName": "Amina Ndlovu",
+      "institution": "North Star Traders",
+      "queueStage": "Intake",
+      "status": 3,
+      "submittedAt": "2026-06-18T08:00:00Z"
+    },
+    {
+      "id": "aq-002",
+      "applicationNumber": "APP-1002",
+      "applicantName": "Sipho Maseko",
+      "institution": "Blue River Holdings",
+      "queueStage": "Verification",
+      "status": 2,
+      "submittedAt": "2026-06-18T09:00:00Z"
+    },
+    {
+      "id": "aq-003",
+      "applicationNumber": "APP-1003",
+      "applicantName": "Lerato Khumalo",
+      "institution": "Ubuntu Retail",
+      "queueStage": "Triage",
+      "status": 3,
+      "submittedAt": "2026-06-18T10:00:00Z"
+    },
+    {
+      "id": "aq-004",
+      "applicationNumber": "APP-2001",
+      "applicantName": "Mpho Molefe",
+      "institution": "Development Finance Agency",
+      "queueStage": "Technical assessment",
+      "status": 2,
+      "submittedAt": "2026-06-18T11:00:00Z"
+    },
+    {
+      "id": "aq-005",
+      "applicationNumber": "APP-2002",
+      "applicantName": "Naledi Pheko",
+      "institution": "Citizen Empowerment Fund",
+      "queueStage": "Eligibility verification",
+      "status": 3,
+      "submittedAt": "2026-06-18T12:00:00Z"
+    },
+    {
+      "id": "aq-006",
+      "applicationNumber": "APP-3001",
+      "applicantName": "Sarah Jacobs",
+      "institution": "Home First Mortgage",
+      "queueStage": "Collateral review",
+      "status": 2,
+      "submittedAt": "2026-06-18T13:00:00Z"
+    },
+    {
+      "id": "aq-007",
+      "applicationNumber": "APP-3002",
+      "applicantName": "Kabelo Mokoena",
+      "institution": "Global Trade Hub",
+      "queueStage": "Risk review",
+      "status": 2,
+      "submittedAt": "2026-06-18T14:00:00Z"
+    },
+    {
+      "id": "aq-008",
+      "applicationNumber": "APP-3003",
+      "applicantName": "Tshiamo Ncube",
+      "institution": "MarketLink Merchants",
+      "queueStage": "Compliance review",
+      "status": 3,
+      "submittedAt": "2026-06-18T15:00:00Z"
+    }
+  ],
+  "officerAssignments": [
+    {
+      "id": "oa-001",
+      "applicationNumber": "APP-1001",
+      "officerName": "Nomsa Dlamini",
+      "team": "Retail Compliance",
+      "allocationType": "Auto-assigned",
+      "status": 1,
+      "assignedAt": "2026-06-18T11:00:00Z"
+    },
+    {
+      "id": "oa-002",
+      "applicationNumber": "APP-1002",
+      "officerName": "Thabo Nkosi",
+      "team": "Business Banking",
+      "allocationType": "Manual assignment",
+      "status": 2,
+      "assignedAt": "2026-06-18T12:00:00Z"
+    },
+    {
+      "id": "oa-003",
+      "applicationNumber": "APP-2001",
+      "officerName": "Jabulani Dube",
+      "team": "Development Finance",
+      "allocationType": "Committee queue",
+      "status": 1,
+      "assignedAt": "2026-06-18T13:00:00Z"
+    },
+    {
+      "id": "oa-004",
+      "applicationNumber": "APP-2002",
+      "officerName": "Lindiwe Nair",
+      "team": "Citizen Empowerment",
+      "allocationType": "Auto-assigned",
+      "status": 1,
+      "assignedAt": "2026-06-18T14:00:00Z"
+    },
+    {
+      "id": "oa-005",
+      "applicationNumber": "APP-3001",
+      "officerName": "Marius de Klerk",
+      "team": "Mortgage Desk",
+      "allocationType": "Manual assignment",
+      "status": 2,
+      "assignedAt": "2026-06-18T15:00:00Z"
+    },
+    {
+      "id": "oa-006",
+      "applicationNumber": "APP-3002",
+      "officerName": "Ayesha Khan",
+      "team": "Trade Finance",
+      "allocationType": "Committee queue",
+      "status": 2,
+      "assignedAt": "2026-06-18T16:00:00Z"
+    },
+    {
+      "id": "oa-007",
+      "applicationNumber": "APP-3003",
+      "officerName": "Sizwe Jali",
+      "team": "Merchant Operations",
+      "allocationType": "Auto-assigned",
+      "status": 1,
+      "assignedAt": "2026-06-18T17:00:00Z"
+    }
+  ],
+  "applicationReviews": [
+    {
+      "id": "ar-001",
+      "applicationNumber": "APP-1001",
+      "applicantName": "Amina Ndlovu",
+      "reviewer": "Nomsa Dlamini",
+      "reviewStage": "Initial review",
+      "status": 3,
+      "reviewDue": "2026-06-19T12:00:00Z",
+      "workflowKey": "account-opening-review",
+      "formName": "KYC onboarding form",
+      "formVersion": "v4.0",
+      "credentialSubject": "did:wallet:applicant:1001",
+      "isCryptographicallyValid": false,
+      "sentToWallet": false,
+      "evidenceBundle": {
+        "items": [
+          {
+            "id": "ev-001",
+            "evidenceType": 1,
+            "status": 1,
+            "primaryUseCase": 1,
+            "title": "Identity credential",
+            "sourceName": "Citizen Wallet",
+            "issuer": "National ID Authority",
+            "credentialType": "Verifiable credential",
+            "proofType": "Signature proof",
+            "proofFingerprint": "A1B2C3D4",
+            "supportedUseCases": [1]
+          }
+        ],
+        "pdfCount": 2,
+        "credentialCount": 1,
+        "proofCount": 0,
+        "verifiedCount": 1,
+        "trustScore": 68
+      },
+      "formData": {
+        "fullName": "Amina Ndlovu",
+        "nationalId": "LIV-998244",
+        "accountType": "Transaction account",
+        "sourceOfFunds": "Salary"
+      },
+      "requirements": [
+        "Identity document",
+        "Address verification",
+        "Sanctions screening",
+        "Source of funds"
+      ],
+      "auditTrail": [
+        {
+          "timestamp": "2026-06-18T04:00:00Z",
+          "actor": "System",
+          "action": "Submitted",
+          "details": "Application received from wallet app."
+        },
+        {
+          "timestamp": "2026-06-18T06:00:00Z",
+          "actor": "Nomsa Dlamini",
+          "action": "Queued",
+          "details": "Placed into initial compliance review queue."
+        },
+        {
+          "timestamp": "2026-06-18T08:00:00Z",
+          "actor": "Nomsa Dlamini",
+          "action": "Validation pending",
+          "details": "Credential validation has not yet been completed."
+        }
+      ]
+    },
+    {
+      "id": "ar-002",
+      "applicationNumber": "APP-1002",
+      "applicantName": "Sipho Maseko",
+      "reviewer": "Thabo Nkosi",
+      "reviewStage": "Secondary review",
+      "status": 2,
+      "reviewDue": "2026-06-20T12:00:00Z",
+      "workflowKey": "loan-application-review",
+      "formName": "Loan origination form",
+      "formVersion": "v1.0",
+      "credentialSubject": "did:wallet:applicant:1002",
+      "isCryptographicallyValid": true,
+      "sentToWallet": false,
+      "evidenceBundle": {
+        "items": [
+          {
+            "id": "ev-002",
+            "evidenceType": 2,
+            "status": 1,
+            "primaryUseCase": 0,
+            "title": "Device proof bundle",
+            "sourceName": "Wallet Proof Service",
+            "issuer": "Citizens Wallet",
+            "proofType": "Zero-knowledge proof",
+            "proofFingerprint": "B7C8D9E0",
+            "supportedUseCases": [0]
+          }
+        ],
+        "pdfCount": 1,
+        "credentialCount": 2,
+        "proofCount": 1,
+        "verifiedCount": 2,
+        "trustScore": 82
+      },
+      "formData": {
+        "fullName": "Sipho Maseko",
+        "riskTier": "Medium",
+        "refreshReason": "Annual KYC refresh",
+        "deviceAttestation": "Present"
+      },
+      "requirements": [
+        "Income proof",
+        "Bank statements",
+        "Collateral evidence"
+      ],
+      "auditTrail": [
+        {
+          "timestamp": "2026-06-18T02:00:00Z",
+          "actor": "System",
+          "action": "Submitted",
+          "details": "Application received from wallet app."
+        },
+        {
+          "timestamp": "2026-06-18T05:00:00Z",
+          "actor": "Thabo Nkosi",
+          "action": "Verified",
+          "details": "Verifiable credential signature validated."
+        },
+        {
+          "timestamp": "2026-06-18T09:00:00Z",
+          "actor": "Thabo Nkosi",
+          "action": "Awaiting approval",
+          "details": "Ready for final approval and wallet dispatch."
+        }
+      ]
+    },
+    {
+      "id": "ar-003",
+      "applicationNumber": "APP-1003",
+      "applicantName": "Lerato Khumalo",
+      "reviewer": "Priya Singh",
+      "reviewStage": "Final review",
+      "status": 4,
+      "reviewDue": "2026-06-21T12:00:00Z",
+      "workflowKey": "insurance-underwriting-review",
+      "formName": "Insurance underwriting form",
+      "formVersion": "v2.1",
+      "credentialSubject": "did:wallet:applicant:1003",
+      "isCryptographicallyValid": true,
+      "sentToWallet": true,
+      "evidenceBundle": {
+        "items": [
+          {
+            "id": "ev-003",
+            "evidenceType": 2,
+            "status": 1,
+            "primaryUseCase": 4,
+            "title": "Executive approval proof",
+            "sourceName": "Approval chain",
+            "issuer": "Compliance Office",
+            "proofType": "Signed approval proof",
+            "proofFingerprint": "C1D2E3F4",
+            "supportedUseCases": [4]
+          }
+        ],
+        "pdfCount": 1,
+        "credentialCount": 1,
+        "proofCount": 1,
+        "verifiedCount": 2,
+        "trustScore": 90
+      },
+      "formData": {
+        "fullName": "Lerato Khumalo",
+        "caseType": "Enhanced due diligence",
+        "approvalRoute": "Executive committee",
+        "proofHash": "9F4A2B7C"
+      },
+      "requirements": [
+        "Policy declaration",
+        "Underwriting evidence",
+        "Medical declaration"
+      ],
+      "auditTrail": [
+        {
+          "timestamp": "2026-06-18T00:00:00Z",
+          "actor": "System",
+          "action": "Submitted",
+          "details": "Application received from wallet app."
+        },
+        {
+          "timestamp": "2026-06-18T03:00:00Z",
+          "actor": "Priya Singh",
+          "action": "Validated",
+          "details": "Credential signature verified successfully.",
+          "evidenceReference": "vc-proof-8841"
+        },
+        {
+          "timestamp": "2026-06-18T10:00:00Z",
+          "actor": "Priya Singh",
+          "action": "Approved",
+          "details": "Approved and sent to the wallet app.",
+          "evidenceReference": "wallet-dispatch-1192"
+        }
+      ]
+    },
+    {
+      "id": "ar-004",
+      "applicationNumber": "APP-2001",
+      "applicantName": "Mpho Molefe",
+      "reviewer": "Jabulani Dube",
+      "reviewStage": "Technical assessment",
+      "status": 2,
+      "reviewDue": "2026-06-22T12:00:00Z",
+      "workflowKey": "development-finance-review",
+      "formName": "Development finance application form",
+      "formVersion": "v1.0",
+      "credentialSubject": "did:wallet:applicant:2001",
+      "isCryptographicallyValid": true,
+      "sentToWallet": false,
+      "requirements": [
+        "Project plan",
+        "Impact note",
+        "Budget breakdown",
+        "Verifiable credential proof"
+      ]
+    },
+    {
+      "id": "ar-005",
+      "applicationNumber": "APP-2002",
+      "applicantName": "Naledi Pheko",
+      "reviewer": "Lindiwe Nair",
+      "reviewStage": "Eligibility verification",
+      "status": 3,
+      "reviewDue": "2026-06-23T12:00:00Z",
+      "workflowKey": "citizen-empowerment-funds-review",
+      "formName": "Citizen empowerment funds form",
+      "formVersion": "v1.0",
+      "credentialSubject": "did:wallet:applicant:2002",
+      "isCryptographicallyValid": false,
+      "sentToWallet": false,
+      "requirements": [
+        "Citizen identity",
+        "Eligibility evidence",
+        "Household declaration",
+        "Verifiable credential proof"
+      ]
+    },
+    {
+      "id": "ar-006",
+      "applicationNumber": "APP-3001",
+      "applicantName": "Sarah Jacobs",
+      "reviewer": "Marius de Klerk",
+      "reviewStage": "Collateral review",
+      "status": 2,
+      "reviewDue": "2026-06-24T12:00:00Z",
+      "workflowKey": "mortgage-origination-review",
+      "formName": "Mortgage origination form",
+      "formVersion": "v1.0",
+      "credentialSubject": "did:wallet:applicant:3001",
+      "isCryptographicallyValid": true,
+      "sentToWallet": false,
+      "requirements": [
+        "Income proof",
+        "Valuation report",
+        "Affordability assessment",
+        "Verifiable credential proof"
+      ]
+    },
+    {
+      "id": "ar-007",
+      "applicationNumber": "APP-3002",
+      "applicantName": "Kabelo Mokoena",
+      "reviewer": "Ayesha Khan",
+      "reviewStage": "Risk review",
+      "status": 3,
+      "reviewDue": "2026-06-25T12:00:00Z",
+      "workflowKey": "trade-finance-review",
+      "formName": "Trade finance application form",
+      "formVersion": "v1.0",
+      "credentialSubject": "did:wallet:applicant:3002",
+      "isCryptographicallyValid": true,
+      "sentToWallet": false,
+      "requirements": [
+        "Commercial invoice",
+        "LC terms",
+        "Shipping documents",
+        "Verifiable credential proof"
+      ]
+    },
+    {
+      "id": "ar-008",
+      "applicationNumber": "APP-3003",
+      "applicantName": "Tshiamo Ncube",
+      "reviewer": "Sizwe Jali",
+      "reviewStage": "Compliance review",
+      "status": 3,
+      "reviewDue": "2026-06-26T12:00:00Z",
+      "workflowKey": "merchant-onboarding-review",
+      "formName": "Merchant onboarding form",
+      "formVersion": "v1.0",
+      "credentialSubject": "did:wallet:applicant:3003",
+      "isCryptographicallyValid": false,
+      "sentToWallet": false,
+      "requirements": [
+        "Business registration",
+        "Bank details",
+        "Merchant agreement",
+        "Verifiable credential proof"
+      ]
+    }
+  ],
+  "formDesignerHistory": {
+    "fd-001": [
+      { "version": 1, "changedBy": "System", "changeSummary": "Initial draft created", "changedAt": "2026-05-18T10:00:00Z" },
+      { "version": 2, "changedBy": "Compliance Ops", "changeSummary": "Added identity validation", "changedAt": "2026-05-28T10:00:00Z" }
+    ],
+    "fd-002": [
+      { "version": 1, "changedBy": "System", "changeSummary": "Initial draft created", "changedAt": "2026-05-21T10:00:00Z" },
+      { "version": 2, "changedBy": "Credit Risk", "changeSummary": "Added affordability checks", "changedAt": "2026-05-30T10:00:00Z" }
+    ],
+    "fd-003": [
+      { "version": 1, "changedBy": "System", "changeSummary": "Initial draft created", "changedAt": "2026-05-23T10:00:00Z" },
+      { "version": 2, "changedBy": "Underwriting", "changeSummary": "Added policy evidence requirements", "changedAt": "2026-06-02T10:00:00Z" }
+    ],
+    "fd-004": [
+      { "version": 1, "changedBy": "System", "changeSummary": "Initial draft created", "changedAt": "2026-05-24T10:00:00Z" }
+    ],
+    "fd-005": [
+      { "version": 1, "changedBy": "System", "changeSummary": "Initial draft created", "changedAt": "2026-05-25T10:00:00Z" },
+      { "version": 2, "changedBy": "Development Finance", "changeSummary": "Added project viability section", "changedAt": "2026-06-01T10:00:00Z" },
+      { "version": 3, "changedBy": "Development Finance", "changeSummary": "Added committee approval stage", "changedAt": "2026-06-05T10:00:00Z" }
+    ],
+    "fd-006": [
+      { "version": 1, "changedBy": "System", "changeSummary": "Initial draft created", "changedAt": "2026-05-26T10:00:00Z" },
+      { "version": 2, "changedBy": "Citizen Empowerment", "changeSummary": "Added eligibility checks", "changedAt": "2026-06-03T10:00:00Z" }
+    ],
+    "fd-007": [
+      { "version": 1, "changedBy": "System", "changeSummary": "Initial draft created", "changedAt": "2026-05-27T10:00:00Z" },
+      { "version": 2, "changedBy": "Mortgage", "changeSummary": "Added collateral valuation section", "changedAt": "2026-06-04T10:00:00Z" }
+    ],
+    "fd-008": [
+      { "version": 1, "changedBy": "System", "changeSummary": "Initial draft created", "changedAt": "2026-05-28T10:00:00Z" },
+      { "version": 2, "changedBy": "Trade Finance", "changeSummary": "Added LC terms and shipping fields", "changedAt": "2026-06-05T10:00:00Z" }
+    ],
+    "fd-009": [
+      { "version": 1, "changedBy": "System", "changeSummary": "Initial draft created", "changedAt": "2026-05-29T10:00:00Z" },
+      { "version": 2, "changedBy": "Merchant Operations", "changeSummary": "Added settlement and compliance checks", "changedAt": "2026-06-06T10:00:00Z" }
+    ],
+    "fd-010": [
+      { "version": 1, "changedBy": "System", "changeSummary": "Initial draft created", "changedAt": "2026-06-11T10:00:00Z" },
+      { "version": 2, "changedBy": "Digital Channels", "changeSummary": "Added verifiable credential evidence checks", "changedAt": "2026-06-15T10:00:00Z" },
+      { "version": 3, "changedBy": "Digital Channels", "changeSummary": "Enabled auto-approval routing on proof validation", "changedAt": "2026-06-18T10:00:00Z" }
+    ],
+    "fd-011": [
+      { "version": 1, "changedBy": "System", "changeSummary": "Initial draft created", "changedAt": "2026-06-10T10:00:00Z" },
+      { "version": 2, "changedBy": "Grants", "changeSummary": "Added grant eligibility evidence", "changedAt": "2026-06-14T10:00:00Z" },
+      { "version": 3, "changedBy": "Grants", "changeSummary": "Linked approval workflow to cryptographic proof validation", "changedAt": "2026-06-18T12:00:00Z" }
+    ],
+    "fd-012": [
+      { "version": 1, "changedBy": "System", "changeSummary": "Initial draft created", "changedAt": "2026-06-12T10:00:00Z" },
+      { "version": 2, "changedBy": "Investment Committee", "changeSummary": "Added VC proof and committee evidence pack", "changedAt": "2026-06-17T10:00:00Z" }
+    ]
+  }
+}

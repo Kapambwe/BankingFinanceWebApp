@@ -1,0 +1,67 @@
+[
+  {
+    "id": "form-motor-claim-submission",
+    "code": "FORM-MOTOR-CLAIM-SUBMISSION",
+    "name": "Motor Claim Submission",
+    "purpose": "Captures first notice of loss and supporting claim evidence.",
+    "owner": "Claims",
+    "status": "Active",
+    "lifecycle": "Production-ready",
+    "lastUpdated": "2026-06-19T13:00:00Z",
+    "usedFor": [ "Motor claim", "Accident claim" ],
+    "sections": [
+      {
+        "title": "Policy Details",
+        "description": "Capture the policy and claimant details.",
+        "fields": [
+          { "key": "policyNumber", "label": "Policy number", "type": "Text", "required": true },
+          { "key": "claimantName", "label": "Claimant name", "type": "Text", "required": true },
+          { "key": "contactNumber", "label": "Contact number", "type": "Text", "required": true }
+        ]
+      },
+      {
+        "title": "Loss Details",
+        "description": "Capture the incident details and evidence pack.",
+        "fields": [
+          { "key": "incidentDate", "label": "Incident date", "type": "Date", "required": true },
+          { "key": "lossDescription", "label": "Loss description", "type": "Multiline", "required": true },
+          { "key": "policeReport", "label": "Police report", "type": "File", "required": false }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "form-policy-endorsement-request",
+    "code": "FORM-POLICY-ENDORSEMENT-REQUEST",
+    "name": "Policy Endorsement Request",
+    "purpose": "Captures policy change requests such as beneficiaries and coverage amendments.",
+    "owner": "Policy Admin",
+    "status": "Active",
+    "lifecycle": "Production-ready",
+    "lastUpdated": "2026-06-19T13:10:00Z",
+    "usedFor": [ "Policy endorsement", "Policy amendment" ],
+    "sections": [
+      {
+        "title": "Policy Information",
+        "description": "Capture the policy and insured details.",
+        "fields": [
+          { "key": "policyNumber", "label": "Policy number", "type": "Text", "required": true },
+          { "key": "insuredName", "label": "Insured name", "type": "Text", "required": true },
+          { "key": "endorsementType", "label": "Endorsement type", "type": "Select", "required": true, "options": [
+            { "value": "beneficiary", "label": "Beneficiary change" },
+            { "value": "vehicle", "label": "Vehicle update" },
+            { "value": "sum-assured", "label": "Sum assured update" }
+          ] }
+        ]
+      },
+      {
+        "title": "Change Request",
+        "description": "Capture the requested amendment and supporting files.",
+        "fields": [
+          { "key": "requestedChange", "label": "Requested change", "type": "Multiline", "required": true },
+          { "key": "supportingDocuments", "label": "Supporting documents", "type": "File", "required": false }
+        ]
+      }
+    ]
+  }
+]

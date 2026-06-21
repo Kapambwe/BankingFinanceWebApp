@@ -1,0 +1,160 @@
+[
+  {
+    "partnerId": "RP-ENG-001",
+    "businessName": "Tesco England Ltd",
+    "brandName": "Tesco",
+    "partnerType": "Pharmacy",
+    "country": "England",
+    "currency": "GBP",
+    "contactPerson": "Partner Manager 1",
+    "email": "banking@tesco.en",
+    "phoneNumber": "+311-578-671144",
+    "servicesOffered": [
+      "AirtimePurchase",
+      "CashDeposit",
+      "CashWithdrawal"
+    ],
+    "acceptedPaymentMethods": [
+      "USSD",
+      "CardTap",
+      "AccountNumber",
+      "QRCode"
+    ],
+    "totalStores": 72,
+    "activeStores": 70,
+    "storeLocations": [
+      "London",
+      "Leeds",
+      "Birmingham",
+      "Manchester"
+    ],
+    "monthlyTransactionVolume": 7635836.33,
+    "monthlyTransactionCount": 25392,
+    "averageTransactionSize": 969.01,
+    "commissionRate": 0.67,
+    "monthlyRevenue": 61566.18,
+    "partnershipStartDate": "2021-07-19T18:10:28Z",
+    "status": "Active",
+    "brandColor": "#279513",
+    "isIntegrated": true,
+    "lastSyncDate": "2026-03-02T18:10:28Z"
+  },
+  {
+    "partnerId": "RP-ENG-002",
+    "businessName": "Sainsbury's England Ltd",
+    "brandName": "Sainsbury's",
+    "partnerType": "ConvenienceStore",
+    "country": "England",
+    "currency": "GBP",
+    "contactPerson": "Partner Manager 2",
+    "email": "banking@sainsbury's.en",
+    "phoneNumber": "+722-144-957170",
+    "servicesOffered": [
+      "AirtimePurchase",
+      "BillPayment",
+      "AccountOpening"
+    ],
+    "acceptedPaymentMethods": [
+      "PhoneNumber",
+      "CardTap",
+      "USSD",
+      "Cash",
+      "QRCode",
+      "AccountNumber"
+    ],
+    "totalStores": 156,
+    "activeStores": 155,
+    "storeLocations": [
+      "Leeds",
+      "London"
+    ],
+    "monthlyTransactionVolume": 2491431.08,
+    "monthlyTransactionCount": 45198,
+    "averageTransactionSize": 147.49,
+    "commissionRate": 1.71,
+    "monthlyRevenue": 19384.12,
+    "partnershipStartDate": "2023-03-06T18:10:28Z",
+    "status": "Active",
+    "brandColor": "#eeb78e",
+    "isIntegrated": true,
+    "lastSyncDate": null
+  },
+  {
+    "partnerId": "RP-ENG-003",
+    "businessName": "Marks & Spencer England Ltd",
+    "brandName": "Marks & Spencer",
+    "partnerType": "ConvenienceStore",
+    "country": "England",
+    "currency": "GBP",
+    "contactPerson": "Partner Manager 3",
+    "email": "banking@marksandspen.en",
+    "phoneNumber": "+731-529-279956",
+    "servicesOffered": [
+      "AccountOpening",
+      "AirtimePurchase",
+      "MoneyTransfer",
+      "LoanPayment",
+      "CashDeposit"
+    ],
+    "acceptedPaymentMethods": [
+      "AccountNumber",
+      "Cash",
+      "CardTap",
+      "PhoneNumber",
+      "USSD"
+    ],
+    "totalStores": 87,
+    "activeStores": 81,
+    "storeLocations": [
+      "Manchester",
+      "London"
+    ],
+    "monthlyTransactionVolume": 5130546.6,
+    "monthlyTransactionCount": 34270,
+    "averageTransactionSize": 423.52,
+    "commissionRate": 1.22,
+    "monthlyRevenue": 76706.7,
+    "partnershipStartDate": "2023-11-19T18:10:28Z",
+    "status": "Active",
+    "brandColor": "#597b7b",
+    "isIntegrated": false,
+    "lastSyncDate": "2026-03-03T18:10:28Z"
+  },
+  {
+    "partnerId": "RP-ENG-004",
+    "businessName": "Boots England Ltd",
+    "brandName": "Boots",
+    "partnerType": "Supermarket",
+    "country": "England",
+    "currency": "GBP",
+    "contactPerson": "Partner Manager 4",
+    "email": "banking@boots.en",
+    "phoneNumber": "+612-981-620580",
+    "servicesOffered": [
+      "AirtimePurchase",
+      "MoneyTransfer",
+      "CashWithdrawal",
+      "CashDeposit"
+    ],
+    "acceptedPaymentMethods": [
+      "QRCode",
+      "Cash"
+    ],
+    "totalStores": 211,
+    "activeStores": 200,
+    "storeLocations": [
+      "Leeds",
+      "Birmingham"
+    ],
+    "monthlyTransactionVolume": 5461925.22,
+    "monthlyTransactionCount": 9912,
+    "averageTransactionSize": 906.09,
+    "commissionRate": 1.42,
+    "monthlyRevenue": 27589.73,
+    "partnershipStartDate": "2024-12-01T18:10:28Z",
+    "status": "Active",
+    "brandColor": "#52faa0",
+    "isIntegrated": true,
+    "lastSyncDate": "2026-03-03T18:10:28Z"
+  }
+]

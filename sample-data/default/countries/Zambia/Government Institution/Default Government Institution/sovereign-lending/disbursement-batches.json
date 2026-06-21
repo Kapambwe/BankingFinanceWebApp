@@ -1,0 +1,18 @@
+[
+  {
+    "BatchId": "11111111-1111-1111-1111-111111111114",
+    "ProgramId": "11111111-1111-1111-1111-111111111111",
+    "ProgramName": "National SME Recovery Facility",
+    "BatchNumber": "BAT-2026-0001",
+    "LoanCount": 18,
+    "TotalAmount": 12600000,
+    "DisbursementChannel": "Bank Transfer",
+    "Currency": "ZMW",
+    "SuccessCount": 18,
+    "FailedCount": 0,
+    "ApprovedBy": "Treasury Operations",
+    "Status": "Completed",
+    "BatchDate": "2026-06-15T00:00:00Z",
+    "CreatedAt": "2026-06-15T00:00:00Z"
+  }
+]

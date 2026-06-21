@@ -1,0 +1,93 @@
+[
+  {
+    "workflowKey": "loan-origination",
+    "title": "Loan application review",
+    "description": "Wallet-submitted loan applications, income evidence and cryptographic proofs.",
+    "order": 1,
+    "featured": true
+  },
+  {
+    "workflowKey": "account-opening",
+    "title": "Account opening review",
+    "description": "New account, deposit and card onboarding journeys driven by wallet evidence.",
+    "order": 2,
+    "featured": true
+  },
+  {
+    "workflowKey": "insurance-underwriting",
+    "title": "Insurance underwriting review",
+    "description": "Policy schedules, insurer documents and proof trails for underwriting decisions.",
+    "order": 3,
+    "featured": true
+  },
+  {
+    "workflowKey": "kyc-refresh",
+    "title": "KYC refresh review",
+    "description": "Periodic identity refresh and screening updates from Citizen Wallet.",
+    "order": 4,
+    "featured": true
+  },
+  {
+    "workflowKey": "credit-limit-increase",
+    "title": "Credit limit increase review",
+    "description": "Affordability and conduct-based increases for existing customers.",
+    "order": 5,
+    "featured": false
+  },
+  {
+    "workflowKey": "merchant-onboarding",
+    "title": "Merchant onboarding review",
+    "description": "Business registration and control evidence for merchant activation.",
+    "order": 6,
+    "featured": false
+  },
+  {
+    "workflowKey": "card-issuance",
+    "title": "Card issuance review",
+    "description": "Identity, delivery and activation checks before card issuance.",
+    "order": 7,
+    "featured": false
+  },
+  {
+    "workflowKey": "loan-top-up",
+    "title": "Loan top-up review",
+    "description": "Additional funding requests for existing borrowers.",
+    "order": 8,
+    "featured": false
+  },
+  {
+    "workflowKey": "corporate-onboarding",
+    "title": "Corporate onboarding review",
+    "description": "SME and corporate account opening with authority checks.",
+    "order": 9,
+    "featured": false
+  },
+  {
+    "workflowKey": "mortgage-origination",
+    "title": "Mortgage review",
+    "description": "Property valuation, affordability and borrower verification.",
+    "order": 10,
+    "featured": false
+  },
+  {
+    "workflowKey": "trade-finance",
+    "title": "Trade finance review",
+    "description": "Documentary trade packs, counterparties and approval routing.",
+    "order": 11,
+    "featured": false
+  },
+  {
+    "workflowKey": "sme-onboarding",
+    "title": "SME onboarding review",
+    "description": "Entity, ownership and risk checks for small business onboarding.",
+    "order": 12,
+    "featured": false
+  },
+  {
+    "workflowKey": "deposit-opening",
+    "title": "Deposit opening review",
+    "description": "Deposit product onboarding and activation controls.",
+    "order": 13,
+    "featured": false
+  }
+]

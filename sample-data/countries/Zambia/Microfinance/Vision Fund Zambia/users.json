@@ -1,0 +1,177 @@
+﻿[
+    {
+        "userId":  "4351b43b-3726-4af0-aa89-dee0f654c71a",
+        "email":  "fieldofficer.microfinance",
+        "username":  "fieldofficer.microfinance",
+        "firstName":  "Field",
+        "lastName":  "Officer",
+        "institutionType":  "Microfinance",
+        "institutionName":  "Vision Fund Zambia",
+        "institutionId":  "a1593d88-23fb-456e-af04-1bdb5b99a604",
+        "roles":  [
+                      "FieldOfficer"
+                  ],
+        "permissions":  [
+
+                        ],
+        "isActive":  true,
+        "isEmailVerified":  true,
+        "isPhoneVerified":  true,
+        "isIdentityVerified":  true,
+        "trustScore":  95,
+        "createdAt":  "2023-09-13T00:00:00Z",
+        "phoneNumber":  "+260977000000",
+        "gender":  "Other",
+        "nationality":  "Zambian"
+    },
+    {
+        "userId":  "1b348034-2c7e-4920-9803-ee367662a18f",
+        "email":  "grouplendingofficer.microfinance",
+        "username":  "grouplendingofficer.microfinance",
+        "firstName":  "Group",
+        "lastName":  "Officer",
+        "institutionType":  "Microfinance",
+        "institutionName":  "Vision Fund Zambia",
+        "institutionId":  "77394e06-bd2c-4ad1-aa44-98327905fb93",
+        "roles":  [
+                      "GroupLendingOfficer"
+                  ],
+        "permissions":  [
+
+                        ],
+        "isActive":  true,
+        "isEmailVerified":  true,
+        "isPhoneVerified":  true,
+        "isIdentityVerified":  true,
+        "trustScore":  95,
+        "createdAt":  "2023-09-13T00:00:00Z",
+        "phoneNumber":  "+260977000000",
+        "gender":  "Other",
+        "nationality":  "Zambian"
+    },
+    {
+        "userId":  "bd3ea890-ea80-4b51-8590-5022a55aa81a",
+        "email":  "mfibranchmanager.microfinance",
+        "username":  "mfibranchmanager.microfinance",
+        "firstName":  "MFIBranch",
+        "lastName":  "Manager",
+        "institutionType":  "Microfinance",
+        "institutionName":  "Vision Fund Zambia",
+        "institutionId":  "4632340a-1b8d-4676-9a1a-05a573cf9b67",
+        "roles":  [
+                      "MFIBranchManager"
+                  ],
+        "permissions":  [
+
+                        ],
+        "isActive":  true,
+        "isEmailVerified":  true,
+        "isPhoneVerified":  true,
+        "isIdentityVerified":  true,
+        "trustScore":  95,
+        "createdAt":  "2023-09-13T00:00:00Z",
+        "phoneNumber":  "+260977000000",
+        "gender":  "Other",
+        "nationality":  "Zambian"
+    },
+    {
+        "userId":  "74c81f45-aefa-4940-95dc-9383e3dbf139",
+        "email":  "mfiloanofficer.microfinance",
+        "username":  "mfiloanofficer.microfinance",
+        "firstName":  "MFILoan",
+        "lastName":  "Officer",
+        "institutionType":  "Microfinance",
+        "institutionName":  "Vision Fund Zambia",
+        "institutionId":  "065aac96-e0ee-4fb1-b29a-cb219e001d1c",
+        "roles":  [
+                      "MFILoanOfficer"
+                  ],
+        "permissions":  [
+
+                        ],
+        "isActive":  true,
+        "isEmailVerified":  true,
+        "isPhoneVerified":  true,
+        "isIdentityVerified":  true,
+        "trustScore":  95,
+        "createdAt":  "2023-09-13T00:00:00Z",
+        "phoneNumber":  "+260977000000",
+        "gender":  "Other",
+        "nationality":  "Zambian"
+    },
+    {
+        "userId":  "f139b9e7-ab13-43ee-8585-e3aebbbed0bd",
+        "email":  "microfinanceadmin.microfinance",
+        "username":  "microfinanceadmin.microfinance",
+        "firstName":  "Microfinance",
+        "lastName":  "Admin",
+        "institutionType":  "Microfinance",
+        "institutionName":  "Vision Fund Zambia",
+        "institutionId":  "9e9135fc-c84f-4efd-b41f-72a4fee66916",
+        "roles":  [
+                      "MicrofinanceAdmin"
+                  ],
+        "permissions":  [
+
+                        ],
+        "isActive":  true,
+        "isEmailVerified":  true,
+        "isPhoneVerified":  true,
+        "isIdentityVerified":  true,
+        "trustScore":  95,
+        "createdAt":  "2023-09-13T00:00:00Z",
+        "phoneNumber":  "+260977000000",
+        "gender":  "Other",
+        "nationality":  "Zambian"
+    },
+    {
+        "userId":  "fcb7cfb2-b6bb-4b71-9da6-18588cf8a34a",
+        "email":  "savingsteller.microfinance",
+        "username":  "savingsteller.microfinance",
+        "firstName":  "Savings",
+        "lastName":  "Teller",
+        "institutionType":  "Microfinance",
+        "institutionName":  "Vision Fund Zambia",
+        "institutionId":  "4966a525-2a7e-4e2e-abd2-70982ba0c164",
+        "roles":  [
+                      "SavingsTeller"
+                  ],
+        "permissions":  [
+
+                        ],
+        "isActive":  true,
+        "isEmailVerified":  true,
+        "isPhoneVerified":  true,
+        "isIdentityVerified":  true,
+        "trustScore":  95,
+        "createdAt":  "2023-09-13T00:00:00Z",
+        "phoneNumber":  "+260977000000",
+        "gender":  "Other",
+        "nationality":  "Zambian"
+    },
+    {
+        "userId":  "208f65c7-e68d-4666-85cb-8fc842a1af68",
+        "email":  "socialperformanceofficer.microfinance",
+        "username":  "socialperformanceofficer.microfinance",
+        "firstName":  "Social",
+        "lastName":  "Officer",
+        "institutionType":  "Microfinance",
+        "institutionName":  "Vision Fund Zambia",
+        "institutionId":  "fb5fa28e-b68b-447d-b356-8f78998cb843",
+        "roles":  [
+                      "SocialPerformanceOfficer"
+                  ],
+        "permissions":  [
+
+                        ],
+        "isActive":  true,
+        "isEmailVerified":  true,
+        "isPhoneVerified":  true,
+        "isIdentityVerified":  true,
+        "trustScore":  95,
+        "createdAt":  "2023-09-13T00:00:00Z",
+        "phoneNumber":  "+260977000000",
+        "gender":  "Other",
+        "nationality":  "Zambian"
+    }
+]

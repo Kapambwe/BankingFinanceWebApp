@@ -1,0 +1,117 @@
+[
+  {
+    "userId": "ca79b2be-094f-432a-81c7-b738f70c5d52",
+    "email": "admin.vc",
+    "username": "admin.vc",
+    "firstName": "VC",
+    "lastName": "Admin",
+    "institutionType": "Venture Capital",
+    "institutionName": "Kukula Capital",
+    "institutionId": "39aee8be-a180-41e2-ad8e-895f6ec86347",
+    "roles": [
+      "VCAdmin"
+    ],
+    "permissions": [],
+    "isActive": true,
+    "isEmailVerified": true,
+    "isPhoneVerified": true,
+    "isIdentityVerified": true,
+    "trustScore": 95,
+    "createdAt": "2023-12-08T00:00:00Z",
+    "phoneNumber": "+260977000000",
+    "gender": "Other",
+    "nationality": "Zambian"
+  },
+  {
+    "userId": "bd013ebe-8af0-4b5d-87f2-23dd620e46a5",
+    "email": "partner.vc",
+    "username": "partner.vc",
+    "firstName": "VC",
+    "lastName": "Partner",
+    "institutionType": "Venture Capital",
+    "institutionName": "Kukula Capital",
+    "institutionId": "39aee8be-a180-41e2-ad8e-895f6ec86347",
+    "roles": [
+      "VCPartner"
+    ],
+    "permissions": [],
+    "isActive": true,
+    "isEmailVerified": true,
+    "isPhoneVerified": true,
+    "isIdentityVerified": true,
+    "trustScore": 95,
+    "createdAt": "2023-12-08T00:00:00Z",
+    "phoneNumber": "+260977000000",
+    "gender": "Other",
+    "nationality": "Zambian"
+  },
+  {
+    "userId": "27b2e1c9-cf16-4736-abef-387a6de5dbf5",
+    "email": "associate.vc",
+    "username": "associate.vc",
+    "firstName": "Investment",
+    "lastName": "Associate",
+    "institutionType": "Venture Capital",
+    "institutionName": "Kukula Capital",
+    "institutionId": "39aee8be-a180-41e2-ad8e-895f6ec86347",
+    "roles": [
+      "InvestmentAssociate"
+    ],
+    "permissions": [],
+    "isActive": true,
+    "isEmailVerified": true,
+    "isPhoneVerified": true,
+    "isIdentityVerified": true,
+    "trustScore": 95,
+    "createdAt": "2023-12-08T00:00:00Z",
+    "phoneNumber": "+260977000000",
+    "gender": "Other",
+    "nationality": "Zambian"
+  },
+  {
+    "userId": "5f46c55d-9090-45c2-b417-d5c5257ad0f4",
+    "email": "fundcontroller.vc",
+    "username": "fundcontroller.vc",
+    "firstName": "Fund",
+    "lastName": "Controller",
+    "institutionType": "Venture Capital",
+    "institutionName": "Kukula Capital",
+    "institutionId": "39aee8be-a180-41e2-ad8e-895f6ec86347",
+    "roles": [
+      "FundController"
+    ],
+    "permissions": [],
+    "isActive": true,
+    "isEmailVerified": true,
+    "isPhoneVerified": true,
+    "isIdentityVerified": true,
+    "trustScore": 95,
+    "createdAt": "2023-12-08T00:00:00Z",
+    "phoneNumber": "+260977000000",
+    "gender": "Other",
+    "nationality": "Zambian"
+  },
+  {
+    "userId": "ef6e3e02-a7ca-4b8d-969d-c17d9f8a3029",
+    "email": "ir.vc",
+    "username": "ir.vc",
+    "firstName": "IR",
+    "lastName": "Officer",
+    "institutionType": "Venture Capital",
+    "institutionName": "Kukula Capital",
+    "institutionId": "39aee8be-a180-41e2-ad8e-895f6ec86347",
+    "roles": [
+      "IROfficer"
+    ],
+    "permissions": [],
+    "isActive": true,
+    "isEmailVerified": true,
+    "isPhoneVerified": true,
+    "isIdentityVerified": true,
+    "trustScore": 95,
+    "createdAt": "2023-12-08T00:00:00Z",
+    "phoneNumber": "+260977000000",
+    "gender": "Other",
+    "nationality": "Zambian"
+  }
+]

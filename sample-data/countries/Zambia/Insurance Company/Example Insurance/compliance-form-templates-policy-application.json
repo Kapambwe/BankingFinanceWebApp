@@ -1,0 +1,64 @@
+[
+  {
+    "id": "form-motor-policy-application",
+    "code": "FORM-MOTOR-POLICY-APPLICATION",
+    "name": "Motor Policy Application",
+    "purpose": "Captures vehicle and proposer details for motor insurance underwriting.",
+    "owner": "Motor Insurance",
+    "status": "Active",
+    "lifecycle": "Production-ready",
+    "lastUpdated": "2026-06-19T12:30:00Z",
+    "usedFor": [ "Motor policy", "Vehicle cover" ],
+    "sections": [
+      {
+        "title": "Proposer Details",
+        "description": "Capture the policyholder and contact information.",
+        "fields": [
+          { "key": "proposerName", "label": "Proposer name", "type": "Text", "required": true },
+          { "key": "idNumber", "label": "ID number", "type": "Text", "required": true },
+          { "key": "contactNumber", "label": "Contact number", "type": "Text", "required": true }
+        ]
+      },
+      {
+        "title": "Vehicle Details",
+        "description": "Capture vehicle particulars and cover requirements.",
+        "fields": [
+          { "key": "vehicleMake", "label": "Vehicle make", "type": "Text", "required": true },
+          { "key": "vehicleValue", "label": "Vehicle value", "type": "Number", "required": true },
+          { "key": "registrationCertificate", "label": "Registration certificate", "type": "File", "required": true }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "form-life-policy-application",
+    "code": "FORM-LIFE-POLICY-APPLICATION",
+    "name": "Life Policy Application",
+    "purpose": "Captures life assured details and beneficiary information.",
+    "owner": "Life Insurance",
+    "status": "Active",
+    "lifecycle": "Production-ready",
+    "lastUpdated": "2026-06-19T12:45:00Z",
+    "usedFor": [ "Life policy", "Assurance cover" ],
+    "sections": [
+      {
+        "title": "Life Assured",
+        "description": "Capture the applicant and health declarations.",
+        "fields": [
+          { "key": "lifeAssuredName", "label": "Life assured name", "type": "Text", "required": true },
+          { "key": "dateOfBirth", "label": "Date of birth", "type": "Date", "required": true },
+          { "key": "occupation", "label": "Occupation", "type": "Text", "required": true }
+        ]
+      },
+      {
+        "title": "Cover Request",
+        "description": "Capture sum assured and beneficiary details.",
+        "fields": [
+          { "key": "sumAssured", "label": "Sum assured", "type": "Number", "required": true },
+          { "key": "beneficiaryName", "label": "Beneficiary name", "type": "Text", "required": true },
+          { "key": "medicalReport", "label": "Medical report", "type": "File", "required": false }
+        ]
+      }
+    ]
+  }
+]

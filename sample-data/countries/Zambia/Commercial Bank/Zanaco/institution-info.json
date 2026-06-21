@@ -1,0 +1,17 @@
+{
+  "registrationNumber": "REG-53495",
+  "contactEmail": "zanaco@example.zm",
+  "createdAt": "2023-04-05T00:00:00Z",
+  "branches": 18,
+  "institutionType": "Commercial Bank",
+  "institutionName": "Zanaco",
+  "country": "Zambia",
+  "established": 1993,
+  "employees": 4199,
+  "contactPhone": "+260-701-819729",
+  "headquarters": "Livingstone",
+  "institutionId": "4789986a-3c47-413e-8606-76ae6df0b0ca",
+  "currency": "ZMW",
+  "status": "Active",
+  "website": "https://www.zanaco.co.zm"
+}

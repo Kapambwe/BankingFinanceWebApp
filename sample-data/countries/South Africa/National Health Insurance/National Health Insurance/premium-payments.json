@@ -1,0 +1,72 @@
+[
+  {
+    "paymentId": "pp300000-0001",
+    "policyId": "pol30000-0001",
+    "policyNumber": "POL-3-2025-00001",
+    "memberName": "Thabo Khumalo",
+    "paymentDate": "2025-10-01",
+    "amount": 2000.0,
+    "currency": "ZAR",
+    "paymentMethod": "BankTransfer",
+    "referenceNumber": "PAY-3-2025-000001",
+    "status": "Cleared",
+    "bankName": "ABSA",
+    "createdAt": "2025-10-01T00:00:00Z"
+  },
+  {
+    "paymentId": "pp300000-0002",
+    "policyId": "pol30000-0002",
+    "policyNumber": "POL-3-2025-00002",
+    "memberName": "Nomvula Ndlovu",
+    "paymentDate": "2025-11-01",
+    "amount": 3500.0,
+    "currency": "ZAR",
+    "paymentMethod": "DirectDebit",
+    "referenceNumber": "PAY-3-2025-000002",
+    "status": "Cleared",
+    "bankName": "ABSA",
+    "createdAt": "2025-11-01T00:00:00Z"
+  },
+  {
+    "paymentId": "pp300000-0003",
+    "policyId": "pol30000-0003",
+    "policyNumber": "POL-3-2025-00003",
+    "memberName": "Sipho Mthembu",
+    "paymentDate": "2025-12-01",
+    "amount": 5000.0,
+    "currency": "ZAR",
+    "paymentMethod": "MobilePayment",
+    "referenceNumber": "PAY-3-2025-000003",
+    "status": "Cleared",
+    "bankName": "ABSA",
+    "createdAt": "2025-12-01T00:00:00Z"
+  },
+  {
+    "paymentId": "pp300000-0004",
+    "policyId": "pol30000-0004",
+    "policyNumber": "POL-3-2025-00004",
+    "memberName": "Lerato Zulu",
+    "paymentDate": "2025-13-01",
+    "amount": 2000.0,
+    "currency": "ZAR",
+    "paymentMethod": "BankTransfer",
+    "referenceNumber": "PAY-3-2025-000004",
+    "status": "Cleared",
+    "bankName": "ABSA",
+    "createdAt": "2025-13-01T00:00:00Z"
+  },
+  {
+    "paymentId": "pp300000-0005",
+    "policyId": "pol30000-0005",
+    "policyNumber": "POL-3-2025-00005",
+    "memberName": "Nkosi Mokoena",
+    "paymentDate": "2025-14-01",
+    "amount": 3500.0,
+    "currency": "ZAR",
+    "paymentMethod": "DirectDebit",
+    "referenceNumber": "PAY-3-2025-000005",
+    "status": "Cleared",
+    "bankName": "ABSA",
+    "createdAt": "2025-14-01T00:00:00Z"
+  }
+]

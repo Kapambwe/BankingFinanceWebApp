@@ -1,0 +1,559 @@
+[
+  {
+    "ConsumerId": "a1b2c3d4-1111-4000-8000-000000000001",
+    "ApplicationName": "Stripe Connect",
+    "DeveloperName": "Alice Thompson",
+    "DeveloperEmail": "alice@stripe.com",
+    "ApiKey": "st_live_abc123def456",
+    "CallbackUrl": "https://api.stripe.com/revolut/webhook",
+    "Status": "Active",
+    "GrantedScopes": [
+      "accounts:read",
+      "payments:initiate",
+      "balances:read"
+    ],
+    "RequestsPerMinute": 500,
+    "RequestsPerDay": 500000,
+    "BurstLimit": 2000,
+    "CreatedAt": "2025-01-15T08:00:00Z",
+    "LastAccessedAt": "2026-02-15T14:30:00Z"
+  },
+  {
+    "ConsumerId": "a1b2c3d4-1111-4000-8000-000000000002",
+    "ApplicationName": "Wise Integration",
+    "DeveloperName": "Ben Harris",
+    "DeveloperEmail": "ben@wise.com",
+    "ApiKey": "ws_live_xyz789",
+    "CallbackUrl": "https://api.wise.com/revolut/callback",
+    "Status": "Active",
+    "GrantedScopes": [
+      "payments:initiate",
+      "payments:read",
+      "funds:confirm"
+    ],
+    "RequestsPerMinute": 300,
+    "RequestsPerDay": 200000,
+    "BurstLimit": 1000,
+    "CreatedAt": "2025-02-20T10:00:00Z",
+    "LastAccessedAt": "2026-02-16T09:15:00Z"
+  },
+  {
+    "ConsumerId": "a1b2c3d4-1111-4000-8000-000000000003",
+    "ApplicationName": "Monzo Open Banking",
+    "DeveloperName": "Charlotte Davies",
+    "DeveloperEmail": "charlotte@monzo.com",
+    "ApiKey": "mz_live_mno456",
+    "CallbackUrl": "https://api.monzo.com/hooks",
+    "Status": "Active",
+    "GrantedScopes": [
+      "accounts:read",
+      "balances:read"
+    ],
+    "RequestsPerMinute": 200,
+    "RequestsPerDay": 100000,
+    "BurstLimit": 500,
+    "CreatedAt": "2025-03-10T12:00:00Z",
+    "LastAccessedAt": "2026-02-14T11:45:00Z"
+  },
+  {
+    "ConsumerId": "a1b2c3d4-1111-4000-8000-000000000004",
+    "ApplicationName": "Starling Bank API",
+    "DeveloperName": "David Wright",
+    "DeveloperEmail": "david@starlingbank.com",
+    "ApiKey": "sl_live_pqr012",
+    "CallbackUrl": "https://api.starlingbank.com/revolut/callback",
+    "Status": "Active",
+    "GrantedScopes": [
+      "payments:initiate",
+      "accounts:read",
+      "balances:read",
+      "funds:confirm"
+    ],
+    "RequestsPerMinute": 400,
+    "RequestsPerDay": 300000,
+    "BurstLimit": 1500,
+    "CreatedAt": "2024-11-05T09:00:00Z",
+    "LastAccessedAt": "2026-02-16T10:00:00Z"
+  },
+  {
+    "ConsumerId": "a1b2c3d4-1111-4000-8000-000000000005",
+    "ApplicationName": "Plaid UK",
+    "DeveloperName": "Emma Johnson",
+    "DeveloperEmail": "emma@plaid.com",
+    "ApiKey": "pl_live_stu345",
+    "CallbackUrl": "https://api.plaid.com/revolut/webhook",
+    "Status": "Active",
+    "GrantedScopes": [
+      "accounts:read",
+      "transactions:read",
+      "balances:read"
+    ],
+    "RequestsPerMinute": 600,
+    "RequestsPerDay": 400000,
+    "BurstLimit": 2000,
+    "CreatedAt": "2024-12-01T14:00:00Z",
+    "LastAccessedAt": "2026-02-16T08:30:00Z"
+  },
+  {
+    "ConsumerId": "a1b2c3d4-1111-4000-8000-000000000006",
+    "ApplicationName": "TrueLayer Analytics",
+    "DeveloperName": "Freddie Clarke",
+    "DeveloperEmail": "freddie@truelayer.com",
+    "ApiKey": "tl_live_vwx678",
+    "CallbackUrl": "https://analytics.truelayer.com/data",
+    "Status": "Active",
+    "GrantedScopes": [
+      "accounts:read",
+      "transactions:read"
+    ],
+    "RequestsPerMinute": 100,
+    "RequestsPerDay": 50000,
+    "BurstLimit": 200,
+    "CreatedAt": "2025-04-12T11:00:00Z",
+    "LastAccessedAt": "2026-02-10T16:20:00Z"
+  },
+  {
+    "ConsumerId": "a1b2c3d4-1111-4000-8000-000000000007",
+    "ApplicationName": "Barclays Connect",
+    "DeveloperName": "Grace Evans",
+    "DeveloperEmail": "grace@barclays.com",
+    "ApiKey": "bc_live_yza901",
+    "CallbackUrl": "https://connect.barclays.co.uk/api/hook",
+    "Status": "Active",
+    "GrantedScopes": [
+      "accounts:read",
+      "payments:initiate",
+      "payments:read",
+      "balances:read"
+    ],
+    "RequestsPerMinute": 800,
+    "RequestsPerDay": 800000,
+    "BurstLimit": 3000,
+    "CreatedAt": "2024-08-15T08:00:00Z",
+    "LastAccessedAt": "2026-02-16T12:00:00Z"
+  },
+  {
+    "ConsumerId": "a1b2c3d4-1111-4000-8000-000000000008",
+    "ApplicationName": "HMRC Tax Portal",
+    "DeveloperName": "Henry Martin",
+    "DeveloperEmail": "henry.martin@hmrc.gov.uk",
+    "ApiKey": "hm_live_bcd234",
+    "CallbackUrl": "https://taxpay.hmrc.gov.uk/callback",
+    "Status": "Active",
+    "GrantedScopes": [
+      "payments:initiate",
+      "payments:read"
+    ],
+    "RequestsPerMinute": 150,
+    "RequestsPerDay": 80000,
+    "BurstLimit": 300,
+    "CreatedAt": "2025-01-20T10:00:00Z",
+    "LastAccessedAt": "2026-02-15T09:00:00Z"
+  },
+  {
+    "ConsumerId": "a1b2c3d4-1111-4000-8000-000000000009",
+    "ApplicationName": "Curve Card Link",
+    "DeveloperName": "Isla Walker",
+    "DeveloperEmail": "isla@curve.com",
+    "ApiKey": "cv_live_efg567",
+    "CallbackUrl": "https://api.curve.com/webhook",
+    "Status": "Pending",
+    "GrantedScopes": [
+      "payments:initiate",
+      "accounts:read"
+    ],
+    "RequestsPerMinute": 100,
+    "RequestsPerDay": 40000,
+    "BurstLimit": 200,
+    "CreatedAt": "2026-01-10T14:00:00Z",
+    "LastAccessedAt": null
+  },
+  {
+    "ConsumerId": "a1b2c3d4-1111-4000-8000-000000000010",
+    "ApplicationName": "PayPal Europe",
+    "DeveloperName": "Jack Taylor",
+    "DeveloperEmail": "jack.taylor@paypal.com",
+    "ApiKey": "pp_live_hij890",
+    "CallbackUrl": "https://api.paypal.com/revolut/hook",
+    "Status": "Active",
+    "GrantedScopes": [
+      "payments:initiate"
+    ],
+    "RequestsPerMinute": 500,
+    "RequestsPerDay": 500000,
+    "BurstLimit": 2000,
+    "CreatedAt": "2025-05-01T09:00:00Z",
+    "LastAccessedAt": "2026-02-14T15:00:00Z"
+  },
+  {
+    "ConsumerId": "a1b2c3d4-1111-4000-8000-000000000011",
+    "ApplicationName": "Klarna Checkout",
+    "DeveloperName": "Kira Johansson",
+    "DeveloperEmail": "kira@klarna.com",
+    "ApiKey": "kl_live_klm123",
+    "CallbackUrl": "https://api.klarna.com/revolut/hook",
+    "Status": "Active",
+    "GrantedScopes": [
+      "payments:initiate",
+      "balances:read"
+    ],
+    "RequestsPerMinute": 300,
+    "RequestsPerDay": 150000,
+    "BurstLimit": 800,
+    "CreatedAt": "2025-03-15T11:00:00Z",
+    "LastAccessedAt": "2026-02-13T10:30:00Z"
+  },
+  {
+    "ConsumerId": "a1b2c3d4-1111-4000-8000-000000000012",
+    "ApplicationName": "GoCardless",
+    "DeveloperName": "Leo Mitchell",
+    "DeveloperEmail": "leo@gocardless.com",
+    "ApiKey": "gc_live_nop456",
+    "CallbackUrl": "https://api.gocardless.com/callback",
+    "Status": "Active",
+    "GrantedScopes": [
+      "payments:initiate",
+      "accounts:read"
+    ],
+    "RequestsPerMinute": 200,
+    "RequestsPerDay": 100000,
+    "BurstLimit": 500,
+    "CreatedAt": "2025-06-01T08:00:00Z",
+    "LastAccessedAt": "2026-02-15T14:00:00Z"
+  },
+  {
+    "ConsumerId": "a1b2c3d4-1111-4000-8000-000000000013",
+    "ApplicationName": "Adyen Payments",
+    "DeveloperName": "Maria van den Berg",
+    "DeveloperEmail": "maria@adyen.com",
+    "ApiKey": "ad_live_qrs789",
+    "CallbackUrl": "https://api.adyen.com/revolut/webhook",
+    "Status": "Active",
+    "GrantedScopes": [
+      "accounts:read",
+      "balances:read",
+      "transactions:read"
+    ],
+    "RequestsPerMinute": 600,
+    "RequestsPerDay": 500000,
+    "BurstLimit": 2000,
+    "CreatedAt": "2025-04-20T13:00:00Z",
+    "LastAccessedAt": "2026-02-15T11:00:00Z"
+  },
+  {
+    "ConsumerId": "a1b2c3d4-1111-4000-8000-000000000014",
+    "ApplicationName": "Sumeria (Lydia) App",
+    "DeveloperName": "Nicolas Dupont",
+    "DeveloperEmail": "nicolas@lydia-app.com",
+    "ApiKey": "ly_live_tuv012",
+    "CallbackUrl": "https://api.lydia-app.com/hook",
+    "Status": "Active",
+    "GrantedScopes": [
+      "payments:initiate",
+      "payments:read"
+    ],
+    "RequestsPerMinute": 200,
+    "RequestsPerDay": 100000,
+    "BurstLimit": 500,
+    "CreatedAt": "2024-10-01T10:00:00Z",
+    "LastAccessedAt": "2026-02-16T07:45:00Z"
+  },
+  {
+    "ConsumerId": "a1b2c3d4-1111-4000-8000-000000000015",
+    "ApplicationName": "N26 Banking",
+    "DeveloperName": "Otto M\u00fcller",
+    "DeveloperEmail": "otto@n26.com",
+    "ApiKey": "n2_live_wxy345",
+    "CallbackUrl": "https://api.n26.com/revolut/callback",
+    "Status": "Active",
+    "GrantedScopes": [
+      "payments:initiate",
+      "balances:read",
+      "funds:confirm"
+    ],
+    "RequestsPerMinute": 300,
+    "RequestsPerDay": 150000,
+    "BurstLimit": 800,
+    "CreatedAt": "2025-01-05T09:00:00Z",
+    "LastAccessedAt": "2026-02-16T13:15:00Z"
+  },
+  {
+    "ConsumerId": "a1b2c3d4-1111-4000-8000-000000000016",
+    "ApplicationName": "Open Banking Analytics",
+    "DeveloperName": "Priya Patel",
+    "DeveloperEmail": "priya@openbanking.org.uk",
+    "ApiKey": "ob_live_zab678",
+    "CallbackUrl": "https://data.openbanking.org.uk/hook",
+    "Status": "Active",
+    "GrantedScopes": [
+      "accounts:read",
+      "transactions:read"
+    ],
+    "RequestsPerMinute": 50,
+    "RequestsPerDay": 20000,
+    "BurstLimit": 100,
+    "CreatedAt": "2025-07-10T14:00:00Z",
+    "LastAccessedAt": "2026-01-30T09:00:00Z"
+  },
+  {
+    "ConsumerId": "a1b2c3d4-1111-4000-8000-000000000017",
+    "ApplicationName": "FCA Reporting",
+    "DeveloperName": "Quinn Robertson",
+    "DeveloperEmail": "quinn@fca.org.uk",
+    "ApiKey": "fc_live_cde901",
+    "CallbackUrl": "https://reporting.fca.org.uk/api",
+    "Status": "Active",
+    "GrantedScopes": [
+      "accounts:read",
+      "balances:read",
+      "transactions:read",
+      "regulatory:submit"
+    ],
+    "RequestsPerMinute": 500,
+    "RequestsPerDay": 300000,
+    "BurstLimit": 1500,
+    "CreatedAt": "2024-06-01T08:00:00Z",
+    "LastAccessedAt": "2026-02-16T06:00:00Z"
+  },
+  {
+    "ConsumerId": "a1b2c3d4-1111-4000-8000-000000000018",
+    "ApplicationName": "HSBC Open API",
+    "DeveloperName": "Rachel Chen",
+    "DeveloperEmail": "rachel@hsbc.com",
+    "ApiKey": "hs_live_fgh234",
+    "CallbackUrl": "https://api.hsbc.com/revolut/link",
+    "Status": "Active",
+    "GrantedScopes": [
+      "payments:initiate",
+      "payments:read",
+      "balances:read"
+    ],
+    "RequestsPerMinute": 500,
+    "RequestsPerDay": 400000,
+    "BurstLimit": 2000,
+    "CreatedAt": "2024-09-15T10:00:00Z",
+    "LastAccessedAt": "2026-02-16T11:30:00Z"
+  },
+  {
+    "ConsumerId": "a1b2c3d4-1111-4000-8000-000000000019",
+    "ApplicationName": "Lloyds Digital Banking",
+    "DeveloperName": "Samuel Hughes",
+    "DeveloperEmail": "samuel@lloydsbank.com",
+    "ApiKey": "lb_live_ijk567",
+    "CallbackUrl": "https://digital.lloydsbank.com/webhook",
+    "Status": "Active",
+    "GrantedScopes": [
+      "accounts:read",
+      "balances:read",
+      "payments:initiate"
+    ],
+    "RequestsPerMinute": 400,
+    "RequestsPerDay": 200000,
+    "BurstLimit": 1000,
+    "CreatedAt": "2025-02-10T12:00:00Z",
+    "LastAccessedAt": "2026-02-15T16:00:00Z"
+  },
+  {
+    "ConsumerId": "a1b2c3d4-1111-4000-8000-000000000020",
+    "ApplicationName": "Metro Bank Digital",
+    "DeveloperName": "Tessa Murphy",
+    "DeveloperEmail": "tessa@metrobank.plc.uk",
+    "ApiKey": "mb_live_lmn890",
+    "CallbackUrl": "https://digital.metrobank.plc.uk/api",
+    "Status": "Revoked",
+    "GrantedScopes": [
+      "accounts:read"
+    ],
+    "RequestsPerMinute": 60,
+    "RequestsPerDay": 10000,
+    "BurstLimit": 100,
+    "CreatedAt": "2025-01-01T09:00:00Z",
+    "LastAccessedAt": "2025-09-15T10:00:00Z"
+  },
+  {
+    "ConsumerId": "a1b2c3d4-1111-4000-8000-000000000021",
+    "ApplicationName": "Tide Business Banking",
+    "DeveloperName": "Uma Sharma",
+    "DeveloperEmail": "uma@tide.co",
+    "ApiKey": "ti_live_opq123",
+    "CallbackUrl": "https://api.tide.co/hook",
+    "Status": "Active",
+    "GrantedScopes": [
+      "accounts:read",
+      "balances:read"
+    ],
+    "RequestsPerMinute": 150,
+    "RequestsPerDay": 60000,
+    "BurstLimit": 300,
+    "CreatedAt": "2025-08-01T08:00:00Z",
+    "LastAccessedAt": "2026-02-14T14:00:00Z"
+  },
+  {
+    "ConsumerId": "a1b2c3d4-1111-4000-8000-000000000022",
+    "ApplicationName": "Checkout.com",
+    "DeveloperName": "Viktor Novak",
+    "DeveloperEmail": "viktor@checkout.com",
+    "ApiKey": "co_live_rst456",
+    "CallbackUrl": "https://api.checkout.com/revolut/webhook",
+    "Status": "Active",
+    "GrantedScopes": [
+      "payments:initiate",
+      "accounts:read",
+      "balances:read",
+      "transactions:read"
+    ],
+    "RequestsPerMinute": 700,
+    "RequestsPerDay": 600000,
+    "BurstLimit": 2500,
+    "CreatedAt": "2024-07-20T10:00:00Z",
+    "LastAccessedAt": "2026-02-16T09:45:00Z"
+  },
+  {
+    "ConsumerId": "a1b2c3d4-1111-4000-8000-000000000023",
+    "ApplicationName": "Bunq API",
+    "DeveloperName": "Wilma de Groot",
+    "DeveloperEmail": "wilma@bunq.com",
+    "ApiKey": "bq_live_uvw789",
+    "CallbackUrl": "https://api.bunq.com/revolut/callback",
+    "Status": "Active",
+    "GrantedScopes": [
+      "accounts:read",
+      "payments:initiate"
+    ],
+    "RequestsPerMinute": 200,
+    "RequestsPerDay": 80000,
+    "BurstLimit": 400,
+    "CreatedAt": "2025-05-15T11:00:00Z",
+    "LastAccessedAt": "2026-02-15T13:30:00Z"
+  },
+  {
+    "ConsumerId": "a1b2c3d4-1111-4000-8000-000000000024",
+    "ApplicationName": "AXA Insurance Portal",
+    "DeveloperName": "Xavier Moreau",
+    "DeveloperEmail": "xavier@axa.com",
+    "ApiKey": "ax_live_xyz012",
+    "CallbackUrl": "https://portal.axa.com/revolut/api",
+    "Status": "Active",
+    "GrantedScopes": [
+      "payments:initiate",
+      "payments:read"
+    ],
+    "RequestsPerMinute": 80,
+    "RequestsPerDay": 25000,
+    "BurstLimit": 150,
+    "CreatedAt": "2025-06-20T09:00:00Z",
+    "LastAccessedAt": "2026-02-13T11:00:00Z"
+  },
+  {
+    "ConsumerId": "a1b2c3d4-1111-4000-8000-000000000025",
+    "ApplicationName": "NatWest Open Banking",
+    "DeveloperName": "Yasmine Ross",
+    "DeveloperEmail": "yasmine@natwest.com",
+    "ApiKey": "nw_live_abc345",
+    "CallbackUrl": "https://api.natwest.com/revolut/webhook",
+    "Status": "Active",
+    "GrantedScopes": [
+      "payments:initiate",
+      "accounts:read",
+      "balances:read",
+      "funds:confirm"
+    ],
+    "RequestsPerMinute": 600,
+    "RequestsPerDay": 500000,
+    "BurstLimit": 2000,
+    "CreatedAt": "2024-05-01T08:00:00Z",
+    "LastAccessedAt": "2026-02-16T14:00:00Z"
+  },
+  {
+    "ConsumerId": "a1b2c3d4-1111-4000-8000-000000000026",
+    "ApplicationName": "Worldpay Gateway",
+    "DeveloperName": "Zara Phillips",
+    "DeveloperEmail": "zara@worldpay.com",
+    "ApiKey": "wp_live_def678",
+    "CallbackUrl": "https://api.worldpay.com/revolut/link",
+    "Status": "Active",
+    "GrantedScopes": [
+      "accounts:read",
+      "balances:read"
+    ],
+    "RequestsPerMinute": 400,
+    "RequestsPerDay": 250000,
+    "BurstLimit": 1200,
+    "CreatedAt": "2025-03-01T10:00:00Z",
+    "LastAccessedAt": "2026-02-12T09:30:00Z"
+  },
+  {
+    "ConsumerId": "a1b2c3d4-1111-4000-8000-000000000027",
+    "ApplicationName": "Santander API",
+    "DeveloperName": "Ana Garc\u00eda",
+    "DeveloperEmail": "ana.garcia@santander.co.uk",
+    "ApiKey": "sa_live_ghi901",
+    "CallbackUrl": "https://api.santander.co.uk/webhook",
+    "Status": "Active",
+    "GrantedScopes": [
+      "payments:initiate",
+      "accounts:read"
+    ],
+    "RequestsPerMinute": 300,
+    "RequestsPerDay": 150000,
+    "BurstLimit": 700,
+    "CreatedAt": "2025-04-01T08:00:00Z",
+    "LastAccessedAt": "2026-02-14T10:00:00Z"
+  },
+  {
+    "ConsumerId": "a1b2c3d4-1111-4000-8000-000000000028",
+    "ApplicationName": "Paysafe Digital",
+    "DeveloperName": "Boris Petrov",
+    "DeveloperEmail": "boris@paysafe.com",
+    "ApiKey": "ps_live_jkl234",
+    "CallbackUrl": "https://digital.paysafe.com/api",
+    "Status": "Pending",
+    "GrantedScopes": [
+      "accounts:read",
+      "payments:initiate"
+    ],
+    "RequestsPerMinute": 150,
+    "RequestsPerDay": 60000,
+    "BurstLimit": 300,
+    "CreatedAt": "2026-02-01T10:00:00Z",
+    "LastAccessedAt": null
+  },
+  {
+    "ConsumerId": "a1b2c3d4-1111-4000-8000-000000000029",
+    "ApplicationName": "Transferwise Business",
+    "DeveloperName": "Chloe Anderson",
+    "DeveloperEmail": "chloe@transferwise.com",
+    "ApiKey": "tw_live_mno567",
+    "CallbackUrl": "https://api.transferwise.com/hook",
+    "Status": "Active",
+    "GrantedScopes": [
+      "payments:initiate",
+      "payments:read",
+      "balances:read"
+    ],
+    "RequestsPerMinute": 400,
+    "RequestsPerDay": 200000,
+    "BurstLimit": 1000,
+    "CreatedAt": "2025-01-10T09:00:00Z",
+    "LastAccessedAt": "2026-02-15T12:00:00Z"
+  },
+  {
+    "ConsumerId": "a1b2c3d4-1111-4000-8000-000000000030",
+    "ApplicationName": "Starship Finance",
+    "DeveloperName": "Dylan Pierce",
+    "DeveloperEmail": "dylan@starshipfinance.com",
+    "ApiKey": "sf_live_pqr890",
+    "CallbackUrl": "https://api.starshipfinance.com/hook",
+    "Status": "Active",
+    "GrantedScopes": [
+      "accounts:read",
+      "balances:read",
+      "payments:initiate"
+    ],
+    "RequestsPerMinute": 100,
+    "RequestsPerDay": 40000,
+    "BurstLimit": 200,
+    "CreatedAt": "2025-09-01T10:00:00Z",
+    "LastAccessedAt": "2026-02-16T08:00:00Z"
+  }
+]

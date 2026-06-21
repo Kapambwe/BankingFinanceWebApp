@@ -1,0 +1,205 @@
+[
+  {
+    "programId": "a11c9106-ba59-3918-927c-f42095700753",
+    "programCode": "GIZ-REG-2026-001",
+    "programName": "Technical Assistance Regional Cooperation Programme",
+    "institutionName": "GIZ",
+    "regionalBody": "SADC",
+    "cooperationType": "PhysicalIntegration",
+    "memberCountries": [
+      "Zambia",
+      "Ghana",
+      "Rwanda",
+      "Kenya"
+    ],
+    "sector": "Technical Assistance",
+    "sectorFocus": "Transport",
+    "totalCost": 108000000,
+    "institutionFinancing": 49000000,
+    "coFinancing": 27000000,
+    "currency": "EUR",
+    "keyOutputs": [
+      "Regional coordination mechanism",
+      "Joint investment pipeline",
+      "Shared monitoring framework"
+    ],
+    "status": "Implementation",
+    "approvalDate": "2025-02-15T22:00:00Z",
+    "closingDate": "2030-02-15T22:00:00Z",
+    "createdAt": "2024-12-31T22:00:00Z"
+  },
+  {
+    "programId": "1551574a-003e-4273-731f-39cbb13dcf91",
+    "programCode": "GIZ-REG-2026-002",
+    "programName": "Public Finance Regional Cooperation Programme",
+    "institutionName": "GIZ",
+    "regionalBody": "ECOWAS",
+    "cooperationType": "TradeAndCustoms",
+    "memberCountries": [
+      "Zambia",
+      "Ghana",
+      "Rwanda",
+      "Kenya"
+    ],
+    "sector": "Public Finance",
+    "sectorFocus": "Trade_Customs",
+    "totalCost": 126000000,
+    "institutionFinancing": 56000000,
+    "coFinancing": 32000000,
+    "currency": "EUR",
+    "keyOutputs": [
+      "Regional coordination mechanism",
+      "Joint investment pipeline",
+      "Shared monitoring framework"
+    ],
+    "status": "Approved",
+    "approvalDate": "2025-03-15T22:00:00Z",
+    "closingDate": "2030-03-15T22:00:00Z",
+    "createdAt": "2025-01-01T22:00:00Z"
+  },
+  {
+    "programId": "60d651a9-262c-03e2-9fb9-c3fed7c08376",
+    "programCode": "GIZ-REG-2026-003",
+    "programName": "Skills Development Regional Cooperation Programme",
+    "institutionName": "GIZ",
+    "regionalBody": "EAC",
+    "cooperationType": "FinancialIntegration",
+    "memberCountries": [
+      "Zambia",
+      "Ghana",
+      "Rwanda",
+      "Kenya"
+    ],
+    "sector": "Skills Development",
+    "sectorFocus": "FinancialServices",
+    "totalCost": 144000000,
+    "institutionFinancing": 63000000,
+    "coFinancing": 37000000,
+    "currency": "EUR",
+    "keyOutputs": [
+      "Regional coordination mechanism",
+      "Joint investment pipeline",
+      "Shared monitoring framework"
+    ],
+    "status": "Preparation",
+    "approvalDate": "2025-04-15T22:00:00Z",
+    "closingDate": "2030-04-15T22:00:00Z",
+    "createdAt": "2025-01-02T22:00:00Z"
+  },
+  {
+    "programId": "92731d30-dd1c-6466-6e8e-bf4d36c7bf0a",
+    "programCode": "GIZ-REG-2026-004",
+    "programName": "Renewable Energy Regional Cooperation Programme",
+    "institutionName": "GIZ",
+    "regionalBody": "African Union",
+    "cooperationType": "PolicyHarmonisation",
+    "memberCountries": [
+      "Zambia",
+      "Ghana",
+      "Rwanda",
+      "Kenya"
+    ],
+    "sector": "Renewable Energy",
+    "sectorFocus": "ICT_Digital",
+    "totalCost": 162000000,
+    "institutionFinancing": 70000000,
+    "coFinancing": 42000000,
+    "currency": "EUR",
+    "keyOutputs": [
+      "Regional coordination mechanism",
+      "Joint investment pipeline",
+      "Shared monitoring framework"
+    ],
+    "status": "Pipeline",
+    "approvalDate": "2025-05-15T22:00:00Z",
+    "closingDate": "2030-05-15T22:00:00Z",
+    "createdAt": "2025-01-03T22:00:00Z"
+  },
+  {
+    "programId": "3cc6cf00-20e3-fdf7-f8b0-73456a04b733",
+    "programCode": "GIZ-REG-2026-005",
+    "programName": "Agriculture Regional Cooperation Programme",
+    "institutionName": "GIZ",
+    "regionalBody": "COMESA",
+    "cooperationType": "RegionalValueChain",
+    "memberCountries": [
+      "Zambia",
+      "Ghana",
+      "Rwanda",
+      "Kenya"
+    ],
+    "sector": "Agriculture",
+    "sectorFocus": "Agriculture",
+    "totalCost": 180000000,
+    "institutionFinancing": 77000000,
+    "coFinancing": 47000000,
+    "currency": "EUR",
+    "keyOutputs": [
+      "Regional coordination mechanism",
+      "Joint investment pipeline",
+      "Shared monitoring framework"
+    ],
+    "status": "Completed",
+    "approvalDate": "2025-06-15T22:00:00Z",
+    "closingDate": "2030-06-15T22:00:00Z",
+    "createdAt": "2025-01-04T22:00:00Z"
+  },
+  {
+    "programId": "414257b3-1432-e629-ade0-11dc6f95139c",
+    "programCode": "GIZ-REG-2026-006",
+    "programName": "Governance Regional Cooperation Programme",
+    "institutionName": "GIZ",
+    "regionalBody": "ASEAN",
+    "cooperationType": "SharedNaturalResource",
+    "memberCountries": [
+      "Zambia",
+      "Ghana",
+      "Rwanda",
+      "Kenya"
+    ],
+    "sector": "Governance",
+    "sectorFocus": "Environment",
+    "totalCost": 198000000,
+    "institutionFinancing": 84000000,
+    "coFinancing": 52000000,
+    "currency": "EUR",
+    "keyOutputs": [
+      "Regional coordination mechanism",
+      "Joint investment pipeline",
+      "Shared monitoring framework"
+    ],
+    "status": "Implementation",
+    "approvalDate": "2025-07-15T22:00:00Z",
+    "closingDate": "2030-07-15T22:00:00Z",
+    "createdAt": "2025-01-05T22:00:00Z"
+  },
+  {
+    "programId": "e71bc1f7-303c-d33f-9bc1-5361541b68dc",
+    "programCode": "GIZ-REG-2026-007",
+    "programName": "Private Sector Development Regional Cooperation Programme",
+    "institutionName": "GIZ",
+    "regionalBody": "Regional Platform",
+    "cooperationType": "RegionalPowerPool",
+    "memberCountries": [
+      "Zambia",
+      "Ghana",
+      "Rwanda",
+      "Kenya"
+    ],
+    "sector": "Private Sector Development",
+    "sectorFocus": "Energy",
+    "totalCost": 216000000,
+    "institutionFinancing": 91000000,
+    "coFinancing": 57000000,
+    "currency": "EUR",
+    "keyOutputs": [
+      "Regional coordination mechanism",
+      "Joint investment pipeline",
+      "Shared monitoring framework"
+    ],
+    "status": "Approved",
+    "approvalDate": "2025-08-15T22:00:00Z",
+    "closingDate": "2030-08-15T22:00:00Z",
+    "createdAt": "2025-01-06T22:00:00Z"
+  }
+]

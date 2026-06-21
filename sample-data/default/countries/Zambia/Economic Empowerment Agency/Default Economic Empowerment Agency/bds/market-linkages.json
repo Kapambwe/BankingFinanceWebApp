@@ -1,0 +1,15 @@
+[
+  {
+    "LinkageId": "f2f2f2f2-f2f2-f2f2-f2f2-f2f2f2f2f204",
+    "BeneficiaryName": "Sibusiso Phiri",
+    "BusinessName": "Phiri Farms",
+    "Product": "Fresh Maize",
+    "BuyerName": "ZamGrocers Ltd",
+    "BuyerType": "Corporate",
+    "ContractValue": 420000,
+    "Currency": "ZMW",
+    "ContractDate": "2026-06-15T00:00:00Z",
+    "Status": "Active",
+    "CreatedAt": "2026-06-15T00:00:00Z"
+  }
+]

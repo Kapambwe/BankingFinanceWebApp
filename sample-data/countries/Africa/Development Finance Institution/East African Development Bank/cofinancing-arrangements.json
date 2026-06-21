@@ -1,0 +1,22 @@
+[
+  {
+    "arrangementId": "eadb20001-0000-0000-0000-000000000001",
+    "arrangementNumber": "EADB-UG-AGRI-2025-001",
+    "projectId": "eadb0001-0000-0000-0000-000000000001",
+    "projectName": "Uganda Agro-Processing and Trade Finance",
+    "countryName": "Uganda",
+    "sector": "Agriculture",
+    "type": "ClubDeal",
+    "totalProjectCost": 96000000,
+    "mdbShare": 42000000,
+    "coFinancierShare": 54000000,
+    "mobilizationRatio": 2.29,
+    "currency": "USD",
+    "leadFinancier": "EADB",
+    "numberOfPartners": 5,
+    "status": "Active",
+    "arrangementDate": "2025-03-01T00:00:00Z",
+    "closingDate": "2030-12-31T00:00:00Z",
+    "createdAt": "2025-03-01T00:00:00Z"
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "TemplateId": "53e7f3d7-1b0d-4f70-8c12-6b24dbb6f001",
+    "TemplateName": "Bank Statement Credential",
+    "Family": 0,
+    "Description": "Monthly balance, inflow, and outflow proof for lending and affordability checks.",
+    "SchemaVersion": "1.0",
+    "SupportsSelectiveDisclosure": true,
+    "SupportsRevocation": true,
+    "PolicySummary": "May reveal balances and cash flow without exposing every transaction.",
+    "CreatedAtUtc": "2025-12-01T00:00:00Z"
+  }
+]

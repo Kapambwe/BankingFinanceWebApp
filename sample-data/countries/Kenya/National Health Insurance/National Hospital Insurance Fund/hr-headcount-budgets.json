@@ -1,0 +1,62 @@
+[
+  {
+    "headcountBudgetId": "hb500000-0001-0000-0000-0000000005001",
+    "fiscalYear": 2026,
+    "department": "Member Services",
+    "budgetedHeadcount": 558,
+    "currentHeadcount": 513,
+    "variance": 44,
+    "recruitmentPlan": 44,
+    "currency": "KES",
+    "approvedBy": "Otieno Kamau",
+    "createdAt": "2025-10-01T00:00:00Z"
+  },
+  {
+    "headcountBudgetId": "hb500000-0002-0000-0000-0000000005002",
+    "fiscalYear": 2026,
+    "department": "Claims Administration",
+    "budgetedHeadcount": 465,
+    "currentHeadcount": 427,
+    "variance": 37,
+    "recruitmentPlan": 37,
+    "currency": "KES",
+    "approvedBy": "Otieno Kamau",
+    "createdAt": "2025-10-01T00:00:00Z"
+  },
+  {
+    "headcountBudgetId": "hb500000-0003-0000-0000-0000000005003",
+    "fiscalYear": 2026,
+    "department": "Provider Management",
+    "budgetedHeadcount": 372,
+    "currentHeadcount": 342,
+    "variance": 29,
+    "recruitmentPlan": 29,
+    "currency": "KES",
+    "approvedBy": "Otieno Kamau",
+    "createdAt": "2025-10-01T00:00:00Z"
+  },
+  {
+    "headcountBudgetId": "hb500000-0004-0000-0000-0000000005004",
+    "fiscalYear": 2026,
+    "department": "Finance & Accounts",
+    "budgetedHeadcount": 310,
+    "currentHeadcount": 285,
+    "variance": 24,
+    "recruitmentPlan": 24,
+    "currency": "KES",
+    "approvedBy": "Otieno Kamau",
+    "createdAt": "2025-10-01T00:00:00Z"
+  },
+  {
+    "headcountBudgetId": "hb500000-0005-0000-0000-0000000005005",
+    "fiscalYear": 2026,
+    "department": "Information Technology",
+    "budgetedHeadcount": 248,
+    "currentHeadcount": 228,
+    "variance": 19,
+    "recruitmentPlan": 19,
+    "currency": "KES",
+    "approvedBy": "Otieno Kamau",
+    "createdAt": "2025-10-01T00:00:00Z"
+  }
+]

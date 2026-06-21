@@ -1,0 +1,639 @@
+[
+  {
+    "mapId": "e6c5e388-6f7f-17a2-dce1-aa666b3eab3c",
+    "mapCode": "IDA-MW-IOM-2026-001",
+    "title": "Malawi Social Protection Investment Opportunity Map",
+    "producingInstitution": "International Development Association",
+    "countryCode": "MW",
+    "countryName": "Malawi",
+    "region": "Southern Africa",
+    "scope": "Country",
+    "focusSector": "Social Protection",
+    "publicationYear": 2026,
+    "totalOpportunitiesIdentified": 9,
+    "totalInvestmentPotentialMin": 43500000,
+    "totalInvestmentPotentialMax": 109500000,
+    "currency": "USD",
+    "opportunities": [
+      {
+        "opportunityId": "4777f252-901d-ac07-311a-be53bd57ac8d",
+        "opportunityName": "Social Protection platform investment",
+        "sector": "Social Protection",
+        "subSector": "Growth platform",
+        "primaryGoalAlignment": "DecentWork",
+        "secondaryGoalAlignments": [
+          "Partnerships",
+          "ClimateAction"
+        ],
+        "investmentRangeMin": 6000000,
+        "investmentRangeMax": 18000000,
+        "currency": "USD",
+        "businessModel": "Blended public-private investment",
+        "keyEnablers": [
+          "Policy support",
+          "Anchor demand"
+        ],
+        "barriersToInvestment": [
+          "Preparation cost",
+          "Currency risk"
+        ],
+        "readinessLevel": "Ready",
+        "targetInvestorTypes": [
+          "DFIs",
+          "Impact investors"
+        ],
+        "requiresBlendedFinance": true,
+        "requiresPolicyReform": false
+      },
+      {
+        "opportunityId": "c1d08650-1415-49a2-27a4-0d6c7a637509",
+        "opportunityName": "Social Protection service aggregation",
+        "sector": "Social Protection",
+        "subSector": "Service delivery",
+        "primaryGoalAlignment": "Industry",
+        "secondaryGoalAlignments": [
+          "ReducedInequalities"
+        ],
+        "investmentRangeMin": 3800000,
+        "investmentRangeMax": 11600000,
+        "currency": "USD",
+        "businessModel": "Concession or results-based contract",
+        "keyEnablers": [
+          "Demand aggregation"
+        ],
+        "barriersToInvestment": [
+          "Contract enforcement"
+        ],
+        "readinessLevel": "Developing",
+        "targetInvestorTypes": [
+          "Strategic investors",
+          "Local banks"
+        ],
+        "requiresBlendedFinance": false,
+        "requiresPolicyReform": false
+      }
+    ],
+    "featuredInvestorTypes": [
+      "Development finance institutions",
+      "Commercial banks",
+      "Impact investors",
+      "Strategic operators"
+    ],
+    "keyEnablingConditions": [
+      "Bankable project preparation",
+      "Transparent procurement",
+      "Risk-sharing instruments"
+    ],
+    "leadAnalyst": "Investment mapping team",
+    "status": "Published",
+    "publishedDate": "2026-02-18T22:00:00Z",
+    "lastUpdatedDate": "2026-05-18T22:00:00Z",
+    "createdAt": "2025-12-31T22:00:00Z"
+  },
+  {
+    "mapId": "ad32ab38-ff07-70d4-d511-5ec86f01a4d7",
+    "mapCode": "IDA-NP-IOM-2026-002",
+    "title": "Nepal Agriculture Investment Opportunity Map",
+    "producingInstitution": "International Development Association",
+    "countryCode": "NP",
+    "countryName": "Nepal",
+    "region": "South Asia",
+    "scope": "Sector",
+    "focusSector": "Agriculture",
+    "publicationYear": 2026,
+    "totalOpportunitiesIdentified": 10,
+    "totalInvestmentPotentialMin": 52000000,
+    "totalInvestmentPotentialMax": 124000000,
+    "currency": "USD",
+    "opportunities": [
+      {
+        "opportunityId": "6c3574c3-dd84-7175-377d-48648ede9264",
+        "opportunityName": "Agriculture platform investment",
+        "sector": "Agriculture",
+        "subSector": "Growth platform",
+        "primaryGoalAlignment": "DecentWork",
+        "secondaryGoalAlignments": [
+          "Partnerships",
+          "ClimateAction"
+        ],
+        "investmentRangeMin": 7000000,
+        "investmentRangeMax": 20000000,
+        "currency": "USD",
+        "businessModel": "Blended public-private investment",
+        "keyEnablers": [
+          "Policy support",
+          "Anchor demand"
+        ],
+        "barriersToInvestment": [
+          "Preparation cost",
+          "Currency risk"
+        ],
+        "readinessLevel": "Ready",
+        "targetInvestorTypes": [
+          "DFIs",
+          "Impact investors"
+        ],
+        "requiresBlendedFinance": true,
+        "requiresPolicyReform": true
+      },
+      {
+        "opportunityId": "bb86c26a-82f6-c760-11b6-3f742dbda5c3",
+        "opportunityName": "Agriculture service aggregation",
+        "sector": "Agriculture",
+        "subSector": "Service delivery",
+        "primaryGoalAlignment": "Industry",
+        "secondaryGoalAlignments": [
+          "ReducedInequalities"
+        ],
+        "investmentRangeMin": 4600000,
+        "investmentRangeMax": 13200000,
+        "currency": "USD",
+        "businessModel": "Concession or results-based contract",
+        "keyEnablers": [
+          "Demand aggregation"
+        ],
+        "barriersToInvestment": [
+          "Contract enforcement"
+        ],
+        "readinessLevel": "Developing",
+        "targetInvestorTypes": [
+          "Strategic investors",
+          "Local banks"
+        ],
+        "requiresBlendedFinance": false,
+        "requiresPolicyReform": false
+      }
+    ],
+    "featuredInvestorTypes": [
+      "Development finance institutions",
+      "Commercial banks",
+      "Impact investors",
+      "Strategic operators"
+    ],
+    "keyEnablingConditions": [
+      "Bankable project preparation",
+      "Transparent procurement",
+      "Risk-sharing instruments"
+    ],
+    "leadAnalyst": "Market creation unit",
+    "status": "PeerReview",
+    "publishedDate": "2026-03-18T22:00:00Z",
+    "lastUpdatedDate": "2026-06-18T22:00:00Z",
+    "createdAt": "2026-01-01T22:00:00Z"
+  },
+  {
+    "mapId": "9f1e818f-9aab-1499-8496-4a18ce21b0c0",
+    "mapCode": "IDA-MZ-IOM-2026-003",
+    "title": "Mozambique Education Investment Opportunity Map",
+    "producingInstitution": "International Development Association",
+    "countryCode": "MZ",
+    "countryName": "Mozambique",
+    "region": "Southern Africa",
+    "scope": "Regional",
+    "focusSector": "Education",
+    "publicationYear": 2026,
+    "totalOpportunitiesIdentified": 11,
+    "totalInvestmentPotentialMin": 60500000,
+    "totalInvestmentPotentialMax": 138500000,
+    "currency": "USD",
+    "opportunities": [
+      {
+        "opportunityId": "21c9b5b1-25f8-5574-c720-7b0bfa0de822",
+        "opportunityName": "Education platform investment",
+        "sector": "Education",
+        "subSector": "Growth platform",
+        "primaryGoalAlignment": "DecentWork",
+        "secondaryGoalAlignments": [
+          "Partnerships",
+          "ClimateAction"
+        ],
+        "investmentRangeMin": 8000000,
+        "investmentRangeMax": 22000000,
+        "currency": "USD",
+        "businessModel": "Blended public-private investment",
+        "keyEnablers": [
+          "Policy support",
+          "Anchor demand"
+        ],
+        "barriersToInvestment": [
+          "Preparation cost",
+          "Currency risk"
+        ],
+        "readinessLevel": "Ready",
+        "targetInvestorTypes": [
+          "DFIs",
+          "Impact investors"
+        ],
+        "requiresBlendedFinance": true,
+        "requiresPolicyReform": false
+      },
+      {
+        "opportunityId": "e16dfdb0-19d1-05e7-74f3-e655e1fb9a0b",
+        "opportunityName": "Education service aggregation",
+        "sector": "Education",
+        "subSector": "Service delivery",
+        "primaryGoalAlignment": "Industry",
+        "secondaryGoalAlignments": [
+          "ReducedInequalities"
+        ],
+        "investmentRangeMin": 5400000,
+        "investmentRangeMax": 14800000,
+        "currency": "USD",
+        "businessModel": "Concession or results-based contract",
+        "keyEnablers": [
+          "Demand aggregation"
+        ],
+        "barriersToInvestment": [
+          "Contract enforcement"
+        ],
+        "readinessLevel": "Developing",
+        "targetInvestorTypes": [
+          "Strategic investors",
+          "Local banks"
+        ],
+        "requiresBlendedFinance": true,
+        "requiresPolicyReform": false
+      }
+    ],
+    "featuredInvestorTypes": [
+      "Development finance institutions",
+      "Commercial banks",
+      "Impact investors",
+      "Strategic operators"
+    ],
+    "keyEnablingConditions": [
+      "Bankable project preparation",
+      "Transparent procurement",
+      "Risk-sharing instruments"
+    ],
+    "leadAnalyst": "Sector economist",
+    "status": "Draft",
+    "publishedDate": "2026-04-18T22:00:00Z",
+    "lastUpdatedDate": "2026-07-18T22:00:00Z",
+    "createdAt": "2026-01-02T22:00:00Z"
+  },
+  {
+    "mapId": "d3ab8590-b0c0-30a6-a96d-7f058090ded1",
+    "mapCode": "IDA-RW-IOM-2026-004",
+    "title": "Rwanda Health Investment Opportunity Map",
+    "producingInstitution": "International Development Association",
+    "countryCode": "RW",
+    "countryName": "Rwanda",
+    "region": "East Africa",
+    "scope": "ThematicCrossCutting",
+    "focusSector": "Health",
+    "publicationYear": 2026,
+    "totalOpportunitiesIdentified": 12,
+    "totalInvestmentPotentialMin": 69000000,
+    "totalInvestmentPotentialMax": 153000000,
+    "currency": "USD",
+    "opportunities": [
+      {
+        "opportunityId": "ef9b2c43-bf30-f1c3-45ae-ddd6af0089d3",
+        "opportunityName": "Health platform investment",
+        "sector": "Health",
+        "subSector": "Growth platform",
+        "primaryGoalAlignment": "DecentWork",
+        "secondaryGoalAlignments": [
+          "Partnerships",
+          "ClimateAction"
+        ],
+        "investmentRangeMin": 9000000,
+        "investmentRangeMax": 24000000,
+        "currency": "USD",
+        "businessModel": "Blended public-private investment",
+        "keyEnablers": [
+          "Policy support",
+          "Anchor demand"
+        ],
+        "barriersToInvestment": [
+          "Preparation cost",
+          "Currency risk"
+        ],
+        "readinessLevel": "Ready",
+        "targetInvestorTypes": [
+          "DFIs",
+          "Impact investors"
+        ],
+        "requiresBlendedFinance": true,
+        "requiresPolicyReform": true
+      },
+      {
+        "opportunityId": "59be5bee-5bc9-64d7-4c81-e12cf616ca57",
+        "opportunityName": "Health service aggregation",
+        "sector": "Health",
+        "subSector": "Service delivery",
+        "primaryGoalAlignment": "Industry",
+        "secondaryGoalAlignments": [
+          "ReducedInequalities"
+        ],
+        "investmentRangeMin": 6200000,
+        "investmentRangeMax": 16400000,
+        "currency": "USD",
+        "businessModel": "Concession or results-based contract",
+        "keyEnablers": [
+          "Demand aggregation"
+        ],
+        "barriersToInvestment": [
+          "Contract enforcement"
+        ],
+        "readinessLevel": "Developing",
+        "targetInvestorTypes": [
+          "Strategic investors",
+          "Local banks"
+        ],
+        "requiresBlendedFinance": false,
+        "requiresPolicyReform": false
+      }
+    ],
+    "featuredInvestorTypes": [
+      "Development finance institutions",
+      "Commercial banks",
+      "Impact investors",
+      "Strategic operators"
+    ],
+    "keyEnablingConditions": [
+      "Bankable project preparation",
+      "Transparent procurement",
+      "Risk-sharing instruments"
+    ],
+    "leadAnalyst": "Country investment desk",
+    "status": "UpdateInProgress",
+    "publishedDate": "2026-05-18T22:00:00Z",
+    "lastUpdatedDate": "2026-08-18T22:00:00Z",
+    "createdAt": "2026-01-03T22:00:00Z"
+  },
+  {
+    "mapId": "0e77c0a1-8084-576d-df71-698f210c50cd",
+    "mapCode": "IDA-ET-IOM-2026-005",
+    "title": "Ethiopia Rural Roads Investment Opportunity Map",
+    "producingInstitution": "International Development Association",
+    "countryCode": "ET",
+    "countryName": "Ethiopia",
+    "region": "East Africa",
+    "scope": "Country",
+    "focusSector": "Rural Roads",
+    "publicationYear": 2026,
+    "totalOpportunitiesIdentified": 13,
+    "totalInvestmentPotentialMin": 77500000,
+    "totalInvestmentPotentialMax": 167500000,
+    "currency": "USD",
+    "opportunities": [
+      {
+        "opportunityId": "980c1d92-7cf5-4daf-ddad-8288b73662ba",
+        "opportunityName": "Rural Roads platform investment",
+        "sector": "Rural Roads",
+        "subSector": "Growth platform",
+        "primaryGoalAlignment": "DecentWork",
+        "secondaryGoalAlignments": [
+          "Partnerships",
+          "ClimateAction"
+        ],
+        "investmentRangeMin": 10000000,
+        "investmentRangeMax": 26000000,
+        "currency": "USD",
+        "businessModel": "Blended public-private investment",
+        "keyEnablers": [
+          "Policy support",
+          "Anchor demand"
+        ],
+        "barriersToInvestment": [
+          "Preparation cost",
+          "Currency risk"
+        ],
+        "readinessLevel": "Ready",
+        "targetInvestorTypes": [
+          "DFIs",
+          "Impact investors"
+        ],
+        "requiresBlendedFinance": true,
+        "requiresPolicyReform": false
+      },
+      {
+        "opportunityId": "959dabf7-4b97-ca7b-eb3c-143b74766eb5",
+        "opportunityName": "Rural Roads service aggregation",
+        "sector": "Rural Roads",
+        "subSector": "Service delivery",
+        "primaryGoalAlignment": "Industry",
+        "secondaryGoalAlignments": [
+          "ReducedInequalities"
+        ],
+        "investmentRangeMin": 7000000,
+        "investmentRangeMax": 18000000,
+        "currency": "USD",
+        "businessModel": "Concession or results-based contract",
+        "keyEnablers": [
+          "Demand aggregation"
+        ],
+        "barriersToInvestment": [
+          "Contract enforcement"
+        ],
+        "readinessLevel": "Developing",
+        "targetInvestorTypes": [
+          "Strategic investors",
+          "Local banks"
+        ],
+        "requiresBlendedFinance": false,
+        "requiresPolicyReform": false
+      }
+    ],
+    "featuredInvestorTypes": [
+      "Development finance institutions",
+      "Commercial banks",
+      "Impact investors",
+      "Strategic operators"
+    ],
+    "keyEnablingConditions": [
+      "Bankable project preparation",
+      "Transparent procurement",
+      "Risk-sharing instruments"
+    ],
+    "leadAnalyst": "Private sector specialist",
+    "status": "Published",
+    "publishedDate": "2026-06-18T22:00:00Z",
+    "lastUpdatedDate": "2026-09-18T22:00:00Z",
+    "createdAt": "2026-01-04T22:00:00Z"
+  },
+  {
+    "mapId": "56d7e1f2-3582-7aad-e193-0a4e6a9a6c15",
+    "mapCode": "IDA-BD-IOM-2026-006",
+    "title": "Bangladesh Water and Sanitation Investment Opportunity Map",
+    "producingInstitution": "International Development Association",
+    "countryCode": "BD",
+    "countryName": "Bangladesh",
+    "region": "South Asia",
+    "scope": "SubNational",
+    "focusSector": "Water and Sanitation",
+    "publicationYear": 2026,
+    "totalOpportunitiesIdentified": 14,
+    "totalInvestmentPotentialMin": 86000000,
+    "totalInvestmentPotentialMax": 182000000,
+    "currency": "USD",
+    "opportunities": [
+      {
+        "opportunityId": "c157191e-302b-eb61-d564-22afe179f6e2",
+        "opportunityName": "Water and Sanitation platform investment",
+        "sector": "Water and Sanitation",
+        "subSector": "Growth platform",
+        "primaryGoalAlignment": "DecentWork",
+        "secondaryGoalAlignments": [
+          "Partnerships",
+          "ClimateAction"
+        ],
+        "investmentRangeMin": 11000000,
+        "investmentRangeMax": 28000000,
+        "currency": "USD",
+        "businessModel": "Blended public-private investment",
+        "keyEnablers": [
+          "Policy support",
+          "Anchor demand"
+        ],
+        "barriersToInvestment": [
+          "Preparation cost",
+          "Currency risk"
+        ],
+        "readinessLevel": "Ready",
+        "targetInvestorTypes": [
+          "DFIs",
+          "Impact investors"
+        ],
+        "requiresBlendedFinance": true,
+        "requiresPolicyReform": true
+      },
+      {
+        "opportunityId": "2bb2835e-c7a7-b577-520a-be87cf0d9295",
+        "opportunityName": "Water and Sanitation service aggregation",
+        "sector": "Water and Sanitation",
+        "subSector": "Service delivery",
+        "primaryGoalAlignment": "Industry",
+        "secondaryGoalAlignments": [
+          "ReducedInequalities"
+        ],
+        "investmentRangeMin": 7800000,
+        "investmentRangeMax": 19600000,
+        "currency": "USD",
+        "businessModel": "Concession or results-based contract",
+        "keyEnablers": [
+          "Demand aggregation"
+        ],
+        "barriersToInvestment": [
+          "Contract enforcement"
+        ],
+        "readinessLevel": "Developing",
+        "targetInvestorTypes": [
+          "Strategic investors",
+          "Local banks"
+        ],
+        "requiresBlendedFinance": true,
+        "requiresPolicyReform": false
+      }
+    ],
+    "featuredInvestorTypes": [
+      "Development finance institutions",
+      "Commercial banks",
+      "Impact investors",
+      "Strategic operators"
+    ],
+    "keyEnablingConditions": [
+      "Bankable project preparation",
+      "Transparent procurement",
+      "Risk-sharing instruments"
+    ],
+    "leadAnalyst": "Climate investment analyst",
+    "status": "Published",
+    "publishedDate": "2026-07-18T22:00:00Z",
+    "lastUpdatedDate": "2026-10-18T22:00:00Z",
+    "createdAt": "2026-01-05T22:00:00Z"
+  },
+  {
+    "mapId": "abca5c47-5f4a-15d0-baff-2994c9085b63",
+    "mapCode": "IDA-NE-IOM-2026-007",
+    "title": "Niger Public Sector Governance Investment Opportunity Map",
+    "producingInstitution": "International Development Association",
+    "countryCode": "NE",
+    "countryName": "Niger",
+    "region": "West Africa",
+    "scope": "Sector",
+    "focusSector": "Public Sector Governance",
+    "publicationYear": 2026,
+    "totalOpportunitiesIdentified": 15,
+    "totalInvestmentPotentialMin": 94500000,
+    "totalInvestmentPotentialMax": 196500000,
+    "currency": "USD",
+    "opportunities": [
+      {
+        "opportunityId": "cd18e47e-129e-9649-9bff-2673ea5a91a6",
+        "opportunityName": "Public Sector Governance platform investment",
+        "sector": "Public Sector Governance",
+        "subSector": "Growth platform",
+        "primaryGoalAlignment": "DecentWork",
+        "secondaryGoalAlignments": [
+          "Partnerships",
+          "ClimateAction"
+        ],
+        "investmentRangeMin": 12000000,
+        "investmentRangeMax": 30000000,
+        "currency": "USD",
+        "businessModel": "Blended public-private investment",
+        "keyEnablers": [
+          "Policy support",
+          "Anchor demand"
+        ],
+        "barriersToInvestment": [
+          "Preparation cost",
+          "Currency risk"
+        ],
+        "readinessLevel": "Ready",
+        "targetInvestorTypes": [
+          "DFIs",
+          "Impact investors"
+        ],
+        "requiresBlendedFinance": true,
+        "requiresPolicyReform": false
+      },
+      {
+        "opportunityId": "17c78165-f936-412a-4fb4-9609357d856a",
+        "opportunityName": "Public Sector Governance service aggregation",
+        "sector": "Public Sector Governance",
+        "subSector": "Service delivery",
+        "primaryGoalAlignment": "Industry",
+        "secondaryGoalAlignments": [
+          "ReducedInequalities"
+        ],
+        "investmentRangeMin": 8600000,
+        "investmentRangeMax": 21200000,
+        "currency": "USD",
+        "businessModel": "Concession or results-based contract",
+        "keyEnablers": [
+          "Demand aggregation"
+        ],
+        "barriersToInvestment": [
+          "Contract enforcement"
+        ],
+        "readinessLevel": "Developing",
+        "targetInvestorTypes": [
+          "Strategic investors",
+          "Local banks"
+        ],
+        "requiresBlendedFinance": false,
+        "requiresPolicyReform": false
+      }
+    ],
+    "featuredInvestorTypes": [
+      "Development finance institutions",
+      "Commercial banks",
+      "Impact investors",
+      "Strategic operators"
+    ],
+    "keyEnablingConditions": [
+      "Bankable project preparation",
+      "Transparent procurement",
+      "Risk-sharing instruments"
+    ],
+    "leadAnalyst": "Agriculture investment lead",
+    "status": "Archived",
+    "publishedDate": "2026-08-18T22:00:00Z",
+    "lastUpdatedDate": "2026-11-18T22:00:00Z",
+    "createdAt": "2026-01-06T22:00:00Z"
+  }
+]

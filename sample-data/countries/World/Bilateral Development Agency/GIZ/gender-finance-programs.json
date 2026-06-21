@@ -1,0 +1,205 @@
+[
+  {
+    "programId": "03d64e68-0278-2fb4-2b3c-fc68becd66d4",
+    "programCode": "GIZ-ZM-GEN-2026-001",
+    "programName": "Zambia Women-Led Enterprise Finance Programme",
+    "institutionName": "GIZ",
+    "countryCode": "ZM",
+    "countryName": "Zambia",
+    "programType": "CreditGuaranteeFacility",
+    "facilityAmount": 10500000,
+    "guaranteeComponent": 2600000,
+    "technicalAssistanceComponent": 770000,
+    "currency": "EUR",
+    "financialIntermediaryPartner": "National development bank",
+    "womenBeneficiaries": 1650,
+    "loansExtendedToWomen": 970,
+    "targetSectors": [
+      "Technical Assistance",
+      "Trade",
+      "Services"
+    ],
+    "status": "Active",
+    "eligibilityCriteria": [
+      "Women-owned or women-led enterprise",
+      "Operational business registration",
+      "Verified use of funds"
+    ],
+    "startDate": "2025-01-31T22:00:00Z",
+    "createdAt": "2024-12-31T22:00:00Z"
+  },
+  {
+    "programId": "677853e7-d248-13e6-8d5e-a327d4e887b3",
+    "programCode": "GIZ-GH-GEN-2026-002",
+    "programName": "Ghana Women-Led Enterprise Finance Programme",
+    "institutionName": "GIZ",
+    "countryCode": "GH",
+    "countryName": "Ghana",
+    "programType": "CapacityBuildingProgram",
+    "facilityAmount": 13000000,
+    "guaranteeComponent": 3200000,
+    "technicalAssistanceComponent": 890000,
+    "currency": "EUR",
+    "financialIntermediaryPartner": "Women enterprise fund",
+    "womenBeneficiaries": 2100,
+    "loansExtendedToWomen": 1190,
+    "targetSectors": [
+      "Public Finance",
+      "Trade",
+      "Services"
+    ],
+    "status": "Approved",
+    "eligibilityCriteria": [
+      "Women-owned or women-led enterprise",
+      "Operational business registration",
+      "Verified use of funds"
+    ],
+    "startDate": "2025-02-28T22:00:00Z",
+    "createdAt": "2025-01-01T22:00:00Z"
+  },
+  {
+    "programId": "a37c1d81-33b0-3187-2f07-f2354d552bbc",
+    "programCode": "GIZ-RW-GEN-2026-003",
+    "programName": "Rwanda Women-Led Enterprise Finance Programme",
+    "institutionName": "GIZ",
+    "countryCode": "RW",
+    "countryName": "Rwanda",
+    "programType": "DigitalFinanceForWomen",
+    "facilityAmount": 15500000,
+    "guaranteeComponent": 3800000,
+    "technicalAssistanceComponent": 1010000,
+    "currency": "EUR",
+    "financialIntermediaryPartner": "Commercial bank partner",
+    "womenBeneficiaries": 2550,
+    "loansExtendedToWomen": 1410,
+    "targetSectors": [
+      "Skills Development",
+      "Trade",
+      "Services"
+    ],
+    "status": "Scaling",
+    "eligibilityCriteria": [
+      "Women-owned or women-led enterprise",
+      "Operational business registration",
+      "Verified use of funds"
+    ],
+    "startDate": "2025-03-31T22:00:00Z",
+    "createdAt": "2025-01-02T22:00:00Z"
+  },
+  {
+    "programId": "1a65e210-12d7-1603-d102-aefb51671267",
+    "programCode": "GIZ-KE-GEN-2026-004",
+    "programName": "Kenya Women-Led Enterprise Finance Programme",
+    "institutionName": "GIZ",
+    "countryCode": "KE",
+    "countryName": "Kenya",
+    "programType": "MarketAccessProgram",
+    "facilityAmount": 18000000,
+    "guaranteeComponent": 4400000,
+    "technicalAssistanceComponent": 1130000,
+    "currency": "EUR",
+    "financialIntermediaryPartner": "Microfinance network",
+    "womenBeneficiaries": 3000,
+    "loansExtendedToWomen": 1630,
+    "targetSectors": [
+      "Renewable Energy",
+      "Trade",
+      "Services"
+    ],
+    "status": "Design",
+    "eligibilityCriteria": [
+      "Women-owned or women-led enterprise",
+      "Operational business registration",
+      "Verified use of funds"
+    ],
+    "startDate": "2025-04-30T22:00:00Z",
+    "createdAt": "2025-01-03T22:00:00Z"
+  },
+  {
+    "programId": "10ac0ab2-9a64-fe7e-f260-2090d3faac74",
+    "programCode": "GIZ-NA-GEN-2026-005",
+    "programName": "Namibia Women-Led Enterprise Finance Programme",
+    "institutionName": "GIZ",
+    "countryCode": "NA",
+    "countryName": "Namibia",
+    "programType": "FinancialInstitutionSupport",
+    "facilityAmount": 20500000,
+    "guaranteeComponent": 5000000,
+    "technicalAssistanceComponent": 1250000,
+    "currency": "EUR",
+    "financialIntermediaryPartner": "Digital finance provider",
+    "womenBeneficiaries": 3450,
+    "loansExtendedToWomen": 1850,
+    "targetSectors": [
+      "Agriculture",
+      "Trade",
+      "Services"
+    ],
+    "status": "Completed",
+    "eligibilityCriteria": [
+      "Women-owned or women-led enterprise",
+      "Operational business registration",
+      "Verified use of funds"
+    ],
+    "startDate": "2025-05-31T22:00:00Z",
+    "createdAt": "2025-01-04T22:00:00Z"
+  },
+  {
+    "programId": "4bc70fcd-0da3-1095-b159-2ff8e8366d65",
+    "programCode": "GIZ-MW-GEN-2026-006",
+    "programName": "Malawi Women-Led Enterprise Finance Programme",
+    "institutionName": "GIZ",
+    "countryCode": "MW",
+    "countryName": "Malawi",
+    "programType": "PolicyAndRegulation",
+    "facilityAmount": 23000000,
+    "guaranteeComponent": 5600000,
+    "technicalAssistanceComponent": 1370000,
+    "currency": "EUR",
+    "financialIntermediaryPartner": "Cooperative apex body",
+    "womenBeneficiaries": 3900,
+    "loansExtendedToWomen": 2070,
+    "targetSectors": [
+      "Governance",
+      "Trade",
+      "Services"
+    ],
+    "status": "Active",
+    "eligibilityCriteria": [
+      "Women-owned or women-led enterprise",
+      "Operational business registration",
+      "Verified use of funds"
+    ],
+    "startDate": "2025-06-30T22:00:00Z",
+    "createdAt": "2025-01-05T22:00:00Z"
+  },
+  {
+    "programId": "9a0152a8-544a-b8e6-e701-b9e12c8b9231",
+    "programCode": "GIZ-TZ-GEN-2026-007",
+    "programName": "Tanzania Women-Led Enterprise Finance Programme",
+    "institutionName": "GIZ",
+    "countryCode": "TZ",
+    "countryName": "Tanzania",
+    "programType": "EquityAndVentureCapital",
+    "facilityAmount": 25500000,
+    "guaranteeComponent": 6200000,
+    "technicalAssistanceComponent": 1490000,
+    "currency": "EUR",
+    "financialIntermediaryPartner": "Impact investment fund",
+    "womenBeneficiaries": 4350,
+    "loansExtendedToWomen": 2290,
+    "targetSectors": [
+      "Private Sector Development",
+      "Trade",
+      "Services"
+    ],
+    "status": "Approved",
+    "eligibilityCriteria": [
+      "Women-owned or women-led enterprise",
+      "Operational business registration",
+      "Verified use of funds"
+    ],
+    "startDate": "2025-07-31T22:00:00Z",
+    "createdAt": "2025-01-06T22:00:00Z"
+  }
+]

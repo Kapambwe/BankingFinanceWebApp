@@ -1,0 +1,21 @@
+[
+  {
+    "OutcomeId": "f2f2f2f2-f2f2-f2f2-f2f2-f2f2f2f2f203",
+    "EnrollmentId": "f2f2f2f2-f2f2-f2f2-f2f2-f2f2f2f2f202",
+    "BeneficiaryName": "Sibusiso Phiri",
+    "ProgramName": "SME Growth Accelerator",
+    "RevenueBeforeProgram": 180000,
+    "RevenueAfterProgram": 320000,
+    "RevenueGrowth": 140000,
+    "EmployeesBeforeProgram": 3,
+    "EmployeesAfterProgram": 7,
+    "JobsCreated": 4,
+    "AccessedFinancing": true,
+    "FinancingAmount": 250000,
+    "FormalizedBusiness": true,
+    "SatisfactionScore": 92,
+    "Currency": "ZMW",
+    "AssessmentDate": "2026-06-30T00:00:00Z",
+    "CreatedAt": "2026-06-30T00:00:00Z"
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "PaymentId": "88888888-8888-8888-8888-888888888883",
+    "ProjectId": "88888888-8888-8888-8888-888888888882",
+    "ProjectName": "Munyama Market Upgrade",
+    "Payee": "Kafue Build Ltd",
+    "PaymentType": "Advance",
+    "Amount": 840000,
+    "Currency": "ZMW",
+    "CertifiedBy": "Community Engineer",
+    "ApprovedBy": "District Commissioner",
+    "Status": "Paid",
+    "PaymentDate": "2026-03-10T00:00:00Z",
+    "CreatedAt": "2026-03-10T00:00:00Z"
+  }
+]

@@ -1,0 +1,7 @@
+[
+  { "id": "mfi-admin-001", "username": "admin.microfinanceinstitution", "fullName": "Martha Zulu", "role": "Administrator", "email": "martha.zulu@microfinanceinstitution.zm", "isActive": true },
+  { "id": "mfi-officer-001", "username": "officer.microfinanceinstitution", "fullName": "Peter Sampa", "role": "Loan Officer", "email": "peter.sampa@microfinanceinstitution.zm", "isActive": true },
+  { "id": "mfi-credit-001", "username": "credit.microfinanceinstitution", "fullName": "Esther Mwamba", "role": "Credit Analyst", "email": "esther.mwamba@microfinanceinstitution.zm", "isActive": true },
+  { "id": "mfi-recovery-001", "username": "recovery.microfinanceinstitution", "fullName": "Brian Lungu", "role": "Recovery Officer", "email": "brian.lungu@microfinanceinstitution.zm", "isActive": true },
+  { "id": "mfi-supervisor-001", "username": "supervisor.microfinanceinstitution", "fullName": "Lydia Banda", "role": "Branch Supervisor", "email": "lydia.banda@microfinanceinstitution.zm", "isActive": true }
+]

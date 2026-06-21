@@ -1,0 +1,236 @@
+[
+  {
+    "key": "loan-origination",
+    "title": "Loan application review",
+    "description": "Review wallet-submitted loan applications, supporting PDFs, verifiable credentials and cryptographic proofs.",
+    "route": "/regulatory/compliance-controls/review/loan-origination",
+    "enableAutoDecision": true,
+    "useCases": [ "LoanOrigination" ],
+    "stages": [
+      { "key": "identity", "title": "Identity and eligibility", "description": "Check applicant identity, purpose and eligibility signals.", "order": 1 },
+      { "key": "affordability", "title": "Affordability and income", "description": "Validate income evidence, affordability and repayment capacity.", "order": 2 },
+      { "key": "decision", "title": "Decision and funding", "description": "Record decision, conditions and disbursement path.", "order": 3 }
+    ],
+    "evidenceRequirements": [
+      { "key": "pdf", "title": "Income or supporting PDF", "description": "Proof of income, bank statements or related application pack.", "evidenceType": "PdfDocument", "required": true },
+      { "key": "vc", "title": "Identity credential", "description": "Wallet-issued identity or KYC credential.", "evidenceType": "VerifiableCredential", "required": true },
+      { "key": "proof", "title": "Wallet proof", "description": "Cryptographic proof of request origin or possession.", "evidenceType": "CryptographicProof", "required": true }
+    ]
+  },
+  {
+    "key": "account-opening",
+    "title": "Account opening review",
+    "description": "Review wallet-submitted onboarding packs for new accounts, deposits, cards and identity evidence.",
+    "route": "/regulatory/compliance-controls/review/account-opening",
+    "enableAutoDecision": true,
+    "useCases": [ "AccountOpening", "DepositProductOpening", "CardIssuance" ],
+    "stages": [
+      { "key": "kyc", "title": "KYC verification", "description": "Validate identity, address and customer screening results.", "order": 1 },
+      { "key": "funding", "title": "Funding source", "description": "Confirm source of funds and initial account funding details.", "order": 2 },
+      { "key": "activation", "title": "Activation and servicing", "description": "Approve account opening, product issuance and customer activation.", "order": 3 }
+    ],
+    "evidenceRequirements": [
+      { "key": "pdf", "title": "Proof of address PDF", "description": "Residential proof or onboarding document.", "evidenceType": "PdfDocument", "required": true },
+      { "key": "vc", "title": "Identity credential", "description": "Verifiable identity credential.", "evidenceType": "VerifiableCredential", "required": true },
+      { "key": "proof", "title": "Wallet proof", "description": "Cryptographic proof of submission authenticity.", "evidenceType": "CryptographicProof", "required": true }
+    ]
+  },
+  {
+    "key": "kyc-refresh",
+    "title": "KYC refresh review",
+    "description": "Review periodic KYC refreshes, documentary updates and wallet attestation proofs.",
+    "route": "/regulatory/compliance-controls/review/kyc-refresh",
+    "enableAutoDecision": true,
+    "useCases": [ "KycRefresh", "AccountOpening" ],
+    "stages": [
+      { "key": "identity", "title": "Identity refresh", "description": "Check the updated identity and address signals.", "order": 1 },
+      { "key": "screening", "title": "Screening and risk", "description": "Assess sanctions, PEP and adverse media changes.", "order": 2 },
+      { "key": "closure", "title": "Refresh closure", "description": "Approve refresh completion or refer for manual review.", "order": 3 }
+    ],
+    "evidenceRequirements": [
+      { "key": "pdf", "title": "Updated identity PDF", "description": "Fresh identity or address evidence.", "evidenceType": "PdfDocument", "required": true },
+      { "key": "vc", "title": "KYC credential", "description": "Wallet-issued KYC credential.", "evidenceType": "VerifiableCredential", "required": true },
+      { "key": "proof", "title": "Wallet proof", "description": "Cryptographic proof of refresh submission.", "evidenceType": "CryptographicProof", "required": true }
+    ]
+  },
+  {
+    "key": "insurance-underwriting",
+    "title": "Insurance underwriting review",
+    "description": "Review wallet-submitted underwriting requests, schedules and digital proofs for policy decisions.",
+    "route": "/regulatory/compliance-controls/review/insurance-underwriting",
+    "enableAutoDecision": true,
+    "useCases": [ "InsuranceUnderwriting" ],
+    "stages": [
+      { "key": "policy", "title": "Policy and coverage", "description": "Validate requested coverage, policy terms and exclusions.", "order": 1 },
+      { "key": "risk", "title": "Risk assessment", "description": "Assess exposure, history and supporting evidence.", "order": 2 },
+      { "key": "bind", "title": "Bind or refer", "description": "Issue, refer or decline the underwriting request.", "order": 3 }
+    ],
+    "evidenceRequirements": [
+      { "key": "pdf", "title": "Policy schedule PDF", "description": "Quoted schedule, declaration or supporting document.", "evidenceType": "PdfDocument", "required": true },
+      { "key": "vc", "title": "Identity or business credential", "description": "Wallet-issued credential for the insured party.", "evidenceType": "VerifiableCredential", "required": true },
+      { "key": "proof", "title": "Wallet proof", "description": "Cryptographic proof of the submitted request.", "evidenceType": "CryptographicProof", "required": true }
+    ]
+  },
+  {
+    "key": "credit-limit-increase",
+    "title": "Credit limit increase review",
+    "description": "Review wallet-submitted credit line increase requests with affordability and conduct evidence.",
+    "route": "/regulatory/compliance-controls/review/credit-limit-increase",
+    "enableAutoDecision": true,
+    "useCases": [ "CreditLimitIncrease" ],
+    "stages": [
+      { "key": "conduct", "title": "Conduct and behaviour", "description": "Review repayment history, utilisation and account conduct.", "order": 1 },
+      { "key": "affordability", "title": "Affordability update", "description": "Validate current income, obligations and affordability.", "order": 2 },
+      { "key": "decision", "title": "Limit decision", "description": "Approve, refer or decline the limit increase.", "order": 3 }
+    ],
+    "evidenceRequirements": [
+      { "key": "pdf", "title": "Income update PDF", "description": "Current income or statement evidence.", "evidenceType": "PdfDocument", "required": true },
+      { "key": "vc", "title": "Behavioural credential", "description": "Verified conduct or KYC credential.", "evidenceType": "VerifiableCredential", "required": true },
+      { "key": "proof", "title": "Wallet proof", "description": "Cryptographic proof of request authenticity.", "evidenceType": "CryptographicProof", "required": true }
+    ]
+  },
+  {
+    "key": "loan-top-up",
+    "title": "Loan top-up review",
+    "description": "Review top-up requests for existing borrowers using refreshed affordability and wallet evidence.",
+    "route": "/regulatory/compliance-controls/review/loan-top-up",
+    "enableAutoDecision": true,
+    "useCases": [ "LoanOrigination", "CreditLimitIncrease" ],
+    "stages": [
+      { "key": "history", "title": "Repayment history", "description": "Review existing performance and repayment conduct.", "order": 1 },
+      { "key": "refresh", "title": "Updated affordability", "description": "Validate current income and obligations.", "order": 2 },
+      { "key": "decision", "title": "Top-up decision", "description": "Approve, refer or decline the additional funding.", "order": 3 }
+    ],
+    "evidenceRequirements": [
+      { "key": "pdf", "title": "Latest income PDF", "description": "Current income or statement evidence.", "evidenceType": "PdfDocument", "required": true },
+      { "key": "vc", "title": "Borrower credential", "description": "Wallet-issued borrower credential.", "evidenceType": "VerifiableCredential", "required": true },
+      { "key": "proof", "title": "Wallet proof", "description": "Cryptographic proof of top-up request.", "evidenceType": "CryptographicProof", "required": true }
+    ]
+  },
+  {
+    "key": "merchant-onboarding",
+    "title": "Merchant onboarding review",
+    "description": "Review merchant onboarding packs, registrations and wallet-submitted control evidence.",
+    "route": "/regulatory/compliance-controls/review/merchant-onboarding",
+    "enableAutoDecision": true,
+    "useCases": [ "MerchantOnboarding" ],
+    "stages": [
+      { "key": "business", "title": "Business validation", "description": "Check registration, tax and operating evidence.", "order": 1 },
+      { "key": "risk", "title": "Merchant risk", "description": "Assess products, channels and merchant risk.", "order": 2 },
+      { "key": "activation", "title": "Merchant activation", "description": "Approve acceptance, limits and settlement path.", "order": 3 }
+    ],
+    "evidenceRequirements": [
+      { "key": "pdf", "title": "Registration PDF", "description": "Business registration, tax or certificate evidence.", "evidenceType": "PdfDocument", "required": true },
+      { "key": "vc", "title": "Business credential", "description": "Verifiable business or beneficial ownership credential.", "evidenceType": "VerifiableCredential", "required": true },
+      { "key": "proof", "title": "Wallet proof", "description": "Cryptographic proof of submission origin.", "evidenceType": "CryptographicProof", "required": true }
+    ]
+  },
+  {
+    "key": "card-issuance",
+    "title": "Card issuance review",
+    "description": "Review wallet-submitted card issuance requests and delivery controls.",
+    "route": "/regulatory/compliance-controls/review/card-issuance",
+    "enableAutoDecision": true,
+    "useCases": [ "CardIssuance" ],
+    "stages": [
+      { "key": "kyc", "title": "KYC and eligibility", "description": "Check identity, limits and card eligibility.", "order": 1 },
+      { "key": "delivery", "title": "Delivery controls", "description": "Validate delivery address and activation controls.", "order": 2 },
+      { "key": "issue", "title": "Issue card", "description": "Approve issuance, activation and fulfilment.", "order": 3 }
+    ],
+    "evidenceRequirements": [
+      { "key": "pdf", "title": "Address or card request PDF", "description": "Delivery or issuance supporting document.", "evidenceType": "PdfDocument", "required": true },
+      { "key": "vc", "title": "Identity credential", "description": "Wallet-issued identity credential.", "evidenceType": "VerifiableCredential", "required": true },
+      { "key": "proof", "title": "Wallet proof", "description": "Cryptographic proof of request authenticity.", "evidenceType": "CryptographicProof", "required": true }
+    ]
+  },
+  {
+    "key": "corporate-onboarding",
+    "title": "Corporate onboarding review",
+    "description": "Review SME and corporate onboarding packs with ownership, authority and wallet evidence.",
+    "route": "/regulatory/compliance-controls/review/corporate-onboarding",
+    "enableAutoDecision": true,
+    "useCases": [ "SMEOnboarding", "MerchantOnboarding" ],
+    "stages": [
+      { "key": "entity", "title": "Entity verification", "description": "Check registration, structure and operating profile.", "order": 1 },
+      { "key": "authority", "title": "Authority and ownership", "description": "Verify signatory authority and beneficial ownership.", "order": 2 },
+      { "key": "decision", "title": "Onboarding decision", "description": "Approve, refer or reject the application.", "order": 3 }
+    ],
+    "evidenceRequirements": [
+      { "key": "pdf", "title": "Registration PDF", "description": "Corporate registration or tax document.", "evidenceType": "PdfDocument", "required": true },
+      { "key": "vc", "title": "Business credential", "description": "Business verifiable credential.", "evidenceType": "VerifiableCredential", "required": true },
+      { "key": "proof", "title": "Wallet proof", "description": "Cryptographic proof of submission origin.", "evidenceType": "CryptographicProof", "required": true }
+    ]
+  },
+  {
+    "key": "mortgage-origination",
+    "title": "Mortgage review",
+    "description": "Review mortgage origination packs, valuation evidence and applicant credentials.",
+    "route": "/regulatory/compliance-controls/review/mortgage-origination",
+    "enableAutoDecision": true,
+    "useCases": [ "MortgageOrigination" ],
+    "stages": [
+      { "key": "property", "title": "Property and valuation", "description": "Validate property, valuation and collateral evidence.", "order": 1 },
+      { "key": "income", "title": "Income and affordability", "description": "Review affordability, deposit and repayment capacity.", "order": 2 },
+      { "key": "approval", "title": "Mortgage approval", "description": "Approve, conditionally approve or refer.", "order": 3 }
+    ],
+    "evidenceRequirements": [
+      { "key": "pdf", "title": "Property PDF", "description": "Valuation, title or property-related document.", "evidenceType": "PdfDocument", "required": true },
+      { "key": "vc", "title": "Identity credential", "description": "Wallet-issued identity credential.", "evidenceType": "VerifiableCredential", "required": true },
+      { "key": "proof", "title": "Wallet proof", "description": "Cryptographic proof of submission authenticity.", "evidenceType": "CryptographicProof", "required": true }
+    ]
+  },
+  {
+    "key": "sme-onboarding",
+    "title": "SME onboarding review",
+    "description": "Review SME onboarding packs, ownership evidence and wallet-submitted controls.",
+    "route": "/regulatory/compliance-controls/review/sme-onboarding",
+    "enableAutoDecision": true,
+    "useCases": [ "SMEOnboarding" ],
+    "stages": [
+      { "key": "entity", "title": "Entity verification", "description": "Check registration, beneficial ownership and tax status.", "order": 1 },
+      { "key": "operations", "title": "Operations and risk", "description": "Assess operations, products and risk profile.", "order": 2 },
+      { "key": "decision", "title": "Onboarding decision", "description": "Approve, refer or reject the request.", "order": 3 }
+    ],
+    "evidenceRequirements": [
+      { "key": "pdf", "title": "SME document PDF", "description": "Registration, tax or financial document.", "evidenceType": "PdfDocument", "required": true },
+      { "key": "vc", "title": "Business credential", "description": "Wallet-issued business credential.", "evidenceType": "VerifiableCredential", "required": true },
+      { "key": "proof", "title": "Wallet proof", "description": "Cryptographic proof of the request.", "evidenceType": "CryptographicProof", "required": true }
+    ]
+  },
+  {
+    "key": "deposit-opening",
+    "title": "Deposit opening review",
+    "description": "Review deposit product applications, identity evidence and wallet attestations.",
+    "route": "/regulatory/compliance-controls/review/deposit-opening",
+    "enableAutoDecision": true,
+    "useCases": [ "DepositProductOpening" ],
+    "stages": [
+      { "key": "identity", "title": "Identity review", "description": "Check identity, address and product eligibility.", "order": 1 },
+      { "key": "funding", "title": "Funding and terms", "description": "Review funding source and product conditions.", "order": 2 },
+      { "key": "activation", "title": "Account activation", "description": "Approve deposit opening and service activation.", "order": 3 }
+    ],
+    "evidenceRequirements": [
+      { "key": "pdf", "title": "Address PDF", "description": "Proof of address or supporting account document.", "evidenceType": "PdfDocument", "required": true },
+      { "key": "vc", "title": "Identity credential", "description": "Wallet-issued identity credential.", "evidenceType": "VerifiableCredential", "required": true },
+      { "key": "proof", "title": "Wallet proof", "description": "Cryptographic proof of request authenticity.", "evidenceType": "CryptographicProof", "required": true }
+    ]
+  },
+  {
+    "key": "trade-finance",
+    "title": "Trade finance review",
+    "description": "Review trade finance applications, documentary evidence and counterparty proofs.",
+    "route": "/regulatory/compliance-controls/review/trade-finance",
+    "enableAutoDecision": true,
+    "useCases": [ "TradeFinance" ],
+    "stages": [
+      { "key": "docs", "title": "Document verification", "description": "Check invoices, shipping and documentary requirements.", "order": 1 },
+      { "key": "counterparty", "title": "Counterparty review", "description": "Validate counterparties, sanctions and route.", "order": 2 },
+      { "key": "decision", "title": "Trade decision", "description": "Approve, amend or escalate the transaction.", "order": 3 }
+    ],
+    "evidenceRequirements": [
+      { "key": "pdf", "title": "Trade document PDF", "description": "Invoice, bill of lading or contract document.", "evidenceType": "PdfDocument", "required": true },
+      { "key": "vc", "title": "Business credential", "description": "Business verifiable credential.", "evidenceType": "VerifiableCredential", "required": true },
+      { "key": "proof", "title": "Wallet proof", "description": "Cryptographic proof of wallet submission.", "evidenceType": "CryptographicProof", "required": true }
+    ]
+  }
+]

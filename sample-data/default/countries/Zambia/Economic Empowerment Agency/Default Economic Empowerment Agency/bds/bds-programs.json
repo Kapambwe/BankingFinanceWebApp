@@ -1,0 +1,23 @@
+[
+  {
+    "ProgramId": "f2f2f2f2-f2f2-f2f2-f2f2-f2f2f2f2f201",
+    "ProgramCode": "BDS-001",
+    "ProgramName": "SME Growth Accelerator",
+    "Type": 1,
+    "Provider": "Business Development Unit",
+    "Description": "Mentorship and growth support for formal SMEs.",
+    "TargetBeneficiaries": 200,
+    "EnrolledBeneficiaries": 150,
+    "CompletedBeneficiaries": 96,
+    "CompletionRate": 64,
+    "Budget": 12000000,
+    "SpentAmount": 7200000,
+    "Province": "Lusaka",
+    "Sector": "SME",
+    "Currency": "ZMW",
+    "Status": "Active",
+    "StartDate": "2026-01-15T00:00:00Z",
+    "EndDate": "2026-12-31T00:00:00Z",
+    "CreatedAt": "2026-01-15T00:00:00Z"
+  }
+]

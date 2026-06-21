@@ -1,0 +1,7 @@
+[
+  { "id": "nhi-admin-001", "username": "admin.nhi", "fullName": "Mavis Tembo", "role": "Administrator", "email": "mavis.tembo@nhi.zm", "isActive": true },
+  { "id": "nhi-claims-001", "username": "claims.nhi", "fullName": "Andrew Mulenga", "role": "Claims Officer", "email": "andrew.mulenga@nhi.zm", "isActive": true },
+  { "id": "nhi-benefits-001", "username": "benefits.nhi", "fullName": "Mina Chisanga", "role": "Benefits Officer", "email": "mina.chisanga@nhi.zm", "isActive": true },
+  { "id": "nhi-provider-001", "username": "provider.nhi", "fullName": "Joseph Banda", "role": "Provider Relations", "email": "joseph.banda@nhi.zm", "isActive": true },
+  { "id": "nhi-audit-001", "username": "audit.nhi", "fullName": "Priscilla Mwila", "role": "Audit Officer", "email": "priscilla.mwila@nhi.zm", "isActive": true }
+]

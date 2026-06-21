@@ -1,0 +1,7 @@
+[
+  { "id": "gov-admin-001", "username": "admin.government", "fullName": "Moses Phiri", "role": "Administrator", "email": "moses.phiri@government.zm", "isActive": true },
+  { "id": "gov-service-001", "username": "service.government", "fullName": "Lydia Zulu", "role": "Service Officer", "email": "lydia.zulu@government.zm", "isActive": true },
+  { "id": "gov-finance-001", "username": "finance.government", "fullName": "Kelvin Mwale", "role": "Finance Officer", "email": "kelvin.mwale@government.zm", "isActive": true },
+  { "id": "gov-records-001", "username": "records.government", "fullName": "Esther Banda", "role": "Records Officer", "email": "esther.banda@government.zm", "isActive": true },
+  { "id": "gov-supervisor-001", "username": "supervisor.government", "fullName": "Martin Sikalumbi", "role": "Supervisor", "email": "martin.sikalumbi@government.zm", "isActive": true }
+]

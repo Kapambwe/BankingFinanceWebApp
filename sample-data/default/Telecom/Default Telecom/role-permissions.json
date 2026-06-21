@@ -1,0 +1,76 @@
+{
+  "institutionType": "Telecom",
+  "country": "Default",
+  "description": "Default role-to-permission mapping for telecom tenants.",
+  "version": "1.0.0",
+  "roles": [
+    {
+      "role": "TelecomAdmin",
+      "permissions": [
+        "Banking.Channels.View",
+        "Banking.Channels.ManageAgents",
+        "Banking.Channels.ManageMobileMoney",
+        "Banking.Channels.ManageRemittances",
+        "Banking.MobileMoney.View",
+        "Banking.MobileMoney.ViewDashboard",
+        "Banking.MobileMoney.ViewAgents",
+        "Banking.MobileMoney.ViewTransactions",
+        "Banking.MobileMoney.ViewSettlement",
+        "Banking.Marketing.View",
+        "Banking.CRM.ViewCustomers",
+        "Banking.AgentBanking.View",
+        "Banking.Insurance.Bancassurance.View",
+        "Banking.TransactionsMonitoring.ViewDashboard",
+        "Banking.Accounting.View",
+        "Banking.Accrual.ViewDashboard",
+        "Banking.CRM.ViewLeads",
+        "Banking.CRM.ViewProspects",
+        "Banking.HR.View",
+        "Banking.Documents.View",
+        "Banking.Workflows.View"
+      ]
+    },
+    {
+      "role": "ServiceOperations",
+      "permissions": [
+        "Banking.Channels.View",
+        "Banking.Channels.ManageMobileMoney",
+        "Banking.MobileMoney.ViewDashboard",
+        "Banking.MobileMoney.ViewTransactions",
+        "Banking.Payments.View",
+        "Banking.Accounting.View",
+        "Banking.CRM.ViewCustomers"
+      ]
+    },
+    {
+      "role": "BillingOfficer",
+      "permissions": [
+        "Banking.MobileMoney.ViewBillerOps",
+        "Banking.MobileMoney.ViewTransactions",
+        "Banking.CommercialBank.Payments.ProcessPayments",
+        "Banking.Marketing.View",
+        "Banking.Accounting.View"
+      ]
+    },
+    {
+      "role": "CustomerCareLead",
+      "permissions": [
+        "Banking.CRM.ViewCustomers",
+        "Banking.CRM.ViewProspects",
+        "Banking.MobileMoney.ViewNotifications",
+        "Banking.MobileMoney.ViewDisputes",
+        "Banking.Documents.View"
+      ]
+    },
+    {
+      "role": "IntegrationEngineer",
+      "permissions": [
+        "Banking.MobileMoney.ViewProviders",
+        "Banking.MobileMoney.ViewWallets",
+        "Banking.MobileMoney.ViewTransactions",
+        "Banking.Channels.View",
+        "Banking.Documents.View"
+      ]
+    }
+  ]
+}

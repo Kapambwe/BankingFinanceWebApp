@@ -1,0 +1,11 @@
+[
+  {
+    "MilestoneId": "eeeeeeee-eeee-eeee-eeee-eeeeeeeeeee3",
+    "ApplicationId": "eeeeeeee-eeee-eeee-eeee-eeeeeeeeeee1",
+    "ApplicationNumber": "GRA-2026-0001",
+    "MilestoneName": "First procurement batch delivered",
+    "DueDate": "2026-07-31T00:00:00Z",
+    "Status": "Pending",
+    "CreatedAt": "2026-06-20T00:00:00Z"
+  }
+]

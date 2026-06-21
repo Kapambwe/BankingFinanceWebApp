@@ -1,0 +1,59 @@
+{
+  "institutionType": "Government Institution",
+  "country": "Zimbabwe",
+  "description": "Role-to-permission mapping for Government Institution tenants in Zimbabwe. Matches the role structure used by the Economic Development Agency institution sample data.",
+  "version": "1.0.0",
+  "roles": [
+    {
+      "roleName": "GovernmentAdmin",
+      "permissions": [
+        "Banking.Government.View",
+        "Banking.Government.Dashboard",
+        "Banking.Government.Budgets.View",
+        "Banking.Government.Budgets.Manage",
+        "Banking.Government.SovereignLending.View",
+        "Banking.Government.SovereignLending.Manage",
+        "Banking.Government.Grants.View",
+        "Banking.Government.Grants.Manage",
+        "Banking.Government.CommunityDevelopment.View",
+        "Banking.Government.SocialProtection.View",
+        "Banking.Government.PFM.View",
+        "Banking.Government.Procurement.View",
+        "Banking.Government.ME.View"
+      ]
+    },
+    {
+      "roleName": "LoansClerk",
+      "permissions": [
+        "Banking.Government.SovereignLending.View",
+        "Banking.Loans.View",
+        "Banking.Loans.Approve"
+      ]
+    },
+    {
+      "roleName": "ProcurementOfficer",
+      "permissions": [
+        "Banking.Government.Procurement.View",
+        "Banking.Government.Procurement.Manage",
+        "Banking.Government.Procurement.AwardContract"
+      ]
+    },
+    {
+      "roleName": "ProjectFinanceManager",
+      "permissions": [
+        "Banking.Government.Budgets.View",
+        "Banking.Government.SovereignLending.View",
+        "Banking.Government.SovereignLending.Manage",
+        "Banking.Loans.View"
+      ]
+    },
+    {
+      "roleName": "SocialProtectionOfficer",
+      "permissions": [
+        "Banking.Government.SocialProtection.View",
+        "Banking.Government.SocialProtection.Manage",
+        "Banking.Government.CommunityDevelopment.View"
+      ]
+    }
+  ]
+}

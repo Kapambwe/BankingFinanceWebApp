@@ -1,0 +1,17 @@
+{
+  "institutionId": "55500000-0000-0000-0000-000000000005",
+  "registrationNumber": "REG-NHIF-91966",
+  "institutionType": "National Health Insurance",
+  "institutionName": "National Hospital Insurance Fund",
+  "country": "Kenya",
+  "currency": "KES",
+  "established": 1966,
+  "headquarters": "Nairobi",
+  "employees": 3100,
+  "branches": 90,
+  "status": "Active",
+  "contactEmail": "info@nhif.gov.ke",
+  "contactPhone": "+254-20-2722000",
+  "website": "https://www.nhif.gov.ke",
+  "createdAt": "2025-01-01T00:00:00Z"
+}

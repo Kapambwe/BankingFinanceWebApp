@@ -1,0 +1,77 @@
+{
+  "institutionType": "Mortgage Company",
+  "country": "Default",
+  "description": "Default role-to-permission mapping for mortgage companies.",
+  "version": "1.0.0",
+  "roles": [
+    {
+      "role": "MortgageAdmin",
+      "permissions": [
+        "Banking.Mortgage.View",
+        "Banking.Mortgage.Dashboard",
+        "Banking.Mortgage.Applications.View",
+        "Banking.Mortgage.Applications.ManageApplications",
+        "Banking.Mortgage.Applications.ApproveApplication",
+        "Banking.Mortgage.Properties.View",
+        "Banking.Mortgage.Properties.ManageProperties",
+        "Banking.Mortgage.Properties.ManageValuations",
+        "Banking.Loans.View",
+        "Banking.Loans.Create",
+        "Banking.Loans.Approve",
+        "Banking.Loans.ViewApplications",
+        "Banking.Accounting.View",
+        "Banking.Accrual.ViewDashboard",
+        "Banking.CRM.ViewCustomers",
+        "Banking.CRM.ViewLeads",
+        "Banking.HR.View",
+        "Banking.Documents.View",
+        "Banking.Workflows.View"
+      ]
+    },
+    {
+      "role": "Processor",
+      "permissions": [
+        "Banking.Mortgage.Applications.View",
+        "Banking.Mortgage.Applications.ManageApplications",
+        "Banking.Mortgage.Properties.View",
+        "Banking.Documents.View",
+        "Banking.Documents.Upload",
+        "Banking.Workflows.View",
+        "Banking.CRM.ViewCustomers"
+      ]
+    },
+    {
+      "role": "Underwriter",
+      "permissions": [
+        "Banking.Mortgage.Applications.View",
+        "Banking.Mortgage.Applications.ApproveApplication",
+        "Banking.Mortgage.Properties.ManageValuations",
+        "Banking.Loans.Approve",
+        "Banking.Documents.View"
+      ]
+    },
+    {
+      "role": "CreditAnalyst",
+      "permissions": [
+        "Banking.Loans.View",
+        "Banking.Loans.ViewApplications",
+        "Banking.Loans.ViewCollateral",
+        "Banking.Risk.ViewDashboard",
+        "Banking.Accounting.View",
+        "Banking.CRM.ViewCustomers"
+      ]
+    },
+    {
+      "role": "CollectionsOfficer",
+      "permissions": [
+        "Banking.Loans.RecordPayment",
+        "Banking.Loans.ViewReminders",
+        "Banking.Loans.ViewPortfolio",
+        "Banking.Loans.Collections.ViewActivities",
+        "Banking.Accounting.View",
+        "Banking.CRM.ViewCustomers",
+        "Banking.Documents.View"
+      ]
+    }
+  ]
+}

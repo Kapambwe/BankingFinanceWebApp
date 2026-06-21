@@ -1,0 +1,44 @@
+[
+  {
+    "incidentId": "inc00001-0001-0001-0001-000000000001",
+    "incidentNumber": "INC-2026-001",
+    "reportedBy": "a1b2c3d4-0001-0001-0001-000000000003",
+    "reportedByName": "João Oliveira",
+    "incidentDate": "2026-01-15T10:00:00",
+    "type": "WorkplaceAccident",
+    "description": "Queda de colaborador na escada do escritório — São Paulo HQ",
+    "injuryType": "Minor",
+    "workersCompFiled": false,
+    "status": "Investigated",
+    "investigationOutcome": "Escada sinalizada; manutenção realizada",
+    "resolvedDate": "2026-01-20T00:00:00"
+  },
+  {
+    "incidentId": "inc00001-0001-0001-0001-000000000002",
+    "incidentNumber": "INC-2025-022",
+    "reportedBy": "a1b2c3d4-0001-0001-0001-000000000005",
+    "reportedByName": "Pedro Rodrigues",
+    "incidentDate": "2025-11-08T14:30:00",
+    "type": "SecurityBreach",
+    "description": "Tentativa de acesso não autorizado a sistema de crédito",
+    "injuryType": "None",
+    "workersCompFiled": false,
+    "status": "Resolved",
+    "investigationOutcome": "Acesso bloqueado; auditoria completa; sem vazamento de dados",
+    "resolvedDate": "2025-11-25T00:00:00"
+  },
+  {
+    "incidentId": "inc00001-0001-0001-0001-000000000003",
+    "incidentNumber": "INC-2026-002",
+    "reportedBy": "a1b2c3d4-0001-0001-0001-000000000002",
+    "reportedByName": "Ana Santos",
+    "incidentDate": "2026-02-05T09:00:00",
+    "type": "NearMiss",
+    "description": "Equipamento ergonômico defeituoso identificado antes de uso",
+    "injuryType": "None",
+    "workersCompFiled": false,
+    "status": "Closed",
+    "investigationOutcome": "Equipamento substituído; fornecedor notificado",
+    "resolvedDate": "2026-02-06T00:00:00"
+  }
+]

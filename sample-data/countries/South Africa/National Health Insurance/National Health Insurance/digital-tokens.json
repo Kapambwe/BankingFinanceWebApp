@@ -1,0 +1,29 @@
+[
+  {
+    "tokenId": "tok300000-0001",
+    "tokenName": "Claims Management System API",
+    "tokenType": "API",
+    "issuedTo": "National Health Insurance - Claims System",
+    "isActive": true,
+    "expiresAt": "2026-12-31T00:00:00Z",
+    "createdAt": "2025-01-01T00:00:00Z"
+  },
+  {
+    "tokenId": "tok300000-0002",
+    "tokenName": "Member Portal Integration Token",
+    "tokenType": "OAuth2",
+    "issuedTo": "National Health Insurance - Member Portal",
+    "isActive": true,
+    "expiresAt": "2026-06-30T00:00:00Z",
+    "createdAt": "2025-01-01T00:00:00Z"
+  },
+  {
+    "tokenId": "tok300000-0003",
+    "tokenName": "Bank Partner Collection API",
+    "tokenType": "API",
+    "issuedTo": "ABSA",
+    "isActive": true,
+    "expiresAt": "2026-12-31T00:00:00Z",
+    "createdAt": "2025-01-01T00:00:00Z"
+  }
+]

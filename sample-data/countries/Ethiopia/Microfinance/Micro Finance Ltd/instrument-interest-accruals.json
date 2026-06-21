@@ -1,0 +1,68 @@
+[
+  {
+    "instrumentId": "LOAN-001",
+    "instrumentReference": "Haile \u2014 Micro Finance L",
+    "instrumentType": "Loan",
+    "outstandingBalance": 650000.0,
+    "nominalRate": 0.36,
+    "effectiveInterestRate": 0.396,
+    "accruedAmount": 705.21,
+    "accrualDate": "2026-02-28T00:00:00Z",
+    "journalEntryId": null
+  },
+  {
+    "instrumentId": "LOAN-002",
+    "instrumentReference": "SME Loan \u2014 Dawit Trading Ltd",
+    "instrumentType": "Loan",
+    "outstandingBalance": 3200000.0,
+    "nominalRate": 0.3,
+    "effectiveInterestRate": 0.33,
+    "accruedAmount": 2893.15,
+    "accrualDate": "2026-02-28T00:00:00Z",
+    "journalEntryId": null
+  },
+  {
+    "instrumentId": "DEP-001",
+    "instrumentReference": "Fixed Deposit \u2014 Selamawit Savings Group",
+    "instrumentType": "Deposit",
+    "outstandingBalance": 19500000.0,
+    "nominalRate": 0.06,
+    "effectiveInterestRate": 0.06,
+    "accruedAmount": 3205.48,
+    "accrualDate": "2026-02-28T00:00:00Z",
+    "journalEntryId": null
+  },
+  {
+    "instrumentId": "LOAN-003",
+    "instrumentReference": "Mortgage \u2014 Selamawit",
+    "instrumentType": "Loan",
+    "outstandingBalance": 1300000.0,
+    "nominalRate": 0.32,
+    "effectiveInterestRate": 0.352,
+    "accruedAmount": 1253.7,
+    "accrualDate": "2026-02-28T00:00:00Z",
+    "journalEntryId": null
+  },
+  {
+    "instrumentId": "DEP-002",
+    "instrumentReference": "Call Deposit \u2014 Micro Finance L Fund",
+    "instrumentType": "Deposit",
+    "outstandingBalance": 6500000.0,
+    "nominalRate": 0.05,
+    "effectiveInterestRate": 0.05,
+    "accruedAmount": 890.41,
+    "accrualDate": "2026-02-28T00:00:00Z",
+    "journalEntryId": null
+  },
+  {
+    "instrumentId": "LOAN-004",
+    "instrumentReference": "Corporate Bond \u2014 Micro Finance L",
+    "instrumentType": "Loan",
+    "outstandingBalance": 26000000.0,
+    "nominalRate": 0.28,
+    "effectiveInterestRate": 0.308,
+    "accruedAmount": 21939.73,
+    "accrualDate": "2026-02-28T00:00:00Z",
+    "journalEntryId": null
+  }
+]

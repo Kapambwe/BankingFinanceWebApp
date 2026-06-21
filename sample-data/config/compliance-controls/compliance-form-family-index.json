@@ -1,0 +1,123 @@
+[
+  {
+    "family": "Commercial Bank Products",
+    "institutionType": "Commercial Bank",
+    "priority": 1,
+    "files": [
+      "wwwroot/sample-data/countries/Zambia/Commercial Bank/Zanaco/compliance-form-templates-commercial-bank-products.json"
+    ]
+  },
+  {
+    "family": "Retail Consumer Banking",
+    "institutionType": "Commercial Bank",
+    "priority": 2,
+    "files": [
+      "wwwroot/sample-data/countries/Zambia/Commercial Bank/Zanaco/compliance-form-templates-retail-consumer-banking.json"
+    ]
+  },
+  {
+    "family": "SME Business Banking",
+    "institutionType": "Commercial Bank",
+    "priority": 3,
+    "files": [
+      "wwwroot/sample-data/countries/Zambia/Commercial Bank/Zanaco/compliance-form-templates-sme-business-banking.json"
+    ]
+  },
+  {
+    "family": "Mortgage",
+    "institutionType": "Commercial Bank",
+    "priority": 4,
+    "files": [
+      "wwwroot/sample-data/countries/Zambia/Commercial Bank/Zanaco/compliance-form-templates-mortgage.json"
+    ]
+  },
+  {
+    "family": "Consumer Credit",
+    "institutionType": "Commercial Bank",
+    "priority": 5,
+    "files": [
+      "wwwroot/sample-data/countries/Zambia/Commercial Bank/Zanaco/compliance-form-templates-consumer-credit.json"
+    ]
+  },
+  {
+    "family": "Card and Overdraft",
+    "institutionType": "Commercial Bank",
+    "priority": 6,
+    "files": [
+      "wwwroot/sample-data/countries/Zambia/Commercial Bank/Zanaco/compliance-form-templates-card-and-overdraft.json"
+    ]
+  },
+  {
+    "family": "Trade Finance",
+    "institutionType": "Commercial Bank",
+    "priority": 7,
+    "files": [
+      "wwwroot/sample-data/countries/Zambia/Commercial Bank/Zanaco/compliance-form-templates-trade-finance.json"
+    ]
+  },
+  {
+    "family": "Business Credit",
+    "institutionType": "Commercial Bank",
+    "priority": 8,
+    "files": [
+      "wwwroot/sample-data/countries/Zambia/Commercial Bank/Zanaco/compliance-form-templates-business-credit.json"
+    ]
+  },
+  {
+    "family": "Insurance",
+    "institutionType": "Insurance Company",
+    "priority": 9,
+    "files": [
+      "wwwroot/sample-data/countries/Zambia/Insurance Company/Example Insurance/compliance-form-templates-policy-application.json",
+      "wwwroot/sample-data/countries/Zambia/Insurance Company/Example Insurance/compliance-form-templates-claims.json",
+      "wwwroot/sample-data/countries/Zambia/Insurance Company/Example Insurance/compliance-form-templates-underwriting.json"
+    ]
+  },
+  {
+    "family": "Development Finance",
+    "institutionType": "Development Finance Institution",
+    "priority": 10,
+    "files": [
+      "wwwroot/sample-data/countries/Zambia/Development Finance Institution/Zanaco DFI/compliance-form-templates-development-finance.json",
+      "wwwroot/sample-data/countries/Zambia/Development Finance Institution/Zanaco DFI/compliance-form-templates-grant-funding.json",
+      "wwwroot/sample-data/countries/Zambia/Development Finance Institution/Zanaco DFI/compliance-form-templates-project-finance.json"
+    ]
+  },
+  {
+    "family": "Microfinance",
+    "institutionType": "Microfinance Institution",
+    "priority": 11,
+    "files": [
+      "wwwroot/sample-data/countries/Zambia/Microfinance Institution/Example MFI/compliance-form-templates-group-lending.json",
+      "wwwroot/sample-data/countries/Zambia/Microfinance Institution/Example MFI/compliance-form-templates-savings.json",
+      "wwwroot/sample-data/countries/Zambia/Microfinance Institution/Example MFI/compliance-form-templates-field-monitoring.json"
+    ]
+  },
+  {
+    "family": "Empowerment and Public Funds",
+    "institutionType": "Citizen Empowerment Agency",
+    "priority": 12,
+    "files": [
+      "wwwroot/sample-data/countries/Zambia/Citizen Empowerment Agency/Example Agency/compliance-form-templates-grants.json"
+    ]
+  },
+  {
+    "family": "Mobile Money and Payments",
+    "institutionType": "Mobile Money Operator",
+    "priority": 13,
+    "files": [
+      "wwwroot/sample-data/countries/Zambia/Mobile Money Operator/Example Mobile Money/compliance-form-templates-wallet-onboarding.json",
+      "wwwroot/sample-data/countries/Zambia/Mobile Money Operator/Example Mobile Money/compliance-form-templates-disputes-reversals.json"
+    ]
+  },
+  {
+    "family": "Venture Capital",
+    "institutionType": "Venture Capital",
+    "priority": 14,
+    "files": [
+      "wwwroot/sample-data/countries/Zambia/Venture Capital/Example VC/compliance-form-templates-fund-management.json",
+      "wwwroot/sample-data/countries/Zambia/Venture Capital/Example VC/compliance-form-templates-portfolio-onboarding.json",
+      "wwwroot/sample-data/countries/Zambia/Venture Capital/Example VC/compliance-form-templates-investment-committee.json"
+    ]
+  }
+]

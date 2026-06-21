@@ -1,0 +1,7 @@
+[
+  { "id": "mfi-admin-001", "username": "admin.mfi", "fullName": "Diana Sikalumbi", "role": "Administrator", "email": "diana.sikalumbi@mfi.zm", "isActive": true },
+  { "id": "mfi-officer-001", "username": "officer.mfi", "fullName": "Peter Chanda", "role": "Loan Officer", "email": "peter.chanda@mfi.zm", "isActive": true },
+  { "id": "mfi-field-001", "username": "field.mfi", "fullName": "Zainab Phiri", "role": "Field Officer", "email": "zainab.phiri@mfi.zm", "isActive": true },
+  { "id": "mfi-risk-001", "username": "risk.mfi", "fullName": "Fred Mumba", "role": "Risk Officer", "email": "fred.mumba@mfi.zm", "isActive": true },
+  { "id": "mfi-collections-001", "username": "collections.mfi", "fullName": "Ruth Chanda", "role": "Collections Officer", "email": "ruth.chanda@mfi.zm", "isActive": true }
+]

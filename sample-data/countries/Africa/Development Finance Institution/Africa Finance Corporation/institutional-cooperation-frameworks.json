@@ -1,0 +1,198 @@
+[
+  {
+    "frameworkId": "3d913863-4df0-c961-5ce3-1927d071b0a0",
+    "frameworkTitle": "Africa Finance Corporation Cooperation Framework with Nigeria",
+    "frameworkReference": "AFC-FWK-2026-001",
+    "institutionA": "Africa Finance Corporation",
+    "institutionB": "Federal Ministry of Finance",
+    "frameworkType": "MemorandumOfUnderstanding",
+    "frameworkScope": "Joint programming, data exchange, investment preparation, implementation support and portfolio monitoring",
+    "coveredActivityAreas": [
+      "Power",
+      "Portfolio Monitoring",
+      "Technical Assistance"
+    ],
+    "coveredRegions": [
+      "West Africa"
+    ],
+    "coveredCountries": [
+      "Nigeria"
+    ],
+    "annualWorkProgramBudget": 1850000,
+    "currency": "USD",
+    "activeEngagements": 3,
+    "completedEngagements": 1,
+    "status": "Active",
+    "signedDate": "2024-02-19T22:00:00Z",
+    "expiryDate": "2029-02-19T22:00:00Z",
+    "createdAt": "2023-12-31T22:00:00Z"
+  },
+  {
+    "frameworkId": "2dc9973d-72b9-87d6-4247-8e857b9098b7",
+    "frameworkTitle": "Africa Finance Corporation Cooperation Framework with Ghana",
+    "frameworkReference": "AFC-FWK-2026-002",
+    "institutionA": "Africa Finance Corporation",
+    "institutionB": "Ministry of Finance",
+    "frameworkType": "CooperativeAgreement",
+    "frameworkScope": "Joint programming, data exchange, investment preparation, implementation support and portfolio monitoring",
+    "coveredActivityAreas": [
+      "Ports and Logistics",
+      "Portfolio Monitoring",
+      "Technical Assistance"
+    ],
+    "coveredRegions": [
+      "West Africa"
+    ],
+    "coveredCountries": [
+      "Ghana"
+    ],
+    "annualWorkProgramBudget": 2200000,
+    "currency": "USD",
+    "activeEngagements": 4,
+    "completedEngagements": 2,
+    "status": "Signed",
+    "signedDate": "2024-03-19T22:00:00Z",
+    "expiryDate": "2029-03-19T22:00:00Z",
+    "createdAt": "2024-01-01T22:00:00Z"
+  },
+  {
+    "frameworkId": "523b1f03-8f9b-6f91-7d3f-0450bd3bebaf",
+    "frameworkTitle": "Africa Finance Corporation Cooperation Framework with Kenya",
+    "frameworkReference": "AFC-FWK-2026-003",
+    "institutionA": "Africa Finance Corporation",
+    "institutionB": "National Treasury and Economic Planning",
+    "frameworkType": "JointWorkProgram",
+    "frameworkScope": "Joint programming, data exchange, investment preparation, implementation support and portfolio monitoring",
+    "coveredActivityAreas": [
+      "Rail",
+      "Portfolio Monitoring",
+      "Technical Assistance"
+    ],
+    "coveredRegions": [
+      "East Africa"
+    ],
+    "coveredCountries": [
+      "Kenya"
+    ],
+    "annualWorkProgramBudget": 2550000,
+    "currency": "USD",
+    "activeEngagements": 5,
+    "completedEngagements": 3,
+    "status": "UnderRenewal",
+    "signedDate": "2024-04-19T22:00:00Z",
+    "expiryDate": "2029-04-19T22:00:00Z",
+    "createdAt": "2024-01-02T22:00:00Z"
+  },
+  {
+    "frameworkId": "09bbf6ea-32df-9005-8021-400172520124",
+    "frameworkTitle": "Africa Finance Corporation Cooperation Framework with Egypt",
+    "frameworkReference": "AFC-FWK-2026-004",
+    "institutionA": "Africa Finance Corporation",
+    "institutionB": "Ministry of International Cooperation",
+    "frameworkType": "DataSharingProtocol",
+    "frameworkScope": "Joint programming, data exchange, investment preparation, implementation support and portfolio monitoring",
+    "coveredActivityAreas": [
+      "Industrial Parks",
+      "Portfolio Monitoring",
+      "Technical Assistance"
+    ],
+    "coveredRegions": [
+      "North Africa"
+    ],
+    "coveredCountries": [
+      "Egypt"
+    ],
+    "annualWorkProgramBudget": 2900000,
+    "currency": "USD",
+    "activeEngagements": 6,
+    "completedEngagements": 4,
+    "status": "Active",
+    "signedDate": "2024-05-19T22:00:00Z",
+    "expiryDate": "2029-05-19T22:00:00Z",
+    "createdAt": "2024-01-03T22:00:00Z"
+  },
+  {
+    "frameworkId": "0d05c142-2598-f8b3-cc1c-f2aa2994239c",
+    "frameworkTitle": "Africa Finance Corporation Cooperation Framework with South Africa",
+    "frameworkReference": "AFC-FWK-2026-005",
+    "institutionA": "Africa Finance Corporation",
+    "institutionB": "National Treasury",
+    "frameworkType": "JointFinancingFramework",
+    "frameworkScope": "Joint programming, data exchange, investment preparation, implementation support and portfolio monitoring",
+    "coveredActivityAreas": [
+      "Telecommunications",
+      "Portfolio Monitoring",
+      "Technical Assistance"
+    ],
+    "coveredRegions": [
+      "Southern Africa"
+    ],
+    "coveredCountries": [
+      "South Africa"
+    ],
+    "annualWorkProgramBudget": 3250000,
+    "currency": "USD",
+    "activeEngagements": 7,
+    "completedEngagements": 5,
+    "status": "Negotiation",
+    "signedDate": "2024-06-19T22:00:00Z",
+    "expiryDate": "2029-06-19T22:00:00Z",
+    "createdAt": "2024-01-04T22:00:00Z"
+  },
+  {
+    "frameworkId": "c4b7b95e-8e9d-a595-03c2-62d6595a8243",
+    "frameworkTitle": "Africa Finance Corporation Cooperation Framework with Cote d'Ivoire",
+    "frameworkReference": "AFC-FWK-2026-006",
+    "institutionA": "Africa Finance Corporation",
+    "institutionB": "Ministry of Finance and Budget",
+    "frameworkType": "DelegationAgreement",
+    "frameworkScope": "Joint programming, data exchange, investment preparation, implementation support and portfolio monitoring",
+    "coveredActivityAreas": [
+      "Gas Infrastructure",
+      "Portfolio Monitoring",
+      "Technical Assistance"
+    ],
+    "coveredRegions": [
+      "West Africa"
+    ],
+    "coveredCountries": [
+      "Cote d'Ivoire"
+    ],
+    "annualWorkProgramBudget": 3600000,
+    "currency": "USD",
+    "activeEngagements": 8,
+    "completedEngagements": 6,
+    "status": "Active",
+    "signedDate": "2024-07-19T22:00:00Z",
+    "expiryDate": "2029-07-19T22:00:00Z",
+    "createdAt": "2024-01-05T22:00:00Z"
+  },
+  {
+    "frameworkId": "81533d34-eaea-78eb-e9b1-026d455c6f33",
+    "frameworkTitle": "Africa Finance Corporation Cooperation Framework with Senegal",
+    "frameworkReference": "AFC-FWK-2026-007",
+    "institutionA": "Africa Finance Corporation",
+    "institutionB": "Ministry of Economy, Planning and Cooperation",
+    "frameworkType": "SecondmentAgreement",
+    "frameworkScope": "Joint programming, data exchange, investment preparation, implementation support and portfolio monitoring",
+    "coveredActivityAreas": [
+      "Renewable Energy",
+      "Portfolio Monitoring",
+      "Technical Assistance"
+    ],
+    "coveredRegions": [
+      "West Africa"
+    ],
+    "coveredCountries": [
+      "Senegal"
+    ],
+    "annualWorkProgramBudget": 3950000,
+    "currency": "USD",
+    "activeEngagements": 9,
+    "completedEngagements": 7,
+    "status": "Expired",
+    "signedDate": "2024-08-19T22:00:00Z",
+    "expiryDate": "2029-08-19T22:00:00Z",
+    "createdAt": "2024-01-06T22:00:00Z"
+  }
+]

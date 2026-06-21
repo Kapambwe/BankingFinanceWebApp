@@ -1,0 +1,85 @@
+{
+  "institutionType": "Development Finance Institution",
+  "country": "Default",
+  "description": "Default role-to-permission mapping for development finance institutions.",
+  "version": "1.0.0",
+  "roles": [
+    {
+      "role": "DFIAdmin",
+      "permissions": [
+        "Banking.Government.View",
+        "Banking.Government.Budgets.View",
+        "Banking.Government.Budgets.Manage",
+        "Banking.Government.SovereignLending.View",
+        "Banking.Government.SovereignLending.Manage",
+        "Banking.Government.Grants.View",
+        "Banking.Government.Grants.Manage",
+        "Banking.Government.CommunityDevelopment.View",
+        "Banking.Government.CommunityDevelopment.Manage",
+        "Banking.BeneficiaryRegistry.View",
+        "Banking.BeneficiaryRegistry.Manage",
+        "Banking.SME.View",
+        "Banking.SME.Manage",
+        "Banking.SocialImpact.View",
+        "Banking.Accounting.View",
+        "Banking.Accrual.ViewDashboard",
+        "Banking.HR.View",
+        "Banking.CRM.ViewCustomers",
+        "Banking.Documents.View",
+        "Banking.Workflows.View"
+      ]
+    },
+    {
+      "role": "ProjectOfficer",
+      "permissions": [
+        "Banking.Government.SovereignLending.View",
+        "Banking.Government.SovereignLending.Manage",
+        "Banking.Government.Grants.View",
+        "Banking.Government.Grants.Manage",
+        "Banking.Government.CommunityDevelopment.View",
+        "Banking.Government.SocialProtection.View",
+        "Banking.BeneficiaryRegistry.View",
+        "Banking.SME.View",
+        "Banking.ValueChain.View",
+        "Banking.SocialImpact.View",
+        "Banking.Accounting.View",
+        "Banking.CRM.ViewCustomers",
+        "Banking.Documents.View",
+        "Banking.Workflows.View"
+      ]
+    },
+    {
+      "role": "MonitoringOfficer",
+      "permissions": [
+        "Banking.Government.ME.View",
+        "Banking.Government.ME.Manage",
+        "Banking.BeneficiaryRegistry.View",
+        "Banking.SocialImpact.View",
+        "Banking.Regulatory.ViewReports",
+        "Banking.Documents.View"
+      ]
+    },
+    {
+      "role": "ComplianceOfficer",
+      "permissions": [
+        "Banking.Regulatory.ViewReports",
+        "Banking.Regulatory.ViewAuditLogs",
+        "Banking.Risk.ViewDashboard",
+        "Banking.Documents.View",
+        "Banking.Documents.Manage"
+      ]
+    },
+    {
+      "role": "FinanceOfficer",
+      "permissions": [
+        "Banking.Government.Budgets.View",
+        "Banking.Government.Budgets.Manage",
+        "Banking.Government.PFM.View",
+        "Banking.Government.PFM.Manage",
+        "Banking.Accounting.View",
+        "Banking.Accrual.ViewDashboard",
+        "Banking.Accounting.ViewReports"
+      ]
+    }
+  ]
+}

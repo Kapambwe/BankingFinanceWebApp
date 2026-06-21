@@ -1,0 +1,18 @@
+[
+  {
+    "PaymentId": "99999999-9999-9999-9999-999999999994",
+    "TransferId": "99999999-9999-9999-9999-999999999991",
+    "BeneficiaryName": "Mildred Tembo",
+    "BeneficiaryNumber": "BENE-0001",
+    "PaymentCycle": "2026-06",
+    "Amount": 900,
+    "PaymentMethod": "Mobile Money - Airtel",
+    "TransactionRef": "TXN-061-0001",
+    "Currency": "ZMW",
+    "Status": "Paid",
+    "FailureReason": "",
+    "ScheduledDate": "2026-06-28T00:00:00Z",
+    "PaymentDate": "2026-06-28T00:00:00Z",
+    "CreatedAt": "2026-06-28T00:00:00Z"
+  }
+]

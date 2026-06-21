@@ -1,0 +1,99 @@
+[
+  {
+    "id": "form-business-account-opening",
+    "code": "FORM-BUSINESS-ACCOUNT-OPENING",
+    "name": "Business Account Opening",
+    "purpose": "Captures business identity and onboarding information for SME customers.",
+    "owner": "Business Banking",
+    "status": "Active",
+    "lifecycle": "Production-ready",
+    "lastUpdated": "2026-06-19T08:20:00Z",
+    "usedFor": [ "Business account opening", "SME onboarding" ],
+    "sections": [
+      {
+        "title": "Business Profile",
+        "description": "Capture legal entity and registration details.",
+        "fields": [
+          { "key": "businessName", "label": "Business name", "type": "Text", "required": true },
+          { "key": "registrationNumber", "label": "Registration number", "type": "Text", "required": true },
+          { "key": "businessType", "label": "Business type", "type": "Select", "required": true, "options": [
+            { "value": "sole-trader", "label": "Sole trader" },
+            { "value": "private-company", "label": "Private company" },
+            { "value": "partnership", "label": "Partnership" }
+          ] }
+        ]
+      },
+      {
+        "title": "Operating Details",
+        "description": "Capture contacts, turnover and supporting evidence.",
+        "fields": [
+          { "key": "annualTurnover", "label": "Annual turnover", "type": "Number", "required": true },
+          { "key": "businessAddress", "label": "Business address", "type": "Multiline", "required": true },
+          { "key": "companyDocuments", "label": "Company documents", "type": "File", "required": true }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "form-sme-loan-application",
+    "code": "FORM-SME-LOAN-APPLICATION",
+    "name": "SME Loan Application",
+    "purpose": "Captures business lending requests, working capital needs and repayment capacity.",
+    "owner": "Business Lending",
+    "status": "Active",
+    "lifecycle": "Production-ready",
+    "lastUpdated": "2026-06-19T08:50:00Z",
+    "usedFor": [ "SME loan", "Working capital finance" ],
+    "sections": [
+      {
+        "title": "Business Information",
+        "description": "Capture business profile and industry.",
+        "fields": [
+          { "key": "businessName", "label": "Business name", "type": "Text", "required": true },
+          { "key": "industry", "label": "Industry", "type": "Text", "required": true },
+          { "key": "yearsOperating", "label": "Years operating", "type": "Number", "required": true }
+        ]
+      },
+      {
+        "title": "Facility Request",
+        "description": "Capture loan size, purpose and repayment evidence.",
+        "fields": [
+          { "key": "requestedAmount", "label": "Requested amount", "type": "Number", "required": true },
+          { "key": "loanPurpose", "label": "Loan purpose", "type": "Multiline", "required": true },
+          { "key": "bankStatements", "label": "Bank statements", "type": "File", "required": true }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "form-pos-terminal-request",
+    "code": "FORM-POS-TERMINAL-REQUEST",
+    "name": "POS Terminal Request",
+    "purpose": "Captures merchant acceptance and settlement details for card acceptance devices.",
+    "owner": "Merchant Services",
+    "status": "Active",
+    "lifecycle": "Production-ready",
+    "lastUpdated": "2026-06-19T09:20:00Z",
+    "usedFor": [ "POS request", "Merchant acquiring" ],
+    "sections": [
+      {
+        "title": "Merchant Profile",
+        "description": "Capture merchant and outlet details.",
+        "fields": [
+          { "key": "merchantName", "label": "Merchant name", "type": "Text", "required": true },
+          { "key": "outletName", "label": "Outlet name", "type": "Text", "required": true },
+          { "key": "outletLocation", "label": "Outlet location", "type": "Text", "required": true }
+        ]
+      },
+      {
+        "title": "Acquiring Request",
+        "description": "Capture device and settlement requirements.",
+        "fields": [
+          { "key": "terminalCount", "label": "Terminal count", "type": "Number", "required": true },
+          { "key": "settlementAccount", "label": "Settlement account", "type": "Text", "required": true },
+          { "key": "merchantAgreement", "label": "Merchant agreement", "type": "File", "required": true }
+        ]
+      }
+    ]
+  }
+]

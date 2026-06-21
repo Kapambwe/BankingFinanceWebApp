@@ -1,0 +1,95 @@
+[
+  {
+    "id": "form-business-line-of-credit",
+    "code": "FORM-BUSINESS-LINE-OF-CREDIT",
+    "name": "Business Line of Credit",
+    "purpose": "Captures revolving business credit requests and cash flow support evidence.",
+    "owner": "Business Lending",
+    "status": "Active",
+    "lifecycle": "Production-ready",
+    "lastUpdated": "2026-06-19T11:35:00Z",
+    "usedFor": [ "Business line of credit", "Working capital" ],
+    "sections": [
+      {
+        "title": "Business Profile",
+        "description": "Capture company and operating profile.",
+        "fields": [
+          { "key": "businessName", "label": "Business name", "type": "Text", "required": true },
+          { "key": "industry", "label": "Industry", "type": "Text", "required": true },
+          { "key": "yearsTrading", "label": "Years trading", "type": "Number", "required": true }
+        ]
+      },
+      {
+        "title": "Credit Request",
+        "description": "Capture requested limit and support documentation.",
+        "fields": [
+          { "key": "requestedLimit", "label": "Requested limit", "type": "Number", "required": true },
+          { "key": "purposeOfFunds", "label": "Purpose of funds", "type": "Multiline", "required": true },
+          { "key": "bankStatements", "label": "Bank statements", "type": "File", "required": true }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "form-invoice-finance",
+    "code": "FORM-INVOICE-FINANCE",
+    "name": "Invoice Finance Application",
+    "purpose": "Captures receivables financing requests and debtor support evidence.",
+    "owner": "Business Lending",
+    "status": "Active",
+    "lifecycle": "Production-ready",
+    "lastUpdated": "2026-06-19T11:50:00Z",
+    "usedFor": [ "Invoice finance", "Receivables financing" ],
+    "sections": [
+      {
+        "title": "Business Information",
+        "description": "Capture the business and debtor details.",
+        "fields": [
+          { "key": "businessName", "label": "Business name", "type": "Text", "required": true },
+          { "key": "debtorName", "label": "Debtor name", "type": "Text", "required": true },
+          { "key": "debtorCreditTerms", "label": "Debtor credit terms", "type": "Text", "required": true }
+        ]
+      },
+      {
+        "title": "Invoice Pack",
+        "description": "Capture invoice value and underlying documents.",
+        "fields": [
+          { "key": "invoiceAmount", "label": "Invoice amount", "type": "Number", "required": true },
+          { "key": "invoiceFile", "label": "Invoice file", "type": "File", "required": true },
+          { "key": "deliveryEvidence", "label": "Delivery evidence", "type": "File", "required": false }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "form-business-credit-supporting-documents",
+    "code": "FORM-BUSINESS-CREDIT-DOCS",
+    "name": "Business Credit Supporting Documents",
+    "purpose": "Captures supporting documents used to underwrite business credit facilities.",
+    "owner": "Credit Risk",
+    "status": "Active",
+    "lifecycle": "Production-ready",
+    "lastUpdated": "2026-06-19T12:05:00Z",
+    "usedFor": [ "Business credit", "Supporting documents" ],
+    "sections": [
+      {
+        "title": "Applicant Summary",
+        "description": "Capture the applicant and facility reference.",
+        "fields": [
+          { "key": "applicantName", "label": "Applicant name", "type": "Text", "required": true },
+          { "key": "facilityReference", "label": "Facility reference", "type": "Text", "required": true },
+          { "key": "relationshipManager", "label": "Relationship manager", "type": "Text", "required": true }
+        ]
+      },
+      {
+        "title": "Document Checklist",
+        "description": "Capture the document pack submitted for credit review.",
+        "fields": [
+          { "key": "auditedFinancials", "label": "Audited financials", "type": "File", "required": true },
+          { "key": "taxClearance", "label": "Tax clearance", "type": "File", "required": true },
+          { "key": "boardResolution", "label": "Board resolution", "type": "File", "required": false }
+        ]
+      }
+    ]
+  }
+]

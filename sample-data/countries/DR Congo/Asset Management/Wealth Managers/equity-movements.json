@@ -1,0 +1,50 @@
+[
+  {
+    "description": "Opening balance",
+    "type": "ReserveTransfer",
+    "shareCapitalImpact": 56000000000.0,
+    "retainedEarningsImpact": 14000000000.0,
+    "otherEquityImpact": 2240000000.0,
+    "date": "2026-01-01T00:00:00Z"
+  },
+  {
+    "description": "Net income for the period \u2014 January 2026",
+    "type": "NetIncome",
+    "shareCapitalImpact": 0.0,
+    "retainedEarningsImpact": 9800000000.0,
+    "otherEquityImpact": 0.0,
+    "date": "2026-01-31T00:00:00Z"
+  },
+  {
+    "description": "Other comprehensive income \u2014 FX translation gains (Wealth Managers)",
+    "type": "OCI",
+    "shareCapitalImpact": 0.0,
+    "retainedEarningsImpact": 0.0,
+    "otherEquityImpact": 392000000.0,
+    "date": "2026-01-31T00:00:00Z"
+  },
+  {
+    "description": "Interim dividend declared \u2014 January 2026",
+    "type": "Dividend",
+    "shareCapitalImpact": 0.0,
+    "retainedEarningsImpact": -3360000000.0,
+    "otherEquityImpact": 0.0,
+    "date": "2026-01-25T00:00:00Z"
+  },
+  {
+    "description": "Net income for the period \u2014 February 2026",
+    "type": "NetIncome",
+    "shareCapitalImpact": 0.0,
+    "retainedEarningsImpact": 10304000000.0,
+    "otherEquityImpact": 0.0,
+    "date": "2026-02-28T00:00:00Z"
+  },
+  {
+    "description": "Other comprehensive income \u2014 unrealised fund NAV revaluation",
+    "type": "OCI",
+    "shareCapitalImpact": 0.0,
+    "retainedEarningsImpact": 0.0,
+    "otherEquityImpact": 201600000.0,
+    "date": "2026-02-28T00:00:00Z"
+  }
+]

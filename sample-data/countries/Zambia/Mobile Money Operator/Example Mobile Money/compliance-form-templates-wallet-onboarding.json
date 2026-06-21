@@ -1,0 +1,99 @@
+[
+  {
+    "id": "form-wallet-onboarding",
+    "code": "FORM-WALLET-ONBOARDING",
+    "name": "Wallet Onboarding",
+    "purpose": "Captures customer details for mobile wallet registration and KYC verification.",
+    "owner": "Wallet Operations",
+    "status": "Active",
+    "lifecycle": "Production-ready",
+    "lastUpdated": "2026-06-19T17:00:00Z",
+    "usedFor": [ "Wallet onboarding", "Mobile wallet registration" ],
+    "sections": [
+      {
+        "title": "Customer Profile",
+        "description": "Capture identity and contact details.",
+        "fields": [
+          { "key": "customerName", "label": "Customer name", "type": "Text", "required": true },
+          { "key": "phoneNumber", "label": "Phone number", "type": "Text", "required": true },
+          { "key": "idNumber", "label": "ID number", "type": "Text", "required": true }
+        ]
+      },
+      {
+        "title": "Wallet Setup",
+        "description": "Capture registration preferences and KYC evidence.",
+        "fields": [
+          { "key": "preferredChannel", "label": "Preferred channel", "type": "Select", "required": true, "options": [
+            { "value": "ussd", "label": "USSD" },
+            { "value": "app", "label": "App" },
+            { "value": "agent", "label": "Agent assisted" }
+          ] },
+          { "key": "addressProof", "label": "Address proof", "type": "File", "required": true },
+          { "key": "photoId", "label": "Photo ID", "type": "File", "required": true }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "form-merchant-onboarding-mobile-money",
+    "code": "FORM-MOBILE-MONEY-MERCHANT-ONBOARDING",
+    "name": "Merchant Onboarding",
+    "purpose": "Captures merchant registration and settlement details for wallet acceptance.",
+    "owner": "Merchant Services",
+    "status": "Active",
+    "lifecycle": "Production-ready",
+    "lastUpdated": "2026-06-19T17:10:00Z",
+    "usedFor": [ "Merchant onboarding", "Wallet acceptance" ],
+    "sections": [
+      {
+        "title": "Merchant Profile",
+        "description": "Capture the merchant and outlet details.",
+        "fields": [
+          { "key": "merchantName", "label": "Merchant name", "type": "Text", "required": true },
+          { "key": "outletName", "label": "Outlet name", "type": "Text", "required": true },
+          { "key": "registrationNumber", "label": "Registration number", "type": "Text", "required": true }
+        ]
+      },
+      {
+        "title": "Settlement Setup",
+        "description": "Capture settlement account and compliance evidence.",
+        "fields": [
+          { "key": "settlementAccount", "label": "Settlement account", "type": "Text", "required": true },
+          { "key": "merchantAgreement", "label": "Merchant agreement", "type": "File", "required": true },
+          { "key": "kycDeclaration", "label": "KYC declaration", "type": "Checkbox", "required": true }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "form-agent-onboarding",
+    "code": "FORM-AGENT-ONBOARDING",
+    "name": "Agent Onboarding",
+    "purpose": "Captures agent registration details for cash-in and cash-out operations.",
+    "owner": "Agent Operations",
+    "status": "Active",
+    "lifecycle": "Production-ready",
+    "lastUpdated": "2026-06-19T17:20:00Z",
+    "usedFor": [ "Agent onboarding", "Cash in/cash out" ],
+    "sections": [
+      {
+        "title": "Agent Details",
+        "description": "Capture the agent and location details.",
+        "fields": [
+          { "key": "agentName", "label": "Agent name", "type": "Text", "required": true },
+          { "key": "location", "label": "Location", "type": "Text", "required": true },
+          { "key": "contactNumber", "label": "Contact number", "type": "Text", "required": true }
+        ]
+      },
+      {
+        "title": "Operational Readiness",
+        "description": "Capture liquidity and compliance evidence.",
+        "fields": [
+          { "key": "floatAmount", "label": "Float amount", "type": "Number", "required": true },
+          { "key": "businessLicense", "label": "Business license", "type": "File", "required": true },
+          { "key": "trainingCertificate", "label": "Training certificate", "type": "File", "required": false }
+        ]
+      }
+    ]
+  }
+]

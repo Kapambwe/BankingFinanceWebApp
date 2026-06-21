@@ -1,0 +1,14 @@
+[
+  {"accountCode":"1000","accountName":"Cash and Cash Equivalents","accountType":"Asset","balance":5200000000.00,"currency":"USD"},
+  {"accountCode":"1100","accountName":"Sovereign Loans Outstanding","accountType":"Asset","balance":28900000000.00,"currency":"USD"},
+  {"accountCode":"1200","accountName":"Non-Sovereign Loans Outstanding","accountType":"Asset","balance":8500000000.00,"currency":"USD"},
+  {"accountCode":"1300","accountName":"Equity Investments","accountType":"Asset","balance":2100000000.00,"currency":"USD"},
+  {"accountCode":"2000","accountName":"Borrowings","accountType":"Liability","balance":32400000000.00,"currency":"USD"},
+  {"accountCode":"2100","accountName":"Grants Payable","accountType":"Liability","balance":1800000000.00,"currency":"USD"},
+  {"accountCode":"3000","accountName":"Paid-in Capital","accountType":"Equity","balance":7500000000.00,"currency":"USD"},
+  {"accountCode":"3100","accountName":"Callable Capital","accountType":"Equity","balance":120000000000.00,"currency":"USD"},
+  {"accountCode":"4000","accountName":"Interest Income - Loans","accountType":"Revenue","balance":1850000000.00,"currency":"USD"},
+  {"accountCode":"4100","accountName":"Investment Income","accountType":"Revenue","balance":450000000.00,"currency":"USD"},
+  {"accountCode":"5000","accountName":"Interest Expense","accountType":"Expense","balance":1200000000.00,"currency":"USD"},
+  {"accountCode":"5100","accountName":"Administrative Expenses","accountType":"Expense","balance":380000000.00,"currency":"USD"}
+]

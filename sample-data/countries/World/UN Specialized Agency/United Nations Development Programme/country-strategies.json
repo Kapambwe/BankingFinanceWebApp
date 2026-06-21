@@ -1,0 +1,436 @@
+[
+  {
+    "strategyId": "a1479ecb-8b4a-963d-9c86-20d4a3d42e68",
+    "strategyCode": "UNDP-ZM-STR-2026-001",
+    "institutionName": "United Nations Development Programme",
+    "countryCode": "ZM",
+    "countryName": "Zambia",
+    "region": "Southern Africa",
+    "strategyType": "CountryStrategyPaper",
+    "countryClassification": "LowerMiddleIncome",
+    "strategyPeriodStart": 2026,
+    "strategyPeriodEnd": 2030,
+    "indicativeLendingEnvelope": 100000000,
+    "grantEnvelope": 7750000,
+    "currency": "USD",
+    "financingWindows": [
+      {
+        "windowName": "Core sovereign window",
+        "windowType": "NonConcessional",
+        "allocatedAmount": 50000000,
+        "currency": "USD",
+        "interestRate": 2.1,
+        "gracePeriodYears": 5,
+        "maturityYears": 25,
+        "isGrantElement": false,
+        "grantEquivalent": 0
+      },
+      {
+        "windowName": "Climate and inclusion window",
+        "windowType": "ClimateFinance",
+        "allocatedAmount": 14000000,
+        "currency": "USD",
+        "interestRate": 0.7,
+        "gracePeriodYears": 7,
+        "maturityYears": 30,
+        "isGrantElement": true,
+        "grantEquivalent": 3500000
+      }
+    ],
+    "strategicPillars": [
+      "Governance",
+      "Institutional capacity",
+      "Inclusive and climate-resilient growth"
+    ],
+    "highLevelObjectives": [
+      "Improve development outcomes",
+      "Mobilise co-financing",
+      "Strengthen delivery systems"
+    ],
+    "crossCuttingThemes": [
+      "Gender inclusion",
+      "Climate resilience",
+      "Digital monitoring"
+    ],
+    "governmentCounterpart": "Ministry of Finance and National Planning",
+    "countryDirector": "Amadou Kane",
+    "countryEconomist": "Fiscal and debt economist",
+    "status": "Implementation",
+    "preparedDate": "2025-02-07T22:00:00Z",
+    "midTermReviewDate": "2028-02-07T22:00:00Z",
+    "completionReportDate": "2031-02-07T22:00:00Z",
+    "createdAt": "2024-12-31T22:00:00Z"
+  },
+  {
+    "strategyId": "ffab105e-8177-cb39-5806-574c399aa0e0",
+    "strategyCode": "UNDP-GH-STR-2026-002",
+    "institutionName": "United Nations Development Programme",
+    "countryCode": "GH",
+    "countryName": "Ghana",
+    "region": "West Africa",
+    "strategyType": "CountryProgrammeDocument",
+    "countryClassification": "LowIncome",
+    "strategyPeriodStart": 2026,
+    "strategyPeriodEnd": 2030,
+    "indicativeLendingEnvelope": 115000000,
+    "grantEnvelope": 9500000,
+    "currency": "USD",
+    "financingWindows": [
+      {
+        "windowName": "Core sovereign window",
+        "windowType": "NonConcessional",
+        "allocatedAmount": 55000000,
+        "currency": "USD",
+        "interestRate": 2.1,
+        "gracePeriodYears": 5,
+        "maturityYears": 25,
+        "isGrantElement": false,
+        "grantEquivalent": 0
+      },
+      {
+        "windowName": "Climate and inclusion window",
+        "windowType": "ClimateFinance",
+        "allocatedAmount": 16000000,
+        "currency": "USD",
+        "interestRate": 0.7,
+        "gracePeriodYears": 7,
+        "maturityYears": 30,
+        "isGrantElement": true,
+        "grantEquivalent": 3500000
+      }
+    ],
+    "strategicPillars": [
+      "Inclusive Growth",
+      "Institutional capacity",
+      "Inclusive and climate-resilient growth"
+    ],
+    "highLevelObjectives": [
+      "Improve development outcomes",
+      "Mobilise co-financing",
+      "Strengthen delivery systems"
+    ],
+    "crossCuttingThemes": [
+      "Gender inclusion",
+      "Climate resilience",
+      "Digital monitoring"
+    ],
+    "governmentCounterpart": "Ministry of Finance",
+    "countryDirector": "Sarah Mensah",
+    "countryEconomist": "Country macroeconomist",
+    "status": "BoardApproval",
+    "preparedDate": "2025-03-07T22:00:00Z",
+    "midTermReviewDate": "2028-03-07T22:00:00Z",
+    "completionReportDate": "2031-03-07T22:00:00Z",
+    "createdAt": "2025-01-01T22:00:00Z"
+  },
+  {
+    "strategyId": "c4183fd6-d945-28c0-cc6c-dddd0300ccaa",
+    "strategyCode": "UNDP-RW-STR-2026-003",
+    "institutionName": "United Nations Development Programme",
+    "countryCode": "RW",
+    "countryName": "Rwanda",
+    "region": "East Africa",
+    "strategyType": "CountryPartnershipFramework",
+    "countryClassification": "BlendEligible",
+    "strategyPeriodStart": 2026,
+    "strategyPeriodEnd": 2030,
+    "indicativeLendingEnvelope": 130000000,
+    "grantEnvelope": 11250000,
+    "currency": "USD",
+    "financingWindows": [
+      {
+        "windowName": "Core sovereign window",
+        "windowType": "NonConcessional",
+        "allocatedAmount": 60000000,
+        "currency": "USD",
+        "interestRate": 2.1,
+        "gracePeriodYears": 5,
+        "maturityYears": 25,
+        "isGrantElement": false,
+        "grantEquivalent": 0
+      },
+      {
+        "windowName": "Climate and inclusion window",
+        "windowType": "ClimateFinance",
+        "allocatedAmount": 18000000,
+        "currency": "USD",
+        "interestRate": 0.7,
+        "gracePeriodYears": 7,
+        "maturityYears": 30,
+        "isGrantElement": true,
+        "grantEquivalent": 3500000
+      }
+    ],
+    "strategicPillars": [
+      "Digital Public Infrastructure",
+      "Institutional capacity",
+      "Inclusive and climate-resilient growth"
+    ],
+    "highLevelObjectives": [
+      "Improve development outcomes",
+      "Mobilise co-financing",
+      "Strengthen delivery systems"
+    ],
+    "crossCuttingThemes": [
+      "Gender inclusion",
+      "Climate resilience",
+      "Digital monitoring"
+    ],
+    "governmentCounterpart": "Ministry of Finance and Economic Planning",
+    "countryDirector": "Elena Rossi",
+    "countryEconomist": "Portfolio economist",
+    "status": "Consultation",
+    "preparedDate": "2025-04-07T22:00:00Z",
+    "midTermReviewDate": "2028-04-07T22:00:00Z",
+    "completionReportDate": "2031-04-07T22:00:00Z",
+    "createdAt": "2025-01-02T22:00:00Z"
+  },
+  {
+    "strategyId": "a1791ff1-76f6-0068-4512-0c09f58991d6",
+    "strategyCode": "UNDP-NP-STR-2026-004",
+    "institutionName": "United Nations Development Programme",
+    "countryCode": "NP",
+    "countryName": "Nepal",
+    "region": "South Asia",
+    "strategyType": "CountryAssistanceStrategy",
+    "countryClassification": "LandlockedDevelopingCountry",
+    "strategyPeriodStart": 2026,
+    "strategyPeriodEnd": 2030,
+    "indicativeLendingEnvelope": 145000000,
+    "grantEnvelope": 13000000,
+    "currency": "USD",
+    "financingWindows": [
+      {
+        "windowName": "Core sovereign window",
+        "windowType": "NonConcessional",
+        "allocatedAmount": 65000000,
+        "currency": "USD",
+        "interestRate": 2.1,
+        "gracePeriodYears": 5,
+        "maturityYears": 25,
+        "isGrantElement": false,
+        "grantEquivalent": 0
+      },
+      {
+        "windowName": "Climate and inclusion window",
+        "windowType": "ClimateFinance",
+        "allocatedAmount": 20000000,
+        "currency": "USD",
+        "interestRate": 0.7,
+        "gracePeriodYears": 7,
+        "maturityYears": 30,
+        "isGrantElement": true,
+        "grantEquivalent": 3500000
+      }
+    ],
+    "strategicPillars": [
+      "Climate Resilience",
+      "Institutional capacity",
+      "Inclusive and climate-resilient growth"
+    ],
+    "highLevelObjectives": [
+      "Improve development outcomes",
+      "Mobilise co-financing",
+      "Strengthen delivery systems"
+    ],
+    "crossCuttingThemes": [
+      "Gender inclusion",
+      "Climate resilience",
+      "Digital monitoring"
+    ],
+    "governmentCounterpart": "National Planning Commission",
+    "countryDirector": "Michael Okoro",
+    "countryEconomist": "Development finance analyst",
+    "status": "MidTermReview",
+    "preparedDate": "2025-05-07T22:00:00Z",
+    "midTermReviewDate": "2028-05-07T22:00:00Z",
+    "completionReportDate": "2031-05-07T22:00:00Z",
+    "createdAt": "2025-01-03T22:00:00Z"
+  },
+  {
+    "strategyId": "1d377fdc-d2ad-d950-fc1d-79b0db79d2ff",
+    "strategyCode": "UNDP-BD-STR-2026-005",
+    "institutionName": "United Nations Development Programme",
+    "countryCode": "BD",
+    "countryName": "Bangladesh",
+    "region": "South Asia",
+    "strategyType": "CountryInvestmentPlan",
+    "countryClassification": "LeastDeveloped",
+    "strategyPeriodStart": 2026,
+    "strategyPeriodEnd": 2030,
+    "indicativeLendingEnvelope": 160000000,
+    "grantEnvelope": 14750000,
+    "currency": "USD",
+    "financingWindows": [
+      {
+        "windowName": "Core sovereign window",
+        "windowType": "NonConcessional",
+        "allocatedAmount": 70000000,
+        "currency": "USD",
+        "interestRate": 2.1,
+        "gracePeriodYears": 5,
+        "maturityYears": 25,
+        "isGrantElement": false,
+        "grantEquivalent": 0
+      },
+      {
+        "windowName": "Climate and inclusion window",
+        "windowType": "ClimateFinance",
+        "allocatedAmount": 22000000,
+        "currency": "USD",
+        "interestRate": 0.7,
+        "gracePeriodYears": 7,
+        "maturityYears": 30,
+        "isGrantElement": true,
+        "grantEquivalent": 3500000
+      }
+    ],
+    "strategicPillars": [
+      "Crisis Recovery",
+      "Institutional capacity",
+      "Inclusive and climate-resilient growth"
+    ],
+    "highLevelObjectives": [
+      "Improve development outcomes",
+      "Mobilise co-financing",
+      "Strengthen delivery systems"
+    ],
+    "crossCuttingThemes": [
+      "Gender inclusion",
+      "Climate resilience",
+      "Digital monitoring"
+    ],
+    "governmentCounterpart": "Ministry of Finance",
+    "countryDirector": "Priya Nair",
+    "countryEconomist": "Senior country economist",
+    "status": "Preparation",
+    "preparedDate": "2025-06-07T22:00:00Z",
+    "midTermReviewDate": "2028-06-07T22:00:00Z",
+    "completionReportDate": "2031-06-07T22:00:00Z",
+    "createdAt": "2025-01-04T22:00:00Z"
+  },
+  {
+    "strategyId": "a9f64f30-bf91-cab9-e179-81ba3e2e3c17",
+    "strategyCode": "UNDP-JO-STR-2026-006",
+    "institutionName": "United Nations Development Programme",
+    "countryCode": "JO",
+    "countryName": "Jordan",
+    "region": "Middle East",
+    "strategyType": "RegionalStrategyPaper",
+    "countryClassification": "UpperMiddleIncome",
+    "strategyPeriodStart": 2026,
+    "strategyPeriodEnd": 2030,
+    "indicativeLendingEnvelope": 175000000,
+    "grantEnvelope": 16500000,
+    "currency": "USD",
+    "financingWindows": [
+      {
+        "windowName": "Core sovereign window",
+        "windowType": "NonConcessional",
+        "allocatedAmount": 75000000,
+        "currency": "USD",
+        "interestRate": 2.1,
+        "gracePeriodYears": 5,
+        "maturityYears": 25,
+        "isGrantElement": false,
+        "grantEquivalent": 0
+      },
+      {
+        "windowName": "Climate and inclusion window",
+        "windowType": "ClimateFinance",
+        "allocatedAmount": 24000000,
+        "currency": "USD",
+        "interestRate": 0.7,
+        "gracePeriodYears": 7,
+        "maturityYears": 30,
+        "isGrantElement": true,
+        "grantEquivalent": 3500000
+      }
+    ],
+    "strategicPillars": [
+      "SDG Finance",
+      "Institutional capacity",
+      "Inclusive and climate-resilient growth"
+    ],
+    "highLevelObjectives": [
+      "Improve development outcomes",
+      "Mobilise co-financing",
+      "Strengthen delivery systems"
+    ],
+    "crossCuttingThemes": [
+      "Gender inclusion",
+      "Climate resilience",
+      "Digital monitoring"
+    ],
+    "governmentCounterpart": "Ministry of Planning and International Cooperation",
+    "countryDirector": "Jonas Becker",
+    "countryEconomist": "Regional economist",
+    "status": "Implementation",
+    "preparedDate": "2025-07-07T22:00:00Z",
+    "midTermReviewDate": "2028-07-07T22:00:00Z",
+    "completionReportDate": "2031-07-07T22:00:00Z",
+    "createdAt": "2025-01-05T22:00:00Z"
+  },
+  {
+    "strategyId": "2753ecbd-ff6b-b9a8-ba29-c08447dee537",
+    "strategyCode": "UNDP-TL-STR-2026-007",
+    "institutionName": "United Nations Development Programme",
+    "countryCode": "TL",
+    "countryName": "Timor-Leste",
+    "region": "East Asia and Pacific",
+    "strategyType": "InterimCountryStrategy",
+    "countryClassification": "FragileOrConflictAffected",
+    "strategyPeriodStart": 2026,
+    "strategyPeriodEnd": 2030,
+    "indicativeLendingEnvelope": 190000000,
+    "grantEnvelope": 18250000,
+    "currency": "USD",
+    "financingWindows": [
+      {
+        "windowName": "Core sovereign window",
+        "windowType": "NonConcessional",
+        "allocatedAmount": 80000000,
+        "currency": "USD",
+        "interestRate": 2.1,
+        "gracePeriodYears": 5,
+        "maturityYears": 25,
+        "isGrantElement": false,
+        "grantEquivalent": 0
+      },
+      {
+        "windowName": "Climate and inclusion window",
+        "windowType": "ClimateFinance",
+        "allocatedAmount": 26000000,
+        "currency": "USD",
+        "interestRate": 0.7,
+        "gracePeriodYears": 7,
+        "maturityYears": 30,
+        "isGrantElement": true,
+        "grantEquivalent": 3500000
+      }
+    ],
+    "strategicPillars": [
+      "Local Development",
+      "Institutional capacity",
+      "Inclusive and climate-resilient growth"
+    ],
+    "highLevelObjectives": [
+      "Improve development outcomes",
+      "Mobilise co-financing",
+      "Strengthen delivery systems"
+    ],
+    "crossCuttingThemes": [
+      "Gender inclusion",
+      "Climate resilience",
+      "Digital monitoring"
+    ],
+    "governmentCounterpart": "Ministry of Finance",
+    "countryDirector": "Miriam Banda",
+    "countryEconomist": "Public finance specialist",
+    "status": "CompletionReport",
+    "preparedDate": "2025-08-07T22:00:00Z",
+    "midTermReviewDate": "2028-08-07T22:00:00Z",
+    "completionReportDate": "2031-08-07T22:00:00Z",
+    "createdAt": "2025-01-06T22:00:00Z"
+  }
+]

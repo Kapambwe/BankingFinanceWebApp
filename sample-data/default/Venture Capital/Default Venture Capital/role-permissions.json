@@ -1,0 +1,79 @@
+{
+  "institutionType": "Venture Capital",
+  "country": "Default",
+  "description": "Default role-to-permission mapping for venture capital firms.",
+  "version": "1.0.0",
+  "roles": [
+    {
+      "role": "VcAdmin",
+      "permissions": [
+        "Banking.VentureCapital.View",
+        "Banking.VentureCapital.Dashboard",
+        "Banking.VentureCapital.Deals.View",
+        "Banking.VentureCapital.Deals.ManageDeals",
+        "Banking.VentureCapital.DueDiligence.View",
+        "Banking.VentureCapital.DueDiligence.ManageDueDiligence",
+        "Banking.VentureCapital.CapTable.View",
+        "Banking.VentureCapital.CapTable.ManageCapTable",
+        "Banking.VentureCapital.Portfolio.View",
+        "Banking.VentureCapital.Portfolio.ManageCompanies",
+        "Banking.VentureCapital.Funds.View",
+        "Banking.VentureCapital.Funds.ManageFunds",
+        "Banking.VentureCapital.Advisory.View",
+        "Banking.VentureCapital.ESG.View",
+        "Banking.Accounting.View",
+        "Banking.Accrual.ViewDashboard",
+        "Banking.CRM.ViewCustomers",
+        "Banking.CRM.ViewLeads",
+        "Banking.HR.View",
+        "Banking.Documents.View"
+      ]
+    },
+    {
+      "role": "FundManager",
+      "permissions": [
+        "Banking.VentureCapital.Deals.View",
+        "Banking.VentureCapital.Deals.ManageDeals",
+        "Banking.VentureCapital.DueDiligence.View",
+        "Banking.VentureCapital.DueDiligence.ManageDueDiligence",
+        "Banking.VentureCapital.Portfolio.View",
+        "Banking.VentureCapital.Portfolio.ViewPerformance",
+        "Banking.VentureCapital.Funds.View",
+        "Banking.VentureCapital.Funds.ManageInvestors",
+        "Banking.Accounting.View",
+        "Banking.CRM.ViewCustomers"
+      ]
+    },
+    {
+      "role": "Analyst",
+      "permissions": [
+        "Banking.VentureCapital.DueDiligence.View",
+        "Banking.VentureCapital.Portfolio.View",
+        "Banking.VentureCapital.Funds.View",
+        "Banking.Analytics.ViewFinancialReports",
+        "Banking.Accounting.View",
+        "Banking.Accrual.ViewDashboard"
+      ]
+    },
+    {
+      "role": "Associate",
+      "permissions": [
+        "Banking.VentureCapital.Deals.View",
+        "Banking.VentureCapital.DueDiligence.View",
+        "Banking.VentureCapital.Portfolio.View",
+        "Banking.VentureCapital.Advisory.View",
+        "Banking.CRM.ViewCustomers"
+      ]
+    },
+    {
+      "role": "FundAdministrator",
+      "permissions": [
+        "Banking.VentureCapital.Funds.View",
+        "Banking.VentureCapital.Funds.ManageFunds",
+        "Banking.VentureCapital.Funds.ManageInvestors",
+        "Banking.VentureCapital.Portfolio.View",
+        "Banking.Accounting.View"
+      ]
+    }
+  ]
+}

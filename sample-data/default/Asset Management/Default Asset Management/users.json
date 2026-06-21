@@ -1,0 +1,7 @@
+[
+  { "id": "am-admin-001", "username": "admin.assetmanagement", "fullName": "Nancy Phiri", "role": "Administrator", "email": "nancy.phiri@assetmanagement.zm", "isActive": true },
+  { "id": "am-portfolio-001", "username": "portfolio.assetmanagement", "fullName": "George Banda", "role": "Portfolio Analyst", "email": "george.banda@assetmanagement.zm", "isActive": true },
+  { "id": "am-manager-001", "username": "manager.assetmanagement", "fullName": "Chanda Phiri", "role": "Portfolio Manager", "email": "chanda.phiri@assetmanagement.zm", "isActive": true },
+  { "id": "am-trader-001", "username": "trader.assetmanagement", "fullName": "Brian Kunda", "role": "Trader", "email": "brian.kunda@assetmanagement.zm", "isActive": true },
+  { "id": "am-service-001", "username": "service.assetmanagement", "fullName": "Esther Nyirenda", "role": "Client Service Officer", "email": "esther.nyirenda@assetmanagement.zm", "isActive": true }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "summaryId": "ps1m0000-0001",
+    "policyId": "pol10000-0001",
+    "policyNumber": "POL-1-2025-00001",
+    "memberName": "Chanda Mwamba",
+    "coverType": "Basic",
+    "premiumAmount": 1440.0,
+    "currency": "ZMW",
+    "claimsCount": 3,
+    "claimsAmount": 3600.0,
+    "status": "Active",
+    "lastUpdated": "2025-12-31T00:00:00Z"
+  },
+  {
+    "summaryId": "ps1m0000-0002",
+    "policyId": "pol10000-0002",
+    "policyNumber": "POL-1-2025-00002",
+    "memberName": "Mutale Mutale",
+    "coverType": "Standard",
+    "premiumAmount": 2520.0,
+    "currency": "ZMW",
+    "claimsCount": 1,
+    "claimsAmount": 3024.0,
+    "status": "Active",
+    "lastUpdated": "2025-12-31T00:00:00Z"
+  },
+  {
+    "summaryId": "ps1m0000-0003",
+    "policyId": "pol10000-0003",
+    "policyNumber": "POL-1-2025-00003",
+    "memberName": "Mwamba Mwansa",
+    "coverType": "Enhanced",
+    "premiumAmount": 3600.0,
+    "currency": "ZMW",
+    "claimsCount": 5,
+    "claimsAmount": 14400.0,
+    "status": "Active",
+    "lastUpdated": "2025-12-31T00:00:00Z"
+  },
+  {
+    "summaryId": "ps1m0000-0004",
+    "policyId": "pol10000-0004",
+    "policyNumber": "POL-1-2025-00004",
+    "memberName": "Mwansa Mulenga",
+    "coverType": "Basic",
+    "premiumAmount": 1440.0,
+    "currency": "ZMW",
+    "claimsCount": 0,
+    "claimsAmount": 0.0,
+    "status": "Lapsed",
+    "lastUpdated": "2025-12-31T00:00:00Z"
+  },
+  {
+    "summaryId": "ps1m0000-0005",
+    "policyId": "pol10000-0005",
+    "policyNumber": "POL-1-2025-00005",
+    "memberName": "Chileshe Musonda",
+    "coverType": "Standard",
+    "premiumAmount": 2520.0,
+    "currency": "ZMW",
+    "claimsCount": 2,
+    "claimsAmount": 4536.0,
+    "status": "Active",
+    "lastUpdated": "2025-12-31T00:00:00Z"
+  }
+]

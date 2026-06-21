@@ -1,0 +1,67 @@
+[
+  {
+    "budgetId": 1,
+    "budgetName": "Orçamento Operacional FY2026",
+    "fiscalYear": 2026,
+    "budgetType": "Operating",
+    "status": "Approved",
+    "totalBudget": 9500000000.0,
+    "totalActual": 7200000000.0,
+    "variance": 2300000000.0,
+    "currency": "BRL",
+    "approvedBy": "David Vélez",
+    "approvedDate": "2025-12-15T00:00:00Z"
+  },
+  {
+    "budgetId": 2,
+    "budgetName": "Orçamento de Capital FY2026",
+    "fiscalYear": 2026,
+    "budgetType": "Capital",
+    "status": "Approved",
+    "totalBudget": 2800000000.0,
+    "totalActual": 1950000000.0,
+    "variance": 850000000.0,
+    "currency": "BRL",
+    "approvedBy": "Guilherme Lago",
+    "approvedDate": "2025-12-15T00:00:00Z"
+  },
+  {
+    "budgetId": 3,
+    "budgetName": "Orçamento de Marketing FY2026",
+    "fiscalYear": 2026,
+    "budgetType": "Operating",
+    "status": "Approved",
+    "totalBudget": 1200000000.0,
+    "totalActual": 820000000.0,
+    "variance": 380000000.0,
+    "currency": "BRL",
+    "approvedBy": "Cristina Junqueira",
+    "approvedDate": "2025-12-20T00:00:00Z"
+  },
+  {
+    "budgetId": 4,
+    "budgetName": "Orçamento de Tecnologia FY2026",
+    "fiscalYear": 2026,
+    "budgetType": "Capital",
+    "status": "Approved",
+    "totalBudget": 3500000000.0,
+    "totalActual": 2400000000.0,
+    "variance": 1100000000.0,
+    "currency": "BRL",
+    "approvedBy": "David Vélez",
+    "approvedDate": "2025-12-15T00:00:00Z"
+  },
+  {
+    "budgetId": 5,
+    "budgetName": "Orçamento de RH FY2026",
+    "fiscalYear": 2026,
+    "budgetType": "Operating",
+    "status": "UnderReview",
+    "totalBudget": 2100000000.0,
+    "totalActual": 1550000000.0,
+    "variance": 550000000.0,
+    "currency": "BRL",
+    "approvedBy": "",
+    "approvedDate": null
+  }
+]

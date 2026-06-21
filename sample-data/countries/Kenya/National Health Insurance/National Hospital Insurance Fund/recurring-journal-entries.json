@@ -1,0 +1,32 @@
+[
+  {
+    "recurringJEId": "rj500000-0001",
+    "name": "Monthly Salary Accrual",
+    "frequency": "Monthly",
+    "nextRunDate": "2026-01-31",
+    "amount": 2204.0,
+    "currency": "KES",
+    "status": "Active",
+    "createdAt": "2025-01-01T00:00:00Z"
+  },
+  {
+    "recurringJEId": "rj500000-0002",
+    "name": "Monthly Rent Accrual",
+    "frequency": "Monthly",
+    "nextRunDate": "2026-01-31",
+    "amount": 122.0,
+    "currency": "KES",
+    "status": "Active",
+    "createdAt": "2025-01-01T00:00:00Z"
+  },
+  {
+    "recurringJEId": "rj500000-0003",
+    "name": "Quarterly IT Maintenance",
+    "frequency": "Quarterly",
+    "nextRunDate": "2026-03-31",
+    "amount": 61.0,
+    "currency": "KES",
+    "status": "Active",
+    "createdAt": "2025-01-01T00:00:00Z"
+  }
+]

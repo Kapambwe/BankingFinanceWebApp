@@ -1,0 +1,165 @@
+[
+  {
+    "partnerId": "RP-MOR-001",
+    "businessName": "Marjane Morocco Ltd",
+    "brandName": "Marjane",
+    "partnerType": "SmallShop",
+    "country": "Morocco",
+    "currency": "MAD",
+    "contactPerson": "Partner Manager 1",
+    "email": "banking@marjane.mo",
+    "phoneNumber": "+526-231-826971",
+    "servicesOffered": [
+      "AccountOpening",
+      "MoneyTransfer",
+      "AirtimePurchase",
+      "CashWithdrawal",
+      "CashDeposit",
+      "BillPayment"
+    ],
+    "acceptedPaymentMethods": [
+      "QRCode",
+      "Cash",
+      "PhoneNumber",
+      "AccountNumber",
+      "CardTap"
+    ],
+    "totalStores": 90,
+    "activeStores": 90,
+    "storeLocations": [
+      "Casablanca",
+      "Fez",
+      "Marrakech"
+    ],
+    "monthlyTransactionVolume": 7603541.83,
+    "monthlyTransactionCount": 3649,
+    "averageTransactionSize": 777.7,
+    "commissionRate": 1.52,
+    "monthlyRevenue": 48236.08,
+    "partnershipStartDate": "2025-02-01T18:10:28Z",
+    "status": "Active",
+    "brandColor": "#a7ef5a",
+    "isIntegrated": false,
+    "lastSyncDate": "2026-03-03T18:10:28Z"
+  },
+  {
+    "partnerId": "RP-MOR-002",
+    "businessName": "Acima Morocco Ltd",
+    "brandName": "Acima",
+    "partnerType": "ConvenienceStore",
+    "country": "Morocco",
+    "currency": "MAD",
+    "contactPerson": "Partner Manager 2",
+    "email": "banking@acima.mo",
+    "phoneNumber": "+926-724-555608",
+    "servicesOffered": [
+      "LoanPayment",
+      "AirtimePurchase",
+      "AccountOpening",
+      "MoneyTransfer",
+      "CashWithdrawal"
+    ],
+    "acceptedPaymentMethods": [
+      "PhoneNumber",
+      "AccountNumber",
+      "QRCode",
+      "Cash",
+      "CardTap"
+    ],
+    "totalStores": 53,
+    "activeStores": 51,
+    "storeLocations": [
+      "Fez",
+      "Marrakech"
+    ],
+    "monthlyTransactionVolume": 6071260.61,
+    "monthlyTransactionCount": 15870,
+    "averageTransactionSize": 457.72,
+    "commissionRate": 0.79,
+    "monthlyRevenue": 37594.28,
+    "partnershipStartDate": "2026-01-28T18:10:28Z",
+    "status": "Active",
+    "brandColor": "#2edff6",
+    "isIntegrated": false,
+    "lastSyncDate": "2026-03-03T18:10:28Z"
+  },
+  {
+    "partnerId": "RP-MOR-003",
+    "businessName": "Carrefour Maroc Morocco Ltd",
+    "brandName": "Carrefour Maroc",
+    "partnerType": "ConvenienceStore",
+    "country": "Morocco",
+    "currency": "MAD",
+    "contactPerson": "Partner Manager 3",
+    "email": "banking@carrefourmar.mo",
+    "phoneNumber": "+449-738-837589",
+    "servicesOffered": [
+      "AirtimePurchase",
+      "CashDeposit",
+      "BillPayment"
+    ],
+    "acceptedPaymentMethods": [
+      "CardTap",
+      "PhoneNumber",
+      "AccountNumber"
+    ],
+    "totalStores": 107,
+    "activeStores": 103,
+    "storeLocations": [
+      "Rabat",
+      "Fez",
+      "Casablanca"
+    ],
+    "monthlyTransactionVolume": 7659644.37,
+    "monthlyTransactionCount": 7972,
+    "averageTransactionSize": 341.55,
+    "commissionRate": 1.14,
+    "monthlyRevenue": 81854.61,
+    "partnershipStartDate": "2025-07-13T18:10:28Z",
+    "status": "Active",
+    "brandColor": "#e5b11b",
+    "isIntegrated": true,
+    "lastSyncDate": "2026-03-04T18:10:28Z"
+  },
+  {
+    "partnerId": "RP-MOR-004",
+    "businessName": "BIM Morocco Ltd",
+    "brandName": "BIM",
+    "partnerType": "Pharmacy",
+    "country": "Morocco",
+    "currency": "MAD",
+    "contactPerson": "Partner Manager 4",
+    "email": "banking@bim.mo",
+    "phoneNumber": "+544-712-577851",
+    "servicesOffered": [
+      "CashWithdrawal",
+      "BillPayment",
+      "AccountOpening",
+      "LoanPayment"
+    ],
+    "acceptedPaymentMethods": [
+      "USSD",
+      "AccountNumber",
+      "CardTap",
+      "Cash",
+      "QRCode"
+    ],
+    "totalStores": 263,
+    "activeStores": 252,
+    "storeLocations": [
+      "Casablanca",
+      "Marrakech",
+      "Fez"
+    ],
+    "monthlyTransactionVolume": 309938.79,
+    "monthlyTransactionCount": 7564,
+    "averageTransactionSize": 16.23,
+    "commissionRate": 1.27,
+    "monthlyRevenue": 2685.29,
+    "partnershipStartDate": "2025-08-30T18:10:28Z",
+    "status": "Active",
+    "brandColor": "#6fbef6",
+    "isIntegrated": true,
+    "lastSyncDate": "2026-03-04T18:10:28Z"
+  }
+]

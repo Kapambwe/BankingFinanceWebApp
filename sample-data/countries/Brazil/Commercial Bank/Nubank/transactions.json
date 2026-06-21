@@ -1,0 +1,222 @@
+[
+  {
+    "transactionType": "Pix",
+    "currency": "BRL",
+    "status": "Completed",
+    "transactionId": "t1000001-0001-0001-0001-000000000001",
+    "amount": 1500.0,
+    "description": "Transferência Pix para Carlos",
+    "balance": 11000.0,
+    "transactionDate": "2026-01-31T13:41:36Z",
+    "accountId": "a1000001-0001-0001-0001-000000000001"
+  },
+  {
+    "transactionType": "CreditCard",
+    "currency": "BRL",
+    "status": "Completed",
+    "transactionId": "t1000001-0001-0001-0001-000000000002",
+    "amount": 285.9,
+    "description": "Compra iFood",
+    "balance": 8464.1,
+    "transactionDate": "2026-01-28T13:41:36Z",
+    "accountId": "a1000001-0001-0001-0001-000000000002"
+  },
+  {
+    "transactionType": "LoanDisbursement",
+    "currency": "BRL",
+    "status": "Completed",
+    "transactionId": "t1000001-0001-0001-0001-000000000003",
+    "amount": 25000.0,
+    "description": "Empréstimo Pessoal — Desembolso",
+    "balance": 50000.0,
+    "transactionDate": "2026-01-25T10:00:00Z",
+    "accountId": "a1000001-0001-0001-0001-000000000003"
+  },
+  {
+    "transactionType": "Caixinhas",
+    "currency": "BRL",
+    "status": "Completed",
+    "transactionId": "t1000001-0001-0001-0001-000000000004",
+    "amount": 500.0,
+    "description": "Depósito em Caixinha — Viagem",
+    "balance": 44500.0,
+    "transactionDate": "2026-01-24T12:00:00Z",
+    "accountId": "a1000001-0001-0001-0001-000000000004"
+  },
+  {
+    "transactionType": "Pix",
+    "currency": "BRL",
+    "status": "Completed",
+    "transactionId": "t1000001-0001-0001-0001-000000000005",
+    "amount": 2800.0,
+    "description": "Aluguel mensal",
+    "balance": 3400.0,
+    "transactionDate": "2026-01-23T09:00:00Z",
+    "accountId": "a1000001-0001-0001-0001-000000000005"
+  },
+  {
+    "transactionType": "CreditCard",
+    "currency": "BRL",
+    "status": "Pending",
+    "transactionId": "t1000001-0001-0001-0001-000000000006",
+    "amount": 1250.0,
+    "description": "Compra Shopee",
+    "balance": 2250.0,
+    "transactionDate": "2026-01-22T18:30:00Z",
+    "accountId": "a1000001-0001-0001-0001-000000000006"
+  },
+  {
+    "transactionType": "InvestmentReturn",
+    "currency": "BRL",
+    "status": "Completed",
+    "transactionId": "t1000001-0001-0001-0001-000000000007",
+    "amount": 320.0,
+    "description": "Rendimento Caixinha — Férias",
+    "balance": 18820.0,
+    "transactionDate": "2026-01-21T00:00:00Z",
+    "accountId": "a1000001-0001-0001-0001-000000000007"
+  },
+  {
+    "transactionType": "TED",
+    "currency": "BRL",
+    "status": "Completed",
+    "transactionId": "t1000001-0001-0001-0001-000000000008",
+    "amount": 15000.0,
+    "description": "Pagamento a fornecedor",
+    "balance": 57000.0,
+    "transactionDate": "2026-01-20T14:00:00Z",
+    "accountId": "a1000001-0001-0001-0001-000000000008"
+  },
+  {
+    "transactionType": "BoletoPayment",
+    "currency": "BRL",
+    "status": "Completed",
+    "transactionId": "t1000001-0001-0001-0001-000000000009",
+    "amount": 450.0,
+    "description": "Conta de luz ENEL",
+    "balance": 32550.0,
+    "transactionDate": "2026-01-19T10:00:00Z",
+    "accountId": "a1000001-0001-0001-0001-000000000009"
+  },
+  {
+    "transactionType": "Pix",
+    "currency": "BRL",
+    "status": "Failed",
+    "transactionId": "t1000001-0001-0001-0001-000000000010",
+    "amount": 800.0,
+    "description": "Pix — chave inválida",
+    "balance": 5400.0,
+    "transactionDate": "2026-01-18T16:00:00Z",
+    "accountId": "a1000001-0001-0001-0001-000000000010"
+  },
+  {
+    "transactionType": "Salary",
+    "currency": "BRL",
+    "status": "Completed",
+    "transactionId": "t1000001-0001-0001-0001-000000000011",
+    "amount": 16708.1,
+    "description": "Salário Janeiro 2026",
+    "balance": 32508.1,
+    "transactionDate": "2026-01-31T00:00:00Z",
+    "accountId": "a1000001-0001-0001-0001-000000000011"
+  },
+  {
+    "transactionType": "CreditCard",
+    "currency": "BRL",
+    "status": "Completed",
+    "transactionId": "t1000001-0001-0001-0001-000000000012",
+    "amount": 89.9,
+    "description": "Netflix",
+    "balance": 9110.1,
+    "transactionDate": "2026-01-17T00:01:00Z",
+    "accountId": "a1000001-0001-0001-0001-000000000012"
+  },
+  {
+    "transactionType": "Pix",
+    "currency": "BRL",
+    "status": "Completed",
+    "transactionId": "t1000001-0001-0001-0001-000000000013",
+    "amount": 5000.0,
+    "description": "Transferência para sócio",
+    "balance": 23000.0,
+    "transactionDate": "2026-01-16T11:00:00Z",
+    "accountId": "a1000001-0001-0001-0001-000000000013"
+  },
+  {
+    "transactionType": "CreditCardPayment",
+    "currency": "BRL",
+    "status": "Completed",
+    "transactionId": "t1000001-0001-0001-0001-000000000014",
+    "amount": 3250.0,
+    "description": "Fatura cartão de crédito",
+    "balance": 850.0,
+    "transactionDate": "2026-01-15T09:00:00Z",
+    "accountId": "a1000001-0001-0001-0001-000000000014"
+  },
+  {
+    "transactionType": "InvestmentReturn",
+    "currency": "BRL",
+    "status": "Completed",
+    "transactionId": "t1000001-0001-0001-0001-000000000015",
+    "amount": 285.0,
+    "description": "Rendimento RDB Caixinha",
+    "balance": 19985.0,
+    "transactionDate": "2026-01-14T00:00:00Z",
+    "accountId": "a1000001-0001-0001-0001-000000000015"
+  },
+  {
+    "transactionType": "CreditCard",
+    "currency": "BRL",
+    "status": "Completed",
+    "transactionId": "t1000001-0001-0001-0001-000000000016",
+    "amount": 12500.0,
+    "description": "Compra Ultraviolet — Hotel",
+    "balance": 75500.0,
+    "transactionDate": "2026-01-13T20:00:00Z",
+    "accountId": "a1000001-0001-0001-0001-000000000016"
+  },
+  {
+    "transactionType": "Pix",
+    "currency": "BRL",
+    "status": "Completed",
+    "transactionId": "t1000001-0001-0001-0001-000000000017",
+    "amount": 650.0,
+    "description": "Pagamento freela",
+    "balance": 6950.0,
+    "transactionDate": "2026-01-12T15:00:00Z",
+    "accountId": "a1000001-0001-0001-0001-000000000017"
+  },
+  {
+    "transactionType": "BoletoPayment",
+    "currency": "BRL",
+    "status": "Completed",
+    "transactionId": "t1000001-0001-0001-0001-000000000018",
+    "amount": 1850.0,
+    "description": "Mensalidade faculdade",
+    "balance": 9350.0,
+    "transactionDate": "2026-01-11T10:00:00Z",
+    "accountId": "a1000001-0001-0001-0001-000000000018"
+  },
+  {
+    "transactionType": "InvestmentDeposit",
+    "currency": "BRL",
+    "status": "Completed",
+    "transactionId": "t1000001-0001-0001-0001-000000000019",
+    "amount": 5000.0,
+    "description": "Investimento em RDB",
+    "balance": 37000.0,
+    "transactionDate": "2026-01-10T09:00:00Z",
+    "accountId": "a1000001-0001-0001-0001-000000000019"
+  },
+  {
+    "transactionType": "Pix",
+    "currency": "BRL",
+    "status": "Completed",
+    "transactionId": "t1000001-0001-0001-0001-000000000020",
+    "amount": 120.0,
+    "description": "Pix para amigo",
+    "balance": 3680.0,
+    "transactionDate": "2026-01-09T21:00:00Z",
+    "accountId": "a1000001-0001-0001-0001-000000000020"
+  }
+]

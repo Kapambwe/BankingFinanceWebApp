@@ -1,0 +1,227 @@
+[
+  {
+    "id": "seg-bank-growth",
+    "name": "High Growth Accounts",
+    "description": "Customers with rising balances and frequent deposits",
+    "isDynamic": true,
+    "estimatedSize": 18450,
+    "updatedAt": "2026-02-25T00:00:00Z",
+    "institutionType": "Commercial Bank"
+  },
+  {
+    "id": "seg-bank-retention",
+    "name": "At-Risk Churn",
+    "description": "Customers with declining activity over 90 days",
+    "isDynamic": true,
+    "estimatedSize": 6240,
+    "updatedAt": "2026-02-21T00:00:00Z",
+    "institutionType": "Commercial Bank"
+  },
+  {
+    "id": "seg-bank-card-activation",
+    "name": "New Cardholders - Activation Pending",
+    "description": "Customers who received a card but have not activated",
+    "isDynamic": true,
+    "estimatedSize": 1420,
+    "updatedAt": "2026-02-24T00:00:00Z",
+    "institutionType": "Commercial Bank"
+  },
+  {
+    "id": "seg-mobile-money-churn",
+    "name": "Mobile Wallet Churn Risk",
+    "description": "Wallets with declining transaction volume",
+    "isDynamic": true,
+    "estimatedSize": 4820,
+    "updatedAt": "2026-02-23T00:00:00Z",
+    "institutionType": "Commercial Bank"
+  },
+  {
+    "id": "seg-retail-partners",
+    "name": "Retail Partner Expansion",
+    "description": "Retail partners eligible for new locations",
+    "isDynamic": false,
+    "estimatedSize": 210,
+    "updatedAt": "2026-02-12T00:00:00Z",
+    "institutionType": "Commercial Bank"
+  },
+  {
+    "id": "seg-remittance-high",
+    "name": "High-Value Remitters",
+    "description": "Senders averaging high-value transfers",
+    "isDynamic": true,
+    "estimatedSize": 520,
+    "updatedAt": "2026-02-21T00:00:00Z",
+    "institutionType": "Commercial Bank"
+  },
+  {
+    "id": "seg-bank-high-balance",
+    "name": "High Balance Savings",
+    "description": "Savings accounts with balance above ZMW 50,000",
+    "isDynamic": true,
+    "estimatedSize": 8200,
+    "updatedAt": "2026-02-26T00:00:00Z",
+    "institutionType": "Commercial Bank"
+  },
+  {
+    "id": "seg-bank-loan-eligible",
+    "name": "Pre-Qualified Loan Leads",
+    "description": "Customers meeting credit criteria for personal loan offer",
+    "isDynamic": true,
+    "estimatedSize": 24500,
+    "updatedAt": "2026-02-24T00:00:00Z",
+    "institutionType": "Commercial Bank"
+  },
+  {
+    "id": "seg-bank-fx-traders",
+    "name": "Frequent FX Users",
+    "description": "Customers with 3+ FX transactions in last 90 days",
+    "isDynamic": true,
+    "estimatedSize": 1840,
+    "updatedAt": "2026-02-22T00:00:00Z",
+    "institutionType": "Commercial Bank"
+  },
+  {
+    "id": "seg-bank-sme",
+    "name": "SME Customers",
+    "description": "Business banking clients classified as small or medium enterprise",
+    "isDynamic": false,
+    "estimatedSize": 6400,
+    "updatedAt": "2026-02-20T00:00:00Z",
+    "institutionType": "Commercial Bank"
+  },
+  {
+    "id": "seg-bank-no-digital-card",
+    "name": "No Debit Card",
+    "description": "Account holders without any active debit card",
+    "isDynamic": true,
+    "estimatedSize": 12800,
+    "updatedAt": "2026-02-18T00:00:00Z",
+    "institutionType": "Commercial Bank"
+  },
+  {
+    "id": "seg-bank-corporate",
+    "name": "Corporate Banking Clients",
+    "description": "Companies with annual turnover above ZMW 5,000,000",
+    "isDynamic": false,
+    "estimatedSize": 380,
+    "updatedAt": "2026-02-16T00:00:00Z",
+    "institutionType": "Commercial Bank"
+  },
+  {
+    "id": "seg-bank-salary-advance",
+    "name": "Salary Advance Eligible",
+    "description": "Salaried customers who qualify for advance at month-end",
+    "isDynamic": true,
+    "estimatedSize": 32000,
+    "updatedAt": "2026-02-14T00:00:00Z",
+    "institutionType": "Commercial Bank"
+  },
+  {
+    "id": "seg-bank-overdraft",
+    "name": "Overdraft Facilities",
+    "description": "Customers with active overdraft limits",
+    "isDynamic": true,
+    "estimatedSize": 5400,
+    "updatedAt": "2026-02-12T00:00:00Z",
+    "institutionType": "Commercial Bank"
+  },
+  {
+    "id": "seg-bank-dormant-90d",
+    "name": "Dormant - 90 Days",
+    "description": "Accounts with no activity in the last 90 days",
+    "isDynamic": true,
+    "estimatedSize": 18500,
+    "updatedAt": "2026-02-10T00:00:00Z",
+    "institutionType": "Commercial Bank"
+  },
+  {
+    "id": "seg-bank-high-value-remitters",
+    "name": "High-Value Remitters",
+    "description": "Customers sending remittances above ZMW 20,000 per month",
+    "isDynamic": true,
+    "estimatedSize": 2100,
+    "updatedAt": "2026-02-08T00:00:00Z",
+    "institutionType": "Commercial Bank"
+  },
+  {
+    "id": "seg-bank-loan-arrears",
+    "name": "Loans in Arrears",
+    "description": "Borrowers with loan repayments 30+ days past due",
+    "isDynamic": true,
+    "estimatedSize": 3200,
+    "updatedAt": "2026-02-06T00:00:00Z",
+    "institutionType": "Commercial Bank"
+  },
+  {
+    "id": "seg-bank-new-accounts-30d",
+    "name": "New Accounts - 30 Days",
+    "description": "Accounts opened in last 30 days requiring activation nudge",
+    "isDynamic": true,
+    "estimatedSize": 4800,
+    "updatedAt": "2026-02-04T00:00:00Z",
+    "institutionType": "Commercial Bank"
+  },
+  {
+    "id": "seg-bank-multi-product",
+    "name": "Multi-Product Holders",
+    "description": "Customers with 3 or more product types",
+    "isDynamic": true,
+    "estimatedSize": 9600,
+    "updatedAt": "2026-02-02T00:00:00Z",
+    "institutionType": "Commercial Bank"
+  },
+  {
+    "id": "seg-bank-agriculture",
+    "name": "Agriculture Sector",
+    "description": "Business clients in farming and agro-processing",
+    "isDynamic": false,
+    "estimatedSize": 1250,
+    "updatedAt": "2026-01-30T00:00:00Z",
+    "institutionType": "Commercial Bank"
+  },
+  {
+    "id": "seg-bank-mining",
+    "name": "Mining Sector Corporate",
+    "description": "Clients in copper and emerald mining on Copperbelt",
+    "isDynamic": false,
+    "estimatedSize": 240,
+    "updatedAt": "2026-01-28T00:00:00Z",
+    "institutionType": "Commercial Bank"
+  },
+  {
+    "id": "seg-bank-senior-citizens",
+    "name": "Senior Citizens (60+)",
+    "description": "Customers aged 60+ eligible for senior banking packages",
+    "isDynamic": true,
+    "estimatedSize": 7800,
+    "updatedAt": "2026-01-25T00:00:00Z",
+    "institutionType": "Commercial Bank"
+  },
+  {
+    "id": "seg-bank-nps-detractors",
+    "name": "NPS Detractors",
+    "description": "Customers with NPS score 0-6 in last satisfaction survey",
+    "isDynamic": true,
+    "estimatedSize": 1400,
+    "updatedAt": "2026-01-22T00:00:00Z",
+    "institutionType": "Commercial Bank"
+  },
+  {
+    "id": "seg-bank-agent-users",
+    "name": "Agent Banking Users",
+    "description": "Customers who transact primarily through banking agents",
+    "isDynamic": true,
+    "estimatedSize": 42000,
+    "updatedAt": "2026-01-20T00:00:00Z",
+    "institutionType": "Commercial Bank"
+  },
+  {
+    "id": "seg-bank-trade-finance",
+    "name": "Trade Finance Users",
+    "description": "Importers and exporters using LCs, bank guarantees or doc collections",
+    "isDynamic": true,
+    "estimatedSize": 620,
+    "updatedAt": "2026-01-18T00:00:00Z",
+    "institutionType": "Commercial Bank"
+  }
+]

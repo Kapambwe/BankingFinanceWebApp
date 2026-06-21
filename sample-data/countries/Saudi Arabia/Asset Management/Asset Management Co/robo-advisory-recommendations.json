@@ -1,0 +1,272 @@
+[
+  {
+    "recommendationId": "00000000-0000-0000-0000-000000007001",
+    "clientId": "00000000-0000-0000-0000-000000008001",
+    "clientName": "Aisha Fahad",
+    "riskProfile": "Moderate",
+    "recommendedAllocation": {
+      "equities": 45.0,
+      "bonds": 35.0,
+      "cash": 15.0,
+      "alternatives": 5.0
+    },
+    "expectedReturn": 8.5,
+    "portfolioValue": 1250000.00,
+    "currency": "SAR",
+    "rebalanceRequired": true,
+    "generatedDate": "2025-02-01T00:00:00Z",
+    "createdAt": "2025-02-01T00:00:00Z"
+  },
+  {
+    "recommendationId": "00000000-0000-0000-0000-000000007002",
+    "clientId": "00000000-0000-0000-0000-000000008002",
+    "clientName": "Fahad Fatimah",
+    "riskProfile": "Conservative",
+    "recommendedAllocation": {
+      "equities": 25.0,
+      "bonds": 50.0,
+      "cash": 20.0,
+      "alternatives": 5.0
+    },
+    "expectedReturn": 6.2,
+    "portfolioValue": 850000.00,
+    "currency": "SAR",
+    "rebalanceRequired": false,
+    "generatedDate": "2025-01-28T00:00:00Z",
+    "createdAt": "2025-01-28T00:00:00Z"
+  },
+  {
+    "recommendationId": "00000000-0000-0000-0000-000000007003",
+    "clientId": "00000000-0000-0000-0000-000000008003",
+    "clientName": "Fahad Khalid",
+    "riskProfile": "Aggressive",
+    "recommendedAllocation": {
+      "equities": 65.0,
+      "bonds": 20.0,
+      "cash": 10.0,
+      "alternatives": 5.0
+    },
+    "expectedReturn": 12.8,
+    "portfolioValue": 2100000.00,
+    "currency": "SAR",
+    "rebalanceRequired": true,
+    "generatedDate": "2025-02-03T00:00:00Z",
+    "createdAt": "2025-02-03T00:00:00Z"
+  },
+  {
+    "recommendationId": "00000000-0000-0000-0000-000000007004",
+    "clientId": "00000000-0000-0000-0000-000000008004",
+    "clientName": "Jeddah Sakala",
+    "riskProfile": "Balanced",
+    "recommendedAllocation": {
+      "equities": 40.0,
+      "bonds": 40.0,
+      "cash": 15.0,
+      "alternatives": 5.0
+    },
+    "expectedReturn": 7.5,
+    "portfolioValue": 950000.00,
+    "currency": "SAR",
+    "rebalanceRequired": false,
+    "generatedDate": "2025-01-25T00:00:00Z",
+    "createdAt": "2025-01-25T00:00:00Z"
+  },
+  {
+    "recommendationId": "00000000-0000-0000-0000-000000007005",
+    "clientId": "00000000-0000-0000-0000-000000008005",
+    "clientName": "Khalid Mohammed",
+    "riskProfile": "Moderate",
+    "recommendedAllocation": {
+      "equities": 50.0,
+      "bonds": 30.0,
+      "cash": 15.0,
+      "alternatives": 5.0
+    },
+    "expectedReturn": 9.2,
+    "portfolioValue": 1450000.00,
+    "currency": "SAR",
+    "rebalanceRequired": true,
+    "generatedDate": "2025-01-20T00:00:00Z",
+    "createdAt": "2025-01-20T00:00:00Z"
+  },
+  {
+    "recommendationId": "00000000-0000-0000-0000-000000007006",
+    "clientId": "00000000-0000-0000-0000-000000008006",
+    "clientName": "Khalid Hind",
+    "riskProfile": "Conservative",
+    "recommendedAllocation": {
+      "equities": 20.0,
+      "bonds": 55.0,
+      "cash": 20.0,
+      "alternatives": 5.0
+    },
+    "expectedReturn": 5.8,
+    "portfolioValue": 680000.00,
+    "currency": "SAR",
+    "rebalanceRequired": false,
+    "generatedDate": "2025-01-15T00:00:00Z",
+    "createdAt": "2025-01-15T00:00:00Z"
+  },
+  {
+    "recommendationId": "00000000-0000-0000-0000-000000007007",
+    "clientId": "00000000-0000-0000-0000-000000008007",
+    "clientName": "Sultan Sultan",
+    "riskProfile": "Aggressive",
+    "recommendedAllocation": {
+      "equities": 70.0,
+      "bonds": 15.0,
+      "cash": 10.0,
+      "alternatives": 5.0
+    },
+    "expectedReturn": 13.5,
+    "portfolioValue": 1850000.00,
+    "currency": "SAR",
+    "rebalanceRequired": true,
+    "generatedDate": "2025-02-05T00:00:00Z",
+    "createdAt": "2025-02-05T00:00:00Z"
+  },
+  {
+    "recommendationId": "00000000-0000-0000-0000-000000007008",
+    "clientId": "00000000-0000-0000-0000-000000008008",
+    "clientName": "Noura Noura",
+    "riskProfile": "Balanced",
+    "recommendedAllocation": {
+      "equities": 42.0,
+      "bonds": 38.0,
+      "cash": 15.0,
+      "alternatives": 5.0
+    },
+    "expectedReturn": 7.8,
+    "portfolioValue": 1120000.00,
+    "currency": "SAR",
+    "rebalanceRequired": false,
+    "generatedDate": "2025-01-30T00:00:00Z",
+    "createdAt": "2025-01-30T00:00:00Z"
+  },
+  {
+    "recommendationId": "00000000-0000-0000-0000-000000007009",
+    "clientId": "00000000-0000-0000-0000-000000008009",
+    "clientName": "Sara Abdullah",
+    "riskProfile": "Moderate",
+    "recommendedAllocation": {
+      "equities": 48.0,
+      "bonds": 32.0,
+      "cash": 15.0,
+      "alternatives": 5.0
+    },
+    "expectedReturn": 8.9,
+    "portfolioValue": 1380000.00,
+    "currency": "SAR",
+    "rebalanceRequired": true,
+    "generatedDate": "2025-01-22T00:00:00Z",
+    "createdAt": "2025-01-22T00:00:00Z"
+  },
+  {
+    "recommendationId": "00000000-0000-0000-0000-000000007010",
+    "clientId": "00000000-0000-0000-0000-000000008010",
+    "clientName": "Chimba Mecca",
+    "riskProfile": "Conservative",
+    "recommendedAllocation": {
+      "equities": 22.0,
+      "bonds": 53.0,
+      "cash": 20.0,
+      "alternatives": 5.0
+    },
+    "expectedReturn": 6.0,
+    "portfolioValue": 720000.00,
+    "currency": "SAR",
+    "rebalanceRequired": false,
+    "generatedDate": "2025-01-18T00:00:00Z",
+    "createdAt": "2025-01-18T00:00:00Z"
+  },
+  {
+    "recommendationId": "00000000-0000-0000-0000-000000007011",
+    "clientId": "00000000-0000-0000-0000-000000008011",
+    "clientName": "Noura Khalid",
+    "riskProfile": "Aggressive",
+    "recommendedAllocation": {
+      "equities": 68.0,
+      "bonds": 17.0,
+      "cash": 10.0,
+      "alternatives": 5.0
+    },
+    "expectedReturn": 13.2,
+    "portfolioValue": 1950000.00,
+    "currency": "SAR",
+    "rebalanceRequired": true,
+    "generatedDate": "2025-02-02T00:00:00Z",
+    "createdAt": "2025-02-02T00:00:00Z"
+  },
+  {
+    "recommendationId": "00000000-0000-0000-0000-000000007012",
+    "clientId": "00000000-0000-0000-0000-000000008012",
+    "clientName": "Mohammed Fatimah",
+    "riskProfile": "Balanced",
+    "recommendedAllocation": {
+      "equities": 38.0,
+      "bonds": 42.0,
+      "cash": 15.0,
+      "alternatives": 5.0
+    },
+    "expectedReturn": 7.3,
+    "portfolioValue": 890000.00,
+    "currency": "SAR",
+    "rebalanceRequired": false,
+    "generatedDate": "2025-01-26T00:00:00Z",
+    "createdAt": "2025-01-26T00:00:00Z"
+  },
+  {
+    "recommendationId": "00000000-0000-0000-0000-000000007013",
+    "clientId": "00000000-0000-0000-0000-000000008013",
+    "clientName": "Aisha Aisha",
+    "riskProfile": "Moderate",
+    "recommendedAllocation": {
+      "equities": 46.0,
+      "bonds": 34.0,
+      "cash": 15.0,
+      "alternatives": 5.0
+    },
+    "expectedReturn": 8.7,
+    "portfolioValue": 1280000.00,
+    "currency": "SAR",
+    "rebalanceRequired": true,
+    "generatedDate": "2025-01-24T00:00:00Z",
+    "createdAt": "2025-01-24T00:00:00Z"
+  },
+  {
+    "recommendationId": "00000000-0000-0000-0000-000000007014",
+    "clientId": "00000000-0000-0000-0000-000000008014",
+    "clientName": "Khalid Abdullah",
+    "riskProfile": "Conservative",
+    "recommendedAllocation": {
+      "equities": 24.0,
+      "bonds": 51.0,
+      "cash": 20.0,
+      "alternatives": 5.0
+    },
+    "expectedReturn": 6.1,
+    "portfolioValue": 780000.00,
+    "currency": "SAR",
+    "rebalanceRequired": false,
+    "generatedDate": "2025-01-16T00:00:00Z",
+    "createdAt": "2025-01-16T00:00:00Z"
+  },
+  {
+    "recommendationId": "00000000-0000-0000-0000-000000007015",
+    "clientId": "00000000-0000-0000-0000-000000008015",
+    "clientName": "Hind Aisha",
+    "riskProfile": "Aggressive",
+    "recommendedAllocation": {
+      "equities": 72.0,
+      "bonds": 13.0,
+      "cash": 10.0,
+      "alternatives": 5.0
+    },
+    "expectedReturn": 14.0,
+    "portfolioValue": 2250000.00,
+    "currency": "SAR",
+    "rebalanceRequired": true,
+    "generatedDate": "2025-02-04T00:00:00Z",
+    "createdAt": "2025-02-04T00:00:00Z"
+  }
+]

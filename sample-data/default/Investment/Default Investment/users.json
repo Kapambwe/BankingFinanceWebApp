@@ -1,0 +1,7 @@
+[
+  { "id": "inv-admin-001", "username": "admin.investment", "fullName": "Sibusiso Hara", "role": "Administrator", "email": "sibusiso.hara@investment.zm", "isActive": true },
+  { "id": "inv-portfolio-001", "username": "portfolio.investment", "fullName": "Mpho Ncube", "role": "Portfolio Manager", "email": "mpho.ncube@investment.zm", "isActive": true },
+  { "id": "inv-analyst-001", "username": "analyst.investment", "fullName": "Lilly Nyirenda", "role": "Investment Analyst", "email": "lilly.nyirenda@investment.zm", "isActive": true },
+  { "id": "inv-advisor-001", "username": "advisor.investment", "fullName": "Duncan Zulu", "role": "Investment Advisor", "email": "duncan.zulu@investment.zm", "isActive": true },
+  { "id": "inv-compliance-001", "username": "compliance.investment", "fullName": "Rita Banda", "role": "Compliance Officer", "email": "rita.banda@investment.zm", "isActive": true }
+]

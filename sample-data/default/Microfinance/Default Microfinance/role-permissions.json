@@ -1,0 +1,84 @@
+{
+  "institutionType": "Microfinance",
+  "country": "Default",
+  "description": "Default role-to-permission mapping for microfinance institutions.",
+  "version": "1.0.0",
+  "roles": [
+    {
+      "role": "MicrofinanceAdmin",
+      "permissions": [
+        "Banking.Microfinance.View",
+        "Banking.Microfinance.Dashboard",
+        "Banking.Microfinance.GroupLending.View",
+        "Banking.Microfinance.Savings.View",
+        "Banking.Microfinance.FieldOfficers.View",
+        "Banking.Microfinance.FieldOfficers.Manage",
+        "Banking.Microfinance.FinancialLiteracy.View",
+        "Banking.Microfinance.FinancialLiteracy.Manage",
+        "Banking.Microfinance.IndividualLoans.View",
+        "Banking.Microfinance.IndividualLoans.Manage",
+        "Banking.Microfinance.SocialPerformance.View",
+        "Banking.Microfinance.SocialPerformance.Manage",
+        "Banking.Microfinance.MobileMoney.View",
+        "Banking.Microfinance.MobileMoney.Manage",
+        "Banking.Microfinance.MobileMoney.Reconcile",
+        "Banking.Accounting.View",
+        "Banking.Accrual.ViewDashboard",
+        "Banking.CRM.ViewCustomers",
+        "Banking.CRM.ViewLeads",
+        "Banking.HR.View",
+        "Banking.Documents.View",
+        "Banking.Workflows.View"
+      ]
+    },
+    {
+      "role": "LoanOfficer",
+      "permissions": [
+        "Banking.Microfinance.GroupLending.View",
+        "Banking.Microfinance.Savings.View",
+        "Banking.Microfinance.IndividualLoans.View",
+        "Banking.Microfinance.IndividualLoans.Manage",
+        "Banking.KnowYourCustomer.View",
+        "Banking.KnowYourCustomer.Manage",
+        "Banking.KnowYourCustomer.Create",
+        "Banking.Microfinance.CreditScoring.View",
+        "Banking.CRM.ViewCustomers",
+        "Banking.Documents.View",
+        "Banking.Workflows.View"
+      ]
+    },
+    {
+      "role": "CollectionsOfficer",
+      "permissions": [
+        "Banking.Microfinance.IndividualLoans.View",
+        "Banking.Loans.Collections.ViewActivities",
+        "Banking.Loans.Collections.ViewDashboard",
+        "Banking.Microfinance.MobileMoney.Reconcile",
+        "Banking.Microfinance.SocialPerformance.View",
+        "Banking.Accounting.View",
+        "Banking.CRM.ViewCustomers"
+      ]
+    },
+    {
+      "role": "FieldOfficer",
+      "permissions": [
+        "Banking.Microfinance.FieldOfficers.View",
+        "Banking.Microfinance.FieldOfficers.Manage",
+        "Banking.Microfinance.FinancialLiteracy.View",
+        "Banking.KnowYourCustomer.View",
+        "Banking.CRM.ViewCustomers",
+        "Banking.Documents.View"
+      ]
+    },
+    {
+      "role": "ComplianceOfficer",
+      "permissions": [
+        "Banking.Regulatory.ViewReports",
+        "Banking.Risk.ViewDashboard",
+        "Banking.KnowYourCustomer.Approve",
+        "Banking.KnowYourCustomer.Reject",
+        "Banking.Documents.View"
+      ]
+    }
+  ]
+}

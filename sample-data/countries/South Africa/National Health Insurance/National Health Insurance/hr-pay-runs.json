@@ -1,0 +1,50 @@
+[
+  {
+    "payRunId": "pr300000-0001-0000-0000-0000000003001",
+    "payRunReference": "PAYRUN-3-2025-10",
+    "payPeriod": "October 2025",
+    "startDate": "2025-10-01",
+    "endDate": "2025-10-31",
+    "payDate": "2025-10-28",
+    "totalEmployees": 3500,
+    "totalGrossPay": 358750000,
+    "totalDeductions": 100450000,
+    "totalNetPay": 258300000,
+    "currency": "ZAR",
+    "status": "Completed",
+    "processedBy": "Thabo Dlamini",
+    "createdAt": "2025-10-01T00:00:00Z"
+  },
+  {
+    "payRunId": "pr300000-0002-0000-0000-0000000003002",
+    "payRunReference": "PAYRUN-3-2025-11",
+    "payPeriod": "November 2025",
+    "startDate": "2025-11-01",
+    "endDate": "2025-11-30",
+    "payDate": "2025-11-28",
+    "totalEmployees": 3500,
+    "totalGrossPay": 358750000,
+    "totalDeductions": 100450000,
+    "totalNetPay": 258300000,
+    "currency": "ZAR",
+    "status": "Completed",
+    "processedBy": "Thabo Dlamini",
+    "createdAt": "2025-11-01T00:00:00Z"
+  },
+  {
+    "payRunId": "pr300000-0003-0000-0000-0000000003003",
+    "payRunReference": "PAYRUN-3-2025-12",
+    "payPeriod": "December 2025",
+    "startDate": "2025-12-01",
+    "endDate": "2025-12-31",
+    "payDate": "2025-12-28",
+    "totalEmployees": 3500,
+    "totalGrossPay": 358750000,
+    "totalDeductions": 100450000,
+    "totalNetPay": 258300000,
+    "currency": "ZAR",
+    "status": "Draft",
+    "processedBy": "Thabo Dlamini",
+    "createdAt": "2025-12-01T00:00:00Z"
+  }
+]

@@ -1,0 +1,125 @@
+{
+  "institutionType": "Development Finance Institution",
+  "country": "World",
+  "description": "Role-to-permission mapping for Development Finance Institution tenants in World. Matches the role structure used by the International Finance Corporation institution sample data.",
+  "version": "1.0.0",
+  "roles": [
+    {
+      "roleName": "GovernmentAdmin",
+      "permissions": [
+        "Banking.Government.View",
+        "Banking.Government.Budgets.View",
+        "Banking.Government.Budgets.Manage",
+        "Banking.Government.SovereignLending.View",
+        "Banking.Government.SovereignLending.Manage",
+        "Banking.Government.Grants.View",
+        "Banking.Government.Grants.Manage",
+        "Banking.Government.CommunityDevelopment.View",
+        "Banking.Government.SocialProtection.View",
+        "Banking.Government.PFM.View",
+        "Banking.Government.PFM.Manage",
+        "Banking.Government.Procurement.View",
+        "Banking.Government.Procurement.Manage",
+        "Banking.Government.ME.View",
+        "Banking.Government.ME.Manage",
+        "Banking.BeneficiaryRegistry.View",
+        "Banking.BeneficiaryRegistry.Manage",
+        "Banking.SME.View",
+        "Banking.SME.Manage",
+        "Banking.ValueChain.View",
+        "Banking.ValueChain.Manage",
+        "Banking.SocialImpact.View",
+        "Banking.SocialImpact.Manage",
+        "Banking.Analytics.View",
+        "Banking.CRM.View"
+      ]
+    },
+    {
+      "roleName": "ProjectFinanceManager",
+      "permissions": [
+        "Banking.Government.Budgets.View",
+        "Banking.Government.SovereignLending.View",
+        "Banking.Government.SovereignLending.Manage",
+        "Banking.Loans.View",
+        "Banking.Loans.Create",
+        "Banking.Loans.Approve",
+        "Banking.Loans.ViewApplications",
+        "Banking.Loans.ViewPortfolio",
+        "Banking.Loans.ViewWorkflow",
+        "Banking.Loans.ViewOperations",
+        "Banking.Accrual.ViewDashboard",
+        "Banking.Accrual.ViewChartOfAccounts",
+        "Banking.Accrual.ViewGeneralLedger",
+        "Banking.Accrual.ViewJournalEntries",
+        "Banking.Accrual.ViewInvoices",
+        "Banking.Accrual.ViewBills",
+        "Banking.Accrual.ViewRecurring",
+        "Banking.Accrual.ViewTemplates",
+        "Banking.Accrual.ViewReports"
+      ]
+    },
+    {
+      "roleName": "LoansClerk",
+      "permissions": [
+        "Banking.Government.SovereignLending.View",
+        "Banking.Loans.View",
+        "Banking.Loans.Approve",
+        "Banking.Loans.RecordPayment",
+        "Banking.Loans.ViewApplications",
+        "Banking.Loans.ViewDocuments",
+        "Banking.Loans.ViewCollateral"
+      ]
+    },
+    {
+      "roleName": "SocialProtectionOfficer",
+      "permissions": [
+        "Banking.Government.SocialProtection.View",
+        "Banking.Government.SocialProtection.Manage",
+        "Banking.Government.CommunityDevelopment.View",
+        "Banking.BeneficiaryRegistry.View",
+        "Banking.BeneficiaryRegistry.Manage",
+        "Banking.SocialImpact.View",
+        "Banking.SocialImpact.Manage"
+      ]
+    },
+    {
+      "roleName": "MEOfficer",
+      "permissions": [
+        "Banking.Government.ME.View",
+        "Banking.Government.ME.Manage",
+        "Banking.Analytics.View",
+        "Banking.Analytics.ViewFinancialReports",
+        "Banking.Analytics.ViewAccountReports"
+      ]
+    },
+    {
+      "roleName": "ProcurementOfficer",
+      "permissions": [
+        "Banking.Government.Procurement.View",
+        "Banking.Government.Procurement.Manage",
+        "Banking.Government.Procurement.AwardContract",
+        "Banking.Accrual.ViewBills",
+        "Banking.Accrual.ManageBills",
+        "Banking.Accrual.ViewInvoices",
+        "Banking.Accrual.ManageInvoices"
+      ]
+    },
+    {
+      "roleName": "GovernmentFinanceClerk",
+      "permissions": [
+        "Banking.Government.PFM.View",
+        "Banking.Government.PFM.Manage",
+        "Banking.Accounting.View",
+        "Banking.Accrual.ViewDashboard",
+        "Banking.Accrual.ViewChartOfAccounts",
+        "Banking.Accrual.ViewGeneralLedger",
+        "Banking.Accrual.ViewJournalEntries",
+        "Banking.Accrual.ViewInvoices",
+        "Banking.Accrual.ViewBills",
+        "Banking.Accrual.ViewRecurring",
+        "Banking.Accrual.ViewTemplates",
+        "Banking.Accrual.ViewReports"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+[
+  {
+    "id": "form-fund-application",
+    "code": "FORM-FUND-APPLICATION",
+    "name": "Fund Application",
+    "purpose": "Captures venture fund formation and capital raising details.",
+    "owner": "Fund Management",
+    "status": "Active",
+    "lifecycle": "Production-ready",
+    "lastUpdated": "2026-06-19T17:50:00Z",
+    "usedFor": [ "Fund application", "Fund formation" ],
+    "sections": [
+      {
+        "title": "Fund Profile",
+        "description": "Capture the fund name and strategy.",
+        "fields": [
+          { "key": "fundName", "label": "Fund name", "type": "Text", "required": true },
+          { "key": "fundStrategy", "label": "Fund strategy", "type": "Multiline", "required": true },
+          { "key": "fundManager", "label": "Fund manager", "type": "Text", "required": true }
+        ]
+      },
+      {
+        "title": "Capital Raise",
+        "description": "Capture target size and supporting documents.",
+        "fields": [
+          { "key": "targetSize", "label": "Target size", "type": "Number", "required": true },
+          { "key": "anchorInvestors", "label": "Anchor investors", "type": "Multiline", "required": false },
+          { "key": "fundDeck", "label": "Fund deck", "type": "File", "required": true }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "form-capital-call",
+    "code": "FORM-CAPITAL-CALL",
+    "name": "Capital Call Request",
+    "purpose": "Captures investor capital call notices and payment requirements.",
+    "owner": "Fund Management",
+    "status": "Active",
+    "lifecycle": "Production-ready",
+    "lastUpdated": "2026-06-19T18:00:00Z",
+    "usedFor": [ "Capital call", "Investor funding notice" ],
+    "sections": [
+      {
+        "title": "Investor Details",
+        "description": "Capture investor and fund reference details.",
+        "fields": [
+          { "key": "investorName", "label": "Investor name", "type": "Text", "required": true },
+          { "key": "fundReference", "label": "Fund reference", "type": "Text", "required": true },
+          { "key": "commitmentAmount", "label": "Commitment amount", "type": "Number", "required": true }
+        ]
+      },
+      {
+        "title": "Call Instructions",
+        "description": "Capture the amount and settlement instructions.",
+        "fields": [
+          { "key": "capitalCallAmount", "label": "Capital call amount", "type": "Number", "required": true },
+          { "key": "dueDate", "label": "Due date", "type": "Date", "required": true },
+          { "key": "callNotice", "label": "Call notice", "type": "File", "required": true }
+        ]
+      }
+    ]
+  }
+]

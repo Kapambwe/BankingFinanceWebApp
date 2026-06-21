@@ -1,0 +1,7 @@
+[
+  { "id": "cea-admin-001", "username": "admin.citizenempowerment", "fullName": "Rita Zulu", "role": "Administrator", "email": "rita.zulu@citizenempowerment.zm", "isActive": true },
+  { "id": "cea-ops-001", "username": "ops.citizenempowerment", "fullName": "Patrick Mumba", "role": "Program Officer", "email": "patrick.mumba@citizenempowerment.zm", "isActive": true },
+  { "id": "cea-grants-001", "username": "grants.citizenempowerment", "fullName": "Lily Banda", "role": "Grants Officer", "email": "lily.banda@citizenempowerment.zm", "isActive": true },
+  { "id": "cea-monitor-001", "username": "monitor.citizenempowerment", "fullName": "Moses Tembo", "role": "Monitoring Officer", "email": "moses.tembo@citizenempowerment.zm", "isActive": true },
+  { "id": "cea-support-001", "username": "support.citizenempowerment", "fullName": "Martha Phiri", "role": "Support Coordinator", "email": "martha.phiri@citizenempowerment.zm", "isActive": true }
+]

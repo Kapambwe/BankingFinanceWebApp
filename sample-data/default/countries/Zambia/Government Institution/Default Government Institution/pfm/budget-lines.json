@@ -1,0 +1,22 @@
+[
+  {
+    "LineId": "aaaaaaaa-aaaa-aaaa-aaaa-aaaaaaaaaaa3",
+    "VoteCode": "VOT-EDU-01",
+    "Ministry": "Ministry of Education",
+    "Department": "Infrastructure",
+    "Program": "School Construction",
+    "LineItem": "Classroom blocks",
+    "EconomicClassification": "CapitalExpenditure",
+    "ApprovedBudget": 320000000,
+    "RevisedBudget": 325000000,
+    "ActualExpenditure": 208000000,
+    "Commitments": 65000000,
+    "AvailableBalance": 52000000,
+    "Variance": 117000000,
+    "VariancePercent": 35.9,
+    "Currency": "ZMW",
+    "FiscalYear": "2026",
+    "Quarter": "Q2",
+    "CreatedAt": "2026-06-30T00:00:00Z"
+  }
+]

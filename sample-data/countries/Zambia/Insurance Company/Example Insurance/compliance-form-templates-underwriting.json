@@ -1,0 +1,36 @@
+[
+  {
+    "id": "form-underwriting-questionnaire",
+    "code": "FORM-UNDERWRITING-QUESTIONNAIRE",
+    "name": "Underwriting Questionnaire",
+    "purpose": "Captures risk profile and underwriting response information.",
+    "owner": "Underwriting",
+    "status": "Active",
+    "lifecycle": "Production-ready",
+    "lastUpdated": "2026-06-19T13:20:00Z",
+    "usedFor": [ "Underwriting", "Risk assessment" ],
+    "sections": [
+      {
+        "title": "Applicant Risk Profile",
+        "description": "Capture occupation, lifestyle and prior cover details.",
+        "fields": [
+          { "key": "applicantName", "label": "Applicant name", "type": "Text", "required": true },
+          { "key": "occupation", "label": "Occupation", "type": "Text", "required": true },
+          { "key": "previousCover", "label": "Previous cover", "type": "Select", "required": true, "options": [
+            { "value": "yes", "label": "Yes" },
+            { "value": "no", "label": "No" }
+          ] }
+        ]
+      },
+      {
+        "title": "Risk Evidence",
+        "description": "Capture declarations, medical and inspection evidence.",
+        "fields": [
+          { "key": "medicalDeclaration", "label": "Medical declaration", "type": "File", "required": false },
+          { "key": "riskNotes", "label": "Risk notes", "type": "Multiline", "required": true },
+          { "key": "inspectionReport", "label": "Inspection report", "type": "File", "required": false }
+        ]
+      }
+    ]
+  }
+]

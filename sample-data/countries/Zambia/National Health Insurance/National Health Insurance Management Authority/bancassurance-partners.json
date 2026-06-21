@@ -1,0 +1,44 @@
+[
+  {
+    "partnerId": "bp100000-0001",
+    "partnerName": "Zanaco",
+    "partnerType": "Commercial Bank",
+    "country": "Zambia",
+    "collectionsModel": "Direct Debit",
+    "activeMemberAccounts": 14400,
+    "monthlyCollections": 20340000.0,
+    "currency": "ZMW",
+    "commissionRate": 0.015,
+    "status": "Active",
+    "partnerSince": "2020-01-01",
+    "createdAt": "2020-01-01T00:00:00Z"
+  },
+  {
+    "partnerId": "bp100000-0002",
+    "partnerName": "Standard Chartered Zambia",
+    "partnerType": "Commercial Bank",
+    "country": "Zambia",
+    "collectionsModel": "Standing Order",
+    "activeMemberAccounts": 9600,
+    "monthlyCollections": 13560000.0,
+    "currency": "ZMW",
+    "commissionRate": 0.012,
+    "status": "Active",
+    "partnerSince": "2021-06-01",
+    "createdAt": "2021-06-01T00:00:00Z"
+  },
+  {
+    "partnerId": "bp100000-0003",
+    "partnerName": "First National Bank Zambia",
+    "partnerType": "Commercial Bank",
+    "country": "Zambia",
+    "collectionsModel": "Mobile Banking",
+    "activeMemberAccounts": 6000,
+    "monthlyCollections": 8136000.0,
+    "currency": "ZMW",
+    "commissionRate": 0.01,
+    "status": "Active",
+    "partnerSince": "2023-01-01",
+    "createdAt": "2023-01-01T00:00:00Z"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "budgetId": "hcb00001-0001-0001-0001-000000000001",
+    "fiscalYear": 2026,
+    "departmentId": "d1000000-0001-0001-0001-000000000001",
+    "departmentName": "Engenharia de Software",
+    "approvedHeadcount": 2200,
+    "currentHeadcount": 2050,
+    "openPositions": 150,
+    "budgetedHires": 180,
+    "actualHires": 85,
+    "currency": "BRL",
+    "budgetedSalaryCost": 550000000.0,
+    "actualSalaryCost": 512500000.0
+  },
+  {
+    "budgetId": "hcb00001-0001-0001-0001-000000000002",
+    "fiscalYear": 2026,
+    "departmentId": "d1000000-0001-0001-0001-000000000002",
+    "departmentName": "Produto",
+    "approvedHeadcount": 800,
+    "currentHeadcount": 780,
+    "openPositions": 20,
+    "budgetedHires": 30,
+    "actualHires": 18,
+    "currency": "BRL",
+    "budgetedSalaryCost": 185000000.0,
+    "actualSalaryCost": 180500000.0
+  },
+  {
+    "budgetId": "hcb00001-0001-0001-0001-000000000003",
+    "fiscalYear": 2026,
+    "departmentId": "d1000000-0001-0001-0001-000000000006",
+    "departmentName": "Atendimento ao Cliente",
+    "approvedHeadcount": 2500,
+    "currentHeadcount": 2380,
+    "openPositions": 120,
+    "budgetedHires": 200,
+    "actualHires": 95,
+    "currency": "BRL",
+    "budgetedSalaryCost": 250000000.0,
+    "actualSalaryCost": 238000000.0
+  },
+  {
+    "budgetId": "hcb00001-0001-0001-0001-000000000004",
+    "fiscalYear": 2026,
+    "departmentId": "d1000000-0001-0001-0001-000000000004",
+    "departmentName": "Risco e Compliance",
+    "approvedHeadcount": 420,
+    "currentHeadcount": 405,
+    "openPositions": 15,
+    "budgetedHires": 25,
+    "actualHires": 12,
+    "currency": "BRL",
+    "budgetedSalaryCost": 72000000.0,
+    "actualSalaryCost": 69500000.0
+  },
+  {
+    "budgetId": "hcb00001-0001-0001-0001-000000000005",
+    "fiscalYear": 2026,
+    "departmentId": "d1000000-0001-0001-0001-000000000005",
+    "departmentName": "Marketing e Crescimento",
+    "approvedHeadcount": 380,
+    "currentHeadcount": 360,
+    "openPositions": 20,
+    "budgetedHires": 35,
+    "actualHires": 15,
+    "currency": "BRL",
+    "budgetedSalaryCost": 64000000.0,
+    "actualSalaryCost": 60800000.0
+  }
+]

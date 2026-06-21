@@ -1,0 +1,17 @@
+{
+  "registrationNumber": "REG-43064",
+  "contactEmail": "standardcharteredbank@example.zm",
+  "createdAt": "2023-01-07T00:00:00Z",
+  "branches": 23,
+  "institutionType": "Commercial Bank",
+  "institutionName": "Standard Chartered Bank",
+  "country": "Zambia",
+  "established": 2004,
+  "employees": 1452,
+  "contactPhone": "+260-824-244328",
+  "headquarters": "Kitwe",
+  "institutionId": "d563b216-8f7c-43bf-8112-6e33a0c3ecc2",
+  "currency": "ZMW",
+  "status": "Active",
+  "website": "https://www.standardcharteredbank.co.zm"
+}

@@ -1,0 +1,83 @@
+﻿{
+    "institutionType":  "Insurance",
+    "country":  "Zambia",
+    "description":  "Role-to-permission mapping for Insurance tenants in Zambia. Matches the role structure used by the Madison General Insurance institution sample data.",
+    "version":  "1.0.0",
+    "roles":  [
+                  {
+                      "roleName":  "Actuary",
+                      "permissions":  [
+                                          "Banking.Insurance.Actuarial.View",
+                                          "Banking.Insurance.Actuarial.Manage",
+                                          "Banking.Analytics.ViewAdvanced"
+                                      ]
+                  },
+                  {
+                      "roleName":  "BancassuranceOfficer",
+                      "permissions":  [
+                                          "Banking.Insurance.Bancassurance.View",
+                                          "Banking.Marketing.ViewCRM",
+                                          "Banking.Marketing.ManageCampaigns"
+                                      ]
+                  },
+                  {
+                      "roleName":  "ClaimsManager",
+                      "permissions":  [
+                                          "Banking.Insurance.Claims.View",
+                                          "Banking.Insurance.Claims.Manage",
+                                          "Banking.Insurance.FraudAnalytics.View"
+                                      ]
+                  },
+                  {
+                      "roleName":  "ClaimsOfficer",
+                      "permissions":  [
+                                          "Banking.Insurance.Claims.View",
+                                          "Banking.Insurance.Claims.Manage",
+                                          "Banking.Insurance.SelfService.View"
+                                      ]
+                  },
+                  {
+                      "roleName":  "InsuranceAdmin",
+                      "permissions":  [
+                                          "Banking.Insurance.View",
+                                          "Banking.Insurance.Dashboard",
+                                          "Banking.Insurance.Products.View",
+                                          "Banking.Insurance.Products.Manage",
+                                          "Banking.Insurance.Claims.View",
+                                          "Banking.Insurance.Claims.Manage",
+                                          "Banking.Insurance.Underwriting.View",
+                                          "Banking.Insurance.Underwriting.Manage",
+                                          "Banking.Insurance.Reinsurance.View",
+                                          "Banking.Insurance.Reinsurance.Manage",
+                                          "Banking.Insurance.Actuarial.View",
+                                          "Banking.Insurance.Actuarial.Manage",
+                                          "Banking.Insurance.FraudAnalytics.View",
+                                          "Banking.Insurance.SelfService.View"
+                                      ]
+                  },
+                  {
+                      "roleName":  "InsuranceComplianceOfficer",
+                      "permissions":  [
+                                          "Banking.Risk.ViewDashboard",
+                                          "Banking.Regulatory.ViewReports",
+                                          "Banking.Insurance.FraudAnalytics.View"
+                                      ]
+                  },
+                  {
+                      "roleName":  "ReinsuranceOfficer",
+                      "permissions":  [
+                                          "Banking.Insurance.Reinsurance.View",
+                                          "Banking.Insurance.Reinsurance.Manage"
+                                      ]
+                  },
+                  {
+                      "roleName":  "Underwriter",
+                      "permissions":  [
+                                          "Banking.Insurance.Underwriting.View",
+                                          "Banking.Insurance.Underwriting.Manage",
+                                          "Banking.Insurance.Products.View",
+                                          "Banking.Insurance.Products.Manage"
+                                      ]
+                  }
+              ]
+}

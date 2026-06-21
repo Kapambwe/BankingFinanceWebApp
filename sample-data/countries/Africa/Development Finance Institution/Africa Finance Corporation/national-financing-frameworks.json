@@ -1,0 +1,429 @@
+[
+  {
+    "frameworkId": "f1d547a2-39cb-75ad-25bf-2b0d13e24b2c",
+    "frameworkCode": "AFC-NG-NFF-2026-001",
+    "title": "Nigeria Development Financing Framework",
+    "leadInstitution": "Africa Finance Corporation",
+    "countryCode": "NG",
+    "countryName": "Nigeria",
+    "region": "West Africa",
+    "frameworkType": "IntegratedNationalFinancingFramework",
+    "stage": "Implementation",
+    "totalSDGOrDevelopmentFinancingNeed": 1380000000,
+    "publicDomesticFinancing": 432000000,
+    "internationalPublicFinancing": 242000000,
+    "privateDomesticFinancing": 301000000,
+    "internationalPrivateFinancing": 168000000,
+    "climateFinancingNeed": 104000000,
+    "currency": "USD",
+    "financingGap": 240000000,
+    "pillars": [
+      {
+        "pillarName": "Financing diagnostics",
+        "pillarType": "Assessment",
+        "keyActions": [
+          "Map flows",
+          "Validate gap"
+        ],
+        "responsibleActors": [
+          "Federal Ministry of Finance",
+          "Africa Finance Corporation"
+        ],
+        "progress": "Completed"
+      },
+      {
+        "pillarName": "Blended finance pipeline",
+        "pillarType": "PrivateFinanceAndBlending",
+        "keyActions": [
+          "Structure guarantees",
+          "Prepare investable pipeline"
+        ],
+        "responsibleActors": [
+          "Africa Finance Corporation",
+          "Private sector partners"
+        ],
+        "progress": "InProgress"
+      }
+    ],
+    "governmentCounterparts": [
+      "Federal Ministry of Finance"
+    ],
+    "supportingInstitutions": [
+      "Africa Finance Corporation",
+      "Development partner coordination group"
+    ],
+    "frameworkLead": "SDG finance advisor",
+    "isLinkedToNationalDevelopmentPlan": true,
+    "isLinkedToNDC": false,
+    "status": "Active",
+    "assessmentDate": "2026-02-12T22:00:00Z",
+    "nextUpdateDate": "2027-02-12T22:00:00Z",
+    "createdAt": "2025-12-31T22:00:00Z"
+  },
+  {
+    "frameworkId": "54c776a0-fda7-c104-1da6-635a4b3fb18a",
+    "frameworkCode": "AFC-GH-NFF-2026-002",
+    "title": "Ghana Development Financing Framework",
+    "leadInstitution": "Africa Finance Corporation",
+    "countryCode": "GH",
+    "countryName": "Ghana",
+    "region": "West Africa",
+    "frameworkType": "DevelopmentFinanceAssessment",
+    "stage": "Endorsed",
+    "totalSDGOrDevelopmentFinancingNeed": 1560000000,
+    "publicDomesticFinancing": 484000000,
+    "internationalPublicFinancing": 274000000,
+    "privateDomesticFinancing": 342000000,
+    "internationalPrivateFinancing": 196000000,
+    "climateFinancingNeed": 118000000,
+    "currency": "USD",
+    "financingGap": 270000000,
+    "pillars": [
+      {
+        "pillarName": "Financing diagnostics",
+        "pillarType": "Assessment",
+        "keyActions": [
+          "Map flows",
+          "Validate gap"
+        ],
+        "responsibleActors": [
+          "Ministry of Finance",
+          "Africa Finance Corporation"
+        ],
+        "progress": "Completed"
+      },
+      {
+        "pillarName": "Blended finance pipeline",
+        "pillarType": "PrivateFinanceAndBlending",
+        "keyActions": [
+          "Structure guarantees",
+          "Prepare investable pipeline"
+        ],
+        "responsibleActors": [
+          "Africa Finance Corporation",
+          "Private sector partners"
+        ],
+        "progress": "InProgress"
+      }
+    ],
+    "governmentCounterparts": [
+      "Ministry of Finance"
+    ],
+    "supportingInstitutions": [
+      "Africa Finance Corporation",
+      "Development partner coordination group"
+    ],
+    "frameworkLead": "Country economist",
+    "isLinkedToNationalDevelopmentPlan": true,
+    "isLinkedToNDC": true,
+    "status": "Completed",
+    "assessmentDate": "2026-03-12T22:00:00Z",
+    "nextUpdateDate": "2027-03-12T22:00:00Z",
+    "createdAt": "2026-01-01T22:00:00Z"
+  },
+  {
+    "frameworkId": "9c228fbd-db17-0f2e-a707-33b5e5fcce6d",
+    "frameworkCode": "AFC-KE-NFF-2026-003",
+    "title": "Kenya Development Financing Framework",
+    "leadInstitution": "Africa Finance Corporation",
+    "countryCode": "KE",
+    "countryName": "Kenya",
+    "region": "East Africa",
+    "frameworkType": "FinancingForDevelopmentStrategy",
+    "stage": "Validation",
+    "totalSDGOrDevelopmentFinancingNeed": 1740000000,
+    "publicDomesticFinancing": 536000000,
+    "internationalPublicFinancing": 306000000,
+    "privateDomesticFinancing": 383000000,
+    "internationalPrivateFinancing": 224000000,
+    "climateFinancingNeed": 132000000,
+    "currency": "USD",
+    "financingGap": 300000000,
+    "pillars": [
+      {
+        "pillarName": "Financing diagnostics",
+        "pillarType": "Assessment",
+        "keyActions": [
+          "Map flows",
+          "Validate gap"
+        ],
+        "responsibleActors": [
+          "National Treasury and Economic Planning",
+          "Africa Finance Corporation"
+        ],
+        "progress": "Completed"
+      },
+      {
+        "pillarName": "Blended finance pipeline",
+        "pillarType": "PrivateFinanceAndBlending",
+        "keyActions": [
+          "Structure guarantees",
+          "Prepare investable pipeline"
+        ],
+        "responsibleActors": [
+          "Africa Finance Corporation",
+          "Private sector partners"
+        ],
+        "progress": "InProgress"
+      }
+    ],
+    "governmentCounterparts": [
+      "National Treasury and Economic Planning"
+    ],
+    "supportingInstitutions": [
+      "Africa Finance Corporation",
+      "Development partner coordination group"
+    ],
+    "frameworkLead": "Development finance specialist",
+    "isLinkedToNationalDevelopmentPlan": true,
+    "isLinkedToNDC": false,
+    "status": "Preparation",
+    "assessmentDate": "2026-04-12T22:00:00Z",
+    "nextUpdateDate": "2027-04-12T22:00:00Z",
+    "createdAt": "2026-01-02T22:00:00Z"
+  },
+  {
+    "frameworkId": "d89ccfd9-381a-d3f6-fae1-b7aff379b139",
+    "frameworkCode": "AFC-EG-NFF-2026-004",
+    "title": "Egypt Development Financing Framework",
+    "leadInstitution": "Africa Finance Corporation",
+    "countryCode": "EG",
+    "countryName": "Egypt",
+    "region": "North Africa",
+    "frameworkType": "ClimateFinanceStrategy",
+    "stage": "StrategyDevelopment",
+    "totalSDGOrDevelopmentFinancingNeed": 1920000000,
+    "publicDomesticFinancing": 588000000,
+    "internationalPublicFinancing": 338000000,
+    "privateDomesticFinancing": 424000000,
+    "internationalPrivateFinancing": 252000000,
+    "climateFinancingNeed": 146000000,
+    "currency": "USD",
+    "financingGap": 330000000,
+    "pillars": [
+      {
+        "pillarName": "Financing diagnostics",
+        "pillarType": "Assessment",
+        "keyActions": [
+          "Map flows",
+          "Validate gap"
+        ],
+        "responsibleActors": [
+          "Ministry of International Cooperation",
+          "Africa Finance Corporation"
+        ],
+        "progress": "Completed"
+      },
+      {
+        "pillarName": "Blended finance pipeline",
+        "pillarType": "PrivateFinanceAndBlending",
+        "keyActions": [
+          "Structure guarantees",
+          "Prepare investable pipeline"
+        ],
+        "responsibleActors": [
+          "Africa Finance Corporation",
+          "Private sector partners"
+        ],
+        "progress": "InProgress"
+      }
+    ],
+    "governmentCounterparts": [
+      "Ministry of International Cooperation"
+    ],
+    "supportingInstitutions": [
+      "Africa Finance Corporation",
+      "Development partner coordination group"
+    ],
+    "frameworkLead": "Climate finance lead",
+    "isLinkedToNationalDevelopmentPlan": true,
+    "isLinkedToNDC": true,
+    "status": "Active",
+    "assessmentDate": "2026-05-12T22:00:00Z",
+    "nextUpdateDate": "2027-05-12T22:00:00Z",
+    "createdAt": "2026-01-03T22:00:00Z"
+  },
+  {
+    "frameworkId": "4ce95f24-9a97-33b3-5fa9-d5dad3b555e6",
+    "frameworkCode": "AFC-ZA-NFF-2026-005",
+    "title": "South Africa Development Financing Framework",
+    "leadInstitution": "Africa Finance Corporation",
+    "countryCode": "ZA",
+    "countryName": "South Africa",
+    "region": "Southern Africa",
+    "frameworkType": "SectorFinancingStrategy",
+    "stage": "DiagnosticsCompleted",
+    "totalSDGOrDevelopmentFinancingNeed": 2100000000,
+    "publicDomesticFinancing": 640000000,
+    "internationalPublicFinancing": 370000000,
+    "privateDomesticFinancing": 465000000,
+    "internationalPrivateFinancing": 280000000,
+    "climateFinancingNeed": 160000000,
+    "currency": "USD",
+    "financingGap": 360000000,
+    "pillars": [
+      {
+        "pillarName": "Financing diagnostics",
+        "pillarType": "Assessment",
+        "keyActions": [
+          "Map flows",
+          "Validate gap"
+        ],
+        "responsibleActors": [
+          "National Treasury",
+          "Africa Finance Corporation"
+        ],
+        "progress": "Completed"
+      },
+      {
+        "pillarName": "Blended finance pipeline",
+        "pillarType": "PrivateFinanceAndBlending",
+        "keyActions": [
+          "Structure guarantees",
+          "Prepare investable pipeline"
+        ],
+        "responsibleActors": [
+          "Africa Finance Corporation",
+          "Private sector partners"
+        ],
+        "progress": "InProgress"
+      }
+    ],
+    "governmentCounterparts": [
+      "National Treasury"
+    ],
+    "supportingInstitutions": [
+      "Africa Finance Corporation",
+      "Development partner coordination group"
+    ],
+    "frameworkLead": "Investment pipeline lead",
+    "isLinkedToNationalDevelopmentPlan": true,
+    "isLinkedToNDC": false,
+    "status": "Archived",
+    "assessmentDate": "2026-06-12T22:00:00Z",
+    "nextUpdateDate": "2027-06-12T22:00:00Z",
+    "createdAt": "2026-01-04T22:00:00Z"
+  },
+  {
+    "frameworkId": "d8c4c58d-0e2f-5b9e-462b-c829ac9e8ab9",
+    "frameworkCode": "AFC-CI-NFF-2026-006",
+    "title": "Cote d'Ivoire Development Financing Framework",
+    "leadInstitution": "Africa Finance Corporation",
+    "countryCode": "CI",
+    "countryName": "Cote d'Ivoire",
+    "region": "West Africa",
+    "frameworkType": "TotalOfficialSupportForSD",
+    "stage": "Updated",
+    "totalSDGOrDevelopmentFinancingNeed": 2280000000.0,
+    "publicDomesticFinancing": 692000000,
+    "internationalPublicFinancing": 402000000,
+    "privateDomesticFinancing": 506000000,
+    "internationalPrivateFinancing": 308000000,
+    "climateFinancingNeed": 174000000,
+    "currency": "USD",
+    "financingGap": 390000000,
+    "pillars": [
+      {
+        "pillarName": "Financing diagnostics",
+        "pillarType": "Assessment",
+        "keyActions": [
+          "Map flows",
+          "Validate gap"
+        ],
+        "responsibleActors": [
+          "Ministry of Finance and Budget",
+          "Africa Finance Corporation"
+        ],
+        "progress": "Completed"
+      },
+      {
+        "pillarName": "Blended finance pipeline",
+        "pillarType": "PrivateFinanceAndBlending",
+        "keyActions": [
+          "Structure guarantees",
+          "Prepare investable pipeline"
+        ],
+        "responsibleActors": [
+          "Africa Finance Corporation",
+          "Private sector partners"
+        ],
+        "progress": "InProgress"
+      }
+    ],
+    "governmentCounterparts": [
+      "Ministry of Finance and Budget"
+    ],
+    "supportingInstitutions": [
+      "Africa Finance Corporation",
+      "Development partner coordination group"
+    ],
+    "frameworkLead": "Public finance advisor",
+    "isLinkedToNationalDevelopmentPlan": true,
+    "isLinkedToNDC": true,
+    "status": "Active",
+    "assessmentDate": "2026-07-12T22:00:00Z",
+    "nextUpdateDate": "2027-07-12T22:00:00Z",
+    "createdAt": "2026-01-05T22:00:00Z"
+  },
+  {
+    "frameworkId": "02b18cf5-5922-39cf-ae9e-4d0893098af0",
+    "frameworkCode": "AFC-SN-NFF-2026-007",
+    "title": "Senegal Development Financing Framework",
+    "leadInstitution": "Africa Finance Corporation",
+    "countryCode": "SN",
+    "countryName": "Senegal",
+    "region": "West Africa",
+    "frameworkType": "InvestmentFramework",
+    "stage": "DataCollection",
+    "totalSDGOrDevelopmentFinancingNeed": 2460000000.0,
+    "publicDomesticFinancing": 744000000,
+    "internationalPublicFinancing": 434000000,
+    "privateDomesticFinancing": 547000000,
+    "internationalPrivateFinancing": 336000000,
+    "climateFinancingNeed": 188000000,
+    "currency": "USD",
+    "financingGap": 420000000,
+    "pillars": [
+      {
+        "pillarName": "Financing diagnostics",
+        "pillarType": "Assessment",
+        "keyActions": [
+          "Map flows",
+          "Validate gap"
+        ],
+        "responsibleActors": [
+          "Ministry of Economy, Planning and Cooperation",
+          "Africa Finance Corporation"
+        ],
+        "progress": "Completed"
+      },
+      {
+        "pillarName": "Blended finance pipeline",
+        "pillarType": "PrivateFinanceAndBlending",
+        "keyActions": [
+          "Structure guarantees",
+          "Prepare investable pipeline"
+        ],
+        "responsibleActors": [
+          "Africa Finance Corporation",
+          "Private sector partners"
+        ],
+        "progress": "InProgress"
+      }
+    ],
+    "governmentCounterparts": [
+      "Ministry of Economy, Planning and Cooperation"
+    ],
+    "supportingInstitutions": [
+      "Africa Finance Corporation",
+      "Development partner coordination group"
+    ],
+    "frameworkLead": "Partnership specialist",
+    "isLinkedToNationalDevelopmentPlan": true,
+    "isLinkedToNDC": false,
+    "status": "Completed",
+    "assessmentDate": "2026-08-12T22:00:00Z",
+    "nextUpdateDate": "2027-08-12T22:00:00Z",
+    "createdAt": "2026-01-06T22:00:00Z"
+  }
+]

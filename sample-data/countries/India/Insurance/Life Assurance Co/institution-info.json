@@ -1,0 +1,17 @@
+{
+  "registrationNumber": "REG-15218",
+  "contactEmail": "madisongeneralinsurance@example.zm",
+  "createdAt": "2023-03-19T00:00:00Z",
+  "branches": 6,
+  "institutionType": "Insurance",
+  "institutionName": "Madison General Insurance",
+  "country": "India",
+  "established": 1967,
+  "employees": 3536,
+  "contactPhone": "+260-199-851146",
+  "headquarters": "Chennai",
+  "institutionId": "4e34e4d2-a0d7-4f6a-b267-29ab4abd7f74",
+  "currency": "INR",
+  "status": "Active",
+  "website": "https://www.madisongeneralinsurance.co.zm"
+}

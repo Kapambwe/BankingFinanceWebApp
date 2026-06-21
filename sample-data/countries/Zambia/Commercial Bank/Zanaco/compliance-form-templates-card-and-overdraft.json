@@ -1,0 +1,73 @@
+[
+  {
+    "id": "form-card-issuance",
+    "code": "FORM-CARD-ISSUANCE",
+    "name": "Card Issuance Request",
+    "purpose": "Captures requests for new debit or credit card issuance.",
+    "owner": "Cards",
+    "status": "Active",
+    "lifecycle": "Production-ready",
+    "lastUpdated": "2026-06-19T10:50:00Z",
+    "usedFor": [ "Card issuance", "Replacement card" ],
+    "sections": [
+      {
+        "title": "Customer Details",
+        "description": "Capture customer and account information.",
+        "fields": [
+          { "key": "customerName", "label": "Customer name", "type": "Text", "required": true },
+          { "key": "accountNumber", "label": "Account number", "type": "Text", "required": true },
+          { "key": "cardType", "label": "Card type", "type": "Select", "required": true, "options": [
+            { "value": "debit", "label": "Debit" },
+            { "value": "credit", "label": "Credit" },
+            { "value": "prepaid", "label": "Prepaid" }
+          ] }
+        ]
+      },
+      {
+        "title": "Card Instructions",
+        "description": "Capture delivery and activation preferences.",
+        "fields": [
+          { "key": "deliveryMethod", "label": "Delivery method", "type": "Select", "required": true, "options": [
+            { "value": "branch", "label": "Branch collection" },
+            { "value": "courier", "label": "Courier" }
+          ] },
+          { "key": "pinPreference", "label": "PIN preference", "type": "Select", "required": true, "options": [
+            { "value": "sms", "label": "SMS generated" },
+            { "value": "branch", "label": "Branch generated" }
+          ] }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "form-overdraft-review",
+    "code": "FORM-OVERDRAFT-REVIEW",
+    "name": "Overdraft Review",
+    "purpose": "Captures existing customer overdraft facilities and limit review evidence.",
+    "owner": "Lending",
+    "status": "Active",
+    "lifecycle": "Production-ready",
+    "lastUpdated": "2026-06-19T11:05:00Z",
+    "usedFor": [ "Overdraft review", "Transactional buffer" ],
+    "sections": [
+      {
+        "title": "Facility Details",
+        "description": "Capture current limit and account profile.",
+        "fields": [
+          { "key": "customerName", "label": "Customer name", "type": "Text", "required": true },
+          { "key": "accountNumber", "label": "Account number", "type": "Text", "required": true },
+          { "key": "currentLimit", "label": "Current limit", "type": "Number", "required": true }
+        ]
+      },
+      {
+        "title": "Review Notes",
+        "description": "Capture the reason for the review and the decision support.",
+        "fields": [
+          { "key": "reviewReason", "label": "Review reason", "type": "Multiline", "required": true },
+          { "key": "cashFlowEvidence", "label": "Cash flow evidence", "type": "File", "required": true },
+          { "key": "recommendedLimit", "label": "Recommended limit", "type": "Number", "required": true }
+        ]
+      }
+    ]
+  }
+]

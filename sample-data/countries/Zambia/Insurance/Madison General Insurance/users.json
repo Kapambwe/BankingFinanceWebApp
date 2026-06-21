@@ -1,0 +1,202 @@
+﻿[
+    {
+        "userId":  "75a5fa37-3a7c-4df6-a599-603d34a524cc",
+        "email":  "actuary.insurance",
+        "username":  "actuary.insurance",
+        "firstName":  "A",
+        "lastName":  "Actuary",
+        "institutionType":  "Insurance",
+        "institutionName":  "Madison General Insurance",
+        "institutionId":  "adf00df2-bc9b-4dad-b263-9a759c11f227",
+        "roles":  [
+                      "Actuary"
+                  ],
+        "permissions":  [
+
+                        ],
+        "isActive":  true,
+        "isEmailVerified":  true,
+        "isPhoneVerified":  true,
+        "isIdentityVerified":  true,
+        "trustScore":  95,
+        "createdAt":  "2023-09-13T00:00:00Z",
+        "phoneNumber":  "+260977000000",
+        "gender":  "Other",
+        "nationality":  "Zambian"
+    },
+    {
+        "userId":  "3a06a7d3-36df-4dae-8d0f-6d5464004235",
+        "email":  "bancassuranceofficer.insurance",
+        "username":  "bancassuranceofficer.insurance",
+        "firstName":  "Bancassurance",
+        "lastName":  "Officer",
+        "institutionType":  "Insurance",
+        "institutionName":  "Madison General Insurance",
+        "institutionId":  "847fc383-02de-4fcc-9d8d-9723aeea489a",
+        "roles":  [
+                      "BancassuranceOfficer"
+                  ],
+        "permissions":  [
+
+                        ],
+        "isActive":  true,
+        "isEmailVerified":  true,
+        "isPhoneVerified":  true,
+        "isIdentityVerified":  true,
+        "trustScore":  95,
+        "createdAt":  "2023-09-13T00:00:00Z",
+        "phoneNumber":  "+260977000000",
+        "gender":  "Other",
+        "nationality":  "Zambian"
+    },
+    {
+        "userId":  "e181539e-1057-4893-8cda-abdb94acd655",
+        "email":  "claimsmanager.insurance",
+        "username":  "claimsmanager.insurance",
+        "firstName":  "Claims",
+        "lastName":  "Manager",
+        "institutionType":  "Insurance",
+        "institutionName":  "Madison General Insurance",
+        "institutionId":  "5002a948-9e33-4702-b2d8-b78e4f8bfb38",
+        "roles":  [
+                      "ClaimsManager"
+                  ],
+        "permissions":  [
+
+                        ],
+        "isActive":  true,
+        "isEmailVerified":  true,
+        "isPhoneVerified":  true,
+        "isIdentityVerified":  true,
+        "trustScore":  95,
+        "createdAt":  "2023-09-13T00:00:00Z",
+        "phoneNumber":  "+260977000000",
+        "gender":  "Other",
+        "nationality":  "Zambian"
+    },
+    {
+        "userId":  "caf78eda-399b-41d6-a4b0-f917125821d6",
+        "email":  "claimsofficer.insurance",
+        "username":  "claimsofficer.insurance",
+        "firstName":  "Claims",
+        "lastName":  "Officer",
+        "institutionType":  "Insurance",
+        "institutionName":  "Madison General Insurance",
+        "institutionId":  "3ec90f6e-b67a-4d55-92c7-bb3a67215917",
+        "roles":  [
+                      "ClaimsOfficer"
+                  ],
+        "permissions":  [
+
+                        ],
+        "isActive":  true,
+        "isEmailVerified":  true,
+        "isPhoneVerified":  true,
+        "isIdentityVerified":  true,
+        "trustScore":  95,
+        "createdAt":  "2023-09-13T00:00:00Z",
+        "phoneNumber":  "+260977000000",
+        "gender":  "Other",
+        "nationality":  "Zambian"
+    },
+    {
+        "userId":  "62ca13f3-feb2-4bc7-a9d5-32740e359448",
+        "email":  "insuranceadmin.insurance",
+        "username":  "insuranceadmin.insurance",
+        "firstName":  "Insurance",
+        "lastName":  "Admin",
+        "institutionType":  "Insurance",
+        "institutionName":  "Madison General Insurance",
+        "institutionId":  "6baed784-f428-41f2-81f0-b964c3da29d9",
+        "roles":  [
+                      "InsuranceAdmin"
+                  ],
+        "permissions":  [
+
+                        ],
+        "isActive":  true,
+        "isEmailVerified":  true,
+        "isPhoneVerified":  true,
+        "isIdentityVerified":  true,
+        "trustScore":  95,
+        "createdAt":  "2023-09-13T00:00:00Z",
+        "phoneNumber":  "+260977000000",
+        "gender":  "Other",
+        "nationality":  "Zambian"
+    },
+    {
+        "userId":  "7f898de8-b729-4b71-907d-3b1c18e4d016",
+        "email":  "insurancecomplianceofficer.insurance",
+        "username":  "insurancecomplianceofficer.insurance",
+        "firstName":  "Insurance",
+        "lastName":  "Officer",
+        "institutionType":  "Insurance",
+        "institutionName":  "Madison General Insurance",
+        "institutionId":  "57aec2aa-91d9-4961-b634-8058afb9351c",
+        "roles":  [
+                      "InsuranceComplianceOfficer"
+                  ],
+        "permissions":  [
+
+                        ],
+        "isActive":  true,
+        "isEmailVerified":  true,
+        "isPhoneVerified":  true,
+        "isIdentityVerified":  true,
+        "trustScore":  95,
+        "createdAt":  "2023-09-13T00:00:00Z",
+        "phoneNumber":  "+260977000000",
+        "gender":  "Other",
+        "nationality":  "Zambian"
+    },
+    {
+        "userId":  "7a4ef8a5-8b9e-4653-b36c-ccc27c5412dc",
+        "email":  "reinsuranceofficer.insurance",
+        "username":  "reinsuranceofficer.insurance",
+        "firstName":  "Reinsurance",
+        "lastName":  "Officer",
+        "institutionType":  "Insurance",
+        "institutionName":  "Madison General Insurance",
+        "institutionId":  "aebdfe03-a7ed-4cb0-b20c-3ef6f2739c88",
+        "roles":  [
+                      "ReinsuranceOfficer"
+                  ],
+        "permissions":  [
+
+                        ],
+        "isActive":  true,
+        "isEmailVerified":  true,
+        "isPhoneVerified":  true,
+        "isIdentityVerified":  true,
+        "trustScore":  95,
+        "createdAt":  "2023-09-13T00:00:00Z",
+        "phoneNumber":  "+260977000000",
+        "gender":  "Other",
+        "nationality":  "Zambian"
+    },
+    {
+        "userId":  "f8be9351-b770-402a-8b0c-a3498ee36a5f",
+        "email":  "underwriter.insurance",
+        "username":  "underwriter.insurance",
+        "firstName":  "U",
+        "lastName":  "Underwriter",
+        "institutionType":  "Insurance",
+        "institutionName":  "Madison General Insurance",
+        "institutionId":  "dc9aaa31-13ff-417a-9ac8-71734476b1b8",
+        "roles":  [
+                      "Underwriter"
+                  ],
+        "permissions":  [
+
+                        ],
+        "isActive":  true,
+        "isEmailVerified":  true,
+        "isPhoneVerified":  true,
+        "isIdentityVerified":  true,
+        "trustScore":  95,
+        "createdAt":  "2023-09-13T00:00:00Z",
+        "phoneNumber":  "+260977000000",
+        "gender":  "Other",
+        "nationality":  "Zambian"
+    }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "customerId": "cust4000-0001",
+    "customerNumber": "CUST-4-00001",
+    "customerName": "Federal Ministry of Health Nigeria",
+    "customerType": "Government",
+    "email": "info@federal-ministry-of-.ng",
+    "phone": "+234-9-2900100",
+    "country": "Nigeria",
+    "status": "Active",
+    "createdAt": "2025-01-01T00:00:00Z"
+  },
+  {
+    "customerId": "cust4000-0002",
+    "customerNumber": "CUST-4-00002",
+    "customerName": "Federal Ministry of Finance Nigeria",
+    "customerType": "Government",
+    "email": "info@federal-ministry-of-.ng",
+    "phone": "+234-9-2900100",
+    "country": "Nigeria",
+    "status": "Active",
+    "createdAt": "2025-01-01T00:00:00Z"
+  },
+  {
+    "customerId": "cust4000-0003",
+    "customerNumber": "CUST-4-00003",
+    "customerName": "Ministry of Labour Nigeria",
+    "customerType": "Government",
+    "email": "info@ministry-of-labour-n.ng",
+    "phone": "+234-9-2900100",
+    "country": "Nigeria",
+    "status": "Active",
+    "createdAt": "2025-01-01T00:00:00Z"
+  },
+  {
+    "customerId": "cust4000-0004",
+    "customerNumber": "CUST-4-00004",
+    "customerName": "Dangote Group",
+    "customerType": "Corporate",
+    "email": "info@dangote-group.ng",
+    "phone": "+234-9-2900100",
+    "country": "Nigeria",
+    "status": "Active",
+    "createdAt": "2025-01-01T00:00:00Z"
+  },
+  {
+    "customerId": "cust4000-0005",
+    "customerNumber": "CUST-4-00005",
+    "customerName": "Nigerian Breweries PLC",
+    "customerType": "Corporate",
+    "email": "info@nigerian-breweries-p.ng",
+    "phone": "+234-9-2900100",
+    "country": "Nigeria",
+    "status": "Active",
+    "createdAt": "2025-01-01T00:00:00Z"
+  }
+]

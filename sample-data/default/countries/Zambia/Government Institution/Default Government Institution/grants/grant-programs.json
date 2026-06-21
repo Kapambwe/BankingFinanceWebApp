@@ -1,0 +1,23 @@
+[
+  {
+    "ProgramId": "33333333-3333-3333-3333-333333333333",
+    "ProgramCode": "GRP-001",
+    "ProgramName": "Youth Enterprise Grant",
+    "FundingSource": "Treasury",
+    "ImplementingAgency": "Ministry of Youth",
+    "TotalBudget": 50000000,
+    "Disbursed": 22000000,
+    "Remaining": 28000000,
+    "TotalApplications": 76,
+    "ApprovedGrants": 24,
+    "ApplicationDeadline": "2026-10-31T00:00:00Z",
+    "EligibilityCriteria": "Youth-owned enterprises with registered tax status.",
+    "Sector": "Youth Employment",
+    "TargetProvince": "Lusaka",
+    "Currency": "ZMW",
+    "Status": "Open",
+    "StartDate": "2026-01-01T00:00:00Z",
+    "EndDate": "2026-12-31T00:00:00Z",
+    "CreatedAt": "2026-01-01T00:00:00Z"
+  }
+]

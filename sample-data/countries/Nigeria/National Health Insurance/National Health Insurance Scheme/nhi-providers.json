@@ -1,0 +1,106 @@
+[
+  {
+    "providerId": "P-001",
+    "providerName": "Lagos University Teaching Hospital",
+    "accreditationNumber": "NHIS-NG-ACC-0001",
+    "region": "Lagos",
+    "address": "Lagos University Teaching Hospital, Lagos",
+    "tier": "Tertiary",
+    "category": "Primary Health Care Centre",
+    "servicesOffered": [
+      "Inpatient",
+      "Outpatient",
+      "Emergency",
+      "Surgery",
+      "Maternity"
+    ],
+    "isAccredited": true,
+    "accreditationDate": "2023-01-01T00:00:00Z",
+    "accreditationExpiry": "2026-01-01T00:00:00Z"
+  },
+  {
+    "providerId": "P-002",
+    "providerName": "University College Hospital Ibadan",
+    "accreditationNumber": "NHIS-NG-ACC-0002",
+    "region": "Kano",
+    "address": "University College Hospital Ibadan, Kano",
+    "tier": "Tertiary",
+    "category": "Secondary Hospital",
+    "servicesOffered": [
+      "Inpatient",
+      "Outpatient",
+      "Emergency",
+      "Surgery",
+      "Maternity"
+    ],
+    "isAccredited": true,
+    "accreditationDate": "2023-02-01T00:00:00Z",
+    "accreditationExpiry": "2026-02-01T00:00:00Z"
+  },
+  {
+    "providerId": "P-003",
+    "providerName": "Aminu Kano Teaching Hospital",
+    "accreditationNumber": "NHIS-NG-ACC-0003",
+    "region": "Rivers",
+    "address": "Aminu Kano Teaching Hospital, Rivers",
+    "tier": "Secondary",
+    "category": "Tertiary Hospital",
+    "servicesOffered": [
+      "Inpatient",
+      "Outpatient",
+      "Maternity"
+    ],
+    "isAccredited": true,
+    "accreditationDate": "2023-03-01T00:00:00Z",
+    "accreditationExpiry": "2026-03-01T00:00:00Z"
+  },
+  {
+    "providerId": "P-004",
+    "providerName": "National Hospital Abuja",
+    "accreditationNumber": "NHIS-NG-ACC-0004",
+    "region": "Oyo",
+    "address": "National Hospital Abuja, Oyo",
+    "tier": "Secondary",
+    "category": "Pharmacy",
+    "servicesOffered": [
+      "Inpatient",
+      "Outpatient",
+      "Maternity"
+    ],
+    "isAccredited": true,
+    "accreditationDate": "2023-04-01T00:00:00Z",
+    "accreditationExpiry": "2026-04-01T00:00:00Z"
+  },
+  {
+    "providerId": "P-005",
+    "providerName": "University of Nigeria Teaching Hospital",
+    "accreditationNumber": "NHIS-NG-ACC-0005",
+    "region": "Kaduna",
+    "address": "University of Nigeria Teaching Hospital, Kaduna",
+    "tier": "Primary",
+    "category": "Primary Health Care Centre",
+    "servicesOffered": [
+      "Outpatient",
+      "Pharmaceutical"
+    ],
+    "isAccredited": true,
+    "accreditationDate": "2023-05-01T00:00:00Z",
+    "accreditationExpiry": "2026-05-01T00:00:00Z"
+  },
+  {
+    "providerId": "P-006",
+    "providerName": "Federal Medical Centre Owerri",
+    "accreditationNumber": "NHIS-NG-ACC-0006",
+    "region": "FCT Abuja",
+    "address": "Federal Medical Centre Owerri, FCT Abuja",
+    "tier": "Primary",
+    "category": "Secondary Hospital",
+    "servicesOffered": [
+      "Outpatient",
+      "Pharmaceutical"
+    ],
+    "isAccredited": true,
+    "accreditationDate": "2023-06-01T00:00:00Z",
+    "accreditationExpiry": "2026-06-01T00:00:00Z"
+  }
+]

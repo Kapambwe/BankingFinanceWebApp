@@ -1,0 +1,677 @@
+[
+  {
+    "journalEntryId": "JE-ORA-00001",
+    "entryDate": "2025-12-20T04:53:03Z",
+    "description": "Revenue \u2014 Orange DR Congo period reconciliation",
+    "reference": "REF-ORA-389283",
+    "status": "Posted",
+    "entryType": "Revenue",
+    "currency": "CDF",
+    "totalDebits": 3719856.7,
+    "totalCredits": 3719856.7,
+    "createdBy": "AccountingBot",
+    "postedBy": "Finance Officer 4",
+    "lines": [
+      {
+        "accountCode": "3143",
+        "accountName": "Revenue Account",
+        "debit": 3719856.7,
+        "credit": 0.0
+      },
+      {
+        "accountCode": "4595",
+        "accountName": "Settlement/Clearing Account",
+        "debit": 0.0,
+        "credit": 3719856.7
+      }
+    ]
+  },
+  {
+    "journalEntryId": "JE-ORA-00002",
+    "entryDate": "2025-11-17T01:40:29Z",
+    "description": "Accrual \u2014 Orange DR Congo period reconciliation",
+    "reference": "REF-ORA-482661",
+    "status": "Posted",
+    "entryType": "Accrual",
+    "currency": "CDF",
+    "totalDebits": 4701361.81,
+    "totalCredits": 4701361.81,
+    "createdBy": "AccountingBot",
+    "postedBy": "Finance Officer 5",
+    "lines": [
+      {
+        "accountCode": "2395",
+        "accountName": "Accrual Account",
+        "debit": 4701361.81,
+        "credit": 0.0
+      },
+      {
+        "accountCode": "3231",
+        "accountName": "Settlement/Clearing Account",
+        "debit": 0.0,
+        "credit": 4701361.81
+      }
+    ]
+  },
+  {
+    "journalEntryId": "JE-ORA-00003",
+    "entryDate": "2025-12-14T05:40:47Z",
+    "description": "Adjustment \u2014 Orange DR Congo period reconciliation",
+    "reference": "REF-ORA-940532",
+    "status": "Draft",
+    "entryType": "Adjustment",
+    "currency": "CDF",
+    "totalDebits": 2598472.09,
+    "totalCredits": 2598472.09,
+    "createdBy": "AccountingBot",
+    "postedBy": "Finance Officer 5",
+    "lines": [
+      {
+        "accountCode": "5183",
+        "accountName": "Adjustment Account",
+        "debit": 2598472.09,
+        "credit": 0.0
+      },
+      {
+        "accountCode": "2392",
+        "accountName": "Settlement/Clearing Account",
+        "debit": 0.0,
+        "credit": 2598472.09
+      }
+    ]
+  },
+  {
+    "journalEntryId": "JE-ORA-00004",
+    "entryDate": "2025-04-02T14:34:14Z",
+    "description": "Revenue \u2014 Orange DR Congo period reconciliation",
+    "reference": "REF-ORA-195713",
+    "status": "Posted",
+    "entryType": "Revenue",
+    "currency": "CDF",
+    "totalDebits": 1217174.64,
+    "totalCredits": 1217174.64,
+    "createdBy": "AccountingBot",
+    "postedBy": "Finance Officer 3",
+    "lines": [
+      {
+        "accountCode": "5690",
+        "accountName": "Revenue Account",
+        "debit": 1217174.64,
+        "credit": 0.0
+      },
+      {
+        "accountCode": "2638",
+        "accountName": "Settlement/Clearing Account",
+        "debit": 0.0,
+        "credit": 1217174.64
+      }
+    ]
+  },
+  {
+    "journalEntryId": "JE-ORA-00005",
+    "entryDate": "2025-02-28T04:14:33Z",
+    "description": "Revenue \u2014 Orange DR Congo period reconciliation",
+    "reference": "REF-ORA-561356",
+    "status": "Posted",
+    "entryType": "Revenue",
+    "currency": "CDF",
+    "totalDebits": 1868176.72,
+    "totalCredits": 1868176.72,
+    "createdBy": "AccountingBot",
+    "postedBy": "Finance Officer 3",
+    "lines": [
+      {
+        "accountCode": "3199",
+        "accountName": "Revenue Account",
+        "debit": 1868176.72,
+        "credit": 0.0
+      },
+      {
+        "accountCode": "4191",
+        "accountName": "Settlement/Clearing Account",
+        "debit": 0.0,
+        "credit": 1868176.72
+      }
+    ]
+  },
+  {
+    "journalEntryId": "JE-ORA-00006",
+    "entryDate": "2025-07-25T17:21:03Z",
+    "description": "Adjustment \u2014 Orange DR Congo period reconciliation",
+    "reference": "REF-ORA-819126",
+    "status": "Draft",
+    "entryType": "Adjustment",
+    "currency": "CDF",
+    "totalDebits": 2330989.13,
+    "totalCredits": 2330989.13,
+    "createdBy": "AccountingBot",
+    "postedBy": "Finance Officer 5",
+    "lines": [
+      {
+        "accountCode": "3204",
+        "accountName": "Adjustment Account",
+        "debit": 2330989.13,
+        "credit": 0.0
+      },
+      {
+        "accountCode": "4351",
+        "accountName": "Settlement/Clearing Account",
+        "debit": 0.0,
+        "credit": 2330989.13
+      }
+    ]
+  },
+  {
+    "journalEntryId": "JE-ORA-00007",
+    "entryDate": "2025-08-17T12:16:40Z",
+    "description": "Expense \u2014 Orange DR Congo period reconciliation",
+    "reference": "REF-ORA-721820",
+    "status": "Draft",
+    "entryType": "Expense",
+    "currency": "CDF",
+    "totalDebits": 2464109.11,
+    "totalCredits": 2464109.11,
+    "createdBy": "AccountingBot",
+    "postedBy": "Finance Officer 2",
+    "lines": [
+      {
+        "accountCode": "5458",
+        "accountName": "Expense Account",
+        "debit": 2464109.11,
+        "credit": 0.0
+      },
+      {
+        "accountCode": "1430",
+        "accountName": "Settlement/Clearing Account",
+        "debit": 0.0,
+        "credit": 2464109.11
+      }
+    ]
+  },
+  {
+    "journalEntryId": "JE-ORA-00008",
+    "entryDate": "2025-12-08T12:03:17Z",
+    "description": "Adjustment \u2014 Orange DR Congo period reconciliation",
+    "reference": "REF-ORA-975628",
+    "status": "Posted",
+    "entryType": "Adjustment",
+    "currency": "CDF",
+    "totalDebits": 3459709.38,
+    "totalCredits": 3459709.38,
+    "createdBy": "AccountingBot",
+    "postedBy": "Finance Officer 3",
+    "lines": [
+      {
+        "accountCode": "3931",
+        "accountName": "Adjustment Account",
+        "debit": 3459709.38,
+        "credit": 0.0
+      },
+      {
+        "accountCode": "3177",
+        "accountName": "Settlement/Clearing Account",
+        "debit": 0.0,
+        "credit": 3459709.38
+      }
+    ]
+  },
+  {
+    "journalEntryId": "JE-ORA-00009",
+    "entryDate": "2025-03-13T20:33:09Z",
+    "description": "Expense \u2014 Orange DR Congo period reconciliation",
+    "reference": "REF-ORA-497301",
+    "status": "Posted",
+    "entryType": "Expense",
+    "currency": "CDF",
+    "totalDebits": 4942121.64,
+    "totalCredits": 4942121.64,
+    "createdBy": "AccountingBot",
+    "postedBy": "Finance Officer 3",
+    "lines": [
+      {
+        "accountCode": "3765",
+        "accountName": "Expense Account",
+        "debit": 4942121.64,
+        "credit": 0.0
+      },
+      {
+        "accountCode": "5409",
+        "accountName": "Settlement/Clearing Account",
+        "debit": 0.0,
+        "credit": 4942121.64
+      }
+    ]
+  },
+  {
+    "journalEntryId": "JE-ORA-00010",
+    "entryDate": "2025-12-31T11:35:13Z",
+    "description": "Adjustment \u2014 Orange DR Congo period reconciliation",
+    "reference": "REF-ORA-452009",
+    "status": "Posted",
+    "entryType": "Adjustment",
+    "currency": "CDF",
+    "totalDebits": 4787796.51,
+    "totalCredits": 4787796.51,
+    "createdBy": "AccountingBot",
+    "postedBy": "Finance Officer 4",
+    "lines": [
+      {
+        "accountCode": "3145",
+        "accountName": "Adjustment Account",
+        "debit": 4787796.51,
+        "credit": 0.0
+      },
+      {
+        "accountCode": "2689",
+        "accountName": "Settlement/Clearing Account",
+        "debit": 0.0,
+        "credit": 4787796.51
+      }
+    ]
+  },
+  {
+    "journalEntryId": "JE-ORA-00011",
+    "entryDate": "2025-04-01T10:38:38Z",
+    "description": "Expense \u2014 Orange DR Congo period reconciliation",
+    "reference": "REF-ORA-174760",
+    "status": "Posted",
+    "entryType": "Expense",
+    "currency": "CDF",
+    "totalDebits": 4376365.03,
+    "totalCredits": 4376365.03,
+    "createdBy": "AccountingBot",
+    "postedBy": "Finance Officer 3",
+    "lines": [
+      {
+        "accountCode": "2303",
+        "accountName": "Expense Account",
+        "debit": 4376365.03,
+        "credit": 0.0
+      },
+      {
+        "accountCode": "2405",
+        "accountName": "Settlement/Clearing Account",
+        "debit": 0.0,
+        "credit": 4376365.03
+      }
+    ]
+  },
+  {
+    "journalEntryId": "JE-ORA-00012",
+    "entryDate": "2025-03-18T07:54:04Z",
+    "description": "Expense \u2014 Orange DR Congo period reconciliation",
+    "reference": "REF-ORA-121530",
+    "status": "Posted",
+    "entryType": "Expense",
+    "currency": "CDF",
+    "totalDebits": 1458850.73,
+    "totalCredits": 1458850.73,
+    "createdBy": "AccountingBot",
+    "postedBy": "Finance Officer 4",
+    "lines": [
+      {
+        "accountCode": "3559",
+        "accountName": "Expense Account",
+        "debit": 1458850.73,
+        "credit": 0.0
+      },
+      {
+        "accountCode": "5298",
+        "accountName": "Settlement/Clearing Account",
+        "debit": 0.0,
+        "credit": 1458850.73
+      }
+    ]
+  },
+  {
+    "journalEntryId": "JE-ORA-00013",
+    "entryDate": "2025-07-14T13:21:31Z",
+    "description": "Settlement \u2014 Orange DR Congo period reconciliation",
+    "reference": "REF-ORA-865345",
+    "status": "Draft",
+    "entryType": "Settlement",
+    "currency": "CDF",
+    "totalDebits": 4657680.96,
+    "totalCredits": 4657680.96,
+    "createdBy": "AccountingBot",
+    "postedBy": "Finance Officer 2",
+    "lines": [
+      {
+        "accountCode": "1405",
+        "accountName": "Settlement Account",
+        "debit": 4657680.96,
+        "credit": 0.0
+      },
+      {
+        "accountCode": "2312",
+        "accountName": "Settlement/Clearing Account",
+        "debit": 0.0,
+        "credit": 4657680.96
+      }
+    ]
+  },
+  {
+    "journalEntryId": "JE-ORA-00014",
+    "entryDate": "2025-01-26T18:34:40Z",
+    "description": "Accrual \u2014 Orange DR Congo period reconciliation",
+    "reference": "REF-ORA-175420",
+    "status": "Posted",
+    "entryType": "Accrual",
+    "currency": "CDF",
+    "totalDebits": 3072003.42,
+    "totalCredits": 3072003.42,
+    "createdBy": "AccountingBot",
+    "postedBy": "Finance Officer 5",
+    "lines": [
+      {
+        "accountCode": "2910",
+        "accountName": "Accrual Account",
+        "debit": 3072003.42,
+        "credit": 0.0
+      },
+      {
+        "accountCode": "1852",
+        "accountName": "Settlement/Clearing Account",
+        "debit": 0.0,
+        "credit": 3072003.42
+      }
+    ]
+  },
+  {
+    "journalEntryId": "JE-ORA-00015",
+    "entryDate": "2025-11-22T18:25:30Z",
+    "description": "Adjustment \u2014 Orange DR Congo period reconciliation",
+    "reference": "REF-ORA-901365",
+    "status": "Posted",
+    "entryType": "Adjustment",
+    "currency": "CDF",
+    "totalDebits": 582196.24,
+    "totalCredits": 582196.24,
+    "createdBy": "AccountingBot",
+    "postedBy": "Finance Officer 5",
+    "lines": [
+      {
+        "accountCode": "4473",
+        "accountName": "Adjustment Account",
+        "debit": 582196.24,
+        "credit": 0.0
+      },
+      {
+        "accountCode": "5026",
+        "accountName": "Settlement/Clearing Account",
+        "debit": 0.0,
+        "credit": 582196.24
+      }
+    ]
+  },
+  {
+    "journalEntryId": "JE-ORA-00016",
+    "entryDate": "2025-08-23T18:07:21Z",
+    "description": "Expense \u2014 Orange DR Congo period 16",
+    "reference": "REF-ORA-512251",
+    "status": "Posted",
+    "entryType": "Expense",
+    "currency": "CDF",
+    "totalDebits": 4044978.82,
+    "totalCredits": 4044978.82,
+    "createdBy": "AccountingBot",
+    "postedBy": "Finance Officer 3",
+    "lines": [
+      {
+        "accountCode": "5601",
+        "accountName": "Expense Account",
+        "debit": 4044978.82,
+        "credit": 0.0
+      },
+      {
+        "accountCode": "5638",
+        "accountName": "Settlement/Clearing Account",
+        "debit": 0.0,
+        "credit": 4044978.82
+      }
+    ]
+  },
+  {
+    "journalEntryId": "JE-ORA-00017",
+    "entryDate": "2025-04-10T09:52:54Z",
+    "description": "Settlement \u2014 Orange DR Congo period 17",
+    "reference": "REF-ORA-985253",
+    "status": "Draft",
+    "entryType": "Settlement",
+    "currency": "CDF",
+    "totalDebits": 4285299.01,
+    "totalCredits": 4285299.01,
+    "createdBy": "AccountingBot",
+    "postedBy": "Finance Officer 1",
+    "lines": [
+      {
+        "accountCode": "4044",
+        "accountName": "Settlement Account",
+        "debit": 4285299.01,
+        "credit": 0.0
+      },
+      {
+        "accountCode": "1562",
+        "accountName": "Settlement/Clearing Account",
+        "debit": 0.0,
+        "credit": 4285299.01
+      }
+    ]
+  },
+  {
+    "journalEntryId": "JE-ORA-00018",
+    "entryDate": "2025-08-15T13:28:08Z",
+    "description": "Accrual \u2014 Orange DR Congo period 18",
+    "reference": "REF-ORA-981360",
+    "status": "Draft",
+    "entryType": "Accrual",
+    "currency": "CDF",
+    "totalDebits": 7438488.24,
+    "totalCredits": 7438488.24,
+    "createdBy": "AccountingBot",
+    "postedBy": "Finance Officer 1",
+    "lines": [
+      {
+        "accountCode": "5948",
+        "accountName": "Accrual Account",
+        "debit": 7438488.24,
+        "credit": 0.0
+      },
+      {
+        "accountCode": "1580",
+        "accountName": "Settlement/Clearing Account",
+        "debit": 0.0,
+        "credit": 7438488.24
+      }
+    ]
+  },
+  {
+    "journalEntryId": "JE-ORA-00019",
+    "entryDate": "2025-04-29T02:18:57Z",
+    "description": "Adjustment \u2014 Orange DR Congo period 19",
+    "reference": "REF-ORA-942027",
+    "status": "Posted",
+    "entryType": "Adjustment",
+    "currency": "CDF",
+    "totalDebits": 2520121.78,
+    "totalCredits": 2520121.78,
+    "createdBy": "AccountingBot",
+    "postedBy": "Finance Officer 6",
+    "lines": [
+      {
+        "accountCode": "5270",
+        "accountName": "Adjustment Account",
+        "debit": 2520121.78,
+        "credit": 0.0
+      },
+      {
+        "accountCode": "4111",
+        "accountName": "Settlement/Clearing Account",
+        "debit": 0.0,
+        "credit": 2520121.78
+      }
+    ]
+  },
+  {
+    "journalEntryId": "JE-ORA-00020",
+    "entryDate": "2024-02-10T17:41:36Z",
+    "description": "Tax \u2014 Orange DR Congo period 20",
+    "reference": "REF-ORA-131288",
+    "status": "Draft",
+    "entryType": "Tax",
+    "currency": "CDF",
+    "totalDebits": 4722368.39,
+    "totalCredits": 4722368.39,
+    "createdBy": "AccountingBot",
+    "postedBy": "Finance Officer 2",
+    "lines": [
+      {
+        "accountCode": "3401",
+        "accountName": "Tax Account",
+        "debit": 4722368.39,
+        "credit": 0.0
+      },
+      {
+        "accountCode": "4493",
+        "accountName": "Settlement/Clearing Account",
+        "debit": 0.0,
+        "credit": 4722368.39
+      }
+    ]
+  },
+  {
+    "journalEntryId": "JE-ORA-00021",
+    "entryDate": "2024-04-24T20:56:38Z",
+    "description": "Commission \u2014 Orange DR Congo period 21",
+    "reference": "REF-ORA-609767",
+    "status": "Posted",
+    "entryType": "Commission",
+    "currency": "CDF",
+    "totalDebits": 7435039.18,
+    "totalCredits": 7435039.18,
+    "createdBy": "AccountingBot",
+    "postedBy": "Finance Officer 1",
+    "lines": [
+      {
+        "accountCode": "3921",
+        "accountName": "Commission Account",
+        "debit": 7435039.18,
+        "credit": 0.0
+      },
+      {
+        "accountCode": "5845",
+        "accountName": "Settlement/Clearing Account",
+        "debit": 0.0,
+        "credit": 7435039.18
+      }
+    ]
+  },
+  {
+    "journalEntryId": "JE-ORA-00022",
+    "entryDate": "2024-05-15T04:30:59Z",
+    "description": "Depreciation \u2014 Orange DR Congo period 22",
+    "reference": "REF-ORA-178291",
+    "status": "Posted",
+    "entryType": "Depreciation",
+    "currency": "CDF",
+    "totalDebits": 2977578.35,
+    "totalCredits": 2977578.35,
+    "createdBy": "AccountingBot",
+    "postedBy": "Finance Officer 4",
+    "lines": [
+      {
+        "accountCode": "2609",
+        "accountName": "Depreciation Account",
+        "debit": 2977578.35,
+        "credit": 0.0
+      },
+      {
+        "accountCode": "5957",
+        "accountName": "Settlement/Clearing Account",
+        "debit": 0.0,
+        "credit": 2977578.35
+      }
+    ]
+  },
+  {
+    "journalEntryId": "JE-ORA-00023",
+    "entryDate": "2025-07-21T12:14:53Z",
+    "description": "Provision \u2014 Orange DR Congo period 23",
+    "reference": "REF-ORA-248326",
+    "status": "Pending",
+    "entryType": "Provision",
+    "currency": "CDF",
+    "totalDebits": 4967169.18,
+    "totalCredits": 4967169.18,
+    "createdBy": "AccountingBot",
+    "postedBy": "Finance Officer 3",
+    "lines": [
+      {
+        "accountCode": "3086",
+        "accountName": "Provision Account",
+        "debit": 4967169.18,
+        "credit": 0.0
+      },
+      {
+        "accountCode": "1405",
+        "accountName": "Settlement/Clearing Account",
+        "debit": 0.0,
+        "credit": 4967169.18
+      }
+    ]
+  },
+  {
+    "journalEntryId": "JE-ORA-00024",
+    "entryDate": "2025-04-10T22:29:30Z",
+    "description": "Revaluation \u2014 Orange DR Congo period 24",
+    "reference": "REF-ORA-590783",
+    "status": "Posted",
+    "entryType": "Revaluation",
+    "currency": "CDF",
+    "totalDebits": 7508459.04,
+    "totalCredits": 7508459.04,
+    "createdBy": "AccountingBot",
+    "postedBy": "Finance Officer 6",
+    "lines": [
+      {
+        "accountCode": "3362",
+        "accountName": "Revaluation Account",
+        "debit": 7508459.04,
+        "credit": 0.0
+      },
+      {
+        "accountCode": "4249",
+        "accountName": "Settlement/Clearing Account",
+        "debit": 0.0,
+        "credit": 7508459.04
+      }
+    ]
+  },
+  {
+    "journalEntryId": "JE-ORA-00025",
+    "entryDate": "2024-10-12T17:34:57Z",
+    "description": "Intercompany \u2014 Orange DR Congo period 25",
+    "reference": "REF-ORA-345545",
+    "status": "Posted",
+    "entryType": "Intercompany",
+    "currency": "CDF",
+    "totalDebits": 3271525.45,
+    "totalCredits": 3271525.45,
+    "createdBy": "AccountingBot",
+    "postedBy": "Finance Officer 1",
+    "lines": [
+      {
+        "accountCode": "3562",
+        "accountName": "Intercompany Account",
+        "debit": 3271525.45,
+        "credit": 0.0
+      },
+      {
+        "accountCode": "5776",
+        "accountName": "Settlement/Clearing Account",
+        "debit": 0.0,
+        "credit": 3271525.45
+      }
+    ]
+  }
+]

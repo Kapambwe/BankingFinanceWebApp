@@ -1,0 +1,80 @@
+[
+  {
+    "MilestoneId": "c6a6ee9b-c986-4c5c-85ce-721d536144c9",
+    "CompanyId": "aaaaaaaa-aaaa-aaaa-aaaa-aaaaaaaaaaaa",
+    "CompanyName": "Mwamba Pay",
+    "MilestoneType": "Product",
+    "Title": "Launch v2",
+    "Description": "Released wallet-connected merchant collection flow.",
+    "TargetDate": "2026-12-31T00:00:00",
+    "AchievedDate": "2026-05-01T00:00:00",
+    "Status": "Achieved",
+    "Impact": "Improved adoption",
+    "CreatedAt": "2026-04-01T00:00:00"
+  },
+  {
+    "MilestoneId": "2b70e6e9-5c6f-463e-b52c-665121444c7f",
+    "CompanyId": "bbbbbbbb-bbbb-bbbb-bbbb-bbbbbbbbbbbb",
+    "CompanyName": "Chikondi AgriTech",
+    "MilestoneType": "Revenue",
+    "Title": "Crossed ZMW 1M ARR",
+    "Description": "Reached the first million in annual recurring revenue.",
+    "TargetDate": "2027-01-31T00:00:00",
+    "AchievedDate": "2026-05-10T00:00:00",
+    "Status": "Achieved",
+    "Impact": "Strengthened product-market fit",
+    "CreatedAt": "2026-03-26T00:00:00"
+  },
+  {
+    "MilestoneId": "e2e7f471-c0ac-47d6-9708-fbbdb57088d3",
+    "CompanyId": "cccccccc-cccc-cccc-cccc-cccccccccccc",
+    "CompanyName": "ZedHealth Cloud",
+    "MilestoneType": "Funding",
+    "Title": "Series A Closed",
+    "Description": "Closed a follow-on round from the Lusaka Ventures fund.",
+    "TargetDate": "2027-02-28T00:00:00",
+    "AchievedDate": "2026-05-19T00:00:00",
+    "Status": "Achieved",
+    "Impact": "Unlocked growth capital",
+    "CreatedAt": "2026-03-20T00:00:00"
+  },
+  {
+    "MilestoneId": "818465ad-d1ce-4094-8b47-24810d47085a",
+    "CompanyId": "dddddddd-dddd-dddd-dddd-dddddddddddd",
+    "CompanyName": "Lozi Logistics",
+    "MilestoneType": "Team",
+    "Title": "Added Key Hire",
+    "Description": "Hired the first finance and compliance lead.",
+    "TargetDate": "2027-03-31T00:00:00",
+    "AchievedDate": null,
+    "Status": "InProgress",
+    "Impact": "Improved governance",
+    "CreatedAt": "2026-03-14T00:00:00"
+  },
+  {
+    "MilestoneId": "126a45d0-e2fd-47e1-9083-2113131fd0ed",
+    "CompanyId": "eeeeeeee-eeee-eeee-eeee-eeeeeeeeeeee",
+    "CompanyName": "Bwana Energy",
+    "MilestoneType": "Market",
+    "Title": "Regional Expansion",
+    "Description": "Expanded into Copperbelt and Southern Province.",
+    "TargetDate": "2027-04-30T00:00:00",
+    "AchievedDate": null,
+    "Status": "Planned",
+    "Impact": "Expanded addressable market",
+    "CreatedAt": "2026-03-08T00:00:00"
+  },
+  {
+    "MilestoneId": "d45c39c8-10e0-4f89-9e3b-ce182a3970cf",
+    "CompanyId": "ffffffff-ffff-ffff-ffff-ffffffffffff",
+    "CompanyName": "Mosi Learning",
+    "MilestoneType": "Regulatory",
+    "Title": "Regulatory Approval",
+    "Description": "Completed all required filings for commercial rollout.",
+    "TargetDate": "2027-05-31T00:00:00",
+    "AchievedDate": null,
+    "Status": "Delayed",
+    "Impact": "Reduced regulatory risk",
+    "CreatedAt": "2026-03-02T00:00:00"
+  }
+]

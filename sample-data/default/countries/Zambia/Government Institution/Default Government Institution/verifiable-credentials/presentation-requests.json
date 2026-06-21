@@ -1,0 +1,14 @@
+[
+  {
+    "RequestId": "b4a8b977-0f0b-42c6-a7c5-1e2bd9000001",
+    "HolderName": "Kabwe SME Trading Limited",
+    "VerifierName": "Lusaka Growth Finance",
+    "VerifierDid": "did:zm:finance:lusalend",
+    "Purpose": "Loan affordability and working capital review",
+    "RequestedFamilies": [0],
+    "RequestedAttributes": ["averageBalance", "monthlyTurnover"],
+    "Channel": 2,
+    "ExpiresAtUtc": "2026-06-22T00:00:00Z",
+    "CreatedAtUtc": "2026-06-21T00:00:00Z"
+  }
+]

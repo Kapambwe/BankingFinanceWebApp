@@ -1,0 +1,227 @@
+[
+  {
+    "currencyCode": "GBP",
+    "currencyName": "British Pound",
+    "symbol": "\u00a3",
+    "exchangeRate": 1.0,
+    "baseCurrency": true,
+    "lastUpdated": "2026-02-25T00:00:00Z",
+    "isActive": true
+  },
+  {
+    "currencyCode": "USD",
+    "currencyName": "US Dollar",
+    "symbol": "$",
+    "exchangeRate": 1.2654,
+    "baseCurrency": false,
+    "lastUpdated": "2026-02-25T00:00:00Z",
+    "isActive": true
+  },
+  {
+    "currencyCode": "EUR",
+    "currencyName": "Euro",
+    "symbol": "\u20ac",
+    "exchangeRate": 1.1712,
+    "baseCurrency": false,
+    "lastUpdated": "2026-02-25T00:00:00Z",
+    "isActive": true
+  },
+  {
+    "currencyCode": "CHF",
+    "currencyName": "Swiss Franc",
+    "symbol": "CHF",
+    "exchangeRate": 1.1205,
+    "baseCurrency": false,
+    "lastUpdated": "2026-02-25T00:00:00Z",
+    "isActive": true
+  },
+  {
+    "currencyCode": "JPY",
+    "currencyName": "Japanese Yen",
+    "symbol": "\u00a5",
+    "exchangeRate": 190.45,
+    "baseCurrency": false,
+    "lastUpdated": "2026-02-25T00:00:00Z",
+    "isActive": true
+  },
+  {
+    "currencyCode": "CAD",
+    "currencyName": "Canadian Dollar",
+    "symbol": "C$",
+    "exchangeRate": 1.7231,
+    "baseCurrency": false,
+    "lastUpdated": "2026-02-25T00:00:00Z",
+    "isActive": true
+  },
+  {
+    "currencyCode": "AUD",
+    "currencyName": "Australian Dollar",
+    "symbol": "A$",
+    "exchangeRate": 1.9854,
+    "baseCurrency": false,
+    "lastUpdated": "2026-02-25T00:00:00Z",
+    "isActive": true
+  },
+  {
+    "currencyCode": "NOK",
+    "currencyName": "Norwegian Krone",
+    "symbol": "kr",
+    "exchangeRate": 13.42,
+    "baseCurrency": false,
+    "lastUpdated": "2026-02-25T00:00:00Z",
+    "isActive": true
+  },
+  {
+    "currencyCode": "SEK",
+    "currencyName": "Swedish Krona",
+    "symbol": "kr",
+    "exchangeRate": 13.18,
+    "baseCurrency": false,
+    "lastUpdated": "2026-02-25T00:00:00Z",
+    "isActive": true
+  },
+  {
+    "currencyCode": "DKK",
+    "currencyName": "Danish Krone",
+    "symbol": "kr",
+    "exchangeRate": 8.74,
+    "baseCurrency": false,
+    "lastUpdated": "2026-02-25T00:00:00Z",
+    "isActive": true
+  },
+  {
+    "currencyCode": "PLN",
+    "currencyName": "Polish Zloty",
+    "symbol": "z\u0142",
+    "exchangeRate": 5.08,
+    "baseCurrency": false,
+    "lastUpdated": "2026-02-25T00:00:00Z",
+    "isActive": true
+  },
+  {
+    "currencyCode": "CZK",
+    "currencyName": "Czech Koruna",
+    "symbol": "K\u010d",
+    "exchangeRate": 28.75,
+    "baseCurrency": false,
+    "lastUpdated": "2026-02-25T00:00:00Z",
+    "isActive": true
+  },
+  {
+    "currencyCode": "HUF",
+    "currencyName": "Hungarian Forint",
+    "symbol": "Ft",
+    "exchangeRate": 457.2,
+    "baseCurrency": false,
+    "lastUpdated": "2026-02-25T00:00:00Z",
+    "isActive": true
+  },
+  {
+    "currencyCode": "RON",
+    "currencyName": "Romanian Leu",
+    "symbol": "lei",
+    "exchangeRate": 5.84,
+    "baseCurrency": false,
+    "lastUpdated": "2026-02-25T00:00:00Z",
+    "isActive": true
+  },
+  {
+    "currencyCode": "AED",
+    "currencyName": "UAE Dirham",
+    "symbol": "AED",
+    "exchangeRate": 4.647,
+    "baseCurrency": false,
+    "lastUpdated": "2026-02-25T00:00:00Z",
+    "isActive": true
+  },
+  {
+    "currencyCode": "SAR",
+    "currencyName": "Saudi Riyal",
+    "symbol": "SR",
+    "exchangeRate": 4.748,
+    "baseCurrency": false,
+    "lastUpdated": "2026-02-25T00:00:00Z",
+    "isActive": true
+  },
+  {
+    "currencyCode": "INR",
+    "currencyName": "Indian Rupee",
+    "symbol": "\u20b9",
+    "exchangeRate": 105.34,
+    "baseCurrency": false,
+    "lastUpdated": "2026-02-25T00:00:00Z",
+    "isActive": true
+  },
+  {
+    "currencyCode": "CNY",
+    "currencyName": "Chinese Yuan",
+    "symbol": "\u00a5",
+    "exchangeRate": 9.18,
+    "baseCurrency": false,
+    "lastUpdated": "2026-02-25T00:00:00Z",
+    "isActive": true
+  },
+  {
+    "currencyCode": "HKD",
+    "currencyName": "Hong Kong Dollar",
+    "symbol": "HK$",
+    "exchangeRate": 9.87,
+    "baseCurrency": false,
+    "lastUpdated": "2026-02-25T00:00:00Z",
+    "isActive": true
+  },
+  {
+    "currencyCode": "SGD",
+    "currencyName": "Singapore Dollar",
+    "symbol": "S$",
+    "exchangeRate": 1.697,
+    "baseCurrency": false,
+    "lastUpdated": "2026-02-25T00:00:00Z",
+    "isActive": true
+  },
+  {
+    "currencyCode": "MXN",
+    "currencyName": "Mexican Peso",
+    "symbol": "$",
+    "exchangeRate": 25.47,
+    "baseCurrency": false,
+    "lastUpdated": "2026-02-25T00:00:00Z",
+    "isActive": true
+  },
+  {
+    "currencyCode": "BRL",
+    "currencyName": "Brazilian Real",
+    "symbol": "R$",
+    "exchangeRate": 6.48,
+    "baseCurrency": false,
+    "lastUpdated": "2026-02-25T00:00:00Z",
+    "isActive": true
+  },
+  {
+    "currencyCode": "NZD",
+    "currencyName": "New Zealand Dollar",
+    "symbol": "NZ$",
+    "exchangeRate": 2.154,
+    "baseCurrency": false,
+    "lastUpdated": "2026-02-25T00:00:00Z",
+    "isActive": true
+  },
+  {
+    "currencyCode": "ZAR",
+    "currencyName": "South African Rand",
+    "symbol": "R",
+    "exchangeRate": 23.45,
+    "baseCurrency": false,
+    "lastUpdated": "2026-02-25T00:00:00Z",
+    "isActive": true
+  },
+  {
+    "currencyCode": "TRY",
+    "currencyName": "Turkish Lira",
+    "symbol": "\u20ba",
+    "exchangeRate": 41.2,
+    "baseCurrency": false,
+    "lastUpdated": "2026-02-25T00:00:00Z",
+    "isActive": true
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "id": "form-transaction-dispute",
+    "code": "FORM-TRANSACTION-DISPUTE",
+    "name": "Transaction Dispute Request",
+    "purpose": "Captures wallet transaction disputes and reversal evidence.",
+    "owner": "Customer Support",
+    "status": "Active",
+    "lifecycle": "Production-ready",
+    "lastUpdated": "2026-06-19T17:30:00Z",
+    "usedFor": [ "Transaction dispute", "Payment reversal" ],
+    "sections": [
+      {
+        "title": "Dispute Details",
+        "description": "Capture the transaction and customer references.",
+        "fields": [
+          { "key": "customerName", "label": "Customer name", "type": "Text", "required": true },
+          { "key": "transactionReference", "label": "Transaction reference", "type": "Text", "required": true },
+          { "key": "disputeReason", "label": "Dispute reason", "type": "Multiline", "required": true }
+        ]
+      },
+      {
+        "title": "Supporting Evidence",
+        "description": "Capture messages and documents supporting the dispute.",
+        "fields": [
+          { "key": "transactionScreenshot", "label": "Transaction screenshot", "type": "File", "required": true },
+          { "key": "supportingNotes", "label": "Supporting notes", "type": "Multiline", "required": false }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "form-sim-swap-risk-review",
+    "code": "FORM-SIM-SWAP-RISK-REVIEW",
+    "name": "SIM Swap Risk Review",
+    "purpose": "Captures risk review details for suspected SIM swap related wallet issues.",
+    "owner": "Fraud Monitoring",
+    "status": "Active",
+    "lifecycle": "Production-ready",
+    "lastUpdated": "2026-06-19T17:40:00Z",
+    "usedFor": [ "SIM swap review", "Fraud investigation" ],
+    "sections": [
+      {
+        "title": "Customer Case",
+        "description": "Capture the customer and wallet details.",
+        "fields": [
+          { "key": "customerName", "label": "Customer name", "type": "Text", "required": true },
+          { "key": "walletNumber", "label": "Wallet number", "type": "Text", "required": true },
+          { "key": "incidentDate", "label": "Incident date", "type": "Date", "required": true }
+        ]
+      },
+      {
+        "title": "Risk Review",
+        "description": "Capture the review assessment and decision.",
+        "fields": [
+          { "key": "riskAssessment", "label": "Risk assessment", "type": "Multiline", "required": true },
+          { "key": "caseEvidence", "label": "Case evidence", "type": "File", "required": true },
+          { "key": "recommendedAction", "label": "Recommended action", "type": "Select", "required": true, "options": [
+            { "value": "freeze", "label": "Freeze wallet" },
+            { "value": "monitor", "label": "Monitor" },
+            { "value": "approve", "label": "Approve restoration" }
+          ] }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "FinancingId": "f4f4f4f4-f4f4-f4f4-f4f4-f4f4f4f4f402",
+    "SupplierName": "Sibusiso Phiri",
+    "BuyerName": "ZamGrocers Ltd",
+    "ValueChain": "Agriculture",
+    "Product": "Fresh Maize",
+    "InvoiceAmount": 420000,
+    "FinancedAmount": 350000,
+    "DiscountRate": 3.5,
+    "NetProceeds": 337750,
+    "Currency": "ZMW",
+    "InvoiceDate": "2026-06-10T00:00:00Z",
+    "MaturityDate": "2026-08-10T00:00:00Z",
+    "Status": "Active",
+    "CreatedAt": "2026-06-10T00:00:00Z"
+  }
+]

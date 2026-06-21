@@ -1,0 +1,7 @@
+[
+  { "id": "mf-admin-001", "username": "admin.microfinance", "fullName": "Esther Moyo", "role": "Administrator", "email": "esther.moyo@microfinance.zm", "isActive": true },
+  { "id": "mf-credit-001", "username": "credit.microfinance", "fullName": "Joseph Chisanga", "role": "Credit Officer", "email": "joseph.chisanga@microfinance.zm", "isActive": true },
+  { "id": "mf-loan-001", "username": "loan.microfinance", "fullName": "Grace Phiri", "role": "Loan Officer", "email": "grace.phiri@microfinance.zm", "isActive": true },
+  { "id": "mf-collections-001", "username": "collections.microfinance", "fullName": "Moses Banda", "role": "Collections Officer", "email": "moses.banda@microfinance.zm", "isActive": true },
+  { "id": "mf-supervisor-001", "username": "supervisor.microfinance", "fullName": "Ruth Chileshe", "role": "Branch Supervisor", "email": "ruth.chileshe@microfinance.zm", "isActive": true }
+]

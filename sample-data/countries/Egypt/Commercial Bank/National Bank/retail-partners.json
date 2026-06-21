@@ -1,0 +1,163 @@
+[
+  {
+    "partnerId": "RP-EGY-001",
+    "businessName": "Carrefour Egypt Egypt Ltd",
+    "brandName": "Carrefour Egypt",
+    "partnerType": "Supermarket",
+    "country": "Egypt",
+    "currency": "EGP",
+    "contactPerson": "Partner Manager 1",
+    "email": "banking@carrefouregy.eg",
+    "phoneNumber": "+246-938-118235",
+    "servicesOffered": [
+      "LoanPayment",
+      "CashWithdrawal",
+      "MoneyTransfer",
+      "AccountOpening",
+      "CashDeposit"
+    ],
+    "acceptedPaymentMethods": [
+      "AccountNumber",
+      "PhoneNumber",
+      "QRCode",
+      "Cash",
+      "CardTap"
+    ],
+    "totalStores": 9,
+    "activeStores": 9,
+    "storeLocations": [
+      "Giza",
+      "Sharm El Sheikh"
+    ],
+    "monthlyTransactionVolume": 4772340.98,
+    "monthlyTransactionCount": 22498,
+    "averageTransactionSize": 158.22,
+    "commissionRate": 1.13,
+    "monthlyRevenue": 34405.58,
+    "partnershipStartDate": "2023-02-11T18:10:28Z",
+    "status": "Active",
+    "brandColor": "#a47d45",
+    "isIntegrated": false,
+    "lastSyncDate": "2026-03-02T18:10:28Z"
+  },
+  {
+    "partnerId": "RP-EGY-002",
+    "businessName": "Hyper One Egypt Ltd",
+    "brandName": "Hyper One",
+    "partnerType": "ConvenienceStore",
+    "country": "Egypt",
+    "currency": "EGP",
+    "contactPerson": "Partner Manager 2",
+    "email": "banking@hyperone.eg",
+    "phoneNumber": "+709-131-356238",
+    "servicesOffered": [
+      "BillPayment",
+      "CashWithdrawal",
+      "CashDeposit",
+      "AccountOpening",
+      "AirtimePurchase",
+      "MoneyTransfer"
+    ],
+    "acceptedPaymentMethods": [
+      "Cash",
+      "PhoneNumber",
+      "CardTap",
+      "QRCode",
+      "AccountNumber",
+      "USSD"
+    ],
+    "totalStores": 252,
+    "activeStores": 244,
+    "storeLocations": [
+      "Sharm El Sheikh",
+      "Giza",
+      "Cairo",
+      "Alexandria"
+    ],
+    "monthlyTransactionVolume": 946450.49,
+    "monthlyTransactionCount": 45003,
+    "averageTransactionSize": 40.51,
+    "commissionRate": 1.81,
+    "monthlyRevenue": 7280.4,
+    "partnershipStartDate": "2023-11-01T18:10:28Z",
+    "status": "Active",
+    "brandColor": "#408596",
+    "isIntegrated": true,
+    "lastSyncDate": "2026-03-03T18:10:28Z"
+  },
+  {
+    "partnerId": "RP-EGY-003",
+    "businessName": "Seoudi Market Egypt Ltd",
+    "brandName": "Seoudi Market",
+    "partnerType": "Pharmacy",
+    "country": "Egypt",
+    "currency": "EGP",
+    "contactPerson": "Partner Manager 3",
+    "email": "banking@seoudimarket.eg",
+    "phoneNumber": "+897-253-648600",
+    "servicesOffered": [
+      "MoneyTransfer",
+      "LoanPayment",
+      "CashWithdrawal",
+      "BillPayment",
+      "AccountOpening"
+    ],
+    "acceptedPaymentMethods": [
+      "QRCode",
+      "CardTap"
+    ],
+    "totalStores": 152,
+    "activeStores": 143,
+    "storeLocations": [
+      "Giza",
+      "Cairo"
+    ],
+    "monthlyTransactionVolume": 926015.09,
+    "monthlyTransactionCount": 30244,
+    "averageTransactionSize": 290.93,
+    "commissionRate": 0.67,
+    "monthlyRevenue": 11950.82,
+    "partnershipStartDate": "2025-06-25T18:10:28Z",
+    "status": "Active",
+    "brandColor": "#705d02",
+    "isIntegrated": true,
+    "lastSyncDate": "2026-03-02T18:10:28Z"
+  },
+  {
+    "partnerId": "RP-EGY-004",
+    "businessName": "Metro Supermarket Egypt Ltd",
+    "brandName": "Metro Supermarket",
+    "partnerType": "SmallShop",
+    "country": "Egypt",
+    "currency": "EGP",
+    "contactPerson": "Partner Manager 4",
+    "email": "banking@metrosuperma.eg",
+    "phoneNumber": "+950-301-553038",
+    "servicesOffered": [
+      "BillPayment",
+      "CashWithdrawal",
+      "CashDeposit"
+    ],
+    "acceptedPaymentMethods": [
+      "Cash",
+      "USSD"
+    ],
+    "totalStores": 292,
+    "activeStores": 277,
+    "storeLocations": [
+      "Alexandria",
+      "Giza",
+      "Sharm El Sheikh"
+    ],
+    "monthlyTransactionVolume": 1282544.27,
+    "monthlyTransactionCount": 28193,
+    "averageTransactionSize": 48.11,
+    "commissionRate": 1.94,
+    "monthlyRevenue": 5358.04,
+    "partnershipStartDate": "2024-09-15T18:10:28Z",
+    "status": "Active",
+    "brandColor": "#926ec2",
+    "isIntegrated": true,
+    "lastSyncDate": null
+  }
+]

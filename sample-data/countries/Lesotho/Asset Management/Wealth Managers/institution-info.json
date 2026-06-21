@@ -1,0 +1,17 @@
+{
+  "registrationNumber": "REG-74489",
+  "contactEmail": "africanallianceLesotho@example.zm",
+  "createdAt": "2025-03-14T00:00:00Z",
+  "branches": 35,
+  "institutionType": "Asset Management",
+  "institutionName": "African Alliance Lesotho",
+  "country": "Lesotho",
+  "established": 1964,
+  "employees": 3956,
+  "contactPhone": "+260-667-633144",
+  "headquarters": "Hlotse",
+  "institutionId": "709ee661-f4f4-4c1f-92db-b5f1b030bc10",
+  "currency": "LSL",
+  "status": "Active",
+  "website": "https://www.africanallianceLesotho.co.zm"
+}

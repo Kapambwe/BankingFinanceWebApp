@@ -1,0 +1,218 @@
+[
+  {
+    "totalValue": 962786961640.0,
+    "currency": "MWK",
+    "returnRate": 580713804.0,
+    "portfolioName": "Conservative Portfolio",
+    "clientId": "cb88716e-8d4c-4956-aabe-84a22b80cb87",
+    "riskLevel": "High",
+    "portfolioId": "83a62bf4-26e7-4129-96f5-7fca2179ad19",
+    "clientName": "Mphatso Pemphero",
+    "assetAllocation": {
+      "other": 5,
+      "stocks": 62,
+      "cash": 15,
+      "bonds": 27
+    },
+    "lastRebalanced": "2025-11-26T14:39:25Z",
+    "createdDate": "2022-07-28T00:00:00Z"
+  },
+  {
+    "totalValue": 1570405110209.0,
+    "currency": "MWK",
+    "returnRate": 601415296.0,
+    "portfolioName": "Conservative Portfolio",
+    "clientId": "afd6bd36-441a-4b74-a3a6-bedd07a3b268",
+    "riskLevel": "Low",
+    "portfolioId": "949cae51-935d-44e1-a460-250f7c9d5e7c",
+    "clientName": "Chimwemwe Kondwani",
+    "assetAllocation": {
+      "other": 2,
+      "stocks": 30,
+      "cash": 7,
+      "bonds": 21
+    },
+    "lastRebalanced": "2025-12-15T14:39:25Z",
+    "createdDate": "2021-01-18T00:00:00Z"
+  },
+  {
+    "totalValue": 1247557366827.0,
+    "currency": "MWK",
+    "returnRate": 194027576.0,
+    "portfolioName": "Aggressive Portfolio",
+    "clientId": "c26420c0-9eb2-45e4-98fa-1b653184ae35",
+    "riskLevel": "Medium",
+    "portfolioId": "115d04a5-7865-4881-bccc-cd47e78761c2",
+    "clientName": "Chimwemwe Mphatso",
+    "assetAllocation": {
+      "other": 0,
+      "stocks": 55,
+      "cash": 7,
+      "bonds": 22
+    },
+    "lastRebalanced": "2026-01-02T14:39:25Z",
+    "createdDate": "2023-06-26T00:00:00Z"
+  },
+  {
+    "totalValue": 1555280180118.0,
+    "currency": "MWK",
+    "returnRate": 1160066115.0,
+    "portfolioName": "Growth Portfolio",
+    "clientId": "73a64740-60db-4f29-bab8-3ae46262130e",
+    "riskLevel": "Low",
+    "portfolioId": "928aeac8-0f68-482e-80cb-728264260376",
+    "clientName": "Chimwemwe Chisomo",
+    "assetAllocation": {
+      "other": 1,
+      "stocks": 58,
+      "cash": 17,
+      "bonds": 20
+    },
+    "lastRebalanced": "2026-01-29T14:39:25Z",
+    "createdDate": "2021-12-12T00:00:00Z"
+  },
+  {
+    "totalValue": 564679715613.0,
+    "currency": "MWK",
+    "returnRate": 1909138852.0,
+    "portfolioName": "Growth Portfolio",
+    "clientId": "f5afbb00-41c2-40cd-929c-f3d2f5cd8cca",
+    "riskLevel": "High",
+    "portfolioId": "f800d94e-a915-4006-b73b-eb795acc38f7",
+    "clientName": "Kondwani Pemphero",
+    "assetAllocation": {
+      "other": 4,
+      "stocks": 27,
+      "cash": 11,
+      "bonds": 38
+    },
+    "lastRebalanced": "2025-12-25T14:39:25Z",
+    "createdDate": "2022-10-18T00:00:00Z"
+  },
+  {
+    "totalValue": 504201422460.0,
+    "currency": "MWK",
+    "returnRate": 2067588139.0,
+    "portfolioName": "Aggressive Portfolio",
+    "clientId": "e1e4bdc0-cb44-403b-80b8-1f3defe01c57",
+    "riskLevel": "Low",
+    "portfolioId": "57e3f06c-c882-4b4e-b985-ad12c968ceee",
+    "clientName": "Thoko Dalitso",
+    "assetAllocation": {
+      "other": 3,
+      "stocks": 40,
+      "cash": 16,
+      "bonds": 25
+    },
+    "lastRebalanced": "2025-12-15T14:39:25Z",
+    "createdDate": "2020-06-28T00:00:00Z"
+  },
+  {
+    "totalValue": 1813522993335.0,
+    "currency": "MWK",
+    "returnRate": 1859815694.0,
+    "portfolioName": "Aggressive Portfolio",
+    "clientId": "542c28c3-36cd-49eb-b1c6-4dad032697b8",
+    "riskLevel": "Low",
+    "portfolioId": "8ca2c748-ae95-4d2e-ae5e-5fcd33f3adeb",
+    "clientName": "Chisomo Mphatso",
+    "assetAllocation": {
+      "other": 5,
+      "stocks": 47,
+      "cash": 6,
+      "bonds": 29
+    },
+    "lastRebalanced": "2026-01-27T14:39:25Z",
+    "createdDate": "2021-02-26T00:00:00Z"
+  },
+  {
+    "totalValue": 1600954896948.0,
+    "currency": "MWK",
+    "returnRate": 1210418222.0,
+    "portfolioName": "Balanced Portfolio",
+    "clientId": "9b8b9214-cce0-4313-b831-81da135e0931",
+    "riskLevel": "Low",
+    "portfolioId": "fb0fb49e-c6c9-4dbb-9778-9909b4ca32e4",
+    "clientName": "Kondwani Chisomo",
+    "assetAllocation": {
+      "other": 3,
+      "stocks": 48,
+      "cash": 5,
+      "bonds": 34
+    },
+    "lastRebalanced": "2025-11-18T14:39:25Z",
+    "createdDate": "2020-01-09T00:00:00Z"
+  },
+  {
+    "totalValue": 898835795478.0,
+    "currency": "MWK",
+    "returnRate": 306350333.0,
+    "portfolioName": "Income Portfolio",
+    "clientId": "2d0b339f-1ce3-4d53-9dee-079e82fffb38",
+    "riskLevel": "Medium",
+    "portfolioId": "c5b8a667-7ee6-49bc-a988-fe3ebca95506",
+    "clientName": "Musonda Mbewe",
+    "assetAllocation": {
+      "other": 8,
+      "stocks": 60,
+      "cash": 9,
+      "bonds": 22
+    },
+    "lastRebalanced": "2026-01-28T14:39:25Z",
+    "createdDate": "2021-12-04T00:00:00Z"
+  },
+  {
+    "totalValue": 1613146623360.0,
+    "currency": "MWK",
+    "returnRate": 123505936.0,
+    "portfolioName": "Aggressive Portfolio",
+    "clientId": "70946024-c008-4c7f-9fe2-d31db75359c4",
+    "riskLevel": "Low",
+    "portfolioId": "ec8e5888-d818-476f-9390-a6ef139c1463",
+    "clientName": "Kondwani Thoko",
+    "assetAllocation": {
+      "other": 3,
+      "stocks": 62,
+      "cash": 17,
+      "bonds": 18
+    },
+    "lastRebalanced": "2025-11-18T14:39:25Z",
+    "createdDate": "2020-12-19T00:00:00Z"
+  },
+  {
+    "totalValue": 904664779722.0,
+    "currency": "MWK",
+    "returnRate": 1592943996.0,
+    "portfolioName": "Balanced Portfolio",
+    "clientId": "dae7cabc-805d-4790-b068-26ef328b2f70",
+    "riskLevel": "High",
+    "portfolioId": "324e80f8-efa7-4dd4-8b80-29388b29ff9b",
+    "clientName": "Thoko Thoko",
+    "assetAllocation": {
+      "other": 12,
+      "stocks": 49,
+      "cash": 15,
+      "bonds": 20
+    },
+    "lastRebalanced": "2025-11-14T14:39:25Z",
+    "createdDate": "2020-05-04T00:00:00Z"
+  },
+  {
+    "totalValue": 2006694558448.0,
+    "currency": "MWK",
+    "returnRate": 1513901040.0,
+    "portfolioName": "Income Portfolio",
+    "clientId": "b410f89d-65eb-4d75-9a40-93241052f828",
+    "riskLevel": "High",
+    "portfolioId": "647113b3-1128-4978-91b3-004d375fc1a5",
+    "clientName": "Thoko Pemphero",
+    "assetAllocation": {
+      "other": 0,
+      "stocks": 38,
+      "cash": 9,
+      "bonds": 38
+    },
+    "lastRebalanced": "2025-12-31T14:39:25Z",
+    "createdDate": "2021-07-13T00:00:00Z"
+  }
+]

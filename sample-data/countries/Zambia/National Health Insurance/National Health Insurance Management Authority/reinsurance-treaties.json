@@ -1,0 +1,32 @@
+[
+  {
+    "treatyId": "rt100000-0001",
+    "treatyName": "NHIMA Stop-Loss Treaty 2025",
+    "treatyType": "Stop-Loss",
+    "reinsurer": "Munich Re",
+    "cessionPercentage": 0.4,
+    "retentionLimit": 8.0,
+    "maxCover": 33.0,
+    "annualPremium": 1.0,
+    "currency": "ZMW",
+    "effectiveDate": "2025-01-01",
+    "expiryDate": "2025-12-31",
+    "status": "Active",
+    "createdAt": "2025-01-01T00:00:00Z"
+  },
+  {
+    "treatyId": "rt100000-0002",
+    "treatyName": "NHIMA Quota Share Treaty 2025",
+    "treatyType": "Quota Share",
+    "reinsurer": "Swiss Re",
+    "cessionPercentage": 0.2,
+    "retentionLimit": null,
+    "maxCover": 16.0,
+    "annualPremium": 0.0,
+    "currency": "ZMW",
+    "effectiveDate": "2025-01-01",
+    "expiryDate": "2025-12-31",
+    "status": "Active",
+    "createdAt": "2025-01-01T00:00:00Z"
+  }
+]

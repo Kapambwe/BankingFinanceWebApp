@@ -1,0 +1,7 @@
+[
+  { "id": "vc-admin-001", "username": "admin.venturecapital", "fullName": "Beatrice Mwila", "role": "Administrator", "email": "beatrice.mwila@venturecapital.zm", "isActive": true },
+  { "id": "vc-manager-001", "username": "manager.venturecapital", "fullName": "Simon Chanda", "role": "Fund Manager", "email": "simon.chanda@venturecapital.zm", "isActive": true },
+  { "id": "vc-analyst-001", "username": "analyst.venturecapital", "fullName": "Monica Phiri", "role": "Investment Analyst", "email": "monica.phiri@venturecapital.zm", "isActive": true },
+  { "id": "vc-ops-001", "username": "ops.venturecapital", "fullName": "Isaac Mumba", "role": "Operations Officer", "email": "isaac.mumba@venturecapital.zm", "isActive": true },
+  { "id": "vc-legal-001", "username": "legal.venturecapital", "fullName": "Doris Tembo", "role": "Legal Counsel", "email": "doris.tembo@venturecapital.zm", "isActive": true }
+]

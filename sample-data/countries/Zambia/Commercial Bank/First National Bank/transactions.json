@@ -1,0 +1,222 @@
+[
+  {
+    "transactionType": "Payment",
+    "currency": "ZMW",
+    "status": "Completed",
+    "transactionId": "345a5f45-2e5a-4ee3-be0f-d60aeb141391",
+    "amount": 47639064983.0,
+    "description": "Bill Payment",
+    "balance": 133485968306.0,
+    "transactionDate": "2025-08-30T13:41:36Z",
+    "accountId": "d0282c8c-3a12-4d4b-8644-b1dac1666042"
+  },
+  {
+    "transactionType": "Deposit",
+    "currency": "ZMW",
+    "status": "Completed",
+    "transactionId": "52b9dc92-3935-4fe3-8d61-f933db6036ff",
+    "amount": 31697877700.0,
+    "description": "Service Charge",
+    "balance": 51286050277.0,
+    "transactionDate": "2025-08-14T13:41:36Z",
+    "accountId": "2be03384-966f-4084-aff6-935e3c415eae"
+  },
+  {
+    "transactionType": "Deposit",
+    "currency": "ZMW",
+    "status": "Completed",
+    "transactionId": "b79f4801-b944-4be8-9f50-256a67430327",
+    "amount": 97673520171.0,
+    "description": "Service Charge",
+    "balance": 136135666648.0,
+    "transactionDate": "2025-12-26T13:41:36Z",
+    "accountId": "35c5c101-2443-4e2e-a29c-bbb591ea9106"
+  },
+  {
+    "transactionType": "Payment",
+    "currency": "ZMW",
+    "status": "Completed",
+    "transactionId": "9414d6d0-e0a3-4196-b1eb-7b3c38ddafcd",
+    "amount": 105917467496.0,
+    "description": "Mobile Money",
+    "balance": 71444212545.0,
+    "transactionDate": "2025-10-29T13:41:36Z",
+    "accountId": "1c14120c-c46a-43c7-89dd-625d6d90cf5e"
+  },
+  {
+    "transactionType": "Withdrawal",
+    "currency": "ZMW",
+    "status": "Completed",
+    "transactionId": "0af9c298-cba5-4a42-9504-557f845dd1a4",
+    "amount": 167243296810.0,
+    "description": "Transfer to Account",
+    "balance": 137104734636.0,
+    "transactionDate": "2026-01-26T13:41:36Z",
+    "accountId": "d25010e4-978e-4518-befa-cf0215677b09"
+  },
+  {
+    "transactionType": "Deposit",
+    "currency": "ZMW",
+    "status": "Pending",
+    "transactionId": "84d28365-e1f1-4d78-b28b-9076a12c7088",
+    "amount": 207934560858.0,
+    "description": "ATM Withdrawal",
+    "balance": 2281137162.0,
+    "transactionDate": "2025-10-19T13:41:36Z",
+    "accountId": "323b29f6-2513-45c5-855b-222f700fe70e"
+  },
+  {
+    "transactionType": "Withdrawal",
+    "currency": "ZMW",
+    "status": "Pending",
+    "transactionId": "71ea2cee-e3fa-4859-9659-cc6e31f97a9d",
+    "amount": 107589845967.0,
+    "description": "Salary Deposit",
+    "balance": 90292284431.0,
+    "transactionDate": "2025-12-28T13:41:36Z",
+    "accountId": "12fbede9-acf1-46df-9ba7-ce755e9f5c59"
+  },
+  {
+    "transactionType": "Fee",
+    "currency": "ZMW",
+    "status": "Pending",
+    "transactionId": "df74fefb-b317-41ce-8834-11c526152724",
+    "amount": 172104078886.0,
+    "description": "Mobile Money",
+    "balance": 36507413400.0,
+    "transactionDate": "2025-11-23T13:41:36Z",
+    "accountId": "5628aec3-bb34-4f8f-9952-3e9c508b12a1"
+  },
+  {
+    "transactionType": "Transfer",
+    "currency": "ZMW",
+    "status": "Pending",
+    "transactionId": "f7514af1-6b13-45e0-b717-09cb0a745689",
+    "amount": 192798769371.0,
+    "description": "Service Charge",
+    "balance": 62450952496.0,
+    "transactionDate": "2025-10-03T13:41:36Z",
+    "accountId": "55cc85a1-a926-4593-b0e7-e889b55ad9e9"
+  },
+  {
+    "transactionType": "Fee",
+    "currency": "ZMW",
+    "status": "Failed",
+    "transactionId": "3dd6ac56-77cb-436d-a2be-5a98e7470684",
+    "amount": 197751932257.0,
+    "description": "Mobile Money",
+    "balance": 129344024727.0,
+    "transactionDate": "2025-12-29T13:41:36Z",
+    "accountId": "0bc003c3-3019-4e38-9897-f6a6a62d4244"
+  },
+  {
+    "transactionType": "Deposit",
+    "currency": "ZMW",
+    "status": "Completed",
+    "transactionId": "fa381364-e343-4d66-ab36-b08bcaba57e5",
+    "amount": 112852887330.0,
+    "description": "Salary Deposit",
+    "balance": 158957008646.0,
+    "transactionDate": "2025-09-30T13:41:36Z",
+    "accountId": "1894e21a-c496-42cf-9a8c-fe8424d8362c"
+  },
+  {
+    "transactionType": "Withdrawal",
+    "currency": "ZMW",
+    "status": "Completed",
+    "transactionId": "93eacbf9-edda-475e-a4f7-1b25c27a87ce",
+    "amount": 143629409546.0,
+    "description": "Transfer to Account",
+    "balance": 67355155986.0,
+    "transactionDate": "2025-09-18T13:41:36Z",
+    "accountId": "275dcbcd-23a6-4841-8516-985e0b73e87d"
+  },
+  {
+    "transactionType": "Withdrawal",
+    "currency": "ZMW",
+    "status": "Failed",
+    "transactionId": "08a9afaf-5b5b-4cfa-bae0-abd4a3747332",
+    "amount": 143846174932.0,
+    "description": "POS Purchase",
+    "balance": 48109647979.0,
+    "transactionDate": "2026-01-13T13:41:36Z",
+    "accountId": "c73e24da-bcb8-4a27-b396-97e01309691e"
+  },
+  {
+    "transactionType": "Withdrawal",
+    "currency": "ZMW",
+    "status": "Failed",
+    "transactionId": "199af73a-ed05-47df-afc4-839e4549b6fd",
+    "amount": 66320792632.0,
+    "description": "ATM Withdrawal",
+    "balance": 105543861004.0,
+    "transactionDate": "2025-12-01T13:41:36Z",
+    "accountId": "41773d54-1593-40a4-af37-127cc35f373c"
+  },
+  {
+    "transactionType": "Payment",
+    "currency": "ZMW",
+    "status": "Completed",
+    "transactionId": "513c4026-6608-4e9b-a4e7-044e4ae86bca",
+    "amount": 141500145904.0,
+    "description": "Service Charge",
+    "balance": 158024200686.0,
+    "transactionDate": "2025-11-27T13:41:36Z",
+    "accountId": "5df3c393-fd7a-454e-a4a3-be0891e6242c"
+  },
+  {
+    "transactionType": "Transfer",
+    "currency": "ZMW",
+    "status": "Completed",
+    "transactionId": "f58e2b17-66b2-4fbe-babc-9f4fb385e9db",
+    "amount": 143678321718.0,
+    "description": "Mobile Money",
+    "balance": 34053185451.0,
+    "transactionDate": "2025-09-02T13:41:36Z",
+    "accountId": "8be766c8-88d3-4617-b83b-ca98baed6001"
+  },
+  {
+    "transactionType": "Transfer",
+    "currency": "ZMW",
+    "status": "Failed",
+    "transactionId": "cdeff645-cb1c-4915-a21c-4076eb8fd572",
+    "amount": 133854056270.0,
+    "description": "Bill Payment",
+    "balance": 103720171544.0,
+    "transactionDate": "2025-10-14T13:41:36Z",
+    "accountId": "9ba14f1c-f469-455c-856c-d910a3852113"
+  },
+  {
+    "transactionType": "Withdrawal",
+    "currency": "ZMW",
+    "status": "Pending",
+    "transactionId": "40cb181d-1e20-4ca0-968e-8343be19b16c",
+    "amount": 211693462577.0,
+    "description": "POS Purchase",
+    "balance": 156489416485.0,
+    "transactionDate": "2026-02-02T13:41:36Z",
+    "accountId": "5c80ceb9-59ce-49e6-8c74-4861e8170adb"
+  },
+  {
+    "transactionType": "Withdrawal",
+    "currency": "ZMW",
+    "status": "Completed",
+    "transactionId": "4b2edcbd-53e2-4b10-8dc6-252d87d180fa",
+    "amount": 146887698201.0,
+    "description": "Service Charge",
+    "balance": 67864628550.0,
+    "transactionDate": "2025-08-16T13:41:36Z",
+    "accountId": "9a5ec9a0-81c7-4c1a-9012-3a9c4cb142a4"
+  },
+  {
+    "transactionType": "Transfer",
+    "currency": "ZMW",
+    "status": "Completed",
+    "transactionId": "d3bf8522-441a-45ab-9103-1d8807d338b3",
+    "amount": 19401290511.0,
+    "description": "Mobile Money",
+    "balance": 179820718767.0,
+    "transactionDate": "2025-12-04T13:41:36Z",
+    "accountId": "b87dd08c-7c6e-4530-be42-8af5a0caa98c"
+  }
+]

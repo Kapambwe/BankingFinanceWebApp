@@ -1,0 +1,44 @@
+[
+  {
+    "planId": "ma200000-0001-0000-0000-0000000002001",
+    "planName": "SIC Life Insurance Basic Plan",
+    "provider": "SIC Life Insurance",
+    "tierLevel": "Basic",
+    "coverageType": "Individual",
+    "description": "Basic cover",
+    "monthlyPremium": 107,
+    "employerContribution": 64,
+    "employeeContribution": 42,
+    "currency": "GHS",
+    "isActive": true,
+    "createdAt": "2025-01-01T00:00:00Z"
+  },
+  {
+    "planId": "ma200000-0002-0000-0000-0000000002002",
+    "planName": "Enterprise Life Ghana Standard Plan",
+    "provider": "Enterprise Life Ghana",
+    "tierLevel": "Standard",
+    "coverageType": "Individual + Spouse",
+    "description": "Standard cover",
+    "monthlyPremium": 172,
+    "employerContribution": 103,
+    "employeeContribution": 68,
+    "currency": "GHS",
+    "isActive": true,
+    "createdAt": "2025-01-01T00:00:00Z"
+  },
+  {
+    "planId": "ma200000-0003-0000-0000-0000000002003",
+    "planName": "Star Life Assurance Premium Plan",
+    "provider": "Star Life Assurance",
+    "tierLevel": "Premium",
+    "coverageType": "Family",
+    "description": "Comprehensive cover",
+    "monthlyPremium": 258,
+    "employerContribution": 154,
+    "employeeContribution": 103,
+    "currency": "GHS",
+    "isActive": true,
+    "createdAt": "2025-01-01T00:00:00Z"
+  }
+]

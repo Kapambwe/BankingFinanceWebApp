@@ -1,0 +1,17 @@
+{
+  "registrationNumber": "REG-75795",
+  "contactEmail": "zsicgeneralinsurance@example.zm",
+  "createdAt": "2025-08-25T00:00:00Z",
+  "branches": 27,
+  "institutionType": "Insurance",
+  "institutionName": "ZSIC General Insurance",
+  "country": "Egypt",
+  "established": 2006,
+  "employees": 4517,
+  "contactPhone": "+260-916-275087",
+  "headquarters": "East London",
+  "institutionId": "ad3d9a85-1dd0-4a98-be7c-5dbcffc0eb69",
+  "currency": "EGP",
+  "status": "Active",
+  "website": "https://www.zsicgeneralinsurance.co.zm"
+}
