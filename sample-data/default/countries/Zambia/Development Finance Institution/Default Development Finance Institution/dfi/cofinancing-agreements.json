@@ -1,0 +1,22 @@
+[
+  {
+    "AgreementId": "dddddddd-dddd-dddd-dddd-ddddddddddd5",
+    "InstitutionId": "dddddddd-dddd-dddd-dddd-ddddddddddd1",
+    "ProjectId": "dddddddd-dddd-dddd-dddd-ddddddddddd3",
+    "ProjectName": "Solar Mini-Grid Expansion",
+    "AgreementReference": "COF-2026-001",
+    "Role": 0,
+    "LeadInstitution": "African Development Bank",
+    "Participants": [],
+    "TotalDealSize": 25000000,
+    "ThisInstitutionCommitment": 5000000,
+    "ThisInstitutionDisbursed": 1500000,
+    "Currency": "ZMW",
+    "SignatureDate": "2026-04-15T00:00:00Z",
+    "FirstDisbursementDate": "2026-05-01T00:00:00Z",
+    "FinalMaturityDate": "2036-04-30T00:00:00Z",
+    "GoverningLaw": "Laws of Zambia",
+    "Status": "Active",
+    "CreatedAt": "2026-04-15T00:00:00Z"
+  }
+]

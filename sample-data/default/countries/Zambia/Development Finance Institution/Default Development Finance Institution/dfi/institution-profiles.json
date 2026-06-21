@@ -1,0 +1,26 @@
+[
+  {
+    "InstitutionId": "dddddddd-dddd-dddd-dddd-ddddddddddd1",
+    "LegalName": "Zambia National Development Bank",
+    "ShortName": "ZNDB",
+    "CountryIsoCode": "ZM",
+    "Jurisdiction": "Zambia",
+    "SupervisoryAuthority": "Bank of Zambia",
+    "LicenceType": "Development Bank Licence",
+    "LicenceNumber": "DFI-ZM-001",
+    "IncorporationDate": "2018-01-15T00:00:00Z",
+    "ReportingCurrency": "ZMW",
+    "FiscalYearEnd": "12-31",
+    "AuthorisedCapital": 1500000000,
+    "IssuedAndPaidUpCapital": 900000000,
+    "CalledButUnpaidCapital": 200000000,
+    "CallableCapital": 400000000,
+    "Mandate": "Provide medium- and long-term development finance.",
+    "Vision": "Catalyse inclusive economic growth.",
+    "Mission": "Finance priority sectors and crowd in private capital.",
+    "PrimaryDevelopmentPlanReference": "8th National Development Plan",
+    "PublicPrivatePartnershipModel": "Mixed ownership",
+    "CreatedAt": "2026-01-01T00:00:00Z",
+    "UpdatedAt": "2026-06-01T00:00:00Z"
+  }
+]

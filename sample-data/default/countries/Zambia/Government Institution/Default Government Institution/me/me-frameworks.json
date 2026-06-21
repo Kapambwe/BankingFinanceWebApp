@@ -1,0 +1,17 @@
+[
+  {
+    "FrameworkId": "cccccccc-cccc-cccc-cccc-ccccccccccc1",
+    "ProgramName": "Youth Employment Support",
+    "Ministry": "Ministry of Youth",
+    "Goal": "Increase youth employment and entrepreneurship.",
+    "Objective": "Track placements, grants, and enterprise growth.",
+    "TotalIndicators": 4,
+    "IndicatorsOnTrack": 3,
+    "IndicatorsDelayed": 1,
+    "IndicatorsOffTrack": 0,
+    "OverallProgress": 74.5,
+    "FiscalYear": "2026",
+    "Status": "Active",
+    "CreatedAt": "2026-01-20T00:00:00Z"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "BidId": "bbbbbbbb-bbbb-bbbb-bbbb-bbbbbbbbbbb1",
+    "NoticeId": "bbbbbbbb-bbbb-bbbb-bbbb-bbbbbbbbbbc1",
+    "NoticeTitle": "Supply of office equipment",
+    "BidderName": "ZamTech Supplies Ltd",
+    "BidderTPIN": "1002003004",
+    "BidAmount": 11850000,
+    "Currency": "ZMW",
+    "TechnicalScore": 86,
+    "FinancialScore": 91,
+    "OverallScore": 88.5,
+    "Ranking": 1,
+    "Status": "Submitted",
+    "SubmissionDate": "2026-07-10T00:00:00Z",
+    "CreatedAt": "2026-07-10T00:00:00Z"
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "CaseId": "99999999-9999-9999-9999-999999999993",
+    "CaseNumber": "GRV-2026-0001",
+    "ComplainantName": "Mildred Tembo",
+    "ComplainantType": "Beneficiary",
+    "GrievanceType": "IncorrectPayment",
+    "Description": "April payment arrived one week late.",
+    "District": "Chipata",
+    "ResolutionChannel": "Ward Committee",
+    "Resolution": "Escalated to payments team.",
+    "Status": "UnderInvestigation",
+    "FiledDate": "2026-04-10T00:00:00Z",
+    "ResolvedDate": null,
+    "CreatedAt": "2026-04-10T00:00:00Z"
+  }
+]

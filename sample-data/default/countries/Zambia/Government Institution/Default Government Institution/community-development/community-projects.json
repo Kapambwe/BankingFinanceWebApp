@@ -1,0 +1,25 @@
+[
+  {
+    "ProjectId": "88888888-8888-8888-8888-888888888882",
+    "ProjectCode": "CDP-001",
+    "AllocationId": "88888888-8888-8888-8888-888888888881",
+    "Constituency": "Lusaka Central",
+    "ProjectName": "Munyama Market Upgrade",
+    "Category": 7,
+    "Description": "Rehabilitation of drainage, trading bays, and sanitation blocks.",
+    "Ward": "Ward 12",
+    "ContractorName": "Kafue Build Ltd",
+    "BudgetAmount": 4200000,
+    "SpentAmount": 2100000,
+    "CompletionPercentage": 52.4,
+    "BeneficiaryCount": 1800,
+    "Latitude": -15.3875,
+    "Longitude": 28.3228,
+    "Currency": "ZMW",
+    "Status": 2,
+    "StartDate": "2026-02-01T00:00:00Z",
+    "ExpectedCompletionDate": "2026-09-30T00:00:00Z",
+    "ActualCompletionDate": null,
+    "CreatedAt": "2026-02-01T00:00:00Z"
+  }
+]

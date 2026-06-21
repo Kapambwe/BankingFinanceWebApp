@@ -1,0 +1,21 @@
+[
+  {
+    "ReportId": "aaaaaaaa-aaaa-aaaa-aaaa-aaaaaaaaaaa2",
+    "ReportType": "BudgetExecution",
+    "Period": "Q2",
+    "FiscalYear": "2026",
+    "TotalRevenue": 472000000,
+    "TotalExpenditure": 455000000,
+    "FiscalBalance": 17000000,
+    "FiscalBalanceGDPPercent": 0.7,
+    "DomesticDebt": 980000000,
+    "ExternalDebt": 1540000000,
+    "TotalDebt": 2520000000,
+    "DebtToGDPRatio": 72.4,
+    "Currency": "ZMW",
+    "PreparedBy": "Budget Office",
+    "Status": "Published",
+    "ReportDate": "2026-06-30T00:00:00Z",
+    "CreatedAt": "2026-06-30T00:00:00Z"
+  }
+]
