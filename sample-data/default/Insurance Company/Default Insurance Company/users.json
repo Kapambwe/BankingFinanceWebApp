@@ -1,7 +1,0 @@
-[
-  { "id": "inc-admin-001", "username": "admin.insurancecompany", "fullName": "Alice Chileshe", "role": "Administrator", "email": "alice.chileshe@insurancecompany.zm", "isActive": true },
-  { "id": "inc-underwriter-001", "username": "underwriter.insurancecompany", "fullName": "Joseph Banda", "role": "Underwriter", "email": "joseph.banda@insurancecompany.zm", "isActive": true },
-  { "id": "inc-claims-001", "username": "claims.insurancecompany", "fullName": "Martha Tembo", "role": "Claims Officer", "email": "martha.tembo@insurancecompany.zm", "isActive": true },
-  { "id": "inc-assessor-001", "username": "assessor.insurancecompany", "fullName": "Patrick Phiri", "role": "Loss Assessor", "email": "patrick.phiri@insurancecompany.zm", "isActive": true },
-  { "id": "inc-broker-001", "username": "broker.insurancecompany", "fullName": "Ruth Banda", "role": "Broker Relations Officer", "email": "ruth.banda@insurancecompany.zm", "isActive": true }
-]

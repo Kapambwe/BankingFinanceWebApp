@@ -1,7 +1,0 @@
-[
-  { "id": "tel-admin-001", "username": "admin.telecom", "fullName": "Linda Mwewa", "role": "Administrator", "email": "linda.mwewa@telecom.zm", "isActive": true },
-  { "id": "tel-ops-001", "username": "ops.telecom", "fullName": "Martin Phiri", "role": "Service Operations", "email": "martin.phiri@telecom.zm", "isActive": true },
-  { "id": "tel-product-001", "username": "product.telecom", "fullName": "Faith Banda", "role": "Product Manager", "email": "faith.banda@telecom.zm", "isActive": true },
-  { "id": "tel-billing-001", "username": "billing.telecom", "fullName": "Kelvin Tembo", "role": "Billing Officer", "email": "kelvin.tembo@telecom.zm", "isActive": true },
-  { "id": "tel-care-001", "username": "care.telecom", "fullName": "Martha Phiri", "role": "Customer Care Lead", "email": "martha.phiri@telecom.zm", "isActive": true }
-]

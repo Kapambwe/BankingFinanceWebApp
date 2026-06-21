@@ -1,7 +1,0 @@
-[
-  { "id": "am-admin-001", "username": "admin.assetmanagement", "fullName": "Nancy Phiri", "role": "Administrator", "email": "nancy.phiri@assetmanagement.zm", "isActive": true },
-  { "id": "am-portfolio-001", "username": "portfolio.assetmanagement", "fullName": "George Banda", "role": "Portfolio Analyst", "email": "george.banda@assetmanagement.zm", "isActive": true },
-  { "id": "am-research-001", "username": "research.assetmanagement", "fullName": "Rita Chanda", "role": "Research Analyst", "email": "rita.chanda@assetmanagement.zm", "isActive": true },
-  { "id": "am-risk-001", "username": "risk.assetmanagement", "fullName": "Peter Zulu", "role": "Risk Manager", "email": "peter.zulu@assetmanagement.zm", "isActive": true },
-  { "id": "am-compliance-001", "username": "compliance.assetmanagement", "fullName": "Martha Mwansa", "role": "Compliance Officer", "email": "martha.mwansa@assetmanagement.zm", "isActive": true }
-]

@@ -1,7 +1,0 @@
-[
-  { "id": "cb-admin-001", "username": "admin.commercialbank", "fullName": "Nomsa Dlamini", "role": "Administrator", "email": "nomsa.dlamini@commercialbank.zm", "isActive": true },
-  { "id": "cb-teller-001", "username": "teller.commercialbank", "fullName": "Thabo Mumba", "role": "Teller", "email": "thabo.mumba@commercialbank.zm", "isActive": true },
-  { "id": "cb-ops-001", "username": "ops.commercialbank", "fullName": "Michelo Tembo", "role": "Operations Officer", "email": "michelo.tembo@commercialbank.zm", "isActive": true },
-  { "id": "cb-risk-001", "username": "risk.commercialbank", "fullName": "Ruth Chisanga", "role": "Risk Analyst", "email": "ruth.chisanga@commercialbank.zm", "isActive": true },
-  { "id": "cb-compliance-001", "username": "compliance.commercialbank", "fullName": "Peter Banda", "role": "Compliance Officer", "email": "peter.banda@commercialbank.zm", "isActive": true }
-]

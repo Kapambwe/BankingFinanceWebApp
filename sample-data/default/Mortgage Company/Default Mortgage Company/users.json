@@ -1,7 +1,0 @@
-[
-  { "id": "mtg-admin-001", "username": "admin.mortgage", "fullName": "Anita Zimba", "role": "Administrator", "email": "anita.zimba@mortgage.zm", "isActive": true },
-  { "id": "mtg-processor-001", "username": "processor.mortgage", "fullName": "Daniel Kalaba", "role": "Mortgage Processor", "email": "daniel.kalaba@mortgage.zm", "isActive": true },
-  { "id": "mtg-credit-001", "username": "credit.mortgage", "fullName": "Brenda Mwale", "role": "Credit Analyst", "email": "brenda.mwale@mortgage.zm", "isActive": true },
-  { "id": "mtg-underwriter-001", "username": "underwriter.mortgage", "fullName": "Patrick Zulu", "role": "Underwriter", "email": "patrick.zulu@mortgage.zm", "isActive": true },
-  { "id": "mtg-collections-001", "username": "collections.mortgage", "fullName": "Moses Phiri", "role": "Collections Officer", "email": "moses.phiri@mortgage.zm", "isActive": true }
-]

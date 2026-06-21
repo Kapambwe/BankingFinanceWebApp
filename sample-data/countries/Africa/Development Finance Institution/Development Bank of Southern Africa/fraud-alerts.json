@@ -1,3 +1,0 @@
-[
-  {"alertId":"DBSA-FA-001","alertType":"Municipal Fund Mismanagement","severity":"High","status":"Under Investigation","dateDetected":"2025-12-05T00:00:00Z","description":"Irregular expenditure flagged in municipal water infrastructure project","accountId":"db01-a001-4579-a281-6d898272fbc5","customerId":"dbsa-c001-1234-5678-abcd-ef1234567890","amountInvolved":125000000.00,"currency":"ZAR"}
-]

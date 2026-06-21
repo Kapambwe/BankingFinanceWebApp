@@ -1,7 +1,0 @@
-[
-  { "id": "insco-admin-001", "username": "admin.insurancecompany", "fullName": "Mwamba Tembo", "role": "Administrator", "email": "mwamba.tembo@insurancecompany.zm", "isActive": true },
-  { "id": "insco-claims-001", "username": "claims.insurancecompany", "fullName": "Faith Kabwe", "role": "Claims Officer", "email": "faith.kabwe@insurancecompany.zm", "isActive": true },
-  { "id": "insco-underwriter-001", "username": "underwriter.insurancecompany", "fullName": "John Munkombwe", "role": "Underwriter", "email": "john.munkombwe@insurancecompany.zm", "isActive": true },
-  { "id": "insco-broker-001", "username": "broker.insurancecompany", "fullName": "Rachael Phiri", "role": "Broker Relations", "email": "rachael.phiri@insurancecompany.zm", "isActive": true },
-  { "id": "insco-ops-001", "username": "ops.insurancecompany", "fullName": "Paul Chansa", "role": "Operations Manager", "email": "paul.chansa@insurancecompany.zm", "isActive": true }
-]

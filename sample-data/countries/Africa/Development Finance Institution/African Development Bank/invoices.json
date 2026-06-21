@@ -1,7 +1,0 @@
-[
-  {"invoiceId":"AFDB-INV-001","customerId":"a1b2c3d4-e5f6-7890-abcd-ef1234567890","amount":250000000.00,"currency":"USD","status":"Paid","description":"Disbursement - Infrastructure Development Tranche 1","issuedDate":"2025-09-01T00:00:00Z","paidDate":"2025-09-15T00:00:00Z"},
-  {"invoiceId":"AFDB-INV-002","customerId":"b2c3d4e5-f6a7-8901-bcde-f12345678901","amount":180000000.00,"currency":"USD","status":"Paid","description":"Disbursement - Transport Corridor","issuedDate":"2025-10-10T00:00:00Z","paidDate":"2025-10-20T00:00:00Z"},
-  {"invoiceId":"AFDB-INV-003","customerId":"c3d4e5f6-a7b8-9012-cdef-123456789012","amount":200000000.00,"currency":"USD","status":"Paid","description":"Disbursement - Water and Sanitation","issuedDate":"2026-01-10T00:00:00Z","paidDate":"2026-01-18T00:00:00Z"},
-  {"invoiceId":"AFDB-INV-004","customerId":"d4e5f6a7-b8c9-0123-defa-234567890123","amount":300000000.00,"currency":"USD","status":"Paid","description":"Disbursement - Renewable Energy Phase 2","issuedDate":"2025-08-01T00:00:00Z","paidDate":"2025-08-12T00:00:00Z"},
-  {"invoiceId":"AFDB-INV-005","customerId":"f6a7b8c9-d0e1-2345-fabc-456789012345","amount":50000000.00,"currency":"USD","status":"Paid","description":"Private Sector Investment Facility","issuedDate":"2025-12-01T00:00:00Z","paidDate":"2025-12-10T00:00:00Z"}
-]

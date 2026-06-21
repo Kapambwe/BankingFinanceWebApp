@@ -1,7 +1,0 @@
-[
-  { "id": "pen-admin-001", "username": "admin.pension", "fullName": "Catherine Lungu", "role": "Administrator", "email": "catherine.lungu@pension.zm", "isActive": true },
-  { "id": "pen-ops-001", "username": "ops.pension", "fullName": "Stephen Mukuka", "role": "Benefits Officer", "email": "stephen.mukuka@pension.zm", "isActive": true },
-  { "id": "pen-actuarial-001", "username": "actuarial.pension", "fullName": "Angela Phiri", "role": "Actuarial Analyst", "email": "angela.phiri@pension.zm", "isActive": true },
-  { "id": "pen-compliance-001", "username": "compliance.pension", "fullName": "Jacob Tembo", "role": "Compliance Officer", "email": "jacob.tembo@pension.zm", "isActive": true },
-  { "id": "pen-member-001", "username": "member.pension", "fullName": "Sharon Chanda", "role": "Member Services", "email": "sharon.chanda@pension.zm", "isActive": true }
-]

@@ -1,7 +1,0 @@
-[
-  { "id": "dfi-admin-001", "username": "admin.dfi", "fullName": "Lerato Phiri", "role": "Administrator", "email": "lerato.phiri@dfi.zm", "isActive": true },
-  { "id": "dfi-analyst-001", "username": "analyst.dfi", "fullName": "Moses Banda", "role": "Analyst", "email": "moses.banda@dfi.zm", "isActive": true },
-  { "id": "dfi-program-001", "username": "program.dfi", "fullName": "Chanda Mulenga", "role": "Program Manager", "email": "chanda.mulenga@dfi.zm", "isActive": true },
-  { "id": "dfi-credit-001", "username": "credit.dfi", "fullName": "Agnes Zulu", "role": "Credit Officer", "email": "agnes.zulu@dfi.zm", "isActive": true },
-  { "id": "dfi-monitoring-001", "username": "monitoring.dfi", "fullName": "Brian Kapasa", "role": "Monitoring Officer", "email": "brian.kapasa@dfi.zm", "isActive": true }
-]
