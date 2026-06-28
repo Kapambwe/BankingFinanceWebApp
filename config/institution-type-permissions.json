@@ -11,7 +11,12 @@
     "samplePermissions": [
       "Banking.Access",
       "Banking.Dashboard.View",
-      "*"
+      "*",
+      "Banking.DynamicForms.View",
+      "Banking.DynamicForms.ViewFamilies",
+      "Banking.DigitalTokens.View",
+      "Banking.DigitalTokens.Issue",
+      "Banking.DigitalTokens.Manage"
     ],
     "allowedPermissionPatterns": [
       "*"
@@ -49,12 +54,15 @@
       "Banking.CRM.View",
       "Banking.HR.View",
       "Banking.DigitalTokens.View",
+      "Banking.DigitalTokens.Issue",
+      "Banking.DigitalTokens.Manage",
       "Banking.DynamicForms.ViewFamilies"
     ],
     "allowedPermissionPatterns": [
       "Banking.Access",
       "Banking.Dashboard.View",
       "Banking.Profile.View",
+      "Banking.BankingInstitutions.*",
       "Banking.CommercialBank.*",
       "Banking.Accrual.*",
       "Banking.Analytics.*",
@@ -92,6 +100,7 @@
       "Banking.HR.*",
       "Banking.Audit.*",
       "Banking.Monetization.*",
+      "Banking.BankingInstitutions.*",
       "Banking.DigitalTokens.*",
       "Banking.AgriculturalLending.*",
       "Banking.Remittances.*",
@@ -133,12 +142,15 @@
       "Banking.CRM.View",
       "Banking.HR.View",
       "Banking.DigitalTokens.View",
+      "Banking.DigitalTokens.Issue",
+      "Banking.DigitalTokens.Manage",
       "Banking.DynamicForms.ViewFamilies"
     ],
     "allowedPermissionPatterns": [
       "Banking.Access",
       "Banking.Dashboard.View",
       "Banking.Profile.View",
+      "Banking.BankingInstitutions.*",
       "Banking.Insurance.*",
       "Banking.HealthInsurance.*",
       "Banking.Investment.View",
@@ -152,6 +164,7 @@
       "Banking.HR.*",
       "Banking.Audit.*",
       "Banking.Monetization.*",
+      "Banking.BankingInstitutions.*",
       "Banking.CRM.*",
       "Banking.KYC.*",
       "Banking.Verification.*",
@@ -186,12 +199,15 @@
       "Banking.CRM.View",
       "Banking.HR.View",
       "Banking.DigitalTokens.View",
+      "Banking.DigitalTokens.Issue",
+      "Banking.DigitalTokens.Manage",
       "Banking.DynamicForms.ViewFamilies"
     ],
     "allowedPermissionPatterns": [
       "Banking.Access",
       "Banking.Dashboard.View",
       "Banking.Profile.View",
+      "Banking.BankingInstitutions.*",
       "Banking.PensionFund.*",
       "Banking.Pension.*",
       "Banking.Investment.*",
@@ -239,12 +255,15 @@
       "Banking.CRM.View",
       "Banking.HR.View",
       "Banking.DigitalTokens.View",
+      "Banking.DigitalTokens.Issue",
+      "Banking.DigitalTokens.Manage",
       "Banking.DynamicForms.ViewFamilies"
     ],
     "allowedPermissionPatterns": [
       "Banking.Access",
       "Banking.Dashboard.View",
       "Banking.Profile.View",
+      "Banking.BankingInstitutions.*",
       "Banking.Investment.*",
       "Banking.Analytics.*",
       "Banking.Accrual.*",
@@ -256,6 +275,7 @@
       "Banking.HR.*",
       "Banking.Audit.*",
       "Banking.Monetization.*",
+      "Banking.BankingInstitutions.*",
       "Banking.CRM.*",
       "Banking.KYC.*",
       "Banking.DecisionEngine.*",
@@ -342,12 +362,15 @@
       "Banking.CRM.View",
       "Banking.HR.View",
       "Banking.DigitalTokens.View",
+      "Banking.DigitalTokens.Issue",
+      "Banking.DigitalTokens.Manage",
       "Banking.DynamicForms.ViewFamilies"
     ],
     "allowedPermissionPatterns": [
       "Banking.Access",
       "Banking.Dashboard.View",
       "Banking.Profile.View",
+      "Banking.BankingInstitutions.*",
       "Banking.Microfinance.*",
       "Banking.Loans.*",
       "Banking.Accounts.*",
@@ -400,6 +423,8 @@
       "Banking.CRM.View",
       "Banking.HR.View",
       "Banking.DigitalTokens.View",
+      "Banking.DigitalTokens.Issue",
+      "Banking.DigitalTokens.Manage",
       "Banking.DynamicForms.ViewFamilies"
     ],
     "allowedPermissionPatterns": [
@@ -500,6 +525,107 @@
     ]
   },
   {
+    "institutionType": "Citizen Empowerment Agency",
+    "displayName": "Citizen Empowerment Agency",
+    "description": "Zambia empowerment-agency access model backed by the GovernmentDevelopment component.",
+    "pages": [
+      "Empowerment Fund",
+      "Business Development Services",
+      "Compliance & Certification",
+      "Value Chain Financing",
+      "Impact Reporting",
+      "SME Dashboard",
+      "Beneficiary Registry",
+      "Accounting",
+      "CRM",
+      "HR",
+      "Documents"
+    ],
+    "samplePermissions": [
+      "Banking.CEEC.View",
+      "Banking.CEEC.Dashboard",
+      "Banking.CEEC.Loans.View",
+      "Banking.CEEC.Loans.ProcessApplications",
+      "Banking.CEEC.Loans.ManageLoans",
+      "Banking.EmpowermentAgency.EmpowermentFund.View",
+      "Banking.EmpowermentAgency.BDS.View",
+      "Banking.EmpowermentAgency.Compliance.View",
+      "Banking.EmpowermentAgency.ValueChain.View",
+      "Banking.EmpowermentAgency.Impact.View",
+      "Banking.BeneficiaryRegistry.View",
+      "Banking.Accounting.View",
+      "Banking.CRM.View",
+      "Banking.HR.View"
+    ],
+    "allowedPermissionPatterns": [
+      "Banking.Access",
+      "Banking.Dashboard.View",
+      "Banking.Profile.View",
+      "Banking.CEEC.*",
+      "Banking.EmpowermentAgency.*",
+      "Banking.Government.*",
+      "Banking.BeneficiaryRegistry.*",
+      "Banking.SME.*",
+      "Banking.SocialImpact.*",
+      "Banking.Accounting.*",
+      "Banking.CRM.*",
+      "Banking.HR.*",
+      "Banking.Documents.*",
+      "Banking.Workflows.*",
+      "Banking.Risk.*",
+      "Banking.Regulatory.*"
+    ]
+  },
+  {
+    "institutionType": "Development Finance Institution",
+    "displayName": "Development Finance Institution",
+    "description": "DFI governance and capital oversight backed by the GovernmentDevelopment component.",
+    "pages": [
+      "DFI Dashboard",
+      "Institution Profile",
+      "Shareholders",
+      "Board & Committees",
+      "Project Pipeline",
+      "Co-financing",
+      "Funding Sources",
+      "Capital Adequacy",
+      "Governance Overview",
+      "Accounting",
+      "CRM",
+      "Documents"
+    ],
+    "samplePermissions": [
+      "Banking.Government.View",
+      "Banking.Government.Budgets.View",
+      "Banking.Government.SovereignLending.View",
+      "Banking.Government.Grants.View",
+      "Banking.Government.CommunityDevelopment.View",
+      "Banking.Government.SocialProtection.View",
+      "Banking.Government.PFM.View",
+      "Banking.Government.Procurement.View",
+      "Banking.Government.ME.View",
+      "Banking.Accounting.View",
+      "Banking.CRM.View",
+      "Banking.Documents.View",
+      "Banking.Workflows.View",
+      "Banking.Regulatory.ViewReports",
+      "Banking.Risk.ViewDashboard"
+    ],
+    "allowedPermissionPatterns": [
+      "Banking.Access",
+      "Banking.Dashboard.View",
+      "Banking.Profile.View",
+      "Banking.Government.*",
+      "Banking.BeneficiaryRegistry.*",
+      "Banking.Accounting.*",
+      "Banking.CRM.*",
+      "Banking.Documents.*",
+      "Banking.Workflows.*",
+      "Banking.Risk.*",
+      "Banking.Regulatory.*"
+    ]
+  },
+  {
     "institutionType": "Venture Capital",
     "displayName": "Venture Capital / Private Equity",
     "description": "Manages deals, investment committee, portfolio companies and fund capital.",
@@ -529,6 +655,8 @@
       "Banking.Accounting.ViewReconciliation",
       "Banking.HR.View",
       "Banking.DigitalTokens.View",
+      "Banking.DigitalTokens.Issue",
+      "Banking.DigitalTokens.Manage",
       "Banking.DynamicForms.ViewFamilies"
     ],
     "allowedPermissionPatterns": [
@@ -579,6 +707,8 @@
       "Banking.CRM.View",
       "Banking.HR.View",
       "Banking.DigitalTokens.View",
+      "Banking.DigitalTokens.Issue",
+      "Banking.DigitalTokens.Manage",
       "Banking.DynamicForms.ViewFamilies"
     ],
     "allowedPermissionPatterns": [
@@ -634,6 +764,8 @@
       "Banking.CRM.View",
       "Banking.HR.View",
       "Banking.DigitalTokens.View",
+      "Banking.DigitalTokens.Issue",
+      "Banking.DigitalTokens.Manage",
       "Banking.DynamicForms.ViewFamilies"
     ],
     "allowedPermissionPatterns": [
