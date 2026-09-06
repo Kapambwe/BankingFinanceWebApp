@@ -1,0 +1,4 @@
+[
+  { "loanId": "LN-101", "customerName": "John Doe", "loanType": "Personal", "loanAmount": 50000, "outstandingBalance": 35000, "interestRate": 5.5, "status": "Active", "outstandingPenalty": 100, "outstandingLateFees": 50, "outstandingInterest": 500 },
+  { "loanId": "LN-102", "customerName": "Jane Smith", "loanType": "HomeLoan", "loanAmount": 250000, "outstandingBalance": 220000, "interestRate": 4.8, "status": "Active", "outstandingPenalty": 0, "outstandingLateFees": 0, "outstandingInterest": 250 }
+]

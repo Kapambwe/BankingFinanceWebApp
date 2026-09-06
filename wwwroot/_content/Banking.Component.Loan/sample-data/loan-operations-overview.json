@@ -1,0 +1,12 @@
+{
+  "dailyDisbursement": 125000,
+  "disbursedLoans": 8,
+  "pendingVerifications": 15,
+  "customerQueries": 24,
+  "efficiencyData": [
+    { "category": "Personal", "value": 2.5 },
+    { "category": "Home", "value": 12.0 },
+    { "category": "Auto", "value": 3.2 },
+    { "category": "Business", "value": 7.5 }
+  ]
+}

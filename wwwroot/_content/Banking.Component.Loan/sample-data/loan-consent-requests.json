@@ -1,0 +1,5 @@
+[
+  { "requestId": "REQ-101", "customerEmail": "john.doe@example.com", "sentDate": "2026-08-28T08:00:00Z", "channel": "Email", "status": "Opened" },
+  { "requestId": "REQ-102", "customerEmail": "jane.smith@example.com", "sentDate": "2026-08-27T08:00:00Z", "channel": "SMS", "status": "Sent" },
+  { "requestId": "REQ-103", "customerEmail": "bob.jones@example.com", "sentDate": "2026-08-25T08:00:00Z", "channel": "Email", "status": "Completed" }
+]

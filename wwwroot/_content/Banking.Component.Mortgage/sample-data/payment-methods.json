@@ -1,0 +1,7 @@
+[
+  "Cash",
+  "Check",
+  "BankTransfer",
+  "CardPayment",
+  "AutoDebit"
+]

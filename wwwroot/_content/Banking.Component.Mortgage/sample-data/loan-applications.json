@@ -1,0 +1,8 @@
+[
+  { "applicationId": "APP001", "customerName": "John Doe", "loanType": "Personal", "requestedAmount": 50000, "status": "Submitted", "applicationDate": "2026-08-26T00:00:00Z" },
+  { "applicationId": "APP002", "customerName": "Jane Smith", "loanType": "HomeLoan", "requestedAmount": 250000, "status": "Approved", "applicationDate": "2026-08-23T00:00:00Z" },
+  { "applicationId": "APP003", "customerName": "Bob Johnson", "loanType": "AutoLoan", "requestedAmount": 35000, "status": "UnderReview", "applicationDate": "2026-08-27T00:00:00Z" },
+  { "applicationId": "APP004", "customerName": "Alice Williams", "loanType": "Business", "requestedAmount": 150000, "status": "Submitted", "applicationDate": "2026-08-21T00:00:00Z" },
+  { "applicationId": "APP005", "customerName": "Charlie Brown", "loanType": "Education", "requestedAmount": 25000, "status": "Disbursed", "applicationDate": "2026-08-13T00:00:00Z" },
+  { "applicationId": "APP006", "customerName": "Diana Prince", "loanType": "AutoLoan", "requestedAmount": 45000, "status": "Rejected", "applicationDate": "2026-08-18T00:00:00Z" }
+]

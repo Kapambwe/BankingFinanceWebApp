@@ -1,0 +1,48 @@
+/* _content/Banking.Component.DynamicForms/Components/DynamicFormsShell.razor.rz.scp.css */
+.df-shell[b-xg5xa894un] {
+    display: grid;
+    gap: 1.25rem;
+}
+
+.df-hero[b-xg5xa894un] {
+    padding: 2rem;
+    border-radius: 1.25rem;
+    color: #fff;
+    background: linear-gradient(135deg, #5b3a00 0%, #8a5a00 48%, #1b4d3e 100%);
+    box-shadow: 0 18px 48px rgba(0, 0, 0, 0.15);
+}
+
+.df-eyebrow[b-xg5xa894un] {
+    text-transform: uppercase;
+    letter-spacing: 0.12em;
+    font-size: 0.75rem;
+    opacity: 0.85;
+    margin-bottom: 0.5rem;
+}
+
+.df-nav[b-xg5xa894un] {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.75rem;
+    margin-top: 1.25rem;
+}
+
+.df-nav__link[b-xg5xa894un] {
+    padding: 0.7rem 1rem;
+    border-radius: 999px;
+    border: 1px solid rgba(255, 255, 255, 0.22);
+    color: rgba(255, 255, 255, 0.95);
+    text-decoration: none;
+    background: rgba(255, 255, 255, 0.08);
+}
+
+.df-nav__link.active[b-xg5xa894un] {
+    color: #5b3a00;
+    background: #fff;
+    border-color: #fff;
+}
+
+.df-shell__content[b-xg5xa894un] {
+    display: grid;
+    gap: 1rem;
+}

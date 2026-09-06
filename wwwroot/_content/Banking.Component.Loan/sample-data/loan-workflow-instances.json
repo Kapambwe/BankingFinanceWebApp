@@ -1,0 +1,5 @@
+[
+  { "id": "WF-501", "processName": "Personal Loan Approval", "currentStep": "Risk Assessment", "startedBy": "system", "duration": "2h 15m", "status": "Active" },
+  { "id": "WF-502", "processName": "Mortgage Verification", "currentStep": "Document Review", "startedBy": "agent_01", "duration": "1d 4h", "status": "Active" },
+  { "id": "WF-503", "processName": "SME Credit Line", "currentStep": "Manager Approval", "startedBy": "system", "duration": "45m", "status": "Active" }
+]

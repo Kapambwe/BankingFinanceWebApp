@@ -1,0 +1,5 @@
+[
+  { "consentId": "CNS-001", "customerName": "Chanda Daka", "consentType": "Credit Bureau Check", "requestDate": "2026-07-28T00:00:00Z", "expiryDate": "2027-07-28T00:00:00Z", "status": "Granted" },
+  { "consentId": "CNS-002", "customerName": "Kabwe Mulenga", "consentType": "Income Verification", "requestDate": "2026-08-23T00:00:00Z", "status": "Pending" },
+  { "consentId": "CNS-003", "customerName": "Sakala Lungu", "consentType": "Marketing Data", "requestDate": "2026-02-28T00:00:00Z", "expiryDate": "2026-07-28T00:00:00Z", "status": "Expired" }
+]

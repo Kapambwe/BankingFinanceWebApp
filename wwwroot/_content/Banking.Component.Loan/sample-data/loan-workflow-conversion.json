@@ -1,0 +1,6 @@
+[
+  { "category": "Personal", "value": 65 },
+  { "category": "Home", "value": 42 },
+  { "category": "Auto", "value": 58 },
+  { "category": "SME", "value": 35 }
+]

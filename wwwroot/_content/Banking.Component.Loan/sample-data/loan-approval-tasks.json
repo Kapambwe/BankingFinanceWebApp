@@ -1,0 +1,5 @@
+[
+  { "loanId": "LN-881", "customer": "Mwila Chanda", "amount": 15000, "taskType": "Final Approval", "priority": "High" },
+  { "loanId": "LN-882", "customer": "John Phiri", "amount": 5000, "taskType": "Verification", "priority": "Normal" },
+  { "loanId": "LN-883", "customer": "Mary Zimba", "amount": 25000, "taskType": "Collateral Check", "priority": "High" }
+]
